@@ -7,7 +7,7 @@ AvgDialog_19196_Content_7,ahzt,avg章6_AvgDialog_C_M.csv,14,AvgDialog,Content,,"
 AvgDialog_19196_Content_8,ahzu,avg章6_AvgDialog_C_M.csv,15,AvgDialog,Content,玩家,唔…拉蒙…娜……,Urgh... Ramo... na...
 AvgDialog_19196_Content_9,ahzv,avg章6_AvgDialog_C_M.csv,16,AvgDialog,Content,墨菲,你这是……,This is... 
 AvgDialog_19196_Content_10,ahyN,avg章6_AvgDialog_C_M.csv,17,AvgDialog,Content,墨菲,"……哼。
-<Small:还行，这家伙至少还记得拉蒙娜……>","...Hmph.\n<Small:Not bad, at least this guy still remembers Ramona...>"
+<Small:还行，这家伙至少还记得拉蒙娜……>","...Hmph.\n<Small:Not bad, at least {Male=this guy,Female=she} still remembers Ramona...>"
 AvgDialog_19196_Content_11,ahyO,avg章6_AvgDialog_C_M.csv,18,AvgDialog,Content,,活人的靠近带来了属于生命的热量，在黑暗中，一阵剧痛以额头为原点向四肢蔓延。,"The presence of the living brought the warmth of life. In the darkness, a sharp pain radiated from your forehead to your limbs."
 AvgDialog_19196_Content_12,ahyP,avg章6_AvgDialog_C_M.csv,19,AvgDialog,Content,,有人屈指在你的前额敲了一下。,Someone flicks you on the forehead.
 AvgDialog_19196_Content_13,ahyQ,avg章6_AvgDialog_C_M.csv,20,AvgDialog,Content,玩家,好痛！,Ouch!
@@ -160,7 +160,7 @@ AvgDialog_34974_Content_56,ajGY,avg章6_AvgDialog_C_M.csv,163,AvgDialog,Content,
 AvgDialog_34974_Content_57,ajGZ,avg章6_AvgDialog_C_M.csv,164,AvgDialog,Content,,一切都看得不再明晰，只有敌人的低吼格外刺耳。,Everything becomes unclear; only the roar of the enemy stands out.
 AvgDialog_34974_Content_58,ajHa,avg章6_AvgDialog_C_M.csv,165,AvgDialog,Content,,拉蒙娜抽出武器，示意身后二人噤声。自己则贴近了门边，抽出武器严阵以待，灵知的涌动带起了微不可闻的钟表转动声。,"Ramona drew her weapon, gesturing for the two behind her to stay silent. She moved close to the door, weapon ready, as a barely audible ticking sound accompanied the surge of her Gnosis."
 AvgDialog_34974_Content_59,ajHb,avg章6_AvgDialog_C_M.csv,166,AvgDialog,Content,,对时间的感知在这一刻被拉进了寂静之地，神经紧绷到叫她难以辨别时间的流逝——五秒，二十秒，一分钟？还是时间从未重启过？,"Her perception of time was drawn into a silent void. Her nerves were so tense that she couldn't discern the passage of time—five seconds, twenty seconds, a minute? Or had time never restarted?"
-AvgDialog_34974_Content_60,ajHd,avg章6_AvgDialog_C_M.csv,167,AvgDialog,Content,熟悉的声音,你快跑到我前面来，让我殿后，别让那些家伙碰到你。,Run ahead of me; I'll cover the rear. Don't let those guys touch you.
+AvgDialog_34974_Content_60,ajHd,avg章6_AvgDialog_C_M.csv,167,AvgDialog,Content,熟悉的声音,你快跑到我前面来，让我殿后，别让那些家伙碰到你。,Run ahead of me; I'll cover the rear. Don't let them touch you.
 AvgDialog_34974_Content_61,ajHe,avg章6_AvgDialog_C_M.csv,168,AvgDialog,Content,不耐烦的少女,还用得着你提醒吗！而且这儿连灯都黑着，哪像有人的样子，拉蒙娜根本就不在这边吧！亏我这么相信你的直觉……,"Do I really need your reminders? Plus, it's pitch dark here—doesn't seem like anyone's around. Ramona isn't here, is she? And I actually trusted your instincts..."
 AvgDialog_34974_Content_62,ajHf,avg章6_AvgDialog_C_M.csv,169,AvgDialog,Content,熟悉的声音,不……她一定就在这附近。,No... She must be nearby.
 AvgDialog_34974_Content_63,ajHg,avg章6_AvgDialog_C_M.csv,170,AvgDialog,Content,,金属落地的声音突兀响起，没等你反应过来，面前的舱门猛地从里被拉开，一双手把你和墨菲一左一右拉进了门内。,"The sudden clatter of metal reaches your ears. Before you can react, the hatch in front of you is abruptly pulled open from the inside, and a pair of hands pulls you and Murphy inside."
@@ -499,7 +499,7 @@ AvgDialog_34978_Content_106,ajIl,avg章6_AvgDialog_C_M.csv,465,AvgDialog,Content
 AvgDialog_34978_Content_107,ajIm,avg章6_AvgDialog_C_M.csv,466,AvgDialog,Content,,「神母」被融蚀侵扰后，弥利亚姆为神明胚胎选择了新的「母体」，然后让「母体」陷入了长达二十余年的深眠。,"After the ""Divine Mother"" was affected by Dissolution, Miryam chose a new ""host"" for the God's embryo and placed that ""host"" into a deep sleep—lasting over twenty years."
 AvgDialog_34978_Content_108,ajIn,avg章6_AvgDialog_C_M.csv,467,AvgDialog,Content,,随着星辰正位渐进，主祭将她从沉睡中唤醒。这次所运的物资，便是为「神降仪式」而做的准备。,"As the stars begin to align, the High Priestess awoke her from her slumber. The inventory transported this time were preparations for the ""Ritual of Descent""."
 AvgDialog_34978_Content_109,ajIo,avg章6_AvgDialog_C_M.csv,468,AvgDialog,Content,,在风暴中被我抱着喂水的那个婴儿，将被永远剥夺长大成人的资格。,"That baby, who I held carefully and fed water to during a storm—will forever be deprived of the chance to grow up."
-AvgDialog_34978_Content_110,ajIq,avg章6_AvgDialog_C_M.csv,469,AvgDialog,Content,墨菲,我知道你们，你们不是蹈海者，只是运货的合作者……只要你能把我从这里送走，送得越远越好——这些财宝就都是你的。,"I know you guys. You're not Seafarers, just cargo handlers... as long as you can get me out of here, the farther the better — all of these treasures are yours."
+AvgDialog_34978_Content_110,ajIq,avg章6_AvgDialog_C_M.csv,469,AvgDialog,Content,墨菲,我知道你们，你们不是蹈海者，只是运货的合作者……只要你能把我从这里送走，送得越远越好——这些财宝就都是你的。,"I know you two. You're not Seafarers, just cargo handlers... as long as you can get me out of here, the farther the better — all of these treasures are yours."
 AvgDialog_34978_Content_111,ajIr,avg章6_AvgDialog_C_M.csv,470,AvgDialog,Content,,变戏法似的，她从包里掏出好几尊塑像——那些看一眼就让人感到头晕的拙劣木雕，深受蹈海者崇拜，但在外人眼中一文不值。,"She pulled out several statues—clumsy wood carvings that made one dizzy at a glance, adored by Seafarers but worthless to others."
 AvgDialog_34978_Content_112,ajIs,avg章6_AvgDialog_C_M.csv,471,AvgDialog,Content,希莱斯特,墨菲……要和我们走。,Murphy... is coming with us.
 AvgDialog_34978_Content_113,ajIt,avg章6_AvgDialog_C_M.csv,472,AvgDialog,Content,希莱斯特,她…融蚀……,She... Dissolution...
@@ -816,3 +816,123 @@ AvgDialog_34968_Content_114,ajBp,avg章6_AvgDialog_C_M.csv,760,AvgDialog,Content
 AvgDialog_34968_Content_115,ajBq,avg章6_AvgDialog_C_M.csv,761,AvgDialog,Content,,没有人知道是怎样灰暗的执念与力量掌控着她，她妍丽的脸上满是尘污，眼睛空洞灰暗，没有一丝光彩，却闪烁着诡异的光芒。,"No one knew what dark obsession and power controlled her. Her once-beautiful face was covered in dirt and grime, her eyes hollow and dull, devoid of light—yet they shone with an eerie glow."
 AvgDialog_34968_Content_116,ajBr,avg章6_AvgDialog_C_M.csv,762,AvgDialog,Content,,如同从绝望深渊中升起的恐惧与危险。,As if fear and danger itself had risen from the abyss of despair.
 AvgDialog_34966_Content_1,ajAG,avg章6_AvgDialog_C_M.csv,763,AvgDialog,Content,,已废弃，待删除,"Deprecated, pending deletion"
+AvgDialog_35533_Content_1,ajPL,avg章6_AvgDialog_C_M.csv,764,AvgDialog,Content,,旧友新朋,"Old Friends, New Companions"
+AvgDialog_35533_Content_2,ajPW,avg章6_AvgDialog_C_M.csv,765,AvgDialog,Content,,意识脱离了肉体，徘徊飘荡在虚无的梦境中。,"Your consciousness, separated from your body, drifted aimlessly through an illusory dreamscape."
+AvgDialog_35533_Content_3,ajQh,avg章6_AvgDialog_C_M.csv,766,AvgDialog,Content,玩家,我在……哪里？,Where... am I?
+AvgDialog_35533_Content_4,ajQs,avg章6_AvgDialog_C_M.csv,767,AvgDialog,Content,,四周一片漆黑，而你所行之处留下的星点银光，也很快被前仆后继的黑暗所吞噬。,"Surrounded by darkness, the scattered silver light left in your wake is quickly devoured by the encroaching blackness."
+AvgDialog_35533_Content_5,ajQD,avg章6_AvgDialog_C_M.csv,768,AvgDialog,Content,,你能感觉到有东西正从你的精神世界溜走，你猛地向黑暗中伸出手，却发现那是一段你的记忆。,"You can feel something slipping away from your spiritual world. You reach into the darkness, only to discover that it is a fragment of your memory."
+AvgDialog_35533_Content_6,ajQO,avg章6_AvgDialog_C_M.csv,769,AvgDialog,Content,,记忆中的你刚被拉蒙娜带回弥萨格大学，朵尔站在学校广场迎接你们，表达了对拉蒙娜的关心和对你的怀疑。,"In the memory, Ramona brought you back to Mythag University. Doll greeted you at the school plaza, showing concern towards Ramona and harboring doubts towards you."
+AvgDialog_35533_Content_7,ajQZ,avg章6_AvgDialog_C_M.csv,770,AvgDialog,Content,,然后……,Then...
+AvgDialog_35533_Content_8,ajRk,avg章6_AvgDialog_C_M.csv,771,AvgDialog,Content,,然后你的记忆飞速后退，如流水般消逝不见。,"Then the memory quickly recedes, fading away like flowing water."
+AvgDialog_35533_Content_9,ajRv,avg章6_AvgDialog_C_M.csv,772,AvgDialog,Content,,悠远诡异的笛声响起，如一把钩子般扎进了你的精神世界，五感瞬间被封闭。,"A distant, eerie flute sound rises, piercing into your spirit world like a hook and instantly sealing all of your senses."
+AvgDialog_35533_Content_10,ajPM,avg章6_AvgDialog_C_M.csv,773,AvgDialog,Content,玩家,我还是我吗？,Am I still myself?
+AvgDialog_35533_Content_11,ajPN,avg章6_AvgDialog_C_M.csv,774,AvgDialog,Content,玩家,我……是谁？,Who... am I?
+AvgDialog_35533_Content_12,ajPO,avg章6_AvgDialog_C_M.csv,775,AvgDialog,Content,,……,...
+AvgDialog_35533_Content_13,ajPP,avg章6_AvgDialog_C_M.csv,776,AvgDialog,Content,,…………,...
+AvgDialog_35533_Content_14,ajPQ,avg章6_AvgDialog_C_M.csv,777,AvgDialog,Content,,不知身处何处，也不知道时间流逝了多久。,"You know not where you are, nor has much time has passed."
+AvgDialog_35533_Content_15,ajPR,avg章6_AvgDialog_C_M.csv,778,AvgDialog,Content,,除了那渐强的笛声外，你什么都感受不到。,"You cannot feel anything, aside from the gradually intensifying sound of that flute."
+AvgDialog_35533_Content_16,ajPS,avg章6_AvgDialog_C_M.csv,779,AvgDialog,Content,玩家,别吹了……别吹了！现在不是听音乐的时候，我还有事情没有完成！,Stop it... Stop it! This is no time for music; I still have things I must do!
+AvgDialog_35533_Content_17,ajPT,avg章6_AvgDialog_C_M.csv,780,AvgDialog,Content,,笛音越来越强，却在强过了生理承受的临界点时骤然停止，只剩难辨来源的白噪音在虚空中回响。,"The sound of the flute grew ever stronger, until it reached the very limits of human tolerance—then, all at once, it abruptly fell silent, leaving only indistinguishable white noise to echo through the void."
+AvgDialog_35533_Content_18,ajPU,avg章6_AvgDialog_C_M.csv,781,AvgDialog,Content,@4的声音,<Change>永世……,<Change>Eternal...
+AvgDialog_35533_Content_19,ajPV,avg章6_AvgDialog_C_M.csv,782,AvgDialog,Content,,一声余音自宇宙深处传来，似一声混乱的梦呓，也像翻身间掀乱了群星的躁动。,"A lingering sound echoed from the depths of the universe; akin to chaotic sleep-talking, or the restlessness of stars disturbed by the turn of a sleeper's body."
+AvgDialog_35533_Content_20,ajPX,avg章6_AvgDialog_C_M.csv,783,AvgDialog,Content,,银色的光芒原地绽放，紧绷的神经随之丝丝断裂。,"A silver glow blooms in place, and your taut nerves begin to unravel."
+AvgDialog_35533_Content_21,ajPY,avg章6_AvgDialog_C_M.csv,784,AvgDialog,Content,,意识空间亮如白昼，在你能做出任何反应前，你感受到一阵猛然的下坠——,"The space within your consciousness is as bright as daylight. Before you can react, you feel a sudden plunge—"
+AvgDialog_35533_Content_22,ajPZ,avg章6_AvgDialog_C_M.csv,785,AvgDialog,Content,图鲁,%heorshe%要醒了。,"{Male=He,Female=She} is about to awaken."
+AvgDialog_35533_Content_23,ajQa,avg章6_AvgDialog_C_M.csv,786,AvgDialog,Content,拉蒙娜,守密人，守密人！你听得见我的声音吗？,"Keeper, Keeper! Can you hear my voice?"
+AvgDialog_35533_Content_24,ajQb,avg章6_AvgDialog_C_M.csv,787,AvgDialog,Content,玩家,……我这是怎么了？,...What happened to me?
+AvgDialog_35533_Content_25,ajQc,avg章6_AvgDialog_C_M.csv,788,AvgDialog,Content,,你在拉蒙娜的搀扶下坐了起来，环视四周，发现自己身处货舱中，被融蚀赘生物和你的同伴包围着。,"With Ramona's help, you sit up and look around, finding yourself in a cargo hold, surrounded by D-Hyperplasia and your companions."
+AvgDialog_35533_Content_26,ajQd,avg章6_AvgDialog_C_M.csv,789,AvgDialog,Content,拉蒙娜,你感觉如何了？,How are you feeling?
+AvgDialog_35533_Content_27,ajQe,avg章6_AvgDialog_C_M.csv,790,AvgDialog,Content,,你低头看着自己的双手，试图哼出那段反复在精神世界回荡的笛音，却发现无论如何都只能吐出一阵阵呼气。,"You look down at your hands, trying to hum the melody that echoed repeatedly in your spirit world. However, you find that no matter how hard you try, all you can exhale are bursts of empty air."
+AvgDialog_35533_Content_28,ajQf,avg章6_AvgDialog_C_M.csv,791,AvgDialog,Content,玩家,我感觉……没什么不同。,I feel... the same as usual.
+AvgDialog_35533_Content_29,ajQg,avg章6_AvgDialog_C_M.csv,792,AvgDialog,Content,墨菲,"算上这一次，你已经是第三次晕倒了。
+说没什么感觉，不会是在骗人吧？","Including this time, you've already fainted three times.\nClaiming that you feel the same as usual—are you lying?"
+AvgDialog_35533_Content_30,ajQi,avg章6_AvgDialog_C_M.csv,793,AvgDialog,Content,拉蒙娜,短期内连续突发晕厥，很可能与颅内或者神经系统症状有关。,Frequent sudden fainting within a short period is likely related to intracranial or neurological symptoms.
+AvgDialog_35533_Content_31,ajQj,avg章6_AvgDialog_C_M.csv,794,AvgDialog,Content,,拉蒙娜说着，再次仔仔细细检查了你的脑袋，用指腹轻轻按压了几乎每一寸颅骨。,"Ramona spoke as she meticulously checked your head again, gently pressing almost every inch of your skull with her fingertips."
+AvgDialog_35533_Content_32,ajQk,avg章6_AvgDialog_C_M.csv,795,AvgDialog,Content,拉蒙娜,没有发现骨折，但如果有血肿或其他感染……必须要回学校，让朵尔检查过后才能下诊断。,"I didn't find any fractures, but if there is a hematoma or other infection... we must return to the school and let Doll examine you before making a diagnosis."
+AvgDialog_35533_Content_33,ajQl,avg章6_AvgDialog_C_M.csv,796,AvgDialog,Content,拉蒙娜,"当务之急还是要回到陆地，赶回学校。
+这对你、对墨菲而言都至关重要……",The top priority is to return to land and hurry back to school.\nThis is crucial for both you and Murphy...
+AvgDialog_35533_Content_34,ajQm,avg章6_AvgDialog_C_M.csv,797,AvgDialog,Content,,墨菲一言不发地看着你，过了许久，才面无表情地摇了摇头。,"Murphy silently stares at you for a long time, then shakes her head expressionlessly."
+AvgDialog_35533_Content_35,ajQn,avg章6_AvgDialog_C_M.csv,798,AvgDialog,Content,墨菲,"%player%都成这个样子了，就别逞英雄了。
+你们走吧。","%player% is already in this state, so don't try to play hero.\nYou two should leave."
+AvgDialog_35533_Content_36,ajQo,avg章6_AvgDialog_C_M.csv,799,AvgDialog,Content,墨菲,你们去坐救生船，划船也好漂流也好，有图鲁和拉蒙娜在，你们回到岸上根本不是什么难事。只要，只要……,"You all can take the lifeboat. Whether you row or drift, getting back to shore won't be a problem with Tulu and Ramona there. That is, as long…as long as…"
+AvgDialog_35533_Content_37,ajQp,avg章6_AvgDialog_C_M.csv,800,AvgDialog,Content,墨菲,<Small:只要没有我的拖累……>,<Small:As long as I don't hold anyone back...>
+AvgDialog_35533_Content_38,ajQq,avg章6_AvgDialog_C_M.csv,801,AvgDialog,Content,图鲁,在解决你体内的寄生物前，余不会离开。,I won't leave until the parasite in your body is eliminated.
+AvgDialog_35533_Content_39,ajQr,avg章6_AvgDialog_C_M.csv,802,AvgDialog,Content,,墨菲跺跺脚，指了指你和拉蒙娜，又指了指船长二人。,"Murphy stomped her foot, pointed at you and Ramona, then at the captain and Celeste."
+AvgDialog_35533_Content_40,ajQt,avg章6_AvgDialog_C_M.csv,803,AvgDialog,Content,墨菲,"那他们怎么办？
+万一这个「神明」孵出来时非常大，大到把船都弄沉了怎么办？","What about them?\nWhat if this ""God"" hatches and is so big that it sinks the ship?"
+AvgDialog_35533_Content_41,ajQu,avg章6_AvgDialog_C_M.csv,804,AvgDialog,Content,玩家,我们也不会走。,We won't leave either.
+AvgDialog_35533_Content_42,ajQv,avg章6_AvgDialog_C_M.csv,805,AvgDialog,Content,墨菲,喂！？,You!?
+AvgDialog_35533_Content_43,ajQw,avg章6_AvgDialog_C_M.csv,806,AvgDialog,Content,玩家,在正式成为调查员的那一天，我们以自身存在之名，立下了为抵抗融蚀现象付出一切的誓言。,"On the day we officially became Investigators, we swore upon our existence to resist Dissolution at all costs."
+AvgDialog_35533_Content_44,ajQx,avg章6_AvgDialog_C_M.csv,807,AvgDialog,Content,拉蒙娜,我们已经做好了余生将与死亡和疯狂为伴的准备，即使等待在前方的是自己的死亡……,"We are prepared to spend the rest of our lives accompanied by death and madness, even if what awaits is our own demise..."
+AvgDialog_35533_Content_45,ajQy,avg章6_AvgDialog_C_M.csv,808,AvgDialog,Content,墨菲,"就凭你们？别闹了，这是白白送命！
+这寄生物是怪物，是神明啊！","With just you guys? Don't make me laugh—you're just throwing your lives away!\nThis parasite is a monster, a god!"
+AvgDialog_35533_Content_46,ajQz,avg章6_AvgDialog_C_M.csv,809,AvgDialog,Content,拉蒙娜,如果这是生命中最后一个小时，我不会把时间浪费在祈祷上。,"Even if this were the last hour of my life, I wouldn't waste it on prayer."
+AvgDialog_35533_Content_47,ajQA,avg章6_AvgDialog_C_M.csv,810,AvgDialog,Content,拉蒙娜,我相信你也不会，对吗？不然，你为什么会费尽心思地逃离教团？,"I doubt you would either…am I wrong? After all, why else would you go to such lengths to escape the cult?"
+AvgDialog_35533_Content_48,ajQB,avg章6_AvgDialog_C_M.csv,811,AvgDialog,Content,墨菲,我……,I...
+AvgDialog_35533_Content_49,ajQC,avg章6_AvgDialog_C_M.csv,812,AvgDialog,Content,拉蒙娜,这可不仅仅是为了你，要知道，我们可也等着下船呢。,"This isn't just for your sake. Remember, we're also waiting to get off the ship."
+AvgDialog_35533_Content_50,ajQE,avg章6_AvgDialog_C_M.csv,813,AvgDialog,Content,玩家,你体内的寄生物如今成为了融蚀灾厄的核心，意味着，你现在也是弥萨格调查员的职责之一。,"The parasite within you has now become the core of the Dissolution Cataclysm, meaning you are now also one of our responsibilities as Mythag Investigators."
+AvgDialog_35533_Content_51,ajQF,avg章6_AvgDialog_C_M.csv,814,AvgDialog,Content,玩家,我答应过不会放弃你……我不会食言。,I promised not to give up on you... I won't break my promise.
+AvgDialog_35533_Content_52,ajQG,avg章6_AvgDialog_C_M.csv,815,AvgDialog,Content,墨菲,……疯子，全都是疯子。,"...Madmen, every last one of you."
+AvgDialog_35533_Content_53,ajQH,avg章6_AvgDialog_C_M.csv,816,AvgDialog,Content,,墨菲抽了抽鼻子，吞掉了语气中的哭腔。,"Murphy sniffled, swallowing the sob in her voice."
+AvgDialog_35533_Content_54,ajQI,avg章6_AvgDialog_C_M.csv,817,AvgDialog,Content,墨菲,那、那现在我们怎么办？戈利亚他们占住了驾驶室，这样子我们可没法开船。,"So, what do we do now? Goliath's crew has taken over the cockpit. We can't sail the ship like this."
+AvgDialog_35533_Content_55,ajQJ,avg章6_AvgDialog_C_M.csv,818,AvgDialog,Content,埃尔顿,希莱斯特，还有多久能靠岸？,"Celeste, how much longer until we dock?"
+AvgDialog_35533_Content_56,ajQK,avg章6_AvgDialog_C_M.csv,819,AvgDialog,Content,希莱斯特,"空载，东北风，速度15节。
+……卡达斯标准计时，60分钟。","No cargo, northeast wind, speed at 15 knots.\n...Kadath Standard Time, 60 minutes."
+AvgDialog_35533_Content_57,ajQL,avg章6_AvgDialog_C_M.csv,820,AvgDialog,Content,玩家,现在距离正位之时……还剩多久？,How much time is left until the Alignment...?
+AvgDialog_35533_Content_58,ajQM,avg章6_AvgDialog_C_M.csv,821,AvgDialog,Content,埃尔顿,来得及。,We can make it.
+AvgDialog_35533_Content_59,ajQN,avg章6_AvgDialog_C_M.csv,822,AvgDialog,Content,,希莱斯特怔怔地看着船长，似乎在确定着什么。,"Celeste stared blankly at the captain, as if trying to confirm something."
+AvgDialog_35533_Content_60,ajQP,avg章6_AvgDialog_C_M.csv,823,AvgDialog,Content,,她的形体已经缥缈于现实之外，船长本想伸手拍拍她的头，最后也只是在她头顶虚虚抚过。,"Her form had already become ethereal, beginning to drift beyond reality. The captain wanted to reach out and pat her head, but in the end could only hover his hand faintly through the air above her."
+AvgDialog_35533_Content_61,ajQQ,avg章6_AvgDialog_C_M.csv,824,AvgDialog,Content,埃尔顿,希莱斯特，加速。,"Celeste, accelerate."
+AvgDialog_35533_Content_62,ajQR,avg章6_AvgDialog_C_M.csv,825,AvgDialog,Content,墨菲,船长！你们要干什么！？你和希莱斯特的状态这么差，不能再用超能力开船了！,Captain! What are you doing!? You and Celeste are already in such poor condition—you can't use your abilities any more!
+AvgDialog_35533_Content_63,ajQS,avg章6_AvgDialog_C_M.csv,826,AvgDialog,Content,,唤醒体微微颔首，高举双手。手中罗盘无风自动，飘散出点点荧光。,"The Awakener nods slightly and raises both of her hands. The compass in her hand moves on its own, scattering tiny motes of faint light."
+AvgDialog_35533_Content_64,ajQT,avg章6_AvgDialog_C_M.csv,827,AvgDialog,Content,凯刻斯,埃尔顿，住手！,"Elton, stop!"
+AvgDialog_35533_Content_65,ajQU,avg章6_AvgDialog_C_M.csv,828,AvgDialog,Content,,蹈海者少年撞开了舱门，他刚走进舱室，拉蒙娜和图鲁就双双起身挡在了他面前。,"The young Seafarer burst through the cabin door. As soon as he stepped inside, Ramona and Tulu both stood forth to block his way."
+AvgDialog_35533_Content_66,ajQV,avg章6_AvgDialog_C_M.csv,829,AvgDialog,Content,,希莱斯特茫然地放下了手，她看向埃尔顿，等待着链接者的下一个指令。,"Celeste lowered her hand in confusion, looking at Elton, awaiting the next command from her Linker."
+AvgDialog_35533_Content_67,ajQW,avg章6_AvgDialog_C_M.csv,830,AvgDialog,Content,凯刻斯,我不是来寻求战斗的。,I'm not here to seek battle.
+AvgDialog_35533_Content_68,ajQX,avg章6_AvgDialog_C_M.csv,831,AvgDialog,Content,凯刻斯,我……有东西想要交给你。,I... have something I want to give you.
+AvgDialog_35533_Content_69,ajQY,avg章6_AvgDialog_C_M.csv,832,AvgDialog,Content,,他的视线越过所有人，落在船长埃尔顿身上。,His gaze swept over everyone and came to rest on Captain Elton.
+AvgDialog_35533_Content_70,ajRa,avg章6_AvgDialog_C_M.csv,833,AvgDialog,Content,,埃尔顿摆摆手，他一边靠近凯刻斯，一边用眼神示意拉蒙娜和图鲁放下攻击姿态。,"Elton waved his hand, approaching Caecus while signaling Ramona and Tulu to stand down."
+AvgDialog_35533_Content_71,ajRb,avg章6_AvgDialog_C_M.csv,834,AvgDialog,Content,凯刻斯,别过来……！,Don't come any closer...!
+AvgDialog_35533_Content_72,ajRc,avg章6_AvgDialog_C_M.csv,835,AvgDialog,Content,凯刻斯,别离我太近，要是沾上太多你们的气味，我会被其他蹈海者注意到的。,"Don't get too close. If I pick up too much of your scent, other Seafarers will notice."
+AvgDialog_35533_Content_73,ajRd,avg章6_AvgDialog_C_M.csv,836,AvgDialog,Content,,他将一个玻璃药瓶扔在了甲板上，任由它顺着船体倾斜的方向滚到埃尔顿脚边。,"He threw a glass vial onto the deck, letting it roll along the tilt of the ship until it came to rest at Elton's feet."
+AvgDialog_35533_Content_74,ajRe,avg章6_AvgDialog_C_M.csv,837,AvgDialog,Content,埃尔顿,"用于稳定精神的药物……
+把药物交给我，是你自己的意思吗？",Medicine used to stabilize the spirit...\nAre you giving me this medicine of your own will?
+AvgDialog_35533_Content_75,ajRf,avg章6_AvgDialog_C_M.csv,838,AvgDialog,Content,凯刻斯,如果你担心药有问题的话……,If you're worried that there might be something wrong with the medicine...
+AvgDialog_35533_Content_76,ajRg,avg章6_AvgDialog_C_M.csv,839,AvgDialog,Content,,埃尔顿没有给对方把话说完的机会，他拔开了瓶塞，毫不犹豫地干吞下一把药片。,Elton didn't give him a chance to finish. He pulled out the cork and swallowed a handful of pills without hesitation.
+AvgDialog_35533_Content_77,ajRh,avg章6_AvgDialog_C_M.csv,840,AvgDialog,Content,埃尔顿,"别误会，孩子。
+我只是担心，你会因此受蹈海者内部的惩罚。","Don't get me wrong, kid.\nI'm just worried that you might face internal punishment from the Seafarers."
+AvgDialog_35533_Content_78,ajRi,avg章6_AvgDialog_C_M.csv,841,AvgDialog,Content,凯刻斯,……,...
+AvgDialog_35533_Content_79,ajRj,avg章6_AvgDialog_C_M.csv,842,AvgDialog,Content,凯刻斯,他们不会发现的，负责保存药物的蹈海者已经在这次行动中丧生了。,They won't find out. The Seafarer responsible for storing the medicine has already perished in this operation.
+AvgDialog_35533_Content_80,ajRl,avg章6_AvgDialog_C_M.csv,843,AvgDialog,Content,,凯刻斯闭了闭眼，表情平静，你无法判断他是否在为死去的同伴哀悼。,"Caecus closed his eyes, his expression calm. You couldn't tell if he was mourning his fallen comrades."
+AvgDialog_35533_Content_81,ajRm,avg章6_AvgDialog_C_M.csv,844,AvgDialog,Content,凯刻斯,船长，如果你还相信我的话……请绕路回驾驶室吧。,"Captain, if you still trust me... please take a detour back to the cockpit."
+AvgDialog_35533_Content_82,ajRn,avg章6_AvgDialog_C_M.csv,845,AvgDialog,Content,凯刻斯,我现在回去，尽量把戈利亚大人引开，但如果我提出要把人都撤走，就表现得太刻意了。,"I'll go back now and try to lure Lord Goliath away, but if I suggest evacuating everyone, it will seem too deliberate."
+AvgDialog_35533_Content_83,ajRo,avg章6_AvgDialog_C_M.csv,846,AvgDialog,Content,凯刻斯,戈利亚大人一定会留人守着驾驶室，那些留守的蹈海者，我就无能为力了。,"Lord Goliath will definitely leave people to guard the cockpit. As for those Seafarers who stay behind, I am powerless."
+AvgDialog_35533_Content_84,ajRp,avg章6_AvgDialog_C_M.csv,847,AvgDialog,Content,,凯刻斯说完，转身就要离去。,Caecus finished speaking and turned to leave.
+AvgDialog_35533_Content_85,ajRq,avg章6_AvgDialog_C_M.csv,848,AvgDialog,Content,埃尔顿,凯刻斯，等等！,"Caecus, wait!"
+AvgDialog_35533_Content_86,ajRr,avg章6_AvgDialog_C_M.csv,849,AvgDialog,Content,凯刻斯,现在这个机会，不适合我们叙旧，但是……,"This is not the right time for us to catch up, but..."
+AvgDialog_35533_Content_87,ajRs,avg章6_AvgDialog_C_M.csv,850,AvgDialog,Content,凯刻斯,你之前说，不会因为我的背叛而怨恨我，是真的吗？,"You said you wouldn't resent me for my betrayal, right?"
+AvgDialog_35533_Content_88,ajRt,avg章6_AvgDialog_C_M.csv,851,AvgDialog,Content,埃尔顿,……,...
+AvgDialog_35533_Content_89,ajRu,avg章6_AvgDialog_C_M.csv,852,AvgDialog,Content,埃尔顿,千真万确。,Absolutely.
+AvgDialog_35529_Content_1,ajNN,avg章6_AvgDialog_C_M.csv,853,AvgDialog,Content,墨菲,船长，你真的要信那个小鱼人的话吗？他在教团中，可不仅仅是个跑腿打杂的小角色。,"Captain, do you really trust that fishman's words? He's more than just a small-time errand runner in the cult."
+AvgDialog_35529_Content_2,ajNR,avg章6_AvgDialog_C_M.csv,854,AvgDialog,Content,拉蒙娜,如果我没记错的话，凯刻斯作为唤醒体维持理智的精神力，甚至是由弥利亚姆提供的……这可是您亲口确认的。,"If I remember correctly, the spirit power that Caecus needs as an Awakener to stay sane is provided by Miryam herself... You yourself confirmed this."
+AvgDialog_35529_Content_3,ajNS,avg章6_AvgDialog_C_M.csv,855,AvgDialog,Content,墨菲,而且，当初如果不是信了他发来的信息，我们也不会在那个港口停留……,"Moreover, if we hadn't trusted the message he sent, we wouldn't have stayed at that port..."
+AvgDialog_35529_Content_4,ajNT,avg章6_AvgDialog_C_M.csv,856,AvgDialog,Content,玩家,信息？,Message?
+AvgDialog_35529_Content_5,ajNU,avg章6_AvgDialog_C_M.csv,857,AvgDialog,Content,,墨菲看了埃尔顿一眼，见后者用眼神默许了她说下去后，才清了清嗓子继续。,"Murphy glanced at Elton, and after receiving his silent nod of approval, cleared her throat and continued."
+AvgDialog_35529_Content_6,ajNV,avg章6_AvgDialog_C_M.csv,858,AvgDialog,Content,墨菲,我们最开始的计划是在索纳尼尔号密境中待上整整半年，以避过星辰正位之时。,Our initial plan was to stay in the Sona-Nyl Domain for a full six months to avoid the Alignment of the Stars.
+AvgDialog_35529_Content_7,ajNW,avg章6_AvgDialog_C_M.csv,859,AvgDialog,Content,墨菲,之后，我们会巡游整个世界。一边躲避蹈海者的追捕，一边寻找剥离它的办法，但……,"After this, we would journey across the world, evading the pursuit of the Seafarers while searching for a way to remove the parasite, but..."
+AvgDialog_35529_Content_8,ajNX,avg章6_AvgDialog_C_M.csv,860,AvgDialog,Content,埃尔顿,"但在一次靠岸补给时，我收到了中间人传来的消息。
+消息中说，凯刻斯愿意最后一次把药物交给我。","But during a supply stop, I received a message from our intermediary.\nThe message said that Caecus was willing to hand over the medicine one last time."
+AvgDialog_35529_Content_9,ajNY,avg章6_AvgDialog_C_M.csv,861,AvgDialog,Content,玩家,地点就定在了布里尔珀特镇？也就是我们被蹈海者追上船的那个渔镇。,Was the location Bridgeport? That's the fishing town where the Seafarers chased us onto the ship.
+AvgDialog_35529_Content_10,ajNO,avg章6_AvgDialog_C_M.csv,862,AvgDialog,Content,埃尔顿,凯刻斯……他只是太希望得到认可了。,Caecus... he simply longs too deeply to be acknowledged.
+AvgDialog_35529_Content_11,ajNP,avg章6_AvgDialog_C_M.csv,863,AvgDialog,Content,埃尔顿,我知道你们会对他有顾虑，但我足够了解这孩子。这次会主动来找我们，就说明他心里已经站好了队。,"I know you may have concerns about him, but I know that kid well enough. The fact that he came to us of his own accord shows that in his heard, he has already chosen a side."
+AvgDialog_35529_Content_12,ajNQ,avg章6_AvgDialog_C_M.csv,864,AvgDialog,Content,埃尔顿,到驾驶室后我会先进去确认情况，如果一切安好，我再叫你们进来。,"I'll enter the cockpit first to check the situation. If everything is fine, I'll call you in."
+AvgDialog_35530_Content_1,ajNZ,avg章6_AvgDialog_C_M.csv,865,AvgDialog,Content,玩家,"图鲁，麻烦你在驾驶室外保护墨菲和希莱斯特。
+我和拉蒙娜会跟着船长先进去，看看里面的情况。","Tulu, please protect Murphy and Celeste outside the cockpit.\nRamona and I will follow the captain inside to check the situation."
+AvgDialog_35530_Content_2,ajOa,avg章6_AvgDialog_C_M.csv,866,AvgDialog,Content,,图鲁没有反对，他用触肢拦下了想要跟进来的墨菲，卷着她和希莱斯特退进了门边阴影中。,"Tulu didn't object. Using his tentacles, he stopped Murphy from following and pulled her and Celeste into the shadows by the door."
+AvgDialog_35530_Content_3,ajOb,avg章6_AvgDialog_C_M.csv,867,AvgDialog,Content,,埃尔顿一步走到了你跟前，拂开了你搭在舱门上的手。,Elton stepped up to you and brushed your hand off the hatch.
+AvgDialog_35530_Content_4,ajOc,avg章6_AvgDialog_C_M.csv,868,AvgDialog,Content,埃尔顿,让我来吧。,Let me take care of it.
+AvgDialog_35530_Content_5,ajOd,avg章6_AvgDialog_C_M.csv,869,AvgDialog,Content,,驾驶室内确实不见戈利亚的踪影，只有寥寥数名蹈海者呆愣地在室内徘徊游荡。,The was indeed no sign of Goliath in the cockpit. Only a few Seafarers were wandering around the room in a daze.
+AvgDialog_35530_Content_6,ajOe,avg章6_AvgDialog_C_M.csv,870,AvgDialog,Content,拉蒙娜,"不像有埋伏的样子。
+船长说对了……凯刻斯确实没有骗我们。",No sign of an ambush.\nThe captain was right... Caecus didn't deceive us.
+AvgDialog_35530_Content_7,ajOf,avg章6_AvgDialog_C_M.csv,871,AvgDialog,Content,埃尔顿,哈哈，我说过，凯刻斯的本性并不坏……只是没有人教过他什么是正确的。,"Haha, I told you, Caecus isn't bad by nature... It's just that nobody ever taught him what was right."
+AvgDialog_35530_Content_8,ajOg,avg章6_AvgDialog_C_M.csv,872,AvgDialog,Content,埃尔顿,解决这些家伙还得靠你们。快上吧，别让他们再玩我的舵轮了。,It's up to you to deal with these guys. Get going and don't let them mess with my helm any longer.

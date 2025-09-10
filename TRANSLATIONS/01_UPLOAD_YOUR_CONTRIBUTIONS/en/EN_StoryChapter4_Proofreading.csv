@@ -478,7 +478,7 @@ AvgDialog_19067_Content_9,agQX,avg章4_AvgDialog_C_M.csv,364,AvgDialog,Content,,
 AvgDialog_19067_Content_10,agPX,avg章4_AvgDialog_C_M.csv,365,AvgDialog,Content,玩家,拉蒙娜，你没受伤吧？,"Ramona, are you injured?"
 AvgDialog_19067_Content_11,agPY,avg章4_AvgDialog_C_M.csv,366,AvgDialog,Content,拉蒙娜,我平安无事，只是莉莉——,"I'm safe and sound, but Lily—"
 AvgDialog_19067_Content_12,agPZ,avg章4_AvgDialog_C_M.csv,367,AvgDialog,Content,萝坦,"别说什么莉莉不莉莉的了，赶紧把这家伙领走。
-这种手无缚鸡之力的小家伙，看护起来让人头疼。","Stop mentioning Lily or whatever, just take this guy away immediately.\nTaking care of this weakling is such a headache."
+这种手无缚鸡之力的小家伙，看护起来让人头疼。","Stop mentioning Lily or whatever, just get {Male=him,Female=her} out of here already.\nTaking care of this weakling is such a headache."
 AvgDialog_19067_Content_13,agQa,avg章4_AvgDialog_C_M.csv,368,AvgDialog,Content,玩家,……我可还在这儿呢。,"...I'm still here, you know."
 AvgDialog_19067_Content_14,agQb,avg章4_AvgDialog_C_M.csv,369,AvgDialog,Content,朵尔,"这位就是“库姆”吧？
 雕塑家协会的那帮人，审美越来越病态了。","So this is ""Koum"", right?\nThe people from the Sculptors' Association have an increasingly twisted sense of aesthetics."
@@ -666,7 +666,7 @@ AvgDialog_19073_Content_13,agTJ,avg章4_AvgDialog_C_M.csv,490,AvgDialog,Content,
 AvgDialog_19073_Content_14,agTK,avg章4_AvgDialog_C_M.csv,491,AvgDialog,Content,朵尔,跟他们不一样，我早已舍弃人类的躯体，普通人的存亡本就与我无关。,"Unlike them, I abandoned my human body long ago. The survival or demise of ordinary people has nothing to do with me."
 AvgDialog_19073_Content_15,agTL,avg章4_AvgDialog_C_M.csv,492,AvgDialog,Content,朵尔,作为追求最尖端科技的研究者，谁不想舍弃掉那些本就不该束缚我们的人类伦理，进行最胆大妄为的实验呢？,"As researchers pursuing the most cutting-edge technology, who wouldn't want to discard those human ethics that should never have bound us in the first place and carry out the boldest experiments?"
 AvgDialog_19073_Content_16,agTM,avg章4_AvgDialog_C_M.csv,493,AvgDialog,Content,朵尔,可惜……,Unfortunately...
-AvgDialog_19073_Content_17,agTN,avg章4_AvgDialog_C_M.csv,494,AvgDialog,Content,朵尔,跟你这种只懂得趋利避害的草履虫比起来，我还是更欣赏这帮家伙明知不可为而为的勇气。,"Compared to a paramecium like you, who only knows how to seek profit and avoid harm, I admire these guys for their courage to attempt the impossible."
+AvgDialog_19073_Content_17,agTN,avg章4_AvgDialog_C_M.csv,494,AvgDialog,Content,朵尔,跟你这种只懂得趋利避害的草履虫比起来，我还是更欣赏这帮家伙明知不可为而为的勇气。,"Compared to a paramecium like you, who only knows how to seek profit and avoid harm, I admire them for their courage to attempt the impossible."
 AvgDialog_19073_Content_18,agTO,avg章4_AvgDialog_C_M.csv,495,AvgDialog,Content,朵尔,"闲话就到这里吧。
 再让你拖延下去，只怕弗朗西斯就要带着莉莉跑到大洋对岸了。","Enough chit-chat.\nIf you keep stalling, Francis might take Lily across the ocean."
 AvgDialog_19073_Content_19,agTP,avg章4_AvgDialog_C_M.csv,496,AvgDialog,Content,赫伯特,真不愧是“弥萨格之脑”，什么都瞒不过你。,"As expected of the ""Brain of Mythag"", nothing escapes you."
@@ -702,7 +702,7 @@ AvgDialog_19079_Content_11,agXI,avg章4_AvgDialog_C_M.csv,524,AvgDialog,Content,
 AvgDialog_19079_Content_12,agXJ,avg章4_AvgDialog_C_M.csv,525,AvgDialog,Content,朵尔,借你吉言，至少阿利斯泰尔比你的另一位老师活得久些。,Thanks for your kind words. At least Alistair lived longer than your other teacher.
 AvgDialog_19079_Content_13,agXK,avg章4_AvgDialog_C_M.csv,526,AvgDialog,Content,赫伯特,"阿利斯泰尔老师吉人天相，肯定能见证世界的终结。
 很可惜，你应该看不到那一天了。","Professor Alistair is surely destined to witness the end of the world.\nUnfortunately, you will not live to see that day."
-AvgDialog_19079_Content_14,agXL,avg章4_AvgDialog_C_M.csv,527,AvgDialog,Content,赫伯特,在这些家伙的包围下，你又能支撑多久呢？,How long can you hold out while surrounded by these guys?
+AvgDialog_19079_Content_14,agXL,avg章4_AvgDialog_C_M.csv,527,AvgDialog,Content,赫伯特,在这些家伙的包围下，你又能支撑多久呢？,How long can you hold out while surrounded?
 AvgDialog_19079_Content_15,agXM,avg章4_AvgDialog_C_M.csv,528,AvgDialog,Content,朵尔,不试试怎么知道？,You'll never know until you try.
 AvgDialog_19079_Content_16,agXN,avg章4_AvgDialog_C_M.csv,529,AvgDialog,Content,赫伯特,你不会真觉得，凭你一个，就能解决这么多实验体吧？,Do you really think you can handle all these test subjects on your own?
 AvgDialog_19079_Content_17,agXO,avg章4_AvgDialog_C_M.csv,530,AvgDialog,Content,朵尔,不要把我想得和你一样愚蠢，赫伯特。,"Don't assume I'm as foolish as you, Herbert."
