@@ -6,7 +6,7 @@ StageGroup_15951_Desc,aRdR,g关卡组_StageGroup_A.csv,43,StageGroup,Desc,,与�
 StageGroup_15951_Name,aRdS,g关卡组_StageGroup_A.csv,43,StageGroup,Name,,金券搜查,金券捜索,
 StageGroup_15951_StageGroupRewardDescription,aRdT,g关卡组_StageGroup_A.csv,43,StageGroup,StageGroupRewardDescription,,<Black:蔷薇金券>,<Black:薔薇金券>,
 StageGroup_15951_TypeText,aRdU,g关卡组_StageGroup_A.csv,43,StageGroup,TypeText,,金券搜查,金券捜索,
-StageGroup_15936_Desc,aRcJ,g关卡组_StageGroup_A.csv,44,StageGroup,Desc,,早在群星诞生之前，它们便存在于此。\n它们既是虚无，也是一切。,星々が生まれる遥か前から、それらはここに存在した。\n混沌とは「無」ではる、同時に「全」でもある。,
+StageGroup_15936_Desc,aRcJ,g关卡组_StageGroup_A.csv,44,StageGroup,Desc,,早在群星诞生之前，它们便存在于此。\n它们既是虚无，也是一切。,星々が生まれる遥か前から、それらはここに存在した。\n混沌とは「無」であり、同時に「全」でもある。,
 StageGroup_15936_Name,aRcK,g关卡组_StageGroup_A.csv,44,StageGroup,Name,,浑浊残像,混濁の残像,
 StageGroup_15936_StageGroupRewardDescription,aRcL,g关卡组_StageGroup_A.csv,44,StageGroup,StageGroupRewardDescription,,<Black:升格素材>,<Black:昇格素材>,
 StageGroup_15936_TypeText,aRcM,g关卡组_StageGroup_A.csv,44,StageGroup,TypeText,,浑浊残像,混濁の残像,
@@ -18,7 +18,7 @@ StageGroup_15887_Desc,aQYV,g关卡组_StageGroup_A.csv,46,StageGroup,Desc,,献�
 StageGroup_15887_Name,aQYW,g关卡组_StageGroup_A.csv,46,StageGroup,Name,,器质残像,血肉の残像,
 StageGroup_15887_StageGroupRewardDescription,aQYX,g关卡组_StageGroup_A.csv,46,StageGroup,StageGroupRewardDescription,,<Black:升格素材>,<Black:昇格素材>,
 StageGroup_15887_TypeText,aQYY,g关卡组_StageGroup_A.csv,46,StageGroup,TypeText,,器质残像,血肉の残像,
-StageGroup_15872_Desc,aQXN,g关卡组_StageGroup_A.csv,47,StageGroup,Desc,,它们像捉摸不定的魔法师，游走在时空的夹缝里。\n没有仇恨，没有恐惧，也没有怜悯。,それは捉えどころのない魔術師のように、時空のはざまを漂い続ける。\n憎しみも、恐怖も、慈悲もーー何ひとつ持たずに。,
+StageGroup_15872_Desc,aQXN,g关卡组_StageGroup_A.csv,47,StageGroup,Desc,,它们像捉摸不定的魔法师，游走在时空的夹缝里。\n没有仇恨，没有恐惧，也没有怜悯。,それは捉えどころのない魔術師のように、時空の狭間を漂い続ける。\n憎しみも、恐怖も、慈悲もーー何ひとつ持たずに。,
 StageGroup_15872_Name,aQXO,g关卡组_StageGroup_A.csv,47,StageGroup,Name,,维度残像,次元の残像,
 StageGroup_15872_StageGroupRewardDescription,aQXP,g关卡组_StageGroup_A.csv,47,StageGroup,StageGroupRewardDescription,,<Black:升格素材>,<Black:昇格素材>,
 StageGroup_15872_TypeText,aQXQ,g关卡组_StageGroup_A.csv,47,StageGroup,TypeText,,维度残像,次元の残像,
@@ -38,3 +38,4 @@ StageGroup_15903_Desc,aRah,g关卡组_StageGroup_A.csv,51,StageGroup,Desc,,潜�
 StageGroup_15903_Name,aRai,g关卡组_StageGroup_A.csv,51,StageGroup,Name,,史瓦西喉,時空のくびれ,
 StageGroup_15903_StageGroupRewardDescription,aRaj,g关卡组_StageGroup_A.csv,51,StageGroup,StageGroupRewardDescription,,<Black:技能素材>,<Black:スキル素材>,
 StageGroup_15903_TypeText,aRak,g关卡组_StageGroup_A.csv,51,StageGroup,TypeText,,史瓦西喉,時空のくびれ,
+
