@@ -1,0 +1,940 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+AvgCommunicate_57594_Content_1,abqG,avg通讯器聊天表_AvgCommunicate_A_M.csv,8,AvgCommunicate,Content,拉蒙娜,搭档，这是你上次出任务错过的课程笔记和作业。,"Partner, here are my notes and the homework you missed while you were away."
+AvgCommunicate_57594_Content_2,abqN,avg通讯器聊天表_AvgCommunicate_A_M.csv,9,AvgCommunicate,Content,拉蒙娜,记得补交。,Don't forget to do your assignment.
+AvgCommunicate_57594_Option_3,abrd,avg通讯器聊天表_AvgCommunicate_A_M.csv,10,AvgCommunicate,Option,玩家,有些事情过去了就让它过去吧……,Let's just forget about it...
+AvgCommunicate_57594_Content_3,abqO,avg通讯器聊天表_AvgCommunicate_A_M.csv,10,AvgCommunicate,Content,玩家,有些事情过去了就让它过去吧……,Let's just forget about it...
+AvgCommunicate_57594_Option_4,abre,avg通讯器聊天表_AvgCommunicate_A_M.csv,11,AvgCommunicate,Option,玩家,我这怎么突然信号不好了,"Sorry, my connection's not stable."
+AvgCommunicate_57594_Content_4,abqP,avg通讯器聊天表_AvgCommunicate_A_M.csv,11,AvgCommunicate,Content,玩家,我这怎么突然信号不好了,"Sorry, my connection's not stable. Your last message didn't go through."
+AvgCommunicate_57594_Content_6,abqR,avg通讯器聊天表_AvgCommunicate_A_M.csv,13,AvgCommunicate,Content,拉蒙娜,哦是吗？忘了告诉你，朵尔老师就在我旁边看着。,"Oh really? By the way, I forgot to tell you something. Teacher Doll is right beside me, watching."
+AvgCommunicate_57594_Option_7,abrh,avg通讯器聊天表_AvgCommunicate_A_M.csv,14,AvgCommunicate,Option,玩家,突然涌出了一股熊熊燃烧的学习热情。,Uh... WOW! I suddenly feel REALLY EXCITED to learn today!
+AvgCommunicate_57594_Content_7,abqS,avg通讯器聊天表_AvgCommunicate_A_M.csv,14,AvgCommunicate,Content,玩家,突然涌出了一股熊熊燃烧的学习热情。,Uh... WOW! I suddenly feel REALLY EXCITED to learn today!
+AvgCommunicate_57594_Content_8,abqT,avg通讯器聊天表_AvgCommunicate_A_M.csv,15,AvgCommunicate,Content,玩家,居然有被我落下的作业，这怎么能坐视不管呢？,I can't believe I forgot about my homework! I better get to work and finish it all before I'm late!
+AvgCommunicate_57594_Content_9,abqU,avg通讯器聊天表_AvgCommunicate_A_M.csv,16,AvgCommunicate,Content,玩家,既然如此，好搭档你一定会帮我补课的对吧？,"So, Partner! You'll help me catch up, right?!"
+AvgCommunicate_57594_Content_10,abqH,avg通讯器聊天表_AvgCommunicate_A_M.csv,17,AvgCommunicate,Content,玩家,对吧？!,R-right?!
+AvgCommunicate_57594_Content_12,abqJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,19,AvgCommunicate,Content,拉蒙娜,没问题，这是作为搭档应该做的。,Of course. That's what partners are supposed to do.
+AvgCommunicate_57594_Content_13,abqK,avg通讯器聊天表_AvgCommunicate_A_M.csv,20,AvgCommunicate,Content,拉蒙娜,朵尔老师也很欣慰，决定给你设计一套独家附加题呢。,"Teacher Doll is also pleased, and told me to tell you that she'll be adding some additional bonus questions just for you."
+AvgCommunicate_58020_Content_1,abJc,avg通讯器聊天表_AvgCommunicate_A_M.csv,23,AvgCommunicate,Content,本源拉蒙娜通讯器,居然有这样的机会时时与你联系。,I'm so glad we'll have more opportunities to work together in the future.
+AvgCommunicate_58020_Content_2,abJf,avg通讯器聊天表_AvgCommunicate_A_M.csv,24,AvgCommunicate,Content,本源拉蒙娜通讯器,这实在是……,That's...
+AvgCommunicate_58020_Content_3,abJg,avg通讯器聊天表_AvgCommunicate_A_M.csv,25,AvgCommunicate,Content,本源拉蒙娜通讯器,替我谢谢那个朵尔。,Tell Doll I said thanks...
+AvgCommunicate_58020_Content_5,abJi,avg通讯器聊天表_AvgCommunicate_A_M.csv,27,AvgCommunicate,Content,本源拉蒙娜通讯器,虽然没有什么帮忙的需要。,Even if there aren't any pressing matters...
+AvgCommunicate_58020_Content_6,abJj,avg通讯器聊天表_AvgCommunicate_A_M.csv,28,AvgCommunicate,Content,本源拉蒙娜通讯器,但我想念你时，可以给你发消息吗？,Is it alright if I send you a message?
+AvgCommunicate_58020_Content_8,abJl,avg通讯器聊天表_AvgCommunicate_A_M.csv,30,AvgCommunicate,Content,玩家,我们永远是好搭档。,We will always be good partners.
+AvgCommunicate_58020_Content_10,abJd,avg通讯器聊天表_AvgCommunicate_A_M.csv,32,AvgCommunicate,Content,本源拉蒙娜通讯器,……如果我给你发消息太频繁，会打扰到你吗？,...Would it bother you if I send you too many messages?
+AvgCommunicate_57897_Content_1,absc,avg通讯器聊天表_AvgCommunicate_A_M.csv,34,AvgCommunicate,Content,朵尔,%player%，你的成绩出来了。,"%player%, your test results are in."
+AvgCommunicate_57897_Content_2,absi,avg通讯器聊天表_AvgCommunicate_A_M.csv,35,AvgCommunicate,Content,朵尔,知道你多少分吗？,Would you like to guess how you did?
+AvgCommunicate_57897_Option_3,absx,avg通讯器聊天表_AvgCommunicate_A_M.csv,36,AvgCommunicate,Option,玩家,……你这样我压力很大。,...Y-you're stressing me out here...
+AvgCommunicate_57897_Content_3,absj,avg通讯器聊天表_AvgCommunicate_A_M.csv,36,AvgCommunicate,Content,玩家,……你这样我压力很大。,...Y-you're stressing me out here...
+AvgCommunicate_57897_Content_4,absk,avg通讯器聊天表_AvgCommunicate_A_M.csv,37,AvgCommunicate,Content,朵尔,我是来恭喜你的。虽然这学期发生了很多事，但你目前为止的表现还算不错。,"Don't worry, I'm here to congratulate you. Despite all of the ""incidents"" you've had this term, you did SUCH a good job on this test."
+AvgCommunicate_57897_Content_5,absl,avg通讯器聊天表_AvgCommunicate_A_M.csv,38,AvgCommunicate,Content,朵尔,作为奖励，我调整了一下你的训练计划，接下来几天就好好休息吧。,"In fact, you did such a good job that you deserve a reward. I've personally adjusted your upcoming training schedule. Enjoy your time off~."
+AvgCommunicate_57897_Option_6,absA,avg通讯器聊天表_AvgCommunicate_A_M.csv,39,AvgCommunicate,Option,玩家,对不起我错了我假期一定努力补休。,"I'm sorry, I messed up. I'll work hard during my break..."
+AvgCommunicate_57897_Content_6,absm,avg通讯器聊天表_AvgCommunicate_A_M.csv,39,AvgCommunicate,Content,玩家,对不起我错了我假期一定努力补休。,"I'm sorry, I messed up. I'll work hard during my break..."
+AvgCommunicate_57897_Content_7,absn,avg通讯器聊天表_AvgCommunicate_A_M.csv,40,AvgCommunicate,Content,朵尔,我本来是来恭喜你的。虽然这学期发生了很多事，但你目前为止的表现还算不错。,"Don't worry, I'm here to congratulate you. Despite all of the ""incidents"" you've had this term, you did SUCH a good job on this test."
+AvgCommunicate_57897_Content_8,abso,avg通讯器聊天表_AvgCommunicate_A_M.csv,41,AvgCommunicate,Content,朵尔,不过既然你主动提出补休，那我也不介意加点班。,"Since you've asked to take some time off, I don't mind giving you some extra lessons after class to make up for your time off."
+AvgCommunicate_57897_Content_10,absd,avg通讯器聊天表_AvgCommunicate_A_M.csv,43,AvgCommunicate,Content,朵尔,别客气，就这么说定了。明天课上再见。,"Don't worry, it's no trouble at all. See you tomorrow~."
+AvgCommunicate_57897_Option_11,abss,avg通讯器聊天表_AvgCommunicate_A_M.csv,44,AvgCommunicate,Option,玩家,我假期还有其他训练的啊——,I have other training sessions already scheduled on my time off—
+AvgCommunicate_57897_Content_11,abse,avg通讯器聊天表_AvgCommunicate_A_M.csv,44,AvgCommunicate,Content,玩家,我假期还有其他训练的啊——,I have other training sessions already scheduled on my time off—
+AvgCommunicate_57897_Content_12,absf,avg通讯器聊天表_AvgCommunicate_A_M.csv,45,AvgCommunicate,Content,朵尔,开玩笑的。,I'm joking.
+AvgCommunicate_57897_Content_13,absg,avg通讯器聊天表_AvgCommunicate_A_M.csv,46,AvgCommunicate,Content,朵尔,我调整了一下你的训练计划，接下来几天就好好休息吧。,I've adjusted your training schedule. Go enjoy your break over the next few days.
+AvgCommunicate_57898_Content_3,absJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,50,AvgCommunicate,Content,本源朵尔？,开动你聪明的小脑袋猜一猜。,You're smart. Why not guess and see if you can figure it out?
+AvgCommunicate_57898_Content_4,absK,avg通讯器聊天表_AvgCommunicate_A_M.csv,51,AvgCommunicate,Content,玩家,知道通讯器，你是校内人？,"Well, you know about the communicator. Are you a student?"
+AvgCommunicate_57898_Content_5,absL,avg通讯器聊天表_AvgCommunicate_A_M.csv,52,AvgCommunicate,Content,本源朵尔？,怎么不算呢，如果大家还愿意承认的话。,"Sure, why not? That's what everyone says anyways."
+AvgCommunicate_57898_Option_6,absY,avg通讯器聊天表_AvgCommunicate_A_M.csv,53,AvgCommunicate,Option,玩家,你是那个朵尔。,You're that Doll!
+AvgCommunicate_57898_Content_6,absM,avg通讯器聊天表_AvgCommunicate_A_M.csv,53,AvgCommunicate,Content,玩家,你是……那个朵尔。,Wait... you're that Doll aren't you?!
+AvgCommunicate_57898_Content_7,absN,avg通讯器聊天表_AvgCommunicate_A_M.csv,54,AvgCommunicate,Content,本源朵尔？,答对了，聪明的狗狗有奖励。,You got it~! A smart dog like you deserves a reward.
+AvgCommunicate_57898_Option_8,abta,avg通讯器聊天表_AvgCommunicate_A_M.csv,55,AvgCommunicate,Option,玩家,什么奖励？,A reward?
+AvgCommunicate_57898_Content_8,absO,avg通讯器聊天表_AvgCommunicate_A_M.csv,55,AvgCommunicate,Content,玩家,……什么奖励？,...A reward?
+AvgCommunicate_57898_Content_9,absP,avg通讯器聊天表_AvgCommunicate_A_M.csv,56,AvgCommunicate,Content,本源朵尔？,奖励一个摸头，欢迎随时来黑池领取。,Your reward is a pat on the head. Come to the Black Pool whenever you want to redeem your prize.
+AvgCommunicate_57898_Option_10,absR,avg通讯器聊天表_AvgCommunicate_A_M.csv,57,AvgCommunicate,Option,玩家,我会和校方反映的。,I'm reporting this to the school authorities.
+AvgCommunicate_57898_Content_10,absF,avg通讯器聊天表_AvgCommunicate_A_M.csv,57,AvgCommunicate,Content,玩家,……我会和校方反映这个漏洞的。,...I'm reporting this loophole you found to the school authorities.
+AvgCommunicate_57898_Content_11,absG,avg通讯器聊天表_AvgCommunicate_A_M.csv,58,AvgCommunicate,Content,本源朵尔？,真是坏孩子，不过你以为这种小东西能够拦住我吗？,"My, what a naughty child. You don't really think this little thing can hold me forever, do you?"
+AvgCommunicate_57898_Content_12,absH,avg通讯器聊天表_AvgCommunicate_A_M.csv,59,AvgCommunicate,Content,本源朵尔？,我会一直看着你的。,I will ALWAYS be watching you.
+AvgCommunicate_57900_Content_2,abtz,avg通讯器聊天表_AvgCommunicate_A_M.csv,61,AvgCommunicate,Content,玩家,怎么了，奥吉尔？,"What's the matter, Ogier?"
+AvgCommunicate_57900_Content_3,abtA,avg通讯器聊天表_AvgCommunicate_A_M.csv,62,AvgCommunicate,Content,奥吉尔,哇，真的有字耶。,"Wow, it's actually working..."
+AvgCommunicate_57900_Content_4,abtB,avg通讯器聊天表_AvgCommunicate_A_M.csv,63,AvgCommunicate,Content,奥吉尔,抱歉，主君，刚才我失态了。,"Sorry, My Lord. I lost my composure earlier."
+AvgCommunicate_57900_Content_6,abtD,avg通讯器聊天表_AvgCommunicate_A_M.csv,65,AvgCommunicate,Content,奥吉尔,不知道它还能传输什么呢。,I wonder what else it can send.
+AvgCommunicate_57900_Content_7,abtE,avg通讯器聊天表_AvgCommunicate_A_M.csv,66,AvgCommunicate,Content,玩家,还可以发图片！,You can also send images!
+AvgCommunicate_57900_Content_11,abty,avg通讯器聊天表_AvgCommunicate_A_M.csv,70,AvgCommunicate,Content,玩家,等等，我现在就过去教你。,Hold on. I'll come over and show you.
+AvgCommunicate_57596_Option_2,abrV,avg通讯器聊天表_AvgCommunicate_A_M.csv,72,AvgCommunicate,Option,玩家,我在宿舍。,I'm resting in my dorm room.
+AvgCommunicate_57596_Content_2,abrN,avg通讯器聊天表_AvgCommunicate_A_M.csv,72,AvgCommunicate,Content,玩家,我在宿舍休息，怎么了吗？,I'm resting in my dorm room. What's up?
+AvgCommunicate_57596_Content_3,abrO,avg通讯器聊天表_AvgCommunicate_A_M.csv,73,AvgCommunicate,Content,萝坦,休息？,Resting? Really?
+AvgCommunicate_57596_Content_4,abrP,avg通讯器聊天表_AvgCommunicate_A_M.csv,74,AvgCommunicate,Content,萝坦,昨天是谁跟我说今天中午要一起特训的？,Now WHO was the one that told me we'd be having special training together at noon today?
+AvgCommunicate_57596_Content_5,abrQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,75,AvgCommunicate,Content,萝坦,现在你说休息？,And now you're telling me you're RESTING?
+AvgCommunicate_57596_Option_6,abrZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,76,AvgCommunicate,Option,玩家,糟了……,Uh...
+AvgCommunicate_57596_Content_6,abrR,avg通讯器聊天表_AvgCommunicate_A_M.csv,76,AvgCommunicate,Content,玩家,糟了……,Uh...
+AvgCommunicate_57596_Option_7,absa,avg通讯器聊天表_AvgCommunicate_A_M.csv,77,AvgCommunicate,Option,玩家,你肯定记错了,You must have misremembered.
+AvgCommunicate_57596_Content_7,abrS,avg通讯器聊天表_AvgCommunicate_A_M.csv,77,AvgCommunicate,Content,玩家,你肯定记错了，肯定是艾尔瓦说的。,You must have misremembered. I'm pretty sure Alva was the one who was going to train with you.
+AvgCommunicate_57596_Content_8,abrT,avg通讯器聊天表_AvgCommunicate_A_M.csv,78,AvgCommunicate,Content,萝坦,好啊你这家伙，给我等着。,"Alright, that's it. Wait right there."
+AvgCommunicate_57899_Content_2,abte,avg通讯器聊天表_AvgCommunicate_A_M.csv,80,AvgCommunicate,Content,二十四,她上午说了句什么巧克力咔哒咔哒的，就跑了出去，一直到现在都没有回来。,"She mentioned something about ""chocolate crunch"" this morning and left. Now I can't find her."
+AvgCommunicate_57899_Content_6,abti,avg通讯器聊天表_AvgCommunicate_A_M.csv,84,AvgCommunicate,Content,二十四,礼物？,A gift?
+AvgCommunicate_57899_Content_7,abtj,avg通讯器聊天表_AvgCommunicate_A_M.csv,85,AvgCommunicate,Content,二十四,可是现在也不是什么节日，难道是我忘了……,But it's not even a holiday... right?
+AvgCommunicate_57899_Option_8,abtu,avg通讯器聊天表_AvgCommunicate_A_M.csv,86,AvgCommunicate,Option,玩家,我觉得……,Well...
+AvgCommunicate_57899_Content_8,abtk,avg通讯器聊天表_AvgCommunicate_A_M.csv,86,AvgCommunicate,Content,玩家,我觉得，有时候，礼物不一定是非要节日才能购买的。,"Well, you can someone buy a gift even if it's not a holiday."
+AvgCommunicate_57899_Content_9,abtl,avg通讯器聊天表_AvgCommunicate_A_M.csv,87,AvgCommunicate,Content,二十四,这样么……那我也准备点什么吧。,"Is that right... OK, then I'll get a gift for Jenkin too."
+AvgCommunicate_57901_Content_3,abtW,avg通讯器聊天表_AvgCommunicate_A_M.csv,91,AvgCommunicate,Content,诺缔拉,抱歉抱歉，我还不太会用键盘。,Sorry about that. I'm still getting used to using a keyboard.
+AvgCommunicate_57901_Option_4,abui,avg通讯器聊天表_AvgCommunicate_A_M.csv,92,AvgCommunicate,Option,玩家,多练习就好了。,Practice makes pefect. You'll figure it out in no time.
+AvgCommunicate_57901_Content_4,abtX,avg通讯器聊天表_AvgCommunicate_A_M.csv,92,AvgCommunicate,Content,玩家,没事，我一开始用的时候也磕磕绊绊的，多练习几次就好。,It's fine. I also made mistakes when I started out. Just keep practicing and you'll eventually figure it out.
+AvgCommunicate_57901_Content_5,abtY,avg通讯器聊天表_AvgCommunicate_A_M.csv,93,AvgCommunicate,Content,诺缔拉,唉，虽然是这样，但我怕我明天就忘记了。,"Yes, but... I'm afraid I'll forget everything I learned by tomorrow."
+AvgCommunicate_57901_Option_6,abuk,avg通讯器聊天表_AvgCommunicate_A_M.csv,94,AvgCommunicate,Option,玩家,那就多来几次！,Then do it even more!
+AvgCommunicate_57901_Content_6,abtZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,94,AvgCommunicate,Content,玩家,那就多来几次，总没问题的！,Then just do it even more! It'll be fine!
+AvgCommunicate_57901_Option_8,abum,avg通讯器聊天表_AvgCommunicate_A_M.csv,96,AvgCommunicate,Option,玩家,我不是艾尔瓦。,I'm not Alva.
+AvgCommunicate_57901_Content_8,abub,avg通讯器聊天表_AvgCommunicate_A_M.csv,96,AvgCommunicate,Content,玩家,……那个，我不是艾尔瓦。,Uh... I'm not Alva.
+AvgCommunicate_57901_Option_9,abun,avg通讯器聊天表_AvgCommunicate_A_M.csv,97,AvgCommunicate,Option,玩家,我是守密人。,"Actually, I'm the Keeper."
+AvgCommunicate_57901_Content_9,abuc,avg通讯器聊天表_AvgCommunicate_A_M.csv,97,AvgCommunicate,Content,玩家,我是守密人。,"Actually, I'm the Keeper."
+AvgCommunicate_57901_Content_11,abtU,avg通讯器聊天表_AvgCommunicate_A_M.csv,99,AvgCommunicate,Content,诺缔拉,这次我一定不会忘记了，一定！,I definitely won't forget next time! Definitely!
+AvgCommunicate_57904_Content_1,abuI,avg通讯器聊天表_AvgCommunicate_A_M.csv,100,AvgCommunicate,Content,宁菲亚,守密人，非常感谢您昨日送来疗养院的物资，也请替我谢谢德克斯特勋爵一直以来的资助。,"Keeper, thank you for bringing those supplies to the sanatorium yesterday. Please thank Lord Dexter for his continued support."
+AvgCommunicate_57904_Option_2,abuU,avg通讯器聊天表_AvgCommunicate_A_M.csv,101,AvgCommunicate,Option,玩家,这是我们应该做的。,No problem. It's what we should do.
+AvgCommunicate_57904_Content_2,abuK,avg通讯器聊天表_AvgCommunicate_A_M.csv,101,AvgCommunicate,Content,玩家,这是我们应该做的。,No problem. It's what we should do.
+AvgCommunicate_57904_Option_5,abuX,avg通讯器聊天表_AvgCommunicate_A_M.csv,104,AvgCommunicate,Option,玩家,一个人管理疗养院，你辛苦了。,It must be difficult having to manage the sanatorium all by yourself.
+AvgCommunicate_57904_Content_5,abuN,avg通讯器聊天表_AvgCommunicate_A_M.csv,104,AvgCommunicate,Content,玩家,一个人管理疗养院，你辛苦了。,It must be difficult having to manage the sanatorium all by yourself.
+AvgCommunicate_57904_Content_6,abuO,avg通讯器聊天表_AvgCommunicate_A_M.csv,105,AvgCommunicate,Content,宁菲亚,我做的事情不算什么。,"It's nothing, really."
+AvgCommunicate_57904_Content_9,abuR,avg通讯器聊天表_AvgCommunicate_A_M.csv,108,AvgCommunicate,Content,宁菲亚,我会打扫好院长的办公室等着你们。,I'll clean the dean's office and wait for you.
+AvgCommunicate_57904_Content_10,abuJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,109,AvgCommunicate,Content,宁菲亚,这也是我唯一能为那孩子做的了。,That's all I can do for her...
+AvgCommunicate_57909_Content_2,abwW,avg通讯器聊天表_AvgCommunicate_A_M.csv,111,AvgCommunicate,Content,莉莉,艾继丝和詹金、带来了两个圆圆的东西。,Aigis and Jenkin brought over two round things.
+AvgCommunicate_57909_Content_3,abwX,avg通讯器聊天表_AvgCommunicate_A_M.csv,112,AvgCommunicate,Content,莉莉,它们像脓疱一样，但轻轻的，里面空空的，会飘起来……,"They look like pustules, but they're light, hollow inside, and can float."
+AvgCommunicate_57909_Content_5,abwZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,114,AvgCommunicate,Content,莉莉,对，就是气球！,"Yes, it's a balloon!"
+AvgCommunicate_57909_Content_6,abxa,avg通讯器聊天表_AvgCommunicate_A_M.csv,115,AvgCommunicate,Content,莉莉,主人要来和莉莉一起玩气球吗？,"Master, would you like to come over and play with the balloons together with Lily?"
+AvgCommunicate_57909_Option_7,abxl,avg通讯器聊天表_AvgCommunicate_A_M.csv,116,AvgCommunicate,Option,玩家,好的，你在哪里？,Sure. Where are you?
+AvgCommunicate_57909_Content_7,abxb,avg通讯器聊天表_AvgCommunicate_A_M.csv,116,AvgCommunicate,Content,玩家,好的，你在哪里？,Sure. Where are you?
+AvgCommunicate_57909_Content_9,abxd,avg通讯器聊天表_AvgCommunicate_A_M.csv,118,AvgCommunicate,Content,莉莉,刚才、刚才……脓疱钻到气球里了……,Just now... one of the pustules crawled into the balloon... It's floating away...
+AvgCommunicate_57909_Content_10,abwV,avg通讯器聊天表_AvgCommunicate_A_M.csv,119,AvgCommunicate,Content,莉莉,在茜尔维亚这里，主人快一起来，救救脓疱……,"I'm at Sylvia's... Master, come over quickly and save them..."
+AvgCommunicate_57905_Content_1,abvc,avg通讯器聊天表_AvgCommunicate_A_M.csv,120,AvgCommunicate,Content,珈伦,叮叮~女仆珈伦的贴心小提示：你的早饭已经放在门口了哦！,Ding-ding~! Your wonderful Maid Karen here letting you know that your breakfast is at your door whenever you get up~!
+AvgCommunicate_57905_Option_2,abvs,avg通讯器聊天表_AvgCommunicate_A_M.csv,121,AvgCommunicate,Option,玩家,是不是你拿走了我的衣服？,Did you take my clothes!?
+AvgCommunicate_57905_Content_2,abvg,avg通讯器聊天表_AvgCommunicate_A_M.csv,121,AvgCommunicate,Content,玩家,你！是不是你拿走了我的衣服？,Hey! Did you take my clothes!?
+AvgCommunicate_57905_Content_3,abvh,avg通讯器聊天表_AvgCommunicate_A_M.csv,122,AvgCommunicate,Content,珈伦,哎呀主人，你怎么这么早就醒了？衣服还没干呢！,"Oh dear, Master. Why are you already awake? Your clothes haven't dried yet!"
+AvgCommunicate_57905_Option_4,abvu,avg通讯器聊天表_AvgCommunicate_A_M.csv,123,AvgCommunicate,Option,玩家,你拿去洗了？,"""Haven't dried yet""? Are you washing my clothes?"
+AvgCommunicate_57905_Content_4,abvi,avg通讯器聊天表_AvgCommunicate_A_M.csv,123,AvgCommunicate,Content,玩家,还没干？你是拿去洗了？,"""Haven't dried yet""? Are you washing my clothes?"
+AvgCommunicate_57905_Content_5,abvj,avg通讯器聊天表_AvgCommunicate_A_M.csv,124,AvgCommunicate,Content,珈伦,当然啦！一个合格的女仆怎么能坐视自己的主人穿着脏兮兮皱巴巴的衣服出门呢？,"Of course! As a qualified maid, I couldn't possibly let my Master go out wearing dirty, wrinkled clothing!"
+AvgCommunicate_57905_Content_6,abvk,avg通讯器聊天表_AvgCommunicate_A_M.csv,125,AvgCommunicate,Content,珈伦,所以人家特别一夜没睡，帮你把每一件衣服都洗得干、干、净、净、哦。,So I stayed up all~ night and washed all of your clothes tho~rough~ly~!
+AvgCommunicate_57905_Option_7,abvx,avg通讯器聊天表_AvgCommunicate_A_M.csv,126,AvgCommunicate,Option,玩家,倒是给我留一件！,Leave some clothes for me to wear at least!
+AvgCommunicate_57905_Content_7,abvl,avg通讯器聊天表_AvgCommunicate_A_M.csv,126,AvgCommunicate,Content,玩家,那也不能全洗了啊，你倒是给我留一件！,You can't just wash everything and leave nothing for me to wear!
+AvgCommunicate_57905_Content_8,abvm,avg通讯器聊天表_AvgCommunicate_A_M.csv,127,AvgCommunicate,Content,珈伦,主人身上不是还有一件嘛，说实话我是很想偷偷脱下来的，但主人睡觉的时候被子裹得好紧，害得人家都无从下手呢。,"Well, Master DOES still have some clothes. Honestly, I really wanted to wash that too, but... Master was wrapped up so snugly in bed that I couldn't take it off without waking you up~."
+AvgCommunicate_57905_Content_10,abvd,avg通讯器聊天表_AvgCommunicate_A_M.csv,129,AvgCommunicate,Content,珈伦,让我来！珈伦可是万能的女仆，从洗衣服到换锁到所有的一切都能完成！,"Oh, leave it to me! Karen is an all-purpose maid, capable of handling everything from laundry to lock changes or anything else~!"
+AvgCommunicate_57905_Option_11,abvq,avg通讯器聊天表_AvgCommunicate_A_M.csv,130,AvgCommunicate,Option,玩家,不！你别过来！,No! Do NOT come in my room!
+AvgCommunicate_57905_Content_11,abve,avg通讯器聊天表_AvgCommunicate_A_M.csv,130,AvgCommunicate,Content,玩家,不！你别过来！,No! Do NOT come in my room!
+AvgCommunicate_57905_Content_12,abvf,avg通讯器聊天表_AvgCommunicate_A_M.csv,131,AvgCommunicate,Content,珈伦,不要不好意思嘛！我马上就到哦~,Don't be so shy! I'll be there in a moment~!
+AvgCommunicate_57907_Content_2,abvY,avg通讯器聊天表_AvgCommunicate_A_M.csv,133,AvgCommunicate,Content,艾尔瓦,我……有点困惑。,I'm... a bit confused.
+AvgCommunicate_57907_Option_4,abwo,avg通讯器聊天表_AvgCommunicate_A_M.csv,135,AvgCommunicate,Option,玩家,开始压榨人了……！,"Exploiting you already, huh?"
+AvgCommunicate_57907_Content_4,abwa,avg通讯器聊天表_AvgCommunicate_A_M.csv,135,AvgCommunicate,Content,玩家,开始压榨人了……！,"Exploiting you already, huh?"
+AvgCommunicate_57907_Content_5,abwb,avg通讯器聊天表_AvgCommunicate_A_M.csv,136,AvgCommunicate,Content,艾尔瓦,哈哈哈，倒不是。是我提出想要帮忙，但，我也不知道自己能做什么。,"Hahaha... it's not like that. I'm the one that offered to help, but... I'm not sure what I can do to help..."
+AvgCommunicate_57907_Content_6,abwc,avg通讯器聊天表_AvgCommunicate_A_M.csv,137,AvgCommunicate,Content,艾尔瓦,我做了一辈子士兵，只会听从命令。就算是在勒姆瓦希，大多数时候我也不确定自己该做什么，能做什么。,"I've been a soldier my entire life; just following other people's orders. Even when I was in Remouahe, I was never really sure about what I should do."
+AvgCommunicate_57907_Content_7,abwd,avg通讯器聊天表_AvgCommunicate_A_M.csv,138,AvgCommunicate,Content,艾尔瓦,现在突然告诉我，我可以自己决定一切，这感觉……让我很陌生。,Suddenly being told to decide what to do myself... It's a new experience for me.
+AvgCommunicate_57907_Content_8,abwe,avg通讯器聊天表_AvgCommunicate_A_M.csv,139,AvgCommunicate,Content,艾尔瓦,朵尔小姐大概是担心我不适应，才会这么问的吧。,Miss Doll probably asked because she was worried that I wouldn't be able to adapt to civilian life.
+AvgCommunicate_57907_Content_9,abwf,avg通讯器聊天表_AvgCommunicate_A_M.csv,140,AvgCommunicate,Content,艾尔瓦,她虽然看上去冷漠，其实还是很体恤他人的。,"She may appear cold, but she's actually quite considerate of others."
+AvgCommunicate_57907_Option_10,abwh,avg通讯器聊天表_AvgCommunicate_A_M.csv,141,AvgCommunicate,Option,玩家,真是少见的评价。,Haven't heard that before.
+AvgCommunicate_57907_Content_10,abvT,avg通讯器聊天表_AvgCommunicate_A_M.csv,141,AvgCommunicate,Content,玩家,……真是少见的评价。,...Haven't heard that before.
+AvgCommunicate_57907_Content_11,abvU,avg通讯器聊天表_AvgCommunicate_A_M.csv,142,AvgCommunicate,Content,玩家,如果实在没有头绪的话，就从擅长的地方做起如何？,"Well, if you're still unsure, how about starting with what you're good at?"
+AvgCommunicate_57907_Content_12,abvV,avg通讯器聊天表_AvgCommunicate_A_M.csv,143,AvgCommunicate,Content,玩家,艾尔瓦在训练士兵上很有一手吧。,"Considering your background, I'd say you're quite skilled at training soldiers. Why not start there?"
+AvgCommunicate_57907_Content_13,abvW,avg通讯器聊天表_AvgCommunicate_A_M.csv,144,AvgCommunicate,Content,艾尔瓦,训练么，说的也是。或许……我知道了。,"Training, you say. That... could work."
+AvgCommunicate_57908_Content_1,abwu,avg通讯器聊天表_AvgCommunicate_A_M.csv,146,AvgCommunicate,Content,莱克,今晚十点，地下教室，绝密聚会，全新玩法，刺激体验，就等你来。,"Tonight at 10 o'clock, in the underground classroom: a secret party, a new game; an exciting experience awaits you!"
+AvgCommunicate_57908_Content_3,abwA,avg通讯器聊天表_AvgCommunicate_A_M.csv,148,AvgCommunicate,Content,莱克,哎呀，好像点错了群发的对象。,"Oops, it seems I sent this message to the wrong person."
+AvgCommunicate_57908_Option_4,abwO,avg通讯器聊天表_AvgCommunicate_A_M.csv,149,AvgCommunicate,Option,玩家,你绝对又在做什么违法的事吧！,You're doing something illegal again aren't you?!
+AvgCommunicate_57908_Content_4,abwB,avg通讯器聊天表_AvgCommunicate_A_M.csv,149,AvgCommunicate,Content,玩家,你绝对又在做什么违法的事吧！,You're doing something illegal again aren't you?!
+AvgCommunicate_57908_Content_5,abwC,avg通讯器聊天表_AvgCommunicate_A_M.csv,150,AvgCommunicate,Content,莱克,怎么会呢，只是大家课余时间一点放松的小娱乐而已。,"Whaaaat? No, no, not at all! It's just a bit of light entertainment for everyone to relax during their off time."
+AvgCommunicate_57908_Content_6,abwD,avg通讯器聊天表_AvgCommunicate_A_M.csv,151,AvgCommunicate,Content,莱克,当然也非常欢迎守密人一起来玩，我会很期待的。,"You're welcome to join us as well, Keeper. I'd love to go a few rounds with you."
+AvgCommunicate_57908_Option_7,abwR,avg通讯器聊天表_AvgCommunicate_A_M.csv,152,AvgCommunicate,Option,玩家,我看起来像傻子吗？,Do I look like a idiot?
+AvgCommunicate_57908_Content_7,abwE,avg通讯器聊天表_AvgCommunicate_A_M.csv,152,AvgCommunicate,Content,玩家,我看起来很像傻子吗，我是不会和你“玩”这个的。,"Do I look like an idiot? I won't ""play"" with you."
+AvgCommunicate_57908_Content_8,abwF,avg通讯器聊天表_AvgCommunicate_A_M.csv,153,AvgCommunicate,Content,莱克,我哪有那么可怕，对自己自信一点嘛。,"Hey now, I'm not THAT scary. You should have more confidence in yourself!"
+AvgCommunicate_57908_Option_9,abwT,avg通讯器聊天表_AvgCommunicate_A_M.csv,154,AvgCommunicate,Option,玩家,总之我就当没看见。,Whatever. I'll just pretend I didn't see that message.
+AvgCommunicate_57908_Content_9,abwG,avg通讯器聊天表_AvgCommunicate_A_M.csv,154,AvgCommunicate,Content,玩家,总之我就当没看见。,Whatever. I'll just pretend I didn't see that message.
+AvgCommunicate_57908_Option_10,abwI,avg通讯器聊天表_AvgCommunicate_A_M.csv,155,AvgCommunicate,Option,玩家,没有反手举报我已经很讲情分了。,Be grateful I didn't decide to report you.
+AvgCommunicate_57908_Content_10,abwv,avg通讯器聊天表_AvgCommunicate_A_M.csv,155,AvgCommunicate,Content,玩家,没有反手举报我已经很讲情分了。,Be grateful I didn't decide to report you.
+AvgCommunicate_57908_Content_11,abww,avg通讯器聊天表_AvgCommunicate_A_M.csv,156,AvgCommunicate,Content,玩家,你低调点，小心下次发到朵尔那里，你就等着去喝咖啡吧。,"Be more careful next time, or your message might find its way to Miss Doll and you'll get to have a secret party in an underground cell."
+AvgCommunicate_57908_Content_12,abwx,avg通讯器聊天表_AvgCommunicate_A_M.csv,157,AvgCommunicate,Content,莱克,谢谢体贴的华生~,"Thanks for the advice, my thoughtful Watson~."
+AvgCommunicate_57908_Content_13,abwy,avg通讯器聊天表_AvgCommunicate_A_M.csv,158,AvgCommunicate,Content,莱克,什么时候改变主意了可以随时来玩哦。,"If you ever change your mind, you know where I'll be~."
+AvgCommunicate_57906_Content_1,abvA,avg通讯器聊天表_AvgCommunicate_A_M.csv,159,AvgCommunicate,Content,潘狄娅,呀，让我看看这是什么好东西。,Mmm... let me see if this thing works...
+AvgCommunicate_57906_Content_2,abvB,avg通讯器聊天表_AvgCommunicate_A_M.csv,160,AvgCommunicate,Content,潘狄娅,有欲求不满的家伙想念我的小皮鞭了？,Is there someone out there who's unfulfilled and needs a little bit of my whip?
+AvgCommunicate_57906_Content_4,abvD,avg通讯器聊天表_AvgCommunicate_A_M.csv,162,AvgCommunicate,Content,潘狄娅,别害羞嘛，不要掩藏自己内心深处的欲望。,Don't be shy! Don't hide your desires!
+AvgCommunicate_57906_Content_5,abvE,avg通讯器聊天表_AvgCommunicate_A_M.csv,163,AvgCommunicate,Content,潘狄娅,顺从它，释放它，点燃它！,Yield to them! Free them! Let them run wild!
+AvgCommunicate_57906_Content_6,abvF,avg通讯器聊天表_AvgCommunicate_A_M.csv,164,AvgCommunicate,Content,潘狄娅,在疼痛里尽情叫喊吧！,LET LOOSE YOUR DESIRES!
+AvgCommunicate_57906_Option_7,abvP,avg通讯器聊天表_AvgCommunicate_A_M.csv,165,AvgCommunicate,Option,玩家,我要关机了。,...I'm turning my phone off.
+AvgCommunicate_57906_Content_7,abvG,avg通讯器聊天表_AvgCommunicate_A_M.csv,165,AvgCommunicate,Content,玩家,我要关机了。,...I'm turning my phone off.
+AvgCommunicate_57906_Content_8,abvH,avg通讯器聊天表_AvgCommunicate_A_M.csv,166,AvgCommunicate,Content,潘狄娅,难得有这么方便又私密的联系方式，别害怕，没人会知道的。,It's quite rare to find such a convenient and private way to talk with you. Don't be afraid; it's our little secret.
+AvgCommunicate_57906_Content_9,abvI,avg通讯器聊天表_AvgCommunicate_A_M.csv,167,AvgCommunicate,Content,潘狄娅,随时可以找我提供上门服务哦！,"If you ever need some private service, you can call me over anytime!"
+AvgCommunicate_57903_Content_3,abur,avg通讯器聊天表_AvgCommunicate_A_M.csv,170,AvgCommunicate,Content,玩家,看来你收到最新的通讯器了，你觉得怎么样？,Looks like you've received the latest communicator. How is it?
+AvgCommunicate_57903_Content_4,abus,avg通讯器聊天表_AvgCommunicate_A_M.csv,171,AvgCommunicate,Content,萨尔瓦多,很有意思，也很方便。尽管相隔百里，我们仍能像面对面一般交流。,"It's very interesting and convenient. Even though we are hundreds of miles away, we can still communicate as if we were face-to-face."
+AvgCommunicate_57903_Content_5,abut,avg通讯器聊天表_AvgCommunicate_A_M.csv,172,AvgCommunicate,Content,萨尔瓦多,如果全世界都能拥有这样的装置，人与人之间的距离一定也不会像现在这样遥远吧。,"If the whole world had such devices, the distance between people would not be as vast as it is now."
+AvgCommunicate_57903_Content_6,abuu,avg通讯器聊天表_AvgCommunicate_A_M.csv,173,AvgCommunicate,Content,萨尔瓦多,不过我明白的，这个技术的特殊性——你知道它是通过与其他精神建立链接来传递信息的吗？,"But I understand the uniqueness of this technology—you know it transmits information by connecting our spirits, right?"
+AvgCommunicate_57903_Option_7,abuF,avg通讯器聊天表_AvgCommunicate_A_M.csv,174,AvgCommunicate,Option,玩家,我只知道里面有银芯。,I only know there's a Silver Core inside.
+AvgCommunicate_57903_Content_7,abuv,avg通讯器聊天表_AvgCommunicate_A_M.csv,174,AvgCommunicate,Content,玩家,我只知道里面有银芯。,I only know there's a Silver Core inside.
+AvgCommunicate_57903_Option_8,abuG,avg通讯器聊天表_AvgCommunicate_A_M.csv,175,AvgCommunicate,Option,玩家,你是看到了吗？,Did you find out how it works?
+AvgCommunicate_57903_Content_8,abuw,avg通讯器聊天表_AvgCommunicate_A_M.csv,175,AvgCommunicate,Content,玩家,你是看到了吗？,Did you find out how it works?
+AvgCommunicate_57903_Content_9,abux,avg通讯器聊天表_AvgCommunicate_A_M.csv,176,AvgCommunicate,Content,萨尔瓦多,正是如此，我们的精神与银芯相连，银芯则与其他同类装置中的银芯相连。,"Indeed. Our spirits connect to a Silver Core, which is then linked to the Cores in other similar devices."
+AvgCommunicate_57903_Content_10,abup,avg通讯器聊天表_AvgCommunicate_A_M.csv,177,AvgCommunicate,Content,萨尔瓦多,不得不说，非常精妙。,"I must say, it is quite ingenious."
+AvgCommunicate_57915_Content_2,abzE,avg通讯器聊天表_AvgCommunicate_A_M.csv,179,AvgCommunicate,Content,索蕾尔,有内幕消息。,I have insider information...
+AvgCommunicate_57915_Content_3,abzF,avg通讯器聊天表_AvgCommunicate_A_M.csv,180,AvgCommunicate,Content,索蕾尔,事关肖尔迪奇猎场所有权归属以及租赁转让事宜。,...in regards to the ownership and lease transfer of the Shoreditch Hunting Grounds.
+AvgCommunicate_57915_Content_6,abzI,avg通讯器聊天表_AvgCommunicate_A_M.csv,183,AvgCommunicate,Content,索蕾尔,抱歉，不小心发错人了。希望这些大人的无聊琐事没有打扰到你的心情。,Sorry. I accidentally sent it to the wrong person. I hope this boring adult matter didn't bother you.
+AvgCommunicate_57915_Option_7,abAb,avg通讯器聊天表_AvgCommunicate_A_M.csv,184,AvgCommunicate,Option,玩家,别太见外，我想听内幕。,Don't stop now. I want to hear more!
+AvgCommunicate_57915_Content_7,abzJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,184,AvgCommunicate,Content,玩家,别太见外，我想听内幕。,Don't stop now. I want to hear more!
+AvgCommunicate_57915_Content_9,abzL,avg通讯器聊天表_AvgCommunicate_A_M.csv,186,AvgCommunicate,Content,索蕾尔,如果你真的有兴趣的话……我倒是留了一小片蔷薇园，可以免费赠予你。,If you're interested... I happen to have a small rose garden that I can give you. No charge.
+AvgCommunicate_57915_Content_11,abzw,avg通讯器聊天表_AvgCommunicate_A_M.csv,188,AvgCommunicate,Content,玩家,很遗憾，索蕾尔夫人。守密人不能接受任何价值超过■■的礼物，不管作何用途。,"Unfortunately, Ms. Sorel... As a Keeper, I cannot accept any gifts valued over ■■, no matter what the reason may be."
+AvgCommunicate_57915_Content_12,abzx,avg通讯器聊天表_AvgCommunicate_A_M.csv,189,AvgCommunicate,Content,索蕾尔,真是死板的规定。本想找一个值得信赖的人代为打理蔷薇……,What a rigid rule. I wanted someone I could trust to tend the roses...
+AvgCommunicate_57915_Option_13,abzQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,190,AvgCommunicate,Option,玩家,小菜一碟！交给我吧~,No problem! Leave it to me~.
+AvgCommunicate_57915_Content_13,abzy,avg通讯器聊天表_AvgCommunicate_A_M.csv,190,AvgCommunicate,Content,玩家,打理蔷薇？小菜一碟！交给我吧~,Tending roses? No problem! Leave it to me~.
+AvgCommunicate_57915_Content_14,abzz,avg通讯器聊天表_AvgCommunicate_A_M.csv,191,AvgCommunicate,Content,玩家,前提是没有课程和任务的时候。,As long as you aren't busy with your classes or missions.
+AvgCommunicate_57915_Content_16,abzB,avg通讯器聊天表_AvgCommunicate_A_M.csv,193,AvgCommunicate,Content,索蕾尔,你有一颗蔷薇般柔软的心，守密人%player%%sirormadam%。,"Your heart is as beautiful as a rose, {Male=Mr.,Female=Miss} %player%."
+AvgCommunicate_57999_Option_2,abIU,avg通讯器聊天表_AvgCommunicate_A_M.csv,197,AvgCommunicate,Option,玩家,有什么事吗，小艾继丝？,"What's up, little Aigis?"
+AvgCommunicate_57999_Content_3,abIK,avg通讯器聊天表_AvgCommunicate_A_M.csv,198,AvgCommunicate,Content,艾继丝,艾继丝做了糖果，想在下午的茶会分给大家…,Aigis made candies she wanted to share at the afternoon tea party...
+AvgCommunicate_57999_Content_4,abIL,avg通讯器聊天表_AvgCommunicate_A_M.csv,199,AvgCommunicate,Content,艾继丝,守密人没空的话，我悄悄给你留一点…,"If the Keeper is busy, I can secretly set some aside for you..."
+AvgCommunicate_57999_Option_5,abIX,avg通讯器聊天表_AvgCommunicate_A_M.csv,200,AvgCommunicate,Option,玩家,我会认真品尝的。,I'd love that.
+AvgCommunicate_57999_Content_5,abIM,avg通讯器聊天表_AvgCommunicate_A_M.csv,200,AvgCommunicate,Content,玩家,谢谢你，小艾继丝，我会认真品尝的。,"Thank you, little Aigis. I'd love that."
+AvgCommunicate_57999_Content_6,abIN,avg通讯器聊天表_AvgCommunicate_A_M.csv,201,AvgCommunicate,Content,艾继丝,喂，你这家伙，怎么敢这么对待艾继丝精心准备的礼物！,"Hey, you! How dare you brush aside Aigis's invitation like that!"
+AvgCommunicate_57999_Content_8,abIP,avg通讯器聊天表_AvgCommunicate_A_M.csv,203,AvgCommunicate,Content,艾继丝,听着，下午的差会上钥匙看不到你，我就让布朗把糖果全部偷走！,"Listen up! If I don't see you at the tea party this afternoon, I'll have Brown steal all your candy!"
+AvgCommunicate_58021_Content_5,abJC,avg通讯器聊天表_AvgCommunicate_A_M.csv,211,AvgCommunicate,Content,泰旖丝,哼哼，这就甘拜下风了？,Giving up so soon?
+AvgCommunicate_58021_Option_6,abJM,avg通讯器聊天表_AvgCommunicate_A_M.csv,212,AvgCommunicate,Option,玩家,为什么……,How..?
+AvgCommunicate_58021_Content_6,abJD,avg通讯器聊天表_AvgCommunicate_A_M.csv,212,AvgCommunicate,Content,玩家,为什么，为什么来自原始部族的女王……,How could a queen from an ancient tribe...
+AvgCommunicate_58021_Content_7,abJE,avg通讯器聊天表_AvgCommunicate_A_M.csv,213,AvgCommunicate,Content,玩家,牌技比现代人还要精湛啊……,...have card skills better than even a modern day person?!
+AvgCommunicate_58021_Content_8,abJF,avg通讯器聊天表_AvgCommunicate_A_M.csv,214,AvgCommunicate,Content,泰旖丝,我能告诉你的只有，这都是熟能生巧，亲爱的小家伙。,"All I can say is that practice makes perfect, my dear little one."
+AvgCommunicate_58021_Content_9,abJG,avg通讯器聊天表_AvgCommunicate_A_M.csv,215,AvgCommunicate,Content,泰旖丝,等你到我这个年纪的时候，自然就知道了~,"When you reach my age, you'll understand~."
+AvgCommunicate_57918_Content_1,abAO,avg通讯器聊天表_AvgCommunicate_A_M.csv,216,AvgCommunicate,Content,希洛,为什么要给我这个。,Why are you giving me this?
+AvgCommunicate_57918_Content_2,abAR,avg通讯器聊天表_AvgCommunicate_A_M.csv,217,AvgCommunicate,Content,希洛,这是什么新的监视手段吗？,Is this your way of keeping track of me?
+AvgCommunicate_57918_Option_3,abBd,avg通讯器聊天表_AvgCommunicate_A_M.csv,218,AvgCommunicate,Option,玩家,只是方便联络的工具。,It's just a communication tool.
+AvgCommunicate_57918_Content_3,abAS,avg通讯器聊天表_AvgCommunicate_A_M.csv,218,AvgCommunicate,Content,玩家,只是方便联络的工具。,It's just a communication tool.
+AvgCommunicate_57918_Content_4,abAT,avg通讯器聊天表_AvgCommunicate_A_M.csv,219,AvgCommunicate,Content,玩家,如果你需要帮助的话，只要在这里告诉我，我们会立刻出发。,"If you ever need my help, just send me a message and I'll rush to your side."
+AvgCommunicate_57918_Content_9,abAY,avg通讯器聊天表_AvgCommunicate_A_M.csv,224,AvgCommunicate,Content,玩家,难以相信，你竟然会发这种图片。,It's hard to believe you would send that kind of image.
+AvgCommunicate_57911_Option_2,abxK,avg通讯器聊天表_AvgCommunicate_A_M.csv,228,AvgCommunicate,Option,玩家,朋友召唤器。,It's a communicator.
+AvgCommunicate_57911_Content_2,abxv,avg通讯器聊天表_AvgCommunicate_A_M.csv,228,AvgCommunicate,Content,玩家,朋友召唤器，如果你需要帮忙就用这个找我。,"It's a communicator. If you ever need help, you can use this to reach me."
+AvgCommunicate_57911_Content_3,abxw,avg通讯器聊天表_AvgCommunicate_A_M.csv,229,AvgCommunicate,Content,本源希洛,不需要。,Unnecessary.
+AvgCommunicate_57911_Option_4,abxM,avg通讯器聊天表_AvgCommunicate_A_M.csv,230,AvgCommunicate,Option,玩家,不需要帮忙？,You don't need help?
+AvgCommunicate_57911_Content_4,abxx,avg通讯器聊天表_AvgCommunicate_A_M.csv,230,AvgCommunicate,Content,玩家,不需要帮忙？还是不需要朋友？,"You don't need help, or you don't want to talk to me?"
+AvgCommunicate_57911_Option_5,abxN,avg通讯器聊天表_AvgCommunicate_A_M.csv,231,AvgCommunicate,Option,玩家,还是不需要朋友？,Don't want to talk to me?
+AvgCommunicate_57911_Content_5,abxy,avg通讯器聊天表_AvgCommunicate_A_M.csv,231,AvgCommunicate,Content,玩家,不需要帮忙？还是不需要朋友？,"You don't need help, or you don't want to talk to me?"
+AvgCommunicate_57911_Content_6,abxz,avg通讯器聊天表_AvgCommunicate_A_M.csv,232,AvgCommunicate,Content,本源希洛,都。,Both.
+AvgCommunicate_57911_Option_7,abxP,avg通讯器聊天表_AvgCommunicate_A_M.csv,233,AvgCommunicate,Option,玩家,万一有一天你会需要呢？,But what if you do need help one day?
+AvgCommunicate_57911_Content_7,abxA,avg通讯器聊天表_AvgCommunicate_A_M.csv,233,AvgCommunicate,Content,玩家,万一有一天你会需要呢？先拿着嘛。,But what if you do need help one day? Keep it just in case.
+AvgCommunicate_57911_Content_8,abxB,avg通讯器聊天表_AvgCommunicate_A_M.csv,234,AvgCommunicate,Content,本源希洛,没有那一天。,That day will never come.
+AvgCommunicate_57911_Content_9,abxC,avg通讯器聊天表_AvgCommunicate_A_M.csv,235,AvgCommunicate,Content,本源希洛,我要扔掉了。,I'm throwing this away.
+AvgCommunicate_57911_Option_10,abxE,avg通讯器聊天表_AvgCommunicate_A_M.csv,236,AvgCommunicate,Option,玩家,研发成本很贵的！,Don't! The R&D costs are too much to waste like that!
+AvgCommunicate_57911_Content_10,abxp,avg通讯器聊天表_AvgCommunicate_A_M.csv,236,AvgCommunicate,Content,玩家,别啊！研发成本很贵的！,Don't! The R&D costs are too much to waste like that!
+AvgCommunicate_57911_Content_11,abxq,avg通讯器聊天表_AvgCommunicate_A_M.csv,237,AvgCommunicate,Content,玩家,起码告诉我扔在哪里我去捡啊！,At least tell me where your going to throw it so I can go get it!
+AvgCommunicate_57911_Content_13,abxs,avg通讯器聊天表_AvgCommunicate_A_M.csv,239,AvgCommunicate,Content,玩家,不会已经扔了吧……,"...You haven't thrown it away already, have you...?"
+AvgCommunicate_57912_Content_5,abyb,avg通讯器聊天表_AvgCommunicate_A_M.csv,246,AvgCommunicate,Content,尤乌哈希,来看我你打架。,Come watch me fight.
+AvgCommunicate_57912_Content_6,abyc,avg通讯器聊天表_AvgCommunicate_A_M.csv,247,AvgCommunicate,Content,尤乌哈希,好玩这局真#¥……快！,Hurry up... the round's starting so#¥!
+AvgCommunicate_57912_Option_7,abyr,avg通讯器聊天表_AvgCommunicate_A_M.csv,248,AvgCommunicate,Option,玩家,看样子通讯器又坏了。,Looks like the communicator broke again.
+AvgCommunicate_57912_Content_7,abyd,avg通讯器聊天表_AvgCommunicate_A_M.csv,248,AvgCommunicate,Content,玩家,……看样子通讯器又坏了，回头找艾瑞卡小姐修一下。,...Looks like the communicator broke again. I'll ask Miss Erica to fix it later.
+AvgCommunicate_57912_Content_9,abyf,avg通讯器聊天表_AvgCommunicate_A_M.csv,250,AvgCommunicate,Content,尤乌哈希,急死人了！大伙都等着开赛呢！,Everyone's been waiting for the round to start. It's driving me mad! So I'm sending this message for him.
+AvgCommunicate_57912_Content_10,abxT,avg通讯器聊天表_AvgCommunicate_A_M.csv,251,AvgCommunicate,Content,尤乌哈希,长话短说，他希望你下午5点能去鳟鱼俱乐部看他表演拳@#¥%,"Long story short, he wants you to come to the Trout Club today at 5 PM to watch him fi@#¥%—"
+AvgCommunicate_57916_Content_1,abAe,avg通讯器聊天表_AvgCommunicate_A_M.csv,256,AvgCommunicate,Content,雷娅,（检测到该信息包含不良引导暗示，已删除）,(This message has been deleted due to inappropriate content.)
+AvgCommunicate_57916_Content_2,abAi,avg通讯器聊天表_AvgCommunicate_A_M.csv,257,AvgCommunicate,Content,雷娅,（检测到该信息包含不良引导暗示，已删除）,(This message has been deleted due to inappropriate content.)
+AvgCommunicate_57916_Content_4,abAk,avg通讯器聊天表_AvgCommunicate_A_M.csv,259,AvgCommunicate,Content,雷娅,真遗憾，这个通讯器似乎不太适合我。,What a pity. This communicator doesn't seem to be working for me...
+AvgCommunicate_57916_Content_5,abAl,avg通讯器聊天表_AvgCommunicate_A_M.csv,260,AvgCommunicate,Content,雷娅,我现在迫不及待了，要把这些话当面讲给你听。守密人%player%，我能拜访你的宿舍吗？,"I can't wait any longer; I need to tell you this in person. Keeper %player%, may I visit your dorm?"
+AvgCommunicate_57916_Option_7,abAz,avg通讯器聊天表_AvgCommunicate_A_M.csv,262,AvgCommunicate,Option,玩家,我害怕,Absolutely not.
+AvgCommunicate_57916_Content_7,abAn,avg通讯器聊天表_AvgCommunicate_A_M.csv,262,AvgCommunicate,Content,玩家,我害怕,Absolutely not.
+AvgCommunicate_57916_Content_8,abAo,avg通讯器聊天表_AvgCommunicate_A_M.csv,263,AvgCommunicate,Content,雷娅,真令人遗憾……可我已经站在你的门口了。,What a shame... but I'm already at your door.
+AvgCommunicate_57916_Content_10,abAf,avg通讯器聊天表_AvgCommunicate_A_M.csv,265,AvgCommunicate,Content,玩家,什么时候……,When did y...
+AvgCommunicate_57920_Content_1,abBy,avg通讯器聊天表_AvgCommunicate_A_M.csv,268,AvgCommunicate,Content,菲茵特,你看到了吗？,Have you seen it?
+AvgCommunicate_57920_Content_4,abBB,avg通讯器聊天表_AvgCommunicate_A_M.csv,271,AvgCommunicate,Content,菲茵特,是的，小小的，一点点，但是那么坚强……,"Yes... they're small, but so resilient..."
+AvgCommunicate_57920_Content_5,abBC,avg通讯器聊天表_AvgCommunicate_A_M.csv,272,AvgCommunicate,Content,菲茵特,你说，我的那些种子也能开出一样的花吗？,Do you think my seeds can bloom like them too?
+AvgCommunicate_57917_Content_1,abAC,avg通讯器聊天表_AvgCommunicate_A_M.csv,274,AvgCommunicate,Content,阿格里帕,不准你再过来了！,Never come back here again!
+AvgCommunicate_57917_Option_3,abAK,avg通讯器聊天表_AvgCommunicate_A_M.csv,276,AvgCommunicate,Option,玩家,作业是不能不做的。,You have to do your homework...
+AvgCommunicate_57917_Content_3,abAE,avg通讯器聊天表_AvgCommunicate_A_M.csv,276,AvgCommunicate,Content,玩家,作业是不能不做的。,You have to do your homework...
+AvgCommunicate_57917_Option_4,abAL,avg通讯器聊天表_AvgCommunicate_A_M.csv,277,AvgCommunicate,Option,玩家,这是大家对你的关心啊。,Everyone's worried about you...
+AvgCommunicate_57917_Content_4,abAF,avg通讯器聊天表_AvgCommunicate_A_M.csv,277,AvgCommunicate,Content,玩家,这是大家对你的关心啊。,Everyone's worried about you...
+AvgCommunicate_57917_Content_5,abAG,avg通讯器聊天表_AvgCommunicate_A_M.csv,278,AvgCommunicate,Content,阿格里帕,啊啊啊啊闭嘴！我要把这些破纸片子都撕掉，撕掉！,"Ahhh, shut up shut up shut up! I'm going to tear all these useless papers to shreds! Shreds!"
+AvgCommunicate_57917_Content_6,abAH,avg通讯器聊天表_AvgCommunicate_A_M.csv,279,AvgCommunicate,Content,阿格里帕,下次你要是再带着一箱子作业来，我就把你关到迷宫里去！,"If you bring me another box of assignments, I'll lock you in the maze!"
+AvgCommunicate_57919_Option_2,abBs,avg通讯器聊天表_AvgCommunicate_A_M.csv,281,AvgCommunicate,Option,玩家,好啊。,Sure.
+AvgCommunicate_57919_Content_2,abBl,avg通讯器聊天表_AvgCommunicate_A_M.csv,281,AvgCommunicate,Content,玩家,好啊，奥瑞塔想去哪里？,Sure. Where does Aurita want to go?
+AvgCommunicate_57919_Content_3,abBm,avg通讯器聊天表_AvgCommunicate_A_M.csv,282,AvgCommunicate,Content,奥瑞塔,伙伴说想去有水的地方！,My friend said they want to go to a place with water!
+AvgCommunicate_57919_Option_4,abBu,avg通讯器聊天表_AvgCommunicate_A_M.csv,283,AvgCommunicate,Option,玩家,水啊……,A place with water..?
+AvgCommunicate_57919_Content_4,abBn,avg通讯器聊天表_AvgCommunicate_A_M.csv,283,AvgCommunicate,Content,玩家,水啊……海边怎么样？我正好今天休息。,A place with water..? How about the beach? I'm free today.
+AvgCommunicate_57919_Content_5,abBo,avg通讯器聊天表_AvgCommunicate_A_M.csv,284,AvgCommunicate,Content,奥瑞塔,好耶好耶，那我能不能叫上詹金他们？,"Great! Oh, but can I invite Jenkin and the others too?"
+AvgCommunicate_57919_Option_6,abBw,avg通讯器聊天表_AvgCommunicate_A_M.csv,285,AvgCommunicate,Option,玩家,可以呀，一会儿在校门口见。,Go ahead. Let's meet at the school gate later.
+AvgCommunicate_57919_Content_6,abBp,avg通讯器聊天表_AvgCommunicate_A_M.csv,285,AvgCommunicate,Content,玩家,可以呀，一会儿在校门口见。,Go ahead. Let's meet at the school gate later.
+AvgCommunicate_57919_Content_7,abBq,avg通讯器聊天表_AvgCommunicate_A_M.csv,286,AvgCommunicate,Content,奥瑞塔,好的！海边海边——出发——,"Alright! The beach~, the beach~, let's go—!"
+AvgCommunicate_57914_Content_1,abyE,avg通讯器聊天表_AvgCommunicate_A_M.csv,292,AvgCommunicate,Content,墨菲（唤醒体）,真是气人！,How frustrating!
+AvgCommunicate_57914_Option_2,abzk,avg通讯器聊天表_AvgCommunicate_A_M.csv,293,AvgCommunicate,Option,玩家,怎么了？,What's wrong?
+AvgCommunicate_57914_Content_2,abyP,avg通讯器聊天表_AvgCommunicate_A_M.csv,293,AvgCommunicate,Content,玩家,怎么了？,What's wrong?
+AvgCommunicate_57914_Content_3,abyS,avg通讯器聊天表_AvgCommunicate_A_M.csv,294,AvgCommunicate,Content,墨菲（唤醒体）,我明明已经提前半个小时去排队了，半个小时，为什么轮到我的时候小蛋糕还是没了啊？,"I stood in line for over 30 minutes, yet the cupcakes I wanted had already sold out before I got to the front!"
+AvgCommunicate_57914_Content_4,abyT,avg通讯器聊天表_AvgCommunicate_A_M.csv,295,AvgCommunicate,Content,墨菲（唤醒体）,这学校里就这么多一大早搬凳子过去排的闲人吗？,Are there really so many people in this school with nothing better to do than to line up so early in the morning?!
+AvgCommunicate_57914_Option_5,abzp,avg通讯器聊天表_AvgCommunicate_A_M.csv,296,AvgCommunicate,Option,玩家,其实……,Well...
+AvgCommunicate_57914_Content_5,abyU,avg通讯器聊天表_AvgCommunicate_A_M.csv,296,AvgCommunicate,Content,玩家,其实……,Well...
+AvgCommunicate_57914_Content_6,abyV,avg通讯器聊天表_AvgCommunicate_A_M.csv,297,AvgCommunicate,Content,墨菲（唤醒体）,……你这反应什么意思。,"...What do you mean, ""well...""?"
+AvgCommunicate_57914_Content_7,abyW,avg通讯器聊天表_AvgCommunicate_A_M.csv,298,AvgCommunicate,Content,墨菲（唤醒体）,难道说你买到了？！,Wait a minute... Did you ACTUALLY BUY IT?!
+AvgCommunicate_57914_Option_8,abzs,avg通讯器聊天表_AvgCommunicate_A_M.csv,299,AvgCommunicate,Option,玩家,那还用说？排了我好久。,Guess you could say I also waited in line for a while...
+AvgCommunicate_57914_Content_8,abyX,avg通讯器聊天表_AvgCommunicate_A_M.csv,299,AvgCommunicate,Content,玩家,那还用说？排了我好久。,Guess you could say I also waited in line for a while...
+AvgCommunicate_57914_Option_9,abzt,avg通讯器聊天表_AvgCommunicate_A_M.csv,300,AvgCommunicate,Option,玩家,我就是一大早搬凳子去排队的闲人。,I too am someone with nothing better to do then stand in a line early in the morning...
+AvgCommunicate_57914_Content_9,abyY,avg通讯器聊天表_AvgCommunicate_A_M.csv,300,AvgCommunicate,Content,玩家,我就是一大早搬凳子去排队的闲人。,I too am someone with nothing better to do then stand in a line early in the morning...
+AvgCommunicate_57914_Content_12,abyH,avg通讯器聊天表_AvgCommunicate_A_M.csv,303,AvgCommunicate,Content,墨菲（唤醒体）,你在队头买走整整一打小蛋糕的时候，一定没想到我就在队尾看着吧。,"When you bought a whole dozen cupcakes, I bet you weren't expecting me to be watching from the back, did you?"
+AvgCommunicate_57914_Content_13,abyI,avg通讯器聊天表_AvgCommunicate_A_M.csv,304,AvgCommunicate,Content,墨菲（唤醒体）,现在，快把蛋糕送到我寝室来！不然我就把你翘课的事情告诉——,Now send those cupcakes to my dorm! Or I'll tell your teachers about the classes you skip—
+AvgCommunicate_57914_Content_16,abyL,avg通讯器聊天表_AvgCommunicate_A_M.csv,307,AvgCommunicate,Content,墨菲（唤醒体）,刚刚有人敲门，给我送来了小蛋糕。,Someone just left some cupcakes at my door.
+AvgCommunicate_57914_Option_18,abzi,avg通讯器聊天表_AvgCommunicate_A_M.csv,309,AvgCommunicate,Option,玩家,是个惊喜哦。,Surprise.
+AvgCommunicate_57914_Content_18,abyN,avg通讯器聊天表_AvgCommunicate_A_M.csv,309,AvgCommunicate,Content,玩家,是个惊喜哦。,Surprise.
+AvgCommunicate_57914_Content_19,abyO,avg通讯器聊天表_AvgCommunicate_A_M.csv,310,AvgCommunicate,Content,墨菲（唤醒体）,耍小聪明的家伙……好吧，既然这样，我就帮你保守秘密吧。,"Smartass... Fine, I won't tell anyone about what you did this morning."
+AvgCommunicate_57914_Content_20,abyQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,311,AvgCommunicate,Content,墨菲（唤醒体）,不过你买得也太多了吧，我一个人怎么吃的完？快过来陪我吃，我会准备好茶的。,"But you've bought so much! How could I possibly eat all of it? Come, join me. I'll even prepare some tea."
+AvgCommunicate_57959_Content_2,abCR,avg通讯器聊天表_AvgCommunicate_A_M.csv,314,AvgCommunicate,Content,玩家,你怎么也有一个通讯器？,"First off, my name isn't ""Hey."" Where did you get a communicator?!"
+AvgCommunicate_57959_Option_3,abDd,avg通讯器聊天表_AvgCommunicate_A_M.csv,315,AvgCommunicate,Option,玩家,其次，你怎么也有一个通讯器？,"Don't just casually say ""Hey.""!"
+AvgCommunicate_57959_Content_3,abCS,avg通讯器聊天表_AvgCommunicate_A_M.csv,315,AvgCommunicate,Content,玩家,你怎么也有一个通讯器？,"Don't just casually say ""Hey.""! Where did you get a communicator from?!"
+AvgCommunicate_57959_Content_4,abCT,avg通讯器聊天表_AvgCommunicate_A_M.csv,316,AvgCommunicate,Content,戈利亚,弥萨格可不是唯一掌握了银芯技术的势力。,Mythag aren't the only ones who have mastered Silver Core tech.
+AvgCommunicate_57959_Option_5,abDf,avg通讯器聊天表_AvgCommunicate_A_M.csv,317,AvgCommunicate,Option,玩家,你想说什么？,What do you want?
+AvgCommunicate_57959_Content_5,abCU,avg通讯器聊天表_AvgCommunicate_A_M.csv,317,AvgCommunicate,Content,玩家,所以你想说什么？我不认为你找我就是为了炫耀自己的通讯器的。,What do you want? I doubt you messaged me just to show off your communicator.
+AvgCommunicate_57959_Content_6,abCV,avg通讯器聊天表_AvgCommunicate_A_M.csv,318,AvgCommunicate,Content,戈利亚,还算聪明。,"Clever, aren't you?"
+AvgCommunicate_57959_Option_8,abDi,avg通讯器聊天表_AvgCommunicate_A_M.csv,320,AvgCommunicate,Option,玩家,……你有什么事要在警局找我？,...Why do you need me at a police station?
+AvgCommunicate_57959_Content_8,abCX,avg通讯器聊天表_AvgCommunicate_A_M.csv,320,AvgCommunicate,Content,玩家,……你有什么事要在警局找我？,...Why do you need me at a police station?
+AvgCommunicate_57959_Content_9,abCY,avg通讯器聊天表_AvgCommunicate_A_M.csv,321,AvgCommunicate,Content,玩家,不会是被抓了吧。,Were you arrested or something?
+AvgCommunicate_57959_Content_10,abCP,avg通讯器聊天表_AvgCommunicate_A_M.csv,322,AvgCommunicate,Content,戈利亚,孱弱的人类怎么可能抓得住我？,How could puny humans possibly arrest me?
+AvgCommunicate_57959_Content_11,abCQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,323,AvgCommunicate,Content,戈利亚,算了，我自己解决。,Forget it. I'll take care of it myself.
+AvgCommunicate_57958_Option_3,abCH,avg通讯器聊天表_AvgCommunicate_A_M.csv,326,AvgCommunicate,Option,玩家,学点好的吧,Please don't imitate charlatans...
+AvgCommunicate_57958_Content_3,abCu,avg通讯器聊天表_AvgCommunicate_A_M.csv,326,AvgCommunicate,Content,玩家,请这位主祭注意自己的身份，不要学这种街头宣传语。,"Chief Priest, please be mindful of your status. Please don't imitate charlatans..."
+AvgCommunicate_57958_Content_4,abCv,avg通讯器聊天表_AvgCommunicate_A_M.csv,327,AvgCommunicate,Content,弥利亚姆,于丽埃特曾建议我，想要扩展信众，需要采用更加温和主动的宣传手段。,"Juliette suggested that in order to increase number of followers, we need to adopt a gentler and more proactive approach to our preaching."
+AvgCommunicate_57958_Content_5,abCw,avg通讯器聊天表_AvgCommunicate_A_M.csv,328,AvgCommunicate,Content,弥利亚姆,我想，她的话不无道理。,I think there is merit in that suggestion.
+AvgCommunicate_57958_Content_6,abCx,avg通讯器聊天表_AvgCommunicate_A_M.csv,329,AvgCommunicate,Content,弥利亚姆,只要能够宣扬吾主的恩泽，我可以尝试学习时下流行的语言方式。,"As long as it can spread the grace of our Lord, I'm willing to imitate any modern methods."
+AvgCommunicate_57958_Content_10,abCp,avg通讯器聊天表_AvgCommunicate_A_M.csv,333,AvgCommunicate,Content,弥利亚姆,无妨，为了宣扬吾主的恩泽，我不会放弃任何一个冥顽之人。,"It doesn't matter. If it's to spread my Lord's grace, I won't give up even on the most stubborn of people."
+AvgCommunicate_57958_Content_12,abCr,avg通讯器聊天表_AvgCommunicate_A_M.csv,335,AvgCommunicate,Content,弥利亚姆,作为与吾主有着深切链接之人，望守密人%sirormadam%准时参加。,"As someone who is deeply linked with my Lord, I hope Keeper %sirormadam% attends on time."
+AvgCommunicate_57956_Option_2,abBU,avg通讯器聊天表_AvgCommunicate_A_M.csv,338,AvgCommunicate,Option,玩家,怎么了吗？,What's wrong?
+AvgCommunicate_57956_Content_2,abBL,avg通讯器聊天表_AvgCommunicate_A_M.csv,338,AvgCommunicate,Content,玩家,怎么了吗？,What's wrong?
+AvgCommunicate_57956_Option_3,abBV,avg通讯器聊天表_AvgCommunicate_A_M.csv,339,AvgCommunicate,Option,玩家,不介意的话，可以跟我说说？,Would you like to talk about it?
+AvgCommunicate_57956_Content_3,abBM,avg通讯器聊天表_AvgCommunicate_A_M.csv,339,AvgCommunicate,Content,玩家,不介意的话，可以跟我说说？,Would you like to talk about it?
+AvgCommunicate_57956_Content_6,abBP,avg通讯器聊天表_AvgCommunicate_A_M.csv,342,AvgCommunicate,Content,法洛思,她连洗手间都希望跟着我进去，这点实在是有点让人难为情。,She even wants to follow me into the restroom. It's a bit embarrassing.
+AvgCommunicate_57957_Content_2,abCd,avg通讯器聊天表_AvgCommunicate_A_M.csv,347,AvgCommunicate,Content,玩家,我该猜到的，除了你，没有人会送我这个。,I should have guessed. You're the only person who would give me something like this.
+AvgCommunicate_57957_Content_3,abCe,avg通讯器聊天表_AvgCommunicate_A_M.csv,348,AvgCommunicate,Content,珊,像所有艺术一样，雕塑也是一个很私人的东西。,"Like all art, sculpting is also a very personal thing."
+AvgCommunicate_57957_Content_4,abCf,avg通讯器聊天表_AvgCommunicate_A_M.csv,349,AvgCommunicate,Content,珊,不是所有人都能和我一样，将这些石制的造物视作自己的延伸，生命的延续。,Not everyone can see these stone creations as an extension of themselves; a continuation of their life like I do.
+AvgCommunicate_57957_Content_6,abCh,avg通讯器聊天表_AvgCommunicate_A_M.csv,351,AvgCommunicate,Content,珊,我亲爱的“珊瑚女”？,"My dear ""Ms. Coral""?"
+AvgCommunicate_57988_Option_2,abEi,avg通讯器聊天表_AvgCommunicate_A_M.csv,353,AvgCommunicate,Option,玩家,怎么了？,What's wrong?
+AvgCommunicate_57988_Content_3,abDS,avg通讯器聊天表_AvgCommunicate_A_M.csv,354,AvgCommunicate,Content,凯刻斯,我发现了一个能够激发血脉力量的偏方。,I discovered a remedy that can awaken one's bloodline powers.
+AvgCommunicate_57988_Content_4,abDT,avg通讯器聊天表_AvgCommunicate_A_M.csv,355,AvgCommunicate,Content,凯刻斯,据说用了这个偏方，我就能拥有和戈利亚大人他们一样的力量了。,"Apparently, this remedy can grant me power similar to Lord Goliath's."
+AvgCommunicate_57988_Option_5,abEl,avg通讯器聊天表_AvgCommunicate_A_M.csv,356,AvgCommunicate,Option,玩家,那是好事啊，就是怎么感觉有点可疑？,"Sounds good, but... it seems too good to be true..."
+AvgCommunicate_57988_Content_5,abDU,avg通讯器聊天表_AvgCommunicate_A_M.csv,356,AvgCommunicate,Content,玩家,那是好事啊，就是怎么感觉有点可疑？,"Sounds good, but... it seems too good to be true..."
+AvgCommunicate_57988_Content_6,abDV,avg通讯器聊天表_AvgCommunicate_A_M.csv,357,AvgCommunicate,Content,凯刻斯,我知道你可能会妒忌这份力量，没关系，我会自己尝试。,"You may envy me, but I'll accept those feelings. I'll go ahead and take it."
+AvgCommunicate_57988_Content_7,abDW,avg通讯器聊天表_AvgCommunicate_A_M.csv,358,AvgCommunicate,Content,玩家,呃……虽然不知道你为什么这么想，那就祝你成功吧。,"Uh... Not sure why you'd think that, but good luck I guess."
+AvgCommunicate_57988_Content_10,abDJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,361,AvgCommunicate,Content,凯刻斯,作为投资，请给我五十，我去买下那个偏方。,I need fifty to buy the remedy. Consider it an investment.
+AvgCommunicate_57988_Content_11,abDK,avg通讯器聊天表_AvgCommunicate_A_M.csv,362,AvgCommunicate,Content,凯刻斯,等我得到力量归来，一定百倍报答。,"Once my power awakens, I'll repay you a hundredfold."
+AvgCommunicate_57988_Option_13,abEd,avg通讯器聊天表_AvgCommunicate_A_M.csv,364,AvgCommunicate,Option,玩家,槽点太多不知道从哪吐起了啊！,"There are so many things I want to say to you, I don't even know where to start!"
+AvgCommunicate_57988_Content_13,abDM,avg通讯器聊天表_AvgCommunicate_A_M.csv,364,AvgCommunicate,Content,玩家,槽点太多不知道从哪吐起了啊！,"There are so many things I want to say to you, I don't even know where to start!"
+AvgCommunicate_57988_Content_14,abDN,avg通讯器聊天表_AvgCommunicate_A_M.csv,365,AvgCommunicate,Content,玩家,虽然你还在坚持血脉这件事很不容易，但我觉得你或许该考虑一下被骗的可能性。,"Listen, I get that you still have a complex about your weak powers, but this just sounds like a scam..."
+AvgCommunicate_57988_Content_15,abDO,avg通讯器聊天表_AvgCommunicate_A_M.csv,366,AvgCommunicate,Content,凯刻斯,是么，果然连你也不相信我吗。,Is that so? Sounds like you don't trust my judgment...
+AvgCommunicate_57988_Option_16,abEg,avg通讯器聊天表_AvgCommunicate_A_M.csv,367,AvgCommunicate,Option,玩家,我不是我没有……,"Wait, it's not like that..!"
+AvgCommunicate_57988_Content_16,abDP,avg通讯器聊天表_AvgCommunicate_A_M.csv,367,AvgCommunicate,Content,玩家,我不是我没有……,"Wait, it's not like that..!"
+AvgCommunicate_57988_Content_17,abDQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,368,AvgCommunicate,Content,凯刻斯,好吧，我会自己想办法，等我归来，一定会让你们都刮目相看。,"Whatever, I'll figure this out myself. When I'm reborn, you'll regret doubting me."
+AvgCommunicate_57987_Content_1,abDk,avg通讯器聊天表_AvgCommunicate_A_M.csv,369,AvgCommunicate,Content,希莱斯特,居然能从这个盒子里直接收到人们的愿望。,So people can just send me their wishes through this little box?
+AvgCommunicate_57987_Content_2,abDo,avg通讯器聊天表_AvgCommunicate_A_M.csv,370,AvgCommunicate,Content,希莱斯特,这是新的祈祷用品吗？,Is this a new tool for worship?
+AvgCommunicate_57987_Option_3,abDB,avg通讯器聊天表_AvgCommunicate_A_M.csv,371,AvgCommunicate,Option,玩家,只是大家用来沟通的工具啦。,It's just a tool people can use to communicate.
+AvgCommunicate_57987_Content_3,abDp,avg通讯器聊天表_AvgCommunicate_A_M.csv,371,AvgCommunicate,Content,玩家,只是大家用来沟通的工具啦。,It's just a tool people can use to communicate.
+AvgCommunicate_57987_Content_4,abDq,avg通讯器聊天表_AvgCommunicate_A_M.csv,372,AvgCommunicate,Content,希莱斯特,沟通么？,Communicate?
+AvgCommunicate_57987_Content_5,abDr,avg通讯器聊天表_AvgCommunicate_A_M.csv,373,AvgCommunicate,Content,希莱斯特,那么，你有什么愿望，请与我沟通吧。,"Well then, communicate with me. What is thy wish?"
+AvgCommunicate_57987_Option_6,abDE,avg通讯器聊天表_AvgCommunicate_A_M.csv,374,AvgCommunicate,Option,玩家,不是这个意思啦！,"What? No, that's not what I meant!"
+AvgCommunicate_57987_Content_6,abDs,avg通讯器聊天表_AvgCommunicate_A_M.csv,374,AvgCommunicate,Content,玩家,不是这个意思啦！,"What? No, that's not what I meant!"
+AvgCommunicate_57987_Option_7,abDF,avg通讯器聊天表_AvgCommunicate_A_M.csv,375,AvgCommunicate,Option,玩家,不不，我没什么要麻烦你的。,"No, no, I don't have any wishes!"
+AvgCommunicate_57987_Content_7,abDt,avg通讯器聊天表_AvgCommunicate_A_M.csv,375,AvgCommunicate,Content,玩家,不不，我没什么要麻烦你的。,"No, no, I don't have any wishes!"
+AvgCommunicate_57987_Content_8,abDu,avg通讯器聊天表_AvgCommunicate_A_M.csv,376,AvgCommunicate,Content,希莱斯特,还没有愿望么？,You don't have wishes?
+AvgCommunicate_57987_Content_9,abDv,avg通讯器聊天表_AvgCommunicate_A_M.csv,377,AvgCommunicate,Content,希莱斯特,没关系，想要许愿的时候就与我沟通吧。,"Very well. If you ever have a wish, let me know."
+AvgCommunicate_57987_Content_10,abDl,avg通讯器聊天表_AvgCommunicate_A_M.csv,378,AvgCommunicate,Content,希莱斯特,人们的愿望总会有很多的。,People have always searched for a way to fulfill their desires.
+AvgCommunicate_57987_Content_11,abDm,avg通讯器聊天表_AvgCommunicate_A_M.csv,379,AvgCommunicate,Content,希莱斯特,我会为你竭尽全力。,I will do my utmost to fullfill yours.
+AvgCommunicate_57997_Content_1,abHQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,381,AvgCommunicate,Content,达芙黛尔,交换商店酬宾活动，神秘福袋礼品抽取，三头一次，十头三次，预存十头送一头，欢迎光临选购。,"EXCLUSIVE OFFER! Mystery Gift Draw! Buy three of anything, get ONE FREE DRAW! Buy ten items, get THREE FREE DRAWS! Preorder ten items now and get an EXTRA ITEM FREE! Welcome!"
+AvgCommunicate_57997_Option_3,abIh,avg通讯器聊天表_AvgCommunicate_A_M.csv,383,AvgCommunicate,Option,玩家,好像有什么很地狱的广告出现了。,Didn't know I could get scam messages...
+AvgCommunicate_57997_Content_3,abHV,avg通讯器聊天表_AvgCommunicate_A_M.csv,383,AvgCommunicate,Content,玩家,好像有什么很地狱的广告出现了。以及这个数字是不是有哪里不对啊！,Didn't know I could get scam messages... Who even is this..?
+AvgCommunicate_57997_Option_4,abIi,avg通讯器聊天表_AvgCommunicate_A_M.csv,384,AvgCommunicate,Option,玩家,以及这个数字是不是有哪里不对啊！,Who even is this..?
+AvgCommunicate_57997_Content_4,abHW,avg通讯器聊天表_AvgCommunicate_A_M.csv,384,AvgCommunicate,Content,玩家,好像有什么很地狱的广告出现了。以及这个数字是不是有哪里不对啊！,Didn't know I could get scam messages... Who even is this..?
+AvgCommunicate_57997_Content_5,abHX,avg通讯器聊天表_AvgCommunicate_A_M.csv,385,AvgCommunicate,Content,达芙黛尔,是守密人啊，如果是你的话，我可以给你额外打折哦。,"Why, if it isn't the Keeper! Just for you, I'll offer an additional discount."
+AvgCommunicate_57997_Option_6,abIk,avg通讯器聊天表_AvgCommunicate_A_M.csv,386,AvgCommunicate,Option,玩家,虽然不是很想买……,I'm really not interested...
+AvgCommunicate_57997_Content_6,abHY,avg通讯器聊天表_AvgCommunicate_A_M.csv,386,AvgCommunicate,Content,玩家,虽然不是很想买，但是打多少折？,"I'm really not interested in buying... But out of curiosity, what is it?"
+AvgCommunicate_57997_Content_8,abIa,avg通讯器聊天表_AvgCommunicate_A_M.csv,388,AvgCommunicate,Content,达芙黛尔,嗯……勉为其难，九九折吧。,"Hmm... for you, I'll give you a good deal. I'll mark it down to 99%."
+AvgCommunicate_57997_Option_10,abId,avg通讯器聊天表_AvgCommunicate_A_M.csv,390,AvgCommunicate,Option,玩家,这有什么区别！,That's it?!
+AvgCommunicate_57997_Content_10,abHR,avg通讯器聊天表_AvgCommunicate_A_M.csv,390,AvgCommunicate,Content,玩家,这有什么区别！,That's it?!
+AvgCommunicate_57997_Content_11,abHS,avg通讯器聊天表_AvgCommunicate_A_M.csv,391,AvgCommunicate,Content,达芙黛尔,价格已经很优惠了呀，毕竟小店的商品童叟无欺，口碑一直很好呢。,"Well, the price is already favorable as is. After all, my store is very fair and honest, with a stellar reputation."
+AvgCommunicate_57997_Content_12,abHT,avg通讯器聊天表_AvgCommunicate_A_M.csv,392,AvgCommunicate,Content,达芙黛尔,你总会来找我的，不是吗？,"You always shop here, don't you?"
+AvgCommunicate_57989_Content_1,abEq,avg通讯器聊天表_AvgCommunicate_A_M.csv,393,AvgCommunicate,Content,卡茜亚,你是否时常感到无聊乏味？,Are you feeling bored? Tired?! Like the world is just passing you by?!
+AvgCommunicate_57989_Content_2,abEw,avg通讯器聊天表_AvgCommunicate_A_M.csv,394,AvgCommunicate,Content,卡茜亚,是否时常渴望一把火，将你的心与灵魂一并点燃？,Do you find yourself yearning for something NEW and EXCITING to ignite your desires?!
+AvgCommunicate_57989_Option_3,abEL,avg通讯器聊天表_AvgCommunicate_A_M.csv,395,AvgCommunicate,Option,玩家,卡茜亚，你又在搞什么？,"...what are you on about, Casiah?"
+AvgCommunicate_57989_Content_3,abEx,avg通讯器聊天表_AvgCommunicate_A_M.csv,395,AvgCommunicate,Content,玩家,卡茜亚，你又在搞什么？,"...what are you on about, Casiah?"
+AvgCommunicate_57989_Content_4,abEy,avg通讯器聊天表_AvgCommunicate_A_M.csv,396,AvgCommunicate,Content,卡茜亚,放心，放心，魔法大师卡茜娅即将为你的生命带来转机，注入激情！,Well fret no more! The great master of magic Casiah is here to offer you a once in a lifetime opportunity that you won't want to miss!
+AvgCommunicate_57989_Content_5,abEz,avg通讯器聊天表_AvgCommunicate_A_M.csv,397,AvgCommunicate,Content,卡茜亚,很荣幸能在这里向各位宣布，最新一届的卡茜亚的魔术嘉年华即将盛大开演！,It's my great pleasure to announce to you that the great Casiah's Magical Carnival is about to begin!
+AvgCommunicate_57989_Option_7,abEP,avg通讯器聊天表_AvgCommunicate_A_M.csv,399,AvgCommunicate,Option,玩家,你是不是发错人了？,Did you mean to send this to me?
+AvgCommunicate_57989_Content_7,abEB,avg通讯器聊天表_AvgCommunicate_A_M.csv,399,AvgCommunicate,Content,玩家,你是不是发错人了？,Did you mean to send this to me?
+AvgCommunicate_57989_Content_8,abEC,avg通讯器聊天表_AvgCommunicate_A_M.csv,400,AvgCommunicate,Content,卡茜亚,从有变无、从无变有、点石成金，人体嫁接——只有想不到，没有看不到。卡茜亚大师保证能清空你的大脑，让你忘不了！,"Whether it be turning nothing into something, something into nothing, changing stone to gold, or even transforming the human form—whatever your wildest imagination could possibly dream of, the magic of the great Master Casiah is guaranteed to excite and amaze!"
+AvgCommunicate_57989_Content_9,abED,avg通讯器聊天表_AvgCommunicate_A_M.csv,401,AvgCommunicate,Content,卡茜亚,现在回复信息，即可享入场券八折优惠哦！名额有限，先到先得，魔术嘉年华期待你的光临！,"Order a ticket now to enjoy a 20% discount! Limited slots available; first come, first served. We look forward to welcoming you to... the GREAT MAGICAL CARNIVAL!"
+AvgCommunicate_57989_Content_13,abEu,avg通讯器聊天表_AvgCommunicate_A_M.csv,405,AvgCommunicate,Content,卡茜亚,我已经为你预备了特等席。,I've got a special seat reserved just for you.
+AvgCommunicate_57989_Content_14,abEv,avg通讯器聊天表_AvgCommunicate_A_M.csv,406,AvgCommunicate,Content,卡茜亚,可不要失约哦。,I expect you to keep your promise.
+AvgCommunicate_57993_Content_1,abGy,avg通讯器聊天表_AvgCommunicate_A_M.csv,407,AvgCommunicate,Content,艾瑞卡,■■守■■，■■■密人■■■,"■■Guard■■, ■■■Keeper■■■"
+AvgCommunicate_57993_Content_3,abGH,avg通讯器聊天表_AvgCommunicate_A_M.csv,409,AvgCommunicate,Content,艾瑞卡,■瑞卡■■■■■重大错误，■守密■银芯■■■■■利普大楼■■■■■进行■■■■请■■■■■芯■■前■■■■■■3F维护,"■Erika■■■■Fatal Error, ■ Keeper■Silver Core■■■■Lip Building■■■■Action Required■■■Please Insert■■■Core■■Before■■■3F Maintenance"
+AvgCommunicate_57993_Option_4,abGY,avg通讯器聊天表_AvgCommunicate_A_M.csv,410,AvgCommunicate,Option,玩家,你这是发的什么，通讯器无法显示加密通讯的。,I can't tell what you're saying... The communicator can't display encrypted messages.
+AvgCommunicate_57993_Content_4,abGI,avg通讯器聊天表_AvgCommunicate_A_M.csv,410,AvgCommunicate,Content,玩家,你这是发的什么，通讯器无法显示加密通讯的。,I can't tell what you're saying... The communicator can't display encrypted messages.
+AvgCommunicate_57993_Content_5,abGJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,411,AvgCommunicate,Content,玩家,艾瑞卡？,...Erica?
+AvgCommunicate_57993_Content_6,abGK,avg通讯器聊天表_AvgCommunicate_A_M.csv,412,AvgCommunicate,Content,艾瑞卡,■■已■■，位置■■送，死■■%……&#监牢-*可恶^毁￥%……,■■ Location ■■ Sent ■■ Err■■%... &#Priso■-*Da■n^Dest■oy￥%...
+AvgCommunicate_57993_Option_7,abHb,avg通讯器聊天表_AvgCommunicate_A_M.csv,413,AvgCommunicate,Option,玩家,怎么连乱码都出现了？！,How did you even manage to send this garbled message?!
+AvgCommunicate_57993_Content_7,abGL,avg通讯器聊天表_AvgCommunicate_A_M.csv,413,AvgCommunicate,Content,玩家,怎么连乱码都出现了？！,How did you even manage to send this garbled message?!
+AvgCommunicate_57993_Option_8,abHc,avg通讯器聊天表_AvgCommunicate_A_M.csv,414,AvgCommunicate,Option,玩家,艾瑞卡，快告诉我你的位置！,"Erica, where are you?!"
+AvgCommunicate_57993_Content_8,abGM,avg通讯器聊天表_AvgCommunicate_A_M.csv,414,AvgCommunicate,Content,玩家,艾瑞卡，快告诉我你的位置！,"Erica, where are you?!"
+AvgCommunicate_57993_Option_10,abGP,avg通讯器聊天表_AvgCommunicate_A_M.csv,416,AvgCommunicate,Option,玩家,艾瑞卡？,...Erica?
+AvgCommunicate_57993_Content_10,abGz,avg通讯器聊天表_AvgCommunicate_A_M.csv,416,AvgCommunicate,Content,玩家,艾瑞卡？,...Erica?
+AvgCommunicate_57993_Content_11,abGA,avg通讯器聊天表_AvgCommunicate_A_M.csv,417,AvgCommunicate,Content,艾瑞卡,我是朵尔。,It's Doll.
+AvgCommunicate_57993_Content_12,abGB,avg通讯器聊天表_AvgCommunicate_A_M.csv,418,AvgCommunicate,Content,艾瑞卡,刚刚可能是某种故障，我已经紧急处理过了。放心。,It seems there might have been a glitch or something. I've already dealt with it; no need to worry.
+AvgCommunicate_57993_Content_13,abGC,avg通讯器聊天表_AvgCommunicate_A_M.csv,419,AvgCommunicate,Content,玩家,真的吗？要不要我过去一趟？,Really? Are you sure you don't want me to come over?
+AvgCommunicate_57993_Content_14,abGD,avg通讯器聊天表_AvgCommunicate_A_M.csv,420,AvgCommunicate,Content,艾瑞卡,不用，一会儿重新启动一下就行。,It's fine. She'll be fine after a reboot.
+AvgCommunicate_57993_Option_15,abGU,avg通讯器聊天表_AvgCommunicate_A_M.csv,421,AvgCommunicate,Option,玩家,好吧。,OK.
+AvgCommunicate_57993_Content_15,abGE,avg通讯器聊天表_AvgCommunicate_A_M.csv,421,AvgCommunicate,Content,玩家,好吧，如果有事记得叫我。,"OK. If you need me, just let me know."
+AvgCommunicate_57993_Content_16,abGF,avg通讯器聊天表_AvgCommunicate_A_M.csv,422,AvgCommunicate,Content,艾瑞卡,当然。,Sure.
+AvgCommunicate_57996_Content_1,abHy,avg通讯器聊天表_AvgCommunicate_A_M.csv,423,AvgCommunicate,Content,莉兹,最近使用礼堂的人似乎变多了。,It seems the auditorium has become more popular recently.
+AvgCommunicate_57996_Option_2,abHI,avg通讯器聊天表_AvgCommunicate_A_M.csv,424,AvgCommunicate,Option,玩家,毕竟弥萨格的成员也越来越多了。,"Well, Mythag's population has been increasing after all."
+AvgCommunicate_57996_Content_2,abHz,avg通讯器聊天表_AvgCommunicate_A_M.csv,424,AvgCommunicate,Content,玩家,毕竟弥萨格的成员也越来越多了。,"Well, Mythag's population has been increasing after all."
+AvgCommunicate_57996_Content_3,abHA,avg通讯器聊天表_AvgCommunicate_A_M.csv,425,AvgCommunicate,Content,莉兹,难怪，我在一直以来的练习时间去礼堂的时候，都会发现里面有人。,That explains it. I was wondering why there were always people there when I was going to practice.
+AvgCommunicate_57996_Content_4,abHB,avg通讯器聊天表_AvgCommunicate_A_M.csv,426,AvgCommunicate,Content,莉兹,既然如此，也没办法。,"If that's the case, I guess there's no other way."
+AvgCommunicate_57996_Content_5,abHC,avg通讯器聊天表_AvgCommunicate_A_M.csv,427,AvgCommunicate,Content,莉兹,只能另外找一个练习的地方了。,I'll need to find a new place to practice.
+AvgCommunicate_57996_Option_6,abHM,avg通讯器聊天表_AvgCommunicate_A_M.csv,428,AvgCommunicate,Option,玩家,或者我安排一个时间表？,No need to go that far. How about I set up a schedule?
+AvgCommunicate_57996_Content_6,abHD,avg通讯器聊天表_AvgCommunicate_A_M.csv,428,AvgCommunicate,Content,玩家,或者我安排一个时间表？,No need to go that far. How about I set up a schedule?
+AvgCommunicate_57996_Content_7,abHE,avg通讯器聊天表_AvgCommunicate_A_M.csv,429,AvgCommunicate,Content,玩家,这样大家就能知道哪个时段被占用了，也就不会互相影响了。,That way everyone can have set times to be able use the auditorium without any conflicts.
+AvgCommunicate_57990_Content_1,abES,avg通讯器聊天表_AvgCommunicate_A_M.csv,432,AvgCommunicate,Content,汀克特,%player%%sirormadam%，请问你最近有时间吗？,"{Male=Mr.,Female=Miss} %player%, can you spare some time?"
+AvgCommunicate_57990_Content_2,abEU,avg通讯器聊天表_AvgCommunicate_A_M.csv,433,AvgCommunicate,Content,汀克特,我……希望能请你帮个忙。,I... have a favor to ask of you.
+AvgCommunicate_57990_Option_3,abFf,avg通讯器聊天表_AvgCommunicate_A_M.csv,434,AvgCommunicate,Option,玩家,怎么了吗？,What's wrong?
+AvgCommunicate_57990_Content_3,abEV,avg通讯器聊天表_AvgCommunicate_A_M.csv,434,AvgCommunicate,Content,玩家,怎么了吗？,What's wrong?
+AvgCommunicate_57990_Option_4,abFg,avg通讯器聊天表_AvgCommunicate_A_M.csv,435,AvgCommunicate,Option,玩家,我正好今天没事。,I've got time. What's up?
+AvgCommunicate_57990_Content_4,abEW,avg通讯器聊天表_AvgCommunicate_A_M.csv,435,AvgCommunicate,Content,玩家,我正好今天没事。,I've got time. What's up?
+AvgCommunicate_57990_Content_5,abEX,avg通讯器聊天表_AvgCommunicate_A_M.csv,436,AvgCommunicate,Content,汀克特,我一个月后要在弥萨格礼堂进行一场小型演出，想在那之前找人听听我的歌。,I have a little performance at the Mythag Hall in a month and I'd like to have someone listen to it before I perform.
+AvgCommunicate_57990_Content_6,abEY,avg通讯器聊天表_AvgCommunicate_A_M.csv,437,AvgCommunicate,Content,汀克特,如果叫菲茵特，她无论如何都会说好的。而其他人……其他人我不太好意思。,"I thought about asking Faint, and she would definitely agree, but... I feel too embarassed to ask her..."
+AvgCommunicate_57990_Content_7,abEZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,438,AvgCommunicate,Content,汀克特,想来想去，只有守密人最可靠，我也最信任了。,"After thinking about it for a while, I realized that the Keeper is someone who is reliable and trustworthy."
+AvgCommunicate_57990_Content_8,abFa,avg通讯器聊天表_AvgCommunicate_A_M.csv,439,AvgCommunicate,Content,汀克特,所以……,So... if it's not too much trouble...
+AvgCommunicate_57990_Option_9,abFl,avg通讯器聊天表_AvgCommunicate_A_M.csv,440,AvgCommunicate,Option,玩家,好吧。,Sure.
+AvgCommunicate_57990_Content_9,abFb,avg通讯器聊天表_AvgCommunicate_A_M.csv,440,AvgCommunicate,Content,玩家,好吧，一会儿在礼堂见？,Sure. Meet you at the auditorium?
+AvgCommunicate_57990_Content_10,abET,avg通讯器聊天表_AvgCommunicate_A_M.csv,441,AvgCommunicate,Content,汀克特,你同意了吗？太好了。一会儿见。,Really? Great! See you soon!
+AvgCommunicate_58498_Content_2,abJU,avg通讯器聊天表_AvgCommunicate_A_M.csv,443,AvgCommunicate,Content,旺达,我最近收获了一条珍贵的、马鬃毛制成的皮鞭，有兴趣来体验一下吗？,I recently added a special horsehair whip to my collection. Would you be interested in trying it out?
+AvgCommunicate_58498_Option_3,abKh,avg通讯器聊天表_AvgCommunicate_A_M.csv,444,AvgCommunicate,Option,玩家,忙。,Busy right now.
+AvgCommunicate_58498_Content_3,abJV,avg通讯器聊天表_AvgCommunicate_A_M.csv,444,AvgCommunicate,Content,玩家,忙,Busy right now.
+AvgCommunicate_58498_Option_4,abKi,avg通讯器聊天表_AvgCommunicate_A_M.csv,445,AvgCommunicate,Option,玩家,不好意思，忙。,"Sorry, I'm doing something right now..."
+AvgCommunicate_58498_Content_4,abJW,avg通讯器聊天表_AvgCommunicate_A_M.csv,445,AvgCommunicate,Content,玩家,不好意思，忙,"Sorry, I'm doing something right now..."
+AvgCommunicate_58498_Content_6,abJY,avg通讯器聊天表_AvgCommunicate_A_M.csv,447,AvgCommunicate,Content,旺达,真叫人伤心。看来只能去校园里转转，看看有没有其他感兴趣的同好……,"How unfortunate. Oh well, I suppose I'll wander around the campus and see if I can find someone else who is interested..."
+AvgCommunicate_58498_Content_8,abKa,avg通讯器聊天表_AvgCommunicate_A_M.csv,449,AvgCommunicate,Content,玩家,等一下，旺达夫人！请你待在原地不要走动。,"Wait, Ms. Wanda! Don't go anywhere."
+AvgCommunicate_58498_Content_9,abKb,avg通讯器聊天表_AvgCommunicate_A_M.csv,450,AvgCommunicate,Content,玩家,我现在过来。,I'm coming over.
+AvgCommunicate_58498_Content_11,abJS,avg通讯器聊天表_AvgCommunicate_A_M.csv,452,AvgCommunicate,Content,旺达,真是个口是心非的孩子。,How cute. Were you playing hard to get~?
+AvgCommunicate_58498_Content_12,abJT,avg通讯器聊天表_AvgCommunicate_A_M.csv,453,AvgCommunicate,Content,旺达,■■礼拜堂门口，不见不散~,I'll be at the chapel. Don't make me wait long~.
+AvgCommunicate_57998_Content_1,abIo,avg通讯器聊天表_AvgCommunicate_A_M.csv,454,AvgCommunicate,Content,詹金唤醒体,守咪人，守咪人在吗？在吗守咪人？,"Keeper. Keeper! You there? Are you, are you?!"
+AvgCommunicate_57998_Option_2,abIy,avg通讯器聊天表_AvgCommunicate_A_M.csv,455,AvgCommunicate,Option,玩家,……是守密人。,"...Yes, I'm here."
+AvgCommunicate_57998_Content_2,abIp,avg通讯器聊天表_AvgCommunicate_A_M.csv,455,AvgCommunicate,Content,玩家,……是守密人。,"...Yes, I'm here."
+AvgCommunicate_57998_Content_3,abIq,avg通讯器聊天表_AvgCommunicate_A_M.csv,456,AvgCommunicate,Content,詹金唤醒体,哎呀不是差不多嘛。,"Oh, so you are."
+AvgCommunicate_57998_Option_4,abIA,avg通讯器聊天表_AvgCommunicate_A_M.csv,457,AvgCommunicate,Option,玩家,守咪人不在。,"No, I'm not here."
+AvgCommunicate_57998_Content_4,abIr,avg通讯器聊天表_AvgCommunicate_A_M.csv,457,AvgCommunicate,Content,玩家,守咪人不在。,"No, I'm not here."
+AvgCommunicate_57998_Content_5,abIs,avg通讯器聊天表_AvgCommunicate_A_M.csv,458,AvgCommunicate,Content,詹金唤醒体,骗人，你都回信了！,You liar! You literally just replied to me!
+AvgCommunicate_57991_Content_2,abFx,avg通讯器聊天表_AvgCommunicate_A_M.csv,464,AvgCommunicate,Content,奥尔拉,在那辆电车上，您写下了一段诗句……,I remember that you wrote a verse on that tram...
+AvgCommunicate_57991_Option_3,abFV,avg通讯器聊天表_AvgCommunicate_A_M.csv,465,AvgCommunicate,Option,玩家,不堪回首。,Embarassing...
+AvgCommunicate_57991_Content_3,abFA,avg通讯器聊天表_AvgCommunicate_A_M.csv,465,AvgCommunicate,Content,玩家,死去的记忆开始攻击我……,It's embarassing being reminded of that...
+AvgCommunicate_57991_Option_5,abFX,avg通讯器聊天表_AvgCommunicate_A_M.csv,467,AvgCommunicate,Option,玩家,伟大的作品。,"I thought it was so good, but..."
+AvgCommunicate_57991_Content_5,abFC,avg通讯器聊天表_AvgCommunicate_A_M.csv,467,AvgCommunicate,Content,玩家,如此伟大的作品，那只毛毛虫竟然不允许我入座。没品！,"I thought it was so good, but that caterpillar refused to let me sit! That hack!"
+AvgCommunicate_57991_Content_7,abFE,avg通讯器聊天表_AvgCommunicate_A_M.csv,469,AvgCommunicate,Content,奥尔拉,回来以后，我仔细思考了。,"After we returned, I thought long and hard."
+AvgCommunicate_57991_Content_8,abFF,avg通讯器聊天表_AvgCommunicate_A_M.csv,470,AvgCommunicate,Content,奥尔拉,虽然用传统的眼光看来，那段诗句与美感之间缺乏必要的联系。,"Although that verse was certainly ""bad"" when viewed through the traditional lens..."
+AvgCommunicate_57991_Content_9,abFG,avg通讯器聊天表_AvgCommunicate_A_M.csv,471,AvgCommunicate,Content,奥尔拉,但不和谐、讽刺、错误，这些也应该是诗歌的一部分。,"...I believe that things like dissonance, irony, and errors can also be part of poetry!"
+AvgCommunicate_57991_Content_11,abFo,avg通讯器聊天表_AvgCommunicate_A_M.csv,473,AvgCommunicate,Content,奥尔拉,在我的新诗集里，我希望能把您这句诗加进去。,I'd love to include your verse in my new poetry collection.
+AvgCommunicate_57991_Content_12,abFp,avg通讯器聊天表_AvgCommunicate_A_M.csv,474,AvgCommunicate,Content,奥尔拉,可以吗，守密人%sirormadam%？,"Is that okay, Keeper %sirormadam%?"
+AvgCommunicate_57991_Option_13,abFL,avg通讯器聊天表_AvgCommunicate_A_M.csv,475,AvgCommunicate,Option,玩家,你认真的？,"Wait, seriously?"
+AvgCommunicate_57991_Content_13,abFq,avg通讯器聊天表_AvgCommunicate_A_M.csv,475,AvgCommunicate,Content,玩家,你认真的？,"Wait, seriously?"
+AvgCommunicate_57991_Content_14,abFr,avg通讯器聊天表_AvgCommunicate_A_M.csv,476,AvgCommunicate,Content,奥尔拉,当然！,Absolutely!
+AvgCommunicate_57991_Content_16,abFt,avg通讯器聊天表_AvgCommunicate_A_M.csv,478,AvgCommunicate,Content,玩家,……这就是天才诗人的觉悟吗？,...Is this the birth of a new genius poet?
+AvgCommunicate_57991_Content_17,abFu,avg通讯器聊天表_AvgCommunicate_A_M.csv,479,AvgCommunicate,Content,玩家,你可能是最近写东西写得太累了。好好休息吧！,"Well, you might be tired from writing too much. Rest up!"
+AvgCommunicate_57991_Option_18,abFQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,480,AvgCommunicate,Option,玩家,稿费记得给我,Don't forget my royalties!
+AvgCommunicate_57991_Content_18,abFv,avg通讯器聊天表_AvgCommunicate_A_M.csv,480,AvgCommunicate,Content,玩家,没问题！发表以后记得把稿费分我。,No problem! Don't forget my royalties after it's published!
+AvgCommunicate_57995_Option_2,abHq,avg通讯器聊天表_AvgCommunicate_A_M.csv,485,AvgCommunicate,Option,玩家,茜尔维亚小姐明令禁止了。,It's not my fault!
+AvgCommunicate_57995_Content_2,abHg,avg通讯器聊天表_AvgCommunicate_A_M.csv,485,AvgCommunicate,Content,玩家,不是我不给你，只是茜尔维亚女士明令禁止了，你不能再超量喝咖啡了。,It's not my fault! Ms. Sylvia has strictly forbidden you from drinking more coffee.
+AvgCommunicate_57995_Option_3,abHr,avg通讯器聊天表_AvgCommunicate_A_M.csv,486,AvgCommunicate,Option,玩家,你不能再超量喝咖啡了。,"It's Ms. Sylvia, not me!"
+AvgCommunicate_57995_Content_3,abHh,avg通讯器聊天表_AvgCommunicate_A_M.csv,486,AvgCommunicate,Content,玩家,不是我不给你，只是茜尔维亚女士明令禁止了，你不能再超量喝咖啡了。,"It's Ms. Sylvia, not me! She said you're forbidden from having any more caffeine."
+AvgCommunicate_57995_Content_4,abHi,avg通讯器聊天表_AvgCommunicate_A_M.csv,487,AvgCommunicate,Content,温柯尔,可是我的眼皮已经不受我的控制了！,But I can't control my eyelids any longer!
+AvgCommunicate_57995_Content_5,abHj,avg通讯器聊天表_AvgCommunicate_A_M.csv,488,AvgCommunicate,Content,温柯尔,要是我一个不小心真的闭上眼睛进入黑暗怎么办，黑色的恐怖会找上我，黑色的死亡会找上我，然后我的生命我的精神我的一切,"What if I accidentally close my eyes and fall asleep?! The black terror will find me, the black death will find me! My life, soul, everything; GONE!"
+AvgCommunicate_57995_Content_6,abHk,avg通讯器聊天表_AvgCommunicate_A_M.csv,489,AvgCommunicate,Content,温柯尔,我知道了。,Wait. I know...
+AvgCommunicate_57995_Content_8,abHm,avg通讯器聊天表_AvgCommunicate_A_M.csv,491,AvgCommunicate,Content,温柯尔,用胶水把眼睛粘起来，就不会一不小心睡着了。,I'll just glue my eyelids open so they CAN'T close.
+AvgCommunicate_57995_Option_9,abHx,avg通讯器聊天表_AvgCommunicate_A_M.csv,492,AvgCommunicate,Option,玩家,不是？！,No! STOP!
+AvgCommunicate_57995_Content_9,abHn,avg通讯器聊天表_AvgCommunicate_A_M.csv,492,AvgCommunicate,Content,玩家,不是，你住手，这样是不行的！,No! STOP! That won't work!
+AvgCommunicate_57992_Content_1,abGc,avg通讯器聊天表_AvgCommunicate_A_M.csv,494,AvgCommunicate,Content,哈姆林,这里的音乐教室堪称简陋。,The music room here can only be called rudimentary.
+AvgCommunicate_57992_Content_2,abGf,avg通讯器聊天表_AvgCommunicate_A_M.csv,495,AvgCommunicate,Content,哈姆林,礼堂也实在是不堪入目。,The hall here is also truly unsightly.
+AvgCommunicate_57992_Content_3,abGg,avg通讯器聊天表_AvgCommunicate_A_M.csv,496,AvgCommunicate,Content,哈姆林,还有你们的那些乐器，负责维护的人是谁，难道不知道定期调音吗？,"And those instruments of yours, who is responsible for maintaining them? Don't they know they require periodic tuning?"
+AvgCommunicate_57992_Content_5,abGi,avg通讯器聊天表_AvgCommunicate_A_M.csv,498,AvgCommunicate,Content,哈姆林,难以置信，这就是高等学府的音乐素养吗？简直让人无法接受。,"Unbelievable, is this the musical capacity of a prestigious university? It's simply unacceptable."
+AvgCommunicate_57992_Content_6,abGj,avg通讯器聊天表_AvgCommunicate_A_M.csv,499,AvgCommunicate,Content,哈姆林,从今天开始，这些东西就由我全面接管了。,"From today onward, I shall take on the mantle of overseeing these matters."
+AvgCommunicate_57992_Content_7,abGk,avg通讯器聊天表_AvgCommunicate_A_M.csv,500,AvgCommunicate,Content,哈姆林,在银霜节之前，我一定要训练出一个合格的乐团。,I must train a qualified orchestra before the Silverfrost Festival.
+AvgCommunicate_57992_Option_8,abGw,avg通讯器聊天表_AvgCommunicate_A_M.csv,501,AvgCommunicate,Option,玩家,幸好我不是乐团成员。,Thank goodness I'm not a member of the orchestra.
+AvgCommunicate_57992_Content_8,abGl,avg通讯器聊天表_AvgCommunicate_A_M.csv,501,AvgCommunicate,Content,玩家,幸好我不是乐团成员。,Thank goodness I'm not a member of the orchestra.
+AvgCommunicate_57992_Content_9,abGm,avg通讯器聊天表_AvgCommunicate_A_M.csv,502,AvgCommunicate,Content,哈姆林,你也别想走，指挥家。,"Don’t think you’re off the hook, Conductor."
+AvgCommunicate_57992_Content_11,abGe,avg通讯器聊天表_AvgCommunicate_A_M.csv,504,AvgCommunicate,Content,玩家,我没有报名啊！,But I never signed up!
+AvgCommunicate_80102_Content_1,brNt,avg通讯器聊天表_AvgCommunicate_A_M.csv,505,AvgCommunicate,Content,克莱门汀AF,%player%，不介意的话，可以让我负责你的心理治疗吗？,"%player%, if you don't mind, could I take care of your psychological needs?"
+AvgCommunicate_80102_Option_6,brNN,avg通讯器聊天表_AvgCommunicate_A_M.csv,510,AvgCommunicate,Option,玩家,……真的是这样吗？,...Is that right?
+AvgCommunicate_80102_Content_6,brNB,avg通讯器聊天表_AvgCommunicate_A_M.csv,510,AvgCommunicate,Content,玩家,真的是这样吗？为什么我觉得你另有目的……,Is that right? Why do I feel like you have ulterior motives...
+AvgCommunicate_80102_Content_7,brNC,avg通讯器聊天表_AvgCommunicate_A_M.csv,511,AvgCommunicate,Content,玩家,比如说，借着专属心理医师的名义，窥探我的记忆。,"For example, using the guise of a personal psychologist to peer into my memories?"
+AvgCommunicate_80102_Content_8,brND,avg通讯器聊天表_AvgCommunicate_A_M.csv,512,AvgCommunicate,Content,克莱门汀AF,啊呀，被发现了吗？那就没办法了。,"Oh dear, was it that obvious? Oh well, nothing I can do about that."
+AvgCommunicate_80102_Content_10,brNu,avg通讯器聊天表_AvgCommunicate_A_M.csv,514,AvgCommunicate,Content,克莱门汀AF,但我并不会采取什么过激的手段。相信我。,But I won't do anything extreme. Trust me.
+AvgCommunicate_80102_Content_12,brNw,avg通讯器聊天表_AvgCommunicate_A_M.csv,516,AvgCommunicate,Content,克莱门汀AF,当然。毕竟我只是个心理医师而已。,"Of course. After all, I'm only a psychologist."
+AvgCommunicate_84107_Option_2,brOV,avg通讯器聊天表_AvgCommunicate_A_M.csv,518,AvgCommunicate,Option,玩家,……假期不是才刚开始吗？,...Didn't it just begin?
+AvgCommunicate_84107_Content_2,brOH,avg通讯器聊天表_AvgCommunicate_A_M.csv,518,AvgCommunicate,Content,玩家,……假期不是才刚开始吗？,...Didn't it just begin?
+AvgCommunicate_84107_Content_6,brOL,avg通讯器聊天表_AvgCommunicate_A_M.csv,522,AvgCommunicate,Content,克珀珊特,之后的每天，我也会持续维护，保证能够随时开工。,I'll continue maintaining these things every day to ensure we can start work at any time.
+AvgCommunicate_84107_Option_7,brPa,avg通讯器聊天表_AvgCommunicate_A_M.csv,523,AvgCommunicate,Option,玩家,只是指挥学院午饭时的交通……,Does it require that much preparation?
+AvgCommunicate_84107_Content_7,brOM,avg通讯器聊天表_AvgCommunicate_A_M.csv,523,AvgCommunicate,Content,玩家,……只是指挥学院午饭时的交通，也需要做这么多的准备吗？,...Does it require that much preparation to organize lunch time?
+AvgCommunicate_84107_Content_9,brOO,avg通讯器聊天表_AvgCommunicate_A_M.csv,525,AvgCommunicate,Content,克珀珊特,还有哪片花坛被新来的流浪猫当成了家园，哪片区域又被学生们踩出了新路，哪条道路需要施工维护……,"Which flowerbed has the new stray cat taken as its home, which area the students trampled to make a new path, which road needs maintenance..."
+AvgCommunicate_84107_Option_11,brOR,avg通讯器聊天表_AvgCommunicate_A_M.csv,527,AvgCommunicate,Option,玩家,……受教了。,...I see.
+AvgCommunicate_84107_Content_11,brOD,avg通讯器聊天表_AvgCommunicate_A_M.csv,527,AvgCommunicate,Content,玩家,……受教了。看来每份工作都有其意义。,...I see. It seems every job is important.
+AvgCommunicate_84107_Content_12,brOE,avg通讯器聊天表_AvgCommunicate_A_M.csv,528,AvgCommunicate,Content,克珀珊特,是的，既然我做出选择，就要承担起自己的职责。,"Yes. Since I made the choice, I must take responsibility."
+AvgCommunicate_84107_Content_13,brOF,avg通讯器聊天表_AvgCommunicate_A_M.csv,529,AvgCommunicate,Content,克珀珊特,从现在起，我还会每天巡夜，确保假期期间，学院不会出现意外。,"From now on, I will patrol every night to ensure that no accidents occur at the academy this break."
+AvgCommunicate_57593_Content_2,abqh,avg通讯器聊天表_AvgCommunicate_A_M.csv,532,AvgCommunicate,Content,玩家,呃，这个，那个，算是都……看了。,"Uh, well, I kind of... skimmed them."
+AvgCommunicate_57593_Option_4,abqA,avg通讯器聊天表_AvgCommunicate_A_M.csv,534,AvgCommunicate,Option,玩家,大概，看了……目录。,Well I... probably remember the table of contents.
+AvgCommunicate_57593_Content_4,abqj,avg通讯器聊天表_AvgCommunicate_A_M.csv,534,AvgCommunicate,Content,玩家,大概，看了……目录。,Well I... probably remember the table of contents.
+AvgCommunicate_57593_Option_6,abqC,avg通讯器聊天表_AvgCommunicate_A_M.csv,536,AvgCommunicate,Option,玩家,那些书实在太厚太枯燥了嘛！,The books are just too long and boring!
+AvgCommunicate_57593_Content_6,abql,avg通讯器聊天表_AvgCommunicate_A_M.csv,536,AvgCommunicate,Content,玩家,那些书实在太厚太枯燥了嘛！密密麻麻的字一看就睡过去了……,The books are just too long and boring! I fall asleep before I can even get past the first page!
+AvgCommunicate_57593_Content_7,abqm,avg通讯器聊天表_AvgCommunicate_A_M.csv,537,AvgCommunicate,Content,玩家,每次看书之后我的睡眠质量倒是很好……,"On the bright side, I slept like a baby after reading it..."
+AvgCommunicate_57593_Content_8,abqn,avg通讯器聊天表_AvgCommunicate_A_M.csv,538,AvgCommunicate,Content,拉蒙娜,算了，之后你来我这里，我一本一本给你讲。,Never mind. Come over and I'll teach you each book myself.
+AvgCommunicate_57593_Content_9,abqo,avg通讯器聊天表_AvgCommunicate_A_M.csv,539,AvgCommunicate,Content,拉蒙娜,每天下课后你来我宿舍报道。,Report to my dorm after class every day.
+AvgCommunicate_57593_Option_10,abqq,avg通讯器聊天表_AvgCommunicate_A_M.csv,540,AvgCommunicate,Option,玩家,啊？需要这么认真吗……,Huh? Is it really that serious...?
+AvgCommunicate_57593_Content_10,abpZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,540,AvgCommunicate,Content,玩家,啊？需要这么认真吗……,Huh? Is it really that serious...?
+AvgCommunicate_57593_Content_11,abqa,avg通讯器聊天表_AvgCommunicate_A_M.csv,541,AvgCommunicate,Content,拉蒙娜,这些都是调查员必读的书籍， 你死记硬背也要学一些。,"These are essential books for investigators. You must memorize them, no matter how dull they are."
+AvgCommunicate_57593_Content_12,abqb,avg通讯器聊天表_AvgCommunicate_A_M.csv,542,AvgCommunicate,Content,拉蒙娜,我预计每天给你补课一小时，如果你想快点学完，我也不介意陪你通宵读书。,"I plan to tutor you for an hour every day. Of course, if you want to learn even faster, we can study together all night."
+AvgCommunicate_57593_Option_13,abqt,avg通讯器聊天表_AvgCommunicate_A_M.csv,543,AvgCommunicate,Option,玩家,还，还是慢点吧……,"No, no, an hour is fine!"
+AvgCommunicate_57593_Content_13,abqc,avg通讯器聊天表_AvgCommunicate_A_M.csv,543,AvgCommunicate,Content,玩家,还，还是慢点吧……我觉得一个小时就挺好！学太多不利于复习巩固！,"No, no, an hour is fine! Too much studying isn't healthy either!"
+AvgCommunicate_57593_Content_14,abqd,avg通讯器聊天表_AvgCommunicate_A_M.csv,544,AvgCommunicate,Content,拉蒙娜,很好，你的学习态度很不错。,I'm glad to see how enthusiastic you are.
+AvgCommunicate_57593_Content_15,abqe,avg通讯器聊天表_AvgCommunicate_A_M.csv,545,AvgCommunicate,Content,拉蒙娜,记得带好笔记本，我会随时检查你的复习情况。,Remember to bring your notebook. I'll be checking your progress.
+AvgCommunicate_57593_Content_17,abqg,avg通讯器聊天表_AvgCommunicate_A_M.csv,547,AvgCommunicate,Content,玩家,我恨我这张破嘴……,Why did I say that...
+AvgCommunicate_67056_Content_1,acDC,avg通讯器聊天表_AvgCommunicate_A_M.csv,548,AvgCommunicate,Content,本源拉蒙娜通讯器,打扰了，我思考了很久，想问问你……,"Excuse me, I've been thinking for a long time and would like to ask you something..."
+AvgCommunicate_67056_Content_3,acDK,avg通讯器聊天表_AvgCommunicate_A_M.csv,550,AvgCommunicate,Content,本源拉蒙娜通讯器,你觉得我每次响应你召唤的速度如何？,Do you think I respond to your summons fast enough?
+AvgCommunicate_67056_Content_4,acDL,avg通讯器聊天表_AvgCommunicate_A_M.csv,551,AvgCommunicate,Content,本源拉蒙娜通讯器,虽然我每次都注意着你的呼唤，第一时间出发。,Although I always heed your call and set out at as fast as I can...
+AvgCommunicate_67056_Content_5,acDM,avg通讯器聊天表_AvgCommunicate_A_M.csv,552,AvgCommunicate,Content,本源拉蒙娜通讯器,但我担心跨越时空的过程会有些许偏差，万一出现了时间的延迟……,"...I'm worried that there might be some deviations during the process of crossing time and space, and if there's a delay..."
+AvgCommunicate_67056_Content_6,acDN,avg通讯器聊天表_AvgCommunicate_A_M.csv,553,AvgCommunicate,Content,本源拉蒙娜通讯器,我一想到你会因此陷入危险，就有些坐立难安。,The thought of you in peril because of this worries me.
+AvgCommunicate_67056_Content_8,acDP,avg通讯器聊天表_AvgCommunicate_A_M.csv,555,AvgCommunicate,Content,玩家,没有的事，你每次来得都很及时。,You're always there for me.
+AvgCommunicate_67056_Content_9,acDQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,556,AvgCommunicate,Content,玩家,知道你会随时在我身后，我一直很安心。,Knowing that you're always there for me gives me peace of mind.
+AvgCommunicate_67056_Option_12,acDU,avg通讯器聊天表_AvgCommunicate_A_M.csv,559,AvgCommunicate,Option,玩家,其实你没必要每次那样急着走……,You don't have to rush off every time...
+AvgCommunicate_67056_Content_13,acDG,avg通讯器聊天表_AvgCommunicate_A_M.csv,560,AvgCommunicate,Content,本源拉蒙娜通讯器,不……我不属于这里，留下是一种贪恋，对你、对我，乃至对时空来说都不是好事。,"No... I don't belong there. I don't want to build any attachment. It'd be harmful to you, me; even time and space."
+AvgCommunicate_67056_Option_14,acDW,avg通讯器聊天表_AvgCommunicate_A_M.csv,561,AvgCommunicate,Option,玩家,那么，至少多留下一瞬告别的时间吧。,At least set some time aside for me to say goodbye to you before you leave.
+AvgCommunicate_67056_Content_14,acDH,avg通讯器聊天表_AvgCommunicate_A_M.csv,561,AvgCommunicate,Content,玩家,那么，至少多留下一瞬告别的时间吧，让我每次来得及和你说一声再见。,At least set some time aside for me to say goodbye to you before you leave.
+AvgCommunicate_67004_Content_1,accg,avg通讯器聊天表_AvgCommunicate_A_M.csv,563,AvgCommunicate,Content,朵尔,我注意到你最近几门课程作业的评分都有些低，甚至还有逾期提交的。,"I've noticed that your grades for the recent assignments have been poor, and you're missing some submissions."
+AvgCommunicate_67004_Content_2,accp,avg通讯器聊天表_AvgCommunicate_A_M.csv,564,AvgCommunicate,Content,朵尔,是发生什么事了吗？还是学习上有什么困难？,Did something happen? Are you facing any difficulties in your studies?
+AvgCommunicate_67004_Option_3,accH,avg通讯器聊天表_AvgCommunicate_A_M.csv,565,AvgCommunicate,Option,玩家,最近出任务的次数太多了，实在有点累了……,I've been so busy doing missions... I'm so tired...
+AvgCommunicate_67004_Content_3,accq,avg通讯器聊天表_AvgCommunicate_A_M.csv,565,AvgCommunicate,Content,玩家,最近出任务的次数太多了，实在有点累了……,I've been so busy doing missions... I'm so tired...
+AvgCommunicate_67004_Content_4,accr,avg通讯器聊天表_AvgCommunicate_A_M.csv,566,AvgCommunicate,Content,玩家,下次我会尽量早点交的。,I'll try to finish my assignments earlier next time.
+AvgCommunicate_67004_Content_6,acct,avg通讯器聊天表_AvgCommunicate_A_M.csv,568,AvgCommunicate,Content,玩家,好……等等，不交作业？！,"Alright... wait, I can skip assignments?!"
+AvgCommunicate_67004_Option_7,accL,avg通讯器聊天表_AvgCommunicate_A_M.csv,569,AvgCommunicate,Option,玩家,你还是朵尔吗？,Is this the real Doll?!
+AvgCommunicate_67004_Content_7,accu,avg通讯器聊天表_AvgCommunicate_A_M.csv,569,AvgCommunicate,Content,玩家,你还是朵尔吗？,Is this the real Doll?!
+AvgCommunicate_67004_Option_8,accM,avg通讯器聊天表_AvgCommunicate_A_M.csv,570,AvgCommunicate,Option,玩家,通讯器没有被偷吧？,Did someone steal the communicator?
+AvgCommunicate_67004_Content_8,accv,avg通讯器聊天表_AvgCommunicate_A_M.csv,570,AvgCommunicate,Content,玩家,通讯器没有被偷吧？,Did someone steal the communicator?
+AvgCommunicate_67004_Content_9,accw,avg通讯器聊天表_AvgCommunicate_A_M.csv,571,AvgCommunicate,Content,朵尔,是什么让你对我产生了这种印象？,Now HOW did you form this impression of me?
+AvgCommunicate_67004_Content_10,acch,avg通讯器聊天表_AvgCommunicate_A_M.csv,572,AvgCommunicate,Content,朵尔,作业不过是督促你们掌握调查员知识的方法，并不能决定你们任何人的能力或价值。,Assignments are merely a method to help you become a skilled investigator. They don't determine one's ability or value.
+AvgCommunicate_67004_Content_11,acci,avg通讯器聊天表_AvgCommunicate_A_M.csv,573,AvgCommunicate,Content,朵尔,如果因为几份作业把弥萨格唯一的守密人累垮了，影响了你的状态，那反而舍本逐末。,It'd be quite the waste to overwork the only Keeper in Mythag over a few assignments.
+AvgCommunicate_67004_Content_13,acck,avg通讯器聊天表_AvgCommunicate_A_M.csv,575,AvgCommunicate,Content,朵尔,如果你觉得自己完全不需要写作业，也可以一直这样申请。,"If you believe that you absolutely do not need to do the homework, you are free to keep skipping."
+AvgCommunicate_67004_Option_14,accC,avg通讯器聊天表_AvgCommunicate_A_M.csv,576,AvgCommunicate,Option,玩家,还有这种好事？！,This seems too good to be true!
+AvgCommunicate_67004_Content_14,accl,avg通讯器聊天表_AvgCommunicate_A_M.csv,576,AvgCommunicate,Content,玩家,还有这种好事？！,This seems too good to be true!
+AvgCommunicate_67004_Content_15,accm,avg通讯器聊天表_AvgCommunicate_A_M.csv,577,AvgCommunicate,Content,朵尔,当然，你已经不是小孩子了，可以为自己的决定负责。,Of course. You're not a child; you can take responsibility for your decisions.
+AvgCommunicate_67004_Content_16,accn,avg通讯器聊天表_AvgCommunicate_A_M.csv,578,AvgCommunicate,Content,朵尔,我相信你会做出最理性的判断。,I trust you will make the most rational decisions.
+AvgCommunicate_67004_Content_17,acco,avg通讯器聊天表_AvgCommunicate_A_M.csv,579,AvgCommunicate,Content,朵尔,至于现在，先好好休息一下吧。,Now go rest up.
+AvgCommunicate_67032_Content_1,acqW,avg通讯器聊天表_AvgCommunicate_A_M.csv,580,AvgCommunicate,Content,本源朵尔？,小狗狗，黑池里好冷啊，我每天都感觉到生命力在流逝。,"Oh puppy, it's so cold in the Black Pool. I can feel my life slowly draining away."
+AvgCommunicate_67032_Content_2,acqZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,581,AvgCommunicate,Content,本源朵尔？,要是你再不来看看我的话，说不定哪天我就会化成融蚀浆消失了。,"If you don't visit me soon, I might melt away into D-Slime..."
+AvgCommunicate_67032_Content_4,acrb,avg通讯器聊天表_AvgCommunicate_A_M.csv,583,AvgCommunicate,Content,本源朵尔？,对师长的关心不是应当的吗？怎么能叫上当呢。,How could you treat your mentor this way? I would never lie to my precious student.
+AvgCommunicate_67032_Content_6,acrd,avg通讯器聊天表_AvgCommunicate_A_M.csv,585,AvgCommunicate,Content,本源朵尔？,来抓我的时候，那张正义又天真的脸也很可爱呢。,Your righteous yet naive expression was so~ cute.
+AvgCommunicate_67032_Option_7,acrp,avg通讯器聊天表_AvgCommunicate_A_M.csv,586,AvgCommunicate,Option,玩家,说够了我就把通讯器关掉了。,Stop that or I'm turning my communicator off.
+AvgCommunicate_67032_Content_7,acre,avg通讯器聊天表_AvgCommunicate_A_M.csv,586,AvgCommunicate,Content,玩家,说够了我就把通讯器关掉了。,Stop that or I'm turning my communicator off.
+AvgCommunicate_67032_Content_8,acrf,avg通讯器聊天表_AvgCommunicate_A_M.csv,587,AvgCommunicate,Content,本源朵尔？,唉，真是冷漠啊，无论怎样你都不肯见见我吗？,How cold of you. Is there nothing I can say to have you visit me?
+AvgCommunicate_67032_Content_10,acqX,avg通讯器聊天表_AvgCommunicate_A_M.csv,589,AvgCommunicate,Content,本源朵尔？,如果我说，我现在已经把困住我的装置松动了一些呢？,Hmm... What if I say I've managed to loosen the device trapping me a little?
+AvgCommunicate_67046_Content_1,acyS,avg通讯器聊天表_AvgCommunicate_A_M.csv,591,AvgCommunicate,Content,奥吉尔,主君！马厩那匹叫白雪的母温血马最近要到了生产的日子了！,My lord! Mare Snowflake's about to give birth!
+AvgCommunicate_67046_Content_2,aczb,avg通讯器聊天表_AvgCommunicate_A_M.csv,592,AvgCommunicate,Content,奥吉尔,我记得之前那匹公马是纯黑色的，真好奇它们的孩子是什么颜色，会不会是黑白花纹的呢？,I remember that the stallion was pure black. I'm curious about the color of their offspring—will it be black and white?
+AvgCommunicate_67046_Option_3,aczt,avg通讯器聊天表_AvgCommunicate_A_M.csv,593,AvgCommunicate,Option,玩家,也有可能是斑马那样的条纹。,Maybe the foal will have zebra stripes.
+AvgCommunicate_67046_Content_3,aczc,avg通讯器聊天表_AvgCommunicate_A_M.csv,593,AvgCommunicate,Content,玩家,也有可能是斑马那样的条纹。,Maybe the foal will have zebra stripes.
+AvgCommunicate_67046_Content_4,aczd,avg通讯器聊天表_AvgCommunicate_A_M.csv,594,AvgCommunicate,Content,奥吉尔,原，原来还有这种可能吗？真是神奇啊……,Is... is that really possible? That's amazing...
+AvgCommunicate_67046_Content_5,acze,avg通讯器聊天表_AvgCommunicate_A_M.csv,595,AvgCommunicate,Content,玩家,哈哈哈逗你的！你这种别人说什么都信的习惯很危险啊。,"Haha, just kidding! It's dangerous to believe everything other people say."
+AvgCommunicate_67046_Content_6,aczf,avg通讯器聊天表_AvgCommunicate_A_M.csv,596,AvgCommunicate,Content,奥吉尔,我，我下次会注意的！但如果是主君的话，我觉得没有怀疑的必要！,"I-I'll be more careful next time! But for you, my lord, I could never doubt your words!"
+AvgCommunicate_67046_Content_9,aczi,avg通讯器聊天表_AvgCommunicate_A_M.csv,599,AvgCommunicate,Content,奥吉尔,嗯？对了主君，我打算学习一下相关知识，亲自为白雪接生。,"Hmm? By the way, my lord, I'm learning how to and plan on delivering the baby myself!"
+AvgCommunicate_67046_Content_10,acyT,avg通讯器聊天表_AvgCommunicate_A_M.csv,600,AvgCommunicate,Content,奥吉尔,一想到能从小参与小马的成长，我就很期待！,I'm looking forward to training the pony!
+AvgCommunicate_67046_Option_11,aczl,avg通讯器聊天表_AvgCommunicate_A_M.csv,601,AvgCommunicate,Option,玩家,原来培养马匹要从这么小开始吗？,Does raising a horse start at such a young age?
+AvgCommunicate_67046_Content_11,acyU,avg通讯器聊天表_AvgCommunicate_A_M.csv,601,AvgCommunicate,Content,玩家,原来培养马匹要从这么小开始吗？,Does raising a horse start at such a young age?
+AvgCommunicate_67046_Content_12,acyV,avg通讯器聊天表_AvgCommunicate_A_M.csv,602,AvgCommunicate,Content,奥吉尔,马对于骑士来说是最亲近的伙伴！与马儿之间的信任当然是越多越好。,"A horse is a knight's closest companion! The more trust between them, the better."
+AvgCommunicate_67046_Content_15,acyY,avg通讯器聊天表_AvgCommunicate_A_M.csv,605,AvgCommunicate,Content,玩家,如果到时候我有时间，就和你一起去帮忙吧。,If I have time I'll go and help out.
+AvgCommunicate_57595_Option_4,abrG,avg通讯器聊天表_AvgCommunicate_A_M.csv,611,AvgCommunicate,Option,玩家,呃……可能是因为你的气场太强大了。,Uh... maybe you're just too intimidating.
+AvgCommunicate_57595_Content_4,abrs,avg通讯器聊天表_AvgCommunicate_A_M.csv,611,AvgCommunicate,Content,玩家,呃……可能是因为你的气场太强大了。,Uh... maybe you're just too intimidating.
+AvgCommunicate_57595_Content_5,abrt,avg通讯器聊天表_AvgCommunicate_A_M.csv,612,AvgCommunicate,Content,玩家,大家感觉压力太大。,People might feel too pressured by you.
+AvgCommunicate_57595_Content_6,abru,avg通讯器聊天表_AvgCommunicate_A_M.csv,613,AvgCommunicate,Content,萝坦,果然是这样么，我知道了，我的态度是有那么一点强硬。,Is that how it is? I suppose my attitude might've been abrasive.
+AvgCommunicate_57595_Option_7,abrJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,614,AvgCommunicate,Option,玩家,你居然有自知之明？,So you DO have self-awareness...
+AvgCommunicate_57595_Content_7,abrv,avg通讯器聊天表_AvgCommunicate_A_M.csv,614,AvgCommunicate,Content,玩家,你居然有自知之明？,So you DO have self-awareness...
+AvgCommunicate_57595_Option_8,abrK,avg通讯器聊天表_AvgCommunicate_A_M.csv,615,AvgCommunicate,Option,玩家,虽然不只是态度问题吧！,It's not just your attitude!
+AvgCommunicate_57595_Content_8,abrw,avg通讯器聊天表_AvgCommunicate_A_M.csv,615,AvgCommunicate,Content,玩家,虽然不只是态度问题吧！,It's not just your attitude!
+AvgCommunicate_57595_Content_9,abrx,avg通讯器聊天表_AvgCommunicate_A_M.csv,616,AvgCommunicate,Content,萝坦,没关系，我已经想到解决办法了。,It's fine. I've got a better idea.
+AvgCommunicate_57595_Content_10,abrl,avg通讯器聊天表_AvgCommunicate_A_M.csv,617,AvgCommunicate,Content,萝坦,我来写一批决斗书送到大家的宿舍，这样一定够礼貌了。,I'll write some duel challenges and send them to everyone's dormitories; that should be polite enough.
+AvgCommunicate_57595_Content_11,abrm,avg通讯器聊天表_AvgCommunicate_A_M.csv,618,AvgCommunicate,Content,萝坦,就这样决定了，写四十张够不够呢……,It's decided. Is forty enough...?
+AvgCommunicate_57595_Option_12,abrB,avg通讯器聊天表_AvgCommunicate_A_M.csv,619,AvgCommunicate,Option,玩家,？！等等，不是决斗书的问题吧，这也太扰民了！,"?! Hold on, it's not about how you challenge people! This is going way too far!"
+AvgCommunicate_57595_Content_12,abrn,avg通讯器聊天表_AvgCommunicate_A_M.csv,619,AvgCommunicate,Content,玩家,？！等等，不是决斗书的问题吧，这也太扰民了！,"?! Hold on, it's not about how you challenge people! This is going way too far!"
+AvgCommunicate_57595_Content_13,abro,avg通讯器聊天表_AvgCommunicate_A_M.csv,620,AvgCommunicate,Content,萝坦,你不懂，我听德克斯特说过，在过去通过决斗书战斗可是绅士的行为，学着点吧年轻人！,"You don't understand. I heard Dexter say that in the past, challenging people to duels by way of a written challenge was considered a gentleman's act. You should learn from your ancestors, young man!"
+AvgCommunicate_57595_Option_14,abrD,avg通讯器聊天表_AvgCommunicate_A_M.csv,621,AvgCommunicate,Option,玩家,不是，你，我，总之别去啊啊啊！,"No, you... I... stop!"
+AvgCommunicate_57595_Content_14,abrp,avg通讯器聊天表_AvgCommunicate_A_M.csv,621,AvgCommunicate,Content,玩家,不是，你，我，总之别去啊啊啊！,"No, you... I... stop!"
+AvgCommunicate_66976_Content_2,abMV,avg通讯器聊天表_AvgCommunicate_A_M.csv,623,AvgCommunicate,Content,二十四,你知道这样一顶小小的黑色礼帽是属于谁的吗？,Do you know who the owner of this small black top hat might be?
+AvgCommunicate_66976_Content_3,abMW,avg通讯器聊天表_AvgCommunicate_A_M.csv,624,AvgCommunicate,Content,二十四,这个尺寸实在不像是成人使用的，但我也不记得有哪个小孩子戴着这样的礼帽。,"It's too small to belong to one of the adults, but I don't remember seeing any chilld wearing a top hat like this."
+AvgCommunicate_66976_Content_6,abMZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,627,AvgCommunicate,Content,二十四,校猫？那就难怪了，刚刚我的猫咪人格出现了一段时间。,School Cat? No wonder my cat persona emerged earlier...
+AvgCommunicate_66976_Content_8,abNb,avg通讯器聊天表_AvgCommunicate_A_M.csv,629,AvgCommunicate,Content,二十四,然后把对方的帽子抢走了……她似乎很喜欢这顶帽子。,Then she snatched the other's hat... It seems she liked this hat a lot.
+AvgCommunicate_66976_Content_10,abMR,avg通讯器聊天表_AvgCommunicate_A_M.csv,631,AvgCommunicate,Content,二十四,啊，真是抱歉，我又给大家添麻烦了。,I'm sorry... I seem to have caused trouble for everyone again.
+AvgCommunicate_66976_Content_11,abMS,avg通讯器聊天表_AvgCommunicate_A_M.csv,632,AvgCommunicate,Content,二十四,我会去把帽子送回，顺便送些小鱼干补偿那位校猫吧。,I'll go return the hat and bring some dried fish as an apology to the cat.
+AvgCommunicate_66976_Option_12,abNg,avg通讯器聊天表_AvgCommunicate_A_M.csv,633,AvgCommunicate,Option,玩家,比起鱼干，那位校猫或许更喜欢银芯碎片这种东西……,"Instead of dried fish, maybe bring something like Silver fragments..."
+AvgCommunicate_66976_Content_12,abMT,avg通讯器聊天表_AvgCommunicate_A_M.csv,633,AvgCommunicate,Content,玩家,比起鱼干，那位校猫或许更喜欢银芯碎片这种东西……,"Instead of dried fish, maybe bring something like Silver fragments..."
+AvgCommunicate_66976_Content_13,abMU,avg通讯器聊天表_AvgCommunicate_A_M.csv,634,AvgCommunicate,Content,二十四,是这样吗？非常感谢您的帮助，我会努力搜集一下的！,Is that so? Thank you very much for your help! I'll go look for some!
+AvgCommunicate_66980_Option_2,abPu,avg通讯器聊天表_AvgCommunicate_A_M.csv,636,AvgCommunicate,Option,玩家,？你不会全忘光了吧？,? Did you forget again?
+AvgCommunicate_66980_Content_2,abPe,avg通讯器聊天表_AvgCommunicate_A_M.csv,636,AvgCommunicate,Content,玩家,？你不会全忘光了吧？,? Did you forget again?
+AvgCommunicate_66980_Content_4,abPg,avg通讯器聊天表_AvgCommunicate_A_M.csv,638,AvgCommunicate,Content,诺缔拉,但我看到了里面的聊天记录，我之前貌似用过它，可我现在忘了要怎么用。,"But I saw the chat logs. I think I've used it before, but I don't remember how to use it now..."
+AvgCommunicate_66980_Option_5,abPx,avg通讯器聊天表_AvgCommunicate_A_M.csv,639,AvgCommunicate,Option,玩家,那你现在是怎么用的？！,Then how are you using it now?!
+AvgCommunicate_66980_Content_5,abPh,avg通讯器聊天表_AvgCommunicate_A_M.csv,639,AvgCommunicate,Content,玩家,那你现在是怎么用的？！,Then how are you using it now?!
+AvgCommunicate_66980_Option_7,abPz,avg通讯器聊天表_AvgCommunicate_A_M.csv,641,AvgCommunicate,Option,玩家,你别笑我害怕！,Stop laughing! This is serious!
+AvgCommunicate_66980_Content_7,abPj,avg通讯器聊天表_AvgCommunicate_A_M.csv,641,AvgCommunicate,Content,玩家,你别笑我害怕！,Stop laughing! This is serious!
+AvgCommunicate_66980_Content_8,abPk,avg通讯器聊天表_AvgCommunicate_A_M.csv,642,AvgCommunicate,Content,诺缔拉,我把它拆开又装了回去，就大概明白了使用方法。,"I took it apart and put it back together, so I kinda figured out how to use it..."
+AvgCommunicate_66980_Content_9,abPl,avg通讯器聊天表_AvgCommunicate_A_M.csv,643,AvgCommunicate,Content,诺缔拉,虽然里面的驱动原理很复杂，我还没有弄懂，可能需要多研究一下。,"...Although it's a very complex device, so I haven't fully understood it yet. I'll need to do some more research first."
+AvgCommunicate_66980_Option_10,abPn,avg通讯器聊天表_AvgCommunicate_A_M.csv,644,AvgCommunicate,Option,玩家,你别研究！这不重要，要是报废了很贵的！,Stop researching it! You don't need to know THAT much about it! It's too expensive for you to be messing with it!
+AvgCommunicate_66980_Content_10,abOX,avg通讯器聊天表_AvgCommunicate_A_M.csv,644,AvgCommunicate,Content,玩家,你别研究！这不重要，要是报废了很贵的！,Stop researching it! You don't need to know THAT much about it! It's too expensive for you to be messing with it!
+AvgCommunicate_66980_Content_11,abOY,avg通讯器聊天表_AvgCommunicate_A_M.csv,645,AvgCommunicate,Content,诺缔拉,好吧，所以这个盒子是做什么用的呢？,Then tell me what this box is supposed to do.
+AvgCommunicate_66980_Option_12,abPp,avg通讯器聊天表_AvgCommunicate_A_M.csv,646,AvgCommunicate,Option,玩家,这是校方发给你们的通讯器。,It's a communicator the school gave you.
+AvgCommunicate_66980_Content_12,abOZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,646,AvgCommunicate,Content,玩家,这是校方发给你们的通讯器，用来互相远程联络的，遇到危险的时候也可以用它求助。,"It's a communicator the school gave you. It'll let you communicate with other people remotely, or used to call for help if you're in danger."
+AvgCommunicate_66980_Option_14,abPr,avg通讯器聊天表_AvgCommunicate_A_M.csv,648,AvgCommunicate,Option,玩家,你真的记得我是谁？,Do you actually remember who I am?
+AvgCommunicate_66980_Content_14,abPb,avg通讯器聊天表_AvgCommunicate_A_M.csv,648,AvgCommunicate,Content,玩家,你真的记得我是谁？,Do you actually remember who I am?
+AvgCommunicate_66980_Content_15,abPc,avg通讯器聊天表_AvgCommunicate_A_M.csv,649,AvgCommunicate,Content,诺缔拉,我记得啊，我答应过你不会忘记的。,Of course I do. I promised I would never forget you!
+AvgCommunicate_66980_Content_16,abPd,avg通讯器聊天表_AvgCommunicate_A_M.csv,650,AvgCommunicate,Content,诺缔拉,你是%player%，你是我的朋友！,"You're my friend, %player%!"
+AvgCommunicate_67028_Content_1,acoI,avg通讯器聊天表_AvgCommunicate_A_M.csv,651,AvgCommunicate,Content,宁菲亚,守密人%sirormadam%，许久不见，冒昧打扰。,Hello Keeper%sirormadam%. Sorry to bother you after all this time.
+AvgCommunicate_67028_Content_2,acoL,avg通讯器聊天表_AvgCommunicate_A_M.csv,652,AvgCommunicate,Content,宁菲亚,近日我意外得到了两尾漂亮的红色金鱼。,I unexpected obtained two beautiful red goldfish.
+AvgCommunicate_67028_Content_3,acoM,avg通讯器聊天表_AvgCommunicate_A_M.csv,653,AvgCommunicate,Content,宁菲亚,幸运的是，经过我的照料，它们成功产下了不少鱼卵，现在已经孵化成了许许多多的小鱼。,"Fortunately, under my care, they successfully laid many eggs. Those eggs have hatched into countless little fish."
+AvgCommunicate_67028_Option_4,acoY,avg通讯器聊天表_AvgCommunicate_A_M.csv,654,AvgCommunicate,Option,玩家,那真不错啊，我记得你很喜欢鱼吧。,"That's great. If I recall correctly, you love fish right?"
+AvgCommunicate_67028_Content_4,acoN,avg通讯器聊天表_AvgCommunicate_A_M.csv,654,AvgCommunicate,Content,玩家,那真不错啊，我记得你很喜欢鱼吧。,"That's great. If I recall correctly, you love fish right?"
+AvgCommunicate_67028_Content_5,acoO,avg通讯器聊天表_AvgCommunicate_A_M.csv,655,AvgCommunicate,Content,宁菲亚,是的，我对水底的世界有着发自内心的依恋。,Indeed. I have a profound attachment to the underwater world.
+AvgCommunicate_67028_Content_7,acoQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,657,AvgCommunicate,Content,宁菲亚,不好意思，话题扯远了，我是想问问您，有没有兴趣养一些小金鱼？,"Sorry, I got sidetracked. I wanted to ask if you would be willing to take care of some of the goldfish."
+AvgCommunicate_67028_Content_8,acoR,avg通讯器聊天表_AvgCommunicate_A_M.csv,658,AvgCommunicate,Content,宁菲亚,它们在水中摆动尾鳍的样子非常可爱，如果莉莉那孩子见了应该也会喜欢的。,The way they wag their tail fins in the water is so cute. I think Lily would love them.
+AvgCommunicate_67028_Option_9,acpd,avg通讯器聊天表_AvgCommunicate_A_M.csv,659,AvgCommunicate,Option,玩家,好啊！可以把它们摆在我和莉莉的房间。,Sure! We can put some in both of our rooms.
+AvgCommunicate_67028_Content_9,acoS,avg通讯器聊天表_AvgCommunicate_A_M.csv,659,AvgCommunicate,Content,玩家,好啊！可以把它们摆在我和莉莉的房间。,Sure! We can put some in both of our rooms.
+AvgCommunicate_67028_Content_10,acoJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,660,AvgCommunicate,Content,宁菲亚,那太好了，我会挑一个您方便的时间前来拜访的。,That's great. I'll drop by at a convenient time.
+AvgCommunicate_67028_Content_11,acoK,avg通讯器聊天表_AvgCommunicate_A_M.csv,661,AvgCommunicate,Content,宁菲亚,请暂时对莉莉保密吧，我想给她一个惊喜。,"Oh, and let's keep it a secret from Lily for now. I want to surprise her."
+AvgCommunicate_67026_Content_1,acnC,avg通讯器聊天表_AvgCommunicate_A_M.csv,689,AvgCommunicate,Content,艾尔瓦,守密人，关于最近我的调查员训练课的改进计划，你有什么建议吗？,"Keeper, do you have any suggestions for improving my recent investigator training courses?"
+AvgCommunicate_67026_Option_2,acnU,avg通讯器聊天表_AvgCommunicate_A_M.csv,690,AvgCommunicate,Option,玩家,建议就是训练得很好，下次不要练了……,My suggestion: Training was great! There's no need for further training...
+AvgCommunicate_67026_Content_2,acnH,avg通讯器聊天表_AvgCommunicate_A_M.csv,690,AvgCommunicate,Content,玩家,建议就是训练得很好，下次不要练了……,My suggestion: Training was great! There's no need for further training...
+AvgCommunicate_67026_Content_3,acnI,avg通讯器聊天表_AvgCommunicate_A_M.csv,691,AvgCommunicate,Content,艾尔瓦,是说训练内容很让人抗拒吗？,Was the training too difficult?
+AvgCommunicate_67026_Option_4,acnW,avg通讯器聊天表_AvgCommunicate_A_M.csv,692,AvgCommunicate,Option,玩家,开玩笑的，主要是体能训练的内容太枯燥了，实在没有什么动力……,Just kidding. I just find the training too boring is all. I don't have any motivation to do it...
+AvgCommunicate_67026_Content_4,acnJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,692,AvgCommunicate,Content,玩家,开玩笑的，主要是体能训练的内容太枯燥了，实在没有什么动力……,Just kidding. I just find the training too boring is all. I don't have any motivation to do it...
+AvgCommunicate_67026_Content_5,acnK,avg通讯器聊天表_AvgCommunicate_A_M.csv,693,AvgCommunicate,Content,艾尔瓦,嗯，我了解了，看来关键还是兴趣问题。,I see. It seems the main issue is about interest.
+AvgCommunicate_67026_Content_6,acnL,avg通讯器聊天表_AvgCommunicate_A_M.csv,694,AvgCommunicate,Content,艾尔瓦,关于这点，我有一个主意，如果我们在训练中中融入军犬配合，大家会不会更有动力呢？,"With this in mind, I had an idea. Would people be more motivated if we integrated miltary dogs into the training routine?"
+AvgCommunicate_67026_Content_8,acnN,avg通讯器聊天表_AvgCommunicate_A_M.csv,696,AvgCommunicate,Content,艾尔瓦,是的，其实这在军队中也是一种常用的方法，士兵的情绪会因为军犬的陪伴而大大舒缓。,Yes. It's actually a commonly used method in the military. Soldiers tend to feel better when accompanied by a dog.
+AvgCommunicate_67026_Option_9,acob,avg通讯器聊天表_AvgCommunicate_A_M.csv,697,AvgCommunicate,Option,玩家,有毛绒绒的狗狗陪着，的确很幸福！,Having a fluffy dog by my side would certainly motivate me!
+AvgCommunicate_67026_Content_9,acnO,avg通讯器聊天表_AvgCommunicate_A_M.csv,697,AvgCommunicate,Content,玩家,有毛绒绒的狗狗陪着，的确很幸福！,Having a fluffy dog by my side would certainly motivate me!
+AvgCommunicate_67026_Content_10,acnD,avg通讯器聊天表_AvgCommunicate_A_M.csv,698,AvgCommunicate,Content,艾尔瓦,而且经过训练的军犬还能出色地辅助士兵完成很多任务，这一点能否运用在调查员任务中也可以进一步展开尝试。,"Moreover, well-trained military dogs can greatly assist soldiers in various tasks. Perhaps we can consider adding this to investigator missions."
+AvgCommunicate_67026_Option_11,acnR,avg通讯器聊天表_AvgCommunicate_A_M.csv,699,AvgCommunicate,Option,玩家,真厉害啊，狗狗们。,Dogs... That would be nice...
+AvgCommunicate_67026_Content_11,acnE,avg通讯器聊天表_AvgCommunicate_A_M.csv,699,AvgCommunicate,Content,玩家,真厉害啊，狗狗们。,Dogs... That would be nice...
+AvgCommunicate_67026_Content_12,acnF,avg通讯器聊天表_AvgCommunicate_A_M.csv,700,AvgCommunicate,Content,艾尔瓦,没错，所以这样的话，你会更愿意来上训练课了吗？,I take it this would make you more willing to come to training classes?
+AvgCommunicate_67026_Option_13,acnT,avg通讯器聊天表_AvgCommunicate_A_M.csv,701,AvgCommunicate,Option,玩家,艾尔瓦教官！我愿意！,"Absolutely, Instructor Alva!"
+AvgCommunicate_67026_Content_13,acnG,avg通讯器聊天表_AvgCommunicate_A_M.csv,701,AvgCommunicate,Content,玩家,艾尔瓦教官！我愿意！,"Absolutely, Instructor Alva!"
+AvgCommunicate_67012_Content_1,acgS,avg通讯器聊天表_AvgCommunicate_A_M.csv,758,AvgCommunicate,Content,艾继丝,那个，守密人，请问你下次出任务的时候会经过市区吗？,"Excuse me, Keeper. Will you be passing through the downtown area on your next mission?"
+AvgCommunicate_67012_Content_3,acgX,avg通讯器聊天表_AvgCommunicate_A_M.csv,760,AvgCommunicate,Content,艾继丝,嗯……就是，如果你什么时候会经过市区，刚好有时间、又顺路的话，能不能帮我带一些新的线团回来呢？,"Mm... If you happen to be in the area and have some time, and it's not too much trouble, could you bring me some new yarn?"
+AvgCommunicate_67012_Option_5,achl,avg通讯器聊天表_AvgCommunicate_A_M.csv,762,AvgCommunicate,Option,玩家,是线团不够了吗？我会记住的，你想要什么颜色的？,You're running out of yarn? I'll go get some more then. What color do you want?
+AvgCommunicate_67012_Content_5,acgZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,762,AvgCommunicate,Content,玩家,是线团不够了吗？我会记住的，你想要什么颜色的？,You're running out of yarn? I'll go get some more then. What color do you want?
+AvgCommunicate_67012_Content_6,acha,avg通讯器聊天表_AvgCommunicate_A_M.csv,763,AvgCommunicate,Content,玩家,或者我带你去商店买些新衣服吧！叫上詹金和莉莉一起。,"Or better yet, what if we just go shopping for new clothes? We can even bring Jenkin and Lily with us."
+AvgCommunicate_67012_Content_7,achb,avg通讯器聊天表_AvgCommunicate_A_M.csv,764,AvgCommunicate,Content,艾继丝,不，不用了！我的衣服都还能穿呢，那太浪费了……,"No, no! It's fine! My clothes are still wearable. It would be such a waste..."
+AvgCommunicate_67012_Content_8,achc,avg通讯器聊天表_AvgCommunicate_A_M.csv,765,AvgCommunicate,Content,玩家,怎么会浪费呢？艾继丝，你不用这样小心，我们都很乐意满足你的愿望。,"How could it be a waste, Aigis? There's no need to be so frugal. We're all more than happy to fulfill your wishes."
+AvgCommunicate_67012_Content_9,achd,avg通讯器聊天表_AvgCommunicate_A_M.csv,766,AvgCommunicate,Content,玩家,弥萨格的日常经费也很足够，没有人会再丢下你了，知道吗？,"Mythag's daily allowance is more than sufficient. No one will abandon you again, understand?"
+AvgCommunicate_67012_Option_11,achg,avg通讯器聊天表_AvgCommunicate_A_M.csv,768,AvgCommunicate,Option,玩家,好。,Okay.
+AvgCommunicate_67012_Content_11,acgU,avg通讯器聊天表_AvgCommunicate_A_M.csv,768,AvgCommunicate,Content,玩家,好，那我就把每个颜色的线团都买些回来，再买一些布料和丝带怎么样？,"Okay then, I'll buy you lots of yarn in every color. I'll even get some fabric and ribbons. How does that sound?"
+AvgCommunicate_67012_Content_12,acgV,avg通讯器聊天表_AvgCommunicate_A_M.csv,769,AvgCommunicate,Content,艾继丝,嗯！,Mm!
+AvgCommunicate_67031_Content_3,acqw,avg通讯器聊天表_AvgCommunicate_A_M.csv,847,AvgCommunicate,Content,阿格里帕,上次你们不是说，洁牙剂不是那个圆圆小盒子里的，而是一条长长的。,Didn't you say that toothpaste comes from the long tube and not the little box?
+AvgCommunicate_67031_Content_4,acqx,avg通讯器聊天表_AvgCommunicate_A_M.csv,848,AvgCommunicate,Content,阿格里帕,为什么我用了长长的那条，现在嘴里这么苦！又辣又苦！！,I used the long tube and now my mouth is on fire! It's so spicy and bitter!!
+AvgCommunicate_67031_Option_5,acqR,avg通讯器聊天表_AvgCommunicate_A_M.csv,849,AvgCommunicate,Option,玩家,呃……按理说不应该是这个味道。,Uh... The toothpaste shouldn't taste like that.
+AvgCommunicate_67031_Content_5,acqy,avg通讯器聊天表_AvgCommunicate_A_M.csv,849,AvgCommunicate,Content,玩家,呃……按理说不应该是这个味道。,Uh... The toothpaste shouldn't taste like that.
+AvgCommunicate_67031_Content_6,acqz,avg通讯器聊天表_AvgCommunicate_A_M.csv,850,AvgCommunicate,Content,玩家,等等，你说的长长的一条，是什么颜色的？,Hold on... What color is the long tube that you used?
+AvgCommunicate_67031_Content_7,acqA,avg通讯器聊天表_AvgCommunicate_A_M.csv,851,AvgCommunicate,Content,阿格里帕,蓝色的，怎么了？,"Blue, why?"
+AvgCommunicate_67031_Option_8,acqU,avg通讯器聊天表_AvgCommunicate_A_M.csv,852,AvgCommunicate,Option,玩家,那是洗脸用的，洁牙剂是绿色的……,...That tube is for washing your face. The toothpaste is in the green tube...
+AvgCommunicate_67031_Content_8,acqB,avg通讯器聊天表_AvgCommunicate_A_M.csv,852,AvgCommunicate,Content,玩家,那是洗脸用的，洁牙剂是绿色的……,...That tube is for washing your face. The toothpaste is in the green tube...
+AvgCommunicate_67031_Content_9,acqC,avg通讯器聊天表_AvgCommunicate_A_M.csv,853,AvgCommunicate,Content,阿格里帕,什么，为什么没人告诉我这件事，是不是你们故意的？！,What?! Why didn't anyone tell me? Are you kidding me?!
+AvgCommunicate_67031_Option_10,acqE,avg通讯器聊天表_AvgCommunicate_A_M.csv,854,AvgCommunicate,Option,玩家,有没有可能上面写着标签呢？,Didn't you read the label?
+AvgCommunicate_67031_Content_10,acql,avg通讯器聊天表_AvgCommunicate_A_M.csv,854,AvgCommunicate,Content,玩家,有没有可能上面写着标签呢？,Didn't you read the label?
+AvgCommunicate_67031_Content_11,acqm,avg通讯器聊天表_AvgCommunicate_A_M.csv,855,AvgCommunicate,Content,阿格里帕,什么标签？我看不懂。,The label? I can't read it.
+AvgCommunicate_67031_Option_12,acqG,avg通讯器聊天表_AvgCommunicate_A_M.csv,856,AvgCommunicate,Option,玩家,你的基础语言课完全没听吗？？,Can't re—Are you just ignoring your basic language class?!
+AvgCommunicate_67031_Content_12,acqn,avg通讯器聊天表_AvgCommunicate_A_M.csv,856,AvgCommunicate,Content,玩家,你的基础语言课完全没听吗？？,Can't re—Are you just ignoring your basic language class?!
+AvgCommunicate_67031_Content_13,acqo,avg通讯器聊天表_AvgCommunicate_A_M.csv,857,AvgCommunicate,Content,阿格里帕,啊啊啊烦死了！我堂堂迷宫之主，为什么要学习！,"Argh, this is all so annoying! Why does the master of the maze have to study!"
+AvgCommunicate_67031_Content_14,acqp,avg通讯器聊天表_AvgCommunicate_A_M.csv,858,AvgCommunicate,Content,阿格里帕,快给我找几个奴隶来伺候我！,Hurry up and find me some slaves to attend to me!
+AvgCommunicate_67031_Option_15,acqJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,859,AvgCommunicate,Option,玩家,醒醒，罗马亡了。,Wake up princess. Rome's long gone.
+AvgCommunicate_67031_Content_15,acqq,avg通讯器聊天表_AvgCommunicate_A_M.csv,859,AvgCommunicate,Content,玩家,醒醒，罗马亡了。,Wake up princess. Rome's long gone.
+AvgCommunicate_67031_Option_16,acqK,avg通讯器聊天表_AvgCommunicate_A_M.csv,860,AvgCommunicate,Option,玩家,现在是法制社会。,Our society doesn't have rulers and slaves anymore!
+AvgCommunicate_67031_Content_16,acqr,avg通讯器聊天表_AvgCommunicate_A_M.csv,860,AvgCommunicate,Content,玩家,现在是法制社会。,Our society doesn't have rulers and slaves anymore!
+AvgCommunicate_67031_Content_17,acqs,avg通讯器聊天表_AvgCommunicate_A_M.csv,861,AvgCommunicate,Content,阿格里帕,我不管，找不到的话，你就自己来伺候我吧！,"I don't care! If you can't bring me anyone, then you should serve me!"
+AvgCommunicate_67031_Option_18,acqM,avg通讯器聊天表_AvgCommunicate_A_M.csv,862,AvgCommunicate,Option,玩家,那你还是继续用洁面剂刷牙吧。,Then I guess you should keep using soap to brush your teeth.
+AvgCommunicate_67031_Content_18,acqt,avg通讯器聊天表_AvgCommunicate_A_M.csv,862,AvgCommunicate,Content,玩家,那你还是继续用洁面剂刷牙吧。,Then I guess you should keep using soap to brush your teeth.
+AvgCommunicate_67031_Content_19,acqu,avg通讯器聊天表_AvgCommunicate_A_M.csv,863,AvgCommunicate,Content,阿格里帕,我要把你丢进迷宫里喂子嗣！！！,I'll throw you into the maze to feed my babies!!!
+AvgCommunicate_67055_Content_1,acDm,avg通讯器聊天表_AvgCommunicate_A_M.csv,864,AvgCommunicate,Content,奥瑞塔,守密人，为什么我们上次从海边带回来的伙伴不动了……,"Keeper, why isn't the friend we brought back from the beach moving..."
+AvgCommunicate_67055_Content_2,acDn,avg通讯器聊天表_AvgCommunicate_A_M.csv,865,AvgCommunicate,Content,奥瑞塔,伙伴是生病了吗？还是不高兴了……,Is my friend sick or unhappy...?
+AvgCommunicate_67055_Content_3,acDo,avg通讯器聊天表_AvgCommunicate_A_M.csv,866,AvgCommunicate,Content,奥瑞塔,守密人能不能帮帮伙伴？,Keeper... help...
+AvgCommunicate_67055_Option_4,acDx,avg通讯器聊天表_AvgCommunicate_A_M.csv,867,AvgCommunicate,Option,玩家,嗯……伙伴应该是想大海了。,Mm... Maybe your friend misses the sea?
+AvgCommunicate_67055_Content_4,acDp,avg通讯器聊天表_AvgCommunicate_A_M.csv,867,AvgCommunicate,Content,玩家,嗯……伙伴应该是想大海了。,Mm... Maybe your friend misses the sea?
+AvgCommunicate_67055_Content_5,acDq,avg通讯器聊天表_AvgCommunicate_A_M.csv,868,AvgCommunicate,Content,玩家,它从大海里来，我们一起去把它送回大海好不好？,"Since they came from the sea, maybe we should return them back home?"
+AvgCommunicate_67055_Content_6,acDr,avg通讯器聊天表_AvgCommunicate_A_M.csv,869,AvgCommunicate,Content,奥瑞塔,原来是这样吗……我明白的，伙伴想家了。,I see... my friend is feeling homesick...
+AvgCommunicate_67055_Content_7,acDs,avg通讯器聊天表_AvgCommunicate_A_M.csv,870,AvgCommunicate,Content,奥瑞塔,奥瑞塔也想大海，但奥瑞塔也喜欢学校，奥瑞塔现在有两个家。,"Aurita misses the sea too, but... Aurita also loves school! Aurita has two homes!"
+AvgCommunicate_67055_Content_8,acDt,avg通讯器聊天表_AvgCommunicate_A_M.csv,871,AvgCommunicate,Content,奥瑞塔,走吧！我们去送伙伴回家！然后再一起回来，回学校的家！,"OK, let's go! Let's send our friend back home! Then we can return together, back to our home!"
+AvgCommunicate_67009_Content_1,acfg,avg通讯器聊天表_AvgCommunicate_A_M.csv,949,AvgCommunicate,Content,凯刻斯,守密人，之前我提到的那个偏方……,"Keeper, about that remedy I mentioned earlier..."
+AvgCommunicate_67009_Content_2,acfl,avg通讯器聊天表_AvgCommunicate_A_M.csv,950,AvgCommunicate,Content,玩家,失败了？没关系，这很正常，毕竟是来路不明的东西。,Did it fail? That's okay. I expected it would considering its dubious origin.
+AvgCommunicate_67009_Content_3,acfm,avg通讯器聊天表_AvgCommunicate_A_M.csv,951,AvgCommunicate,Content,凯刻斯,好像有些效果。,"Actually, it seems to be working."
+AvgCommunicate_67009_Option_4,acfA,avg通讯器聊天表_AvgCommunicate_A_M.csv,952,AvgCommunicate,Option,玩家,呃？？是什么效果？你觉醒成功了？,"Wait, what? It's working? Have you fully awakened?"
+AvgCommunicate_67009_Content_4,acfn,avg通讯器聊天表_AvgCommunicate_A_M.csv,952,AvgCommunicate,Content,玩家,呃？？是什么效果？你觉醒成功了？,"Wait, what? It's working? Have you fully awakened?"
+AvgCommunicate_67009_Content_5,acfo,avg通讯器聊天表_AvgCommunicate_A_M.csv,953,AvgCommunicate,Content,凯刻斯,那倒没有，我攒了一阵钱，刚刚开始尝试不久。,"Not yet, I've been saving up the bottles for a while. I've only just started using them..."
+AvgCommunicate_67009_Content_6,acfp,avg通讯器聊天表_AvgCommunicate_A_M.csv,954,AvgCommunicate,Content,凯刻斯,但我能感受到血脉的躁动，每天我的胸口都有力量在奔涌的感觉，甚至晚上经常会流鼻血。,"...but I can feel my blood boiling! Every day, I can feel the power surging within me! I've also been having nosebleeds at night."
+AvgCommunicate_67009_Option_7,acfD,avg通讯器聊天表_AvgCommunicate_A_M.csv,955,AvgCommunicate,Option,玩家,流鼻血？你怕不是生病了吧，要不先去校医室看看？,Boiling blood? Nosebleeds? It sounds like you're sick. You should go get checked out at the infirmary...
+AvgCommunicate_67009_Content_7,acfq,avg通讯器聊天表_AvgCommunicate_A_M.csv,955,AvgCommunicate,Content,玩家,流鼻血？你怕不是生病了吧，要不先去校医室看看？,Boiling blood? Nosebleeds? It sounds like you're sick. You should go get checked out at the infirmary...
+AvgCommunicate_67009_Content_8,acfr,avg通讯器聊天表_AvgCommunicate_A_M.csv,956,AvgCommunicate,Content,凯刻斯,守密人，你还是这样容易嫉妒我，这分明是血脉开始变强的体现。,"Ahh, Keeper, you truly are jealous of me. This is clearly a sign of my bloodline growing stronger."
+AvgCommunicate_67009_Content_10,acfh,avg通讯器聊天表_AvgCommunicate_A_M.csv,958,AvgCommunicate,Content,凯刻斯,只要等我的身体承受住这样的蜕变，我一定会获得无上的力量的。,"As long as my body can withstand these trials, I will surely attain supreme power."
+AvgCommunicate_67009_Content_11,acfi,avg通讯器聊天表_AvgCommunicate_A_M.csv,959,AvgCommunicate,Content,凯刻斯,只是最近鼻血流得太多，弄坏了好多件衣服，只剩下身上最后这一件了。,"But with all of the nosebleeds I've had, I've soiled and ruined most of my clothes. What I'm currently wearing is all that's left."
+AvgCommunicate_67009_Content_12,acfj,avg通讯器聊天表_AvgCommunicate_A_M.csv,960,AvgCommunicate,Content,凯刻斯,守密人，能不能给我五十，我去买几件新衣服。,"So, Keeper. I need fifty to buy some new clothes."
+AvgCommunicate_67009_Option_13,acfx,avg通讯器聊天表_AvgCommunicate_A_M.csv,961,AvgCommunicate,Option,玩家,搞了半天你还是来借钱的啊？！！,So you've come to borrow money after all?!
+AvgCommunicate_67009_Content_13,acfk,avg通讯器聊天表_AvgCommunicate_A_M.csv,961,AvgCommunicate,Content,玩家,搞了半天你还是来借钱的啊？！！,So you've come to borrow money after all?!
+AvgCommunicate_66992_Option_2,abWI,avg通讯器聊天表_AvgCommunicate_A_M.csv,963,AvgCommunicate,Option,玩家,所以我桌子上这本写完的作业是你拿来的？,So you're the one that brought this finished homework?
+AvgCommunicate_66992_Content_2,abWs,avg通讯器聊天表_AvgCommunicate_A_M.csv,963,AvgCommunicate,Content,玩家,所以我桌子上这本写完的作业是你拿来的？,So you're the one that brought this finished homework?
+AvgCommunicate_66992_Content_3,abWt,avg通讯器聊天表_AvgCommunicate_A_M.csv,964,AvgCommunicate,Content,希莱斯特,是的，您的愿望是希望一觉醒来作业就已经完成了。,Yes. Thy wish was to wake up and find your assignments already completed.
+AvgCommunicate_66992_Option_4,abWK,avg通讯器聊天表_AvgCommunicate_A_M.csv,965,AvgCommunicate,Option,玩家,我好像是说过这种话……但这本作业上写着拉蒙娜的名字！！,"Yes, I did say that, but... this homework has Ramona's name on it!!"
+AvgCommunicate_66992_Content_4,abWu,avg通讯器聊天表_AvgCommunicate_A_M.csv,965,AvgCommunicate,Content,玩家,我好像是说过这种话……但这本作业上写着拉蒙娜的名字！！,"Yes, I did say that, but... this homework has Ramona's name on it!!"
+AvgCommunicate_66992_Content_5,abWv,avg通讯器聊天表_AvgCommunicate_A_M.csv,966,AvgCommunicate,Content,希莱斯特,不用客气，我调查过，拉蒙娜是目前作业成绩最好的。,"You're welcome. After investigating, I discovered Ramona currently has the best homework grades."
+AvgCommunicate_66992_Option_6,abWM,avg通讯器聊天表_AvgCommunicate_A_M.csv,967,AvgCommunicate,Option,玩家,这是客气的问题吗？！,"What do you mean ""you're welcome""?!"
+AvgCommunicate_66992_Content_6,abWw,avg通讯器聊天表_AvgCommunicate_A_M.csv,967,AvgCommunicate,Content,玩家,这是客气的问题吗？！,"What do you mean ""you're welcome""?!"
+AvgCommunicate_66992_Content_9,abWz,avg通讯器聊天表_AvgCommunicate_A_M.csv,970,AvgCommunicate,Content,玩家,等等，我自己原来的那本作业呢？,"Wait, where's my homework ?"
+AvgCommunicate_66992_Content_10,abWl,avg通讯器聊天表_AvgCommunicate_A_M.csv,971,AvgCommunicate,Content,希莱斯特,为了保持作业的数量不变，我已经把它放到拉蒙娜那里了。,I exchanged it with Ramona's so the number of assignments are consistent.
+AvgCommunicate_66992_Content_11,abWm,avg通讯器聊天表_AvgCommunicate_A_M.csv,972,AvgCommunicate,Content,希莱斯特,放心，她没有发现。,Don't worry. She didn't notice.
+AvgCommunicate_66992_Option_12,abWD,avg通讯器聊天表_AvgCommunicate_A_M.csv,973,AvgCommunicate,Option,玩家,放心，她肯定发现了……,Don't worry? She'll definitely notice!
+AvgCommunicate_66992_Content_12,abWn,avg通讯器聊天表_AvgCommunicate_A_M.csv,973,AvgCommunicate,Content,玩家,放心，她肯定发现了……,Don't worry? She'll definitely notice!
+AvgCommunicate_66992_Content_13,abWo,avg通讯器聊天表_AvgCommunicate_A_M.csv,974,AvgCommunicate,Content,玩家,坏了，怎么有人来敲门了……,...Someone's knocking on my door...
+AvgCommunicate_66992_Content_14,abWp,avg通讯器聊天表_AvgCommunicate_A_M.csv,975,AvgCommunicate,Content,玩家,希莱斯特，我要重新许愿，快来救我！！！,Celeste! Save me! I wish for you to save me!
+AvgCommunicate_66992_Content_15,abWq,avg通讯器聊天表_AvgCommunicate_A_M.csv,976,AvgCommunicate,Content,希莱斯特,好的，您的愿望我已知晓，我马上来。,I have heard thy wish. I shall head there immediately.
+AvgCommunicate_66992_Option_16,abWH,avg通讯器聊天表_AvgCommunicate_A_M.csv,977,AvgCommunicate,Option,玩家,算了，来不及了，还是先帮我联系医务室吧！！！,"Forget it, it's too late! Call the infirmary for me!!!"
+AvgCommunicate_66992_Content_16,abWr,avg通讯器聊天表_AvgCommunicate_A_M.csv,977,AvgCommunicate,Content,玩家,算了，来不及了，还是先帮我联系医务室吧！！！,"Forget it, it's too late! Call the infirmary for me!!!"
+AvgCommunicate_67029_Option_2,acpE,avg通讯器聊天表_AvgCommunicate_A_M.csv,991,AvgCommunicate,Option,玩家,没错。,That's right.
+AvgCommunicate_67029_Content_2,acpn,avg通讯器聊天表_AvgCommunicate_A_M.csv,991,AvgCommunicate,Content,玩家,没错，卡茜亚，有人和我举报昨天你在学校食堂进行临时魔术表演之后，食堂仓库的三只母鸡和二十个鸡蛋都消失了。,"That's right. Casiah, someone reported that after your impromptu magic show in the school cafeteria yesterday, three hens and twenty eggs went missing from the storage."
+AvgCommunicate_67029_Content_3,acpo,avg通讯器聊天表_AvgCommunicate_A_M.csv,992,AvgCommunicate,Content,卡茜亚,什么？还有这样的事，卡茜亚不知道呀。,Whaaat~? How could that have happened? Casiah is truly perplexed.
+AvgCommunicate_67029_Content_5,acpq,avg通讯器聊天表_AvgCommunicate_A_M.csv,994,AvgCommunicate,Content,卡茜亚,哎呀，好像是哦，那几只鸡可能自己飞走了吧？,"Ah, I suppose that DID happen... Maybe those chickens flew away on their own?"
+AvgCommunicate_67029_Content_6,acpr,avg通讯器聊天表_AvgCommunicate_A_M.csv,995,AvgCommunicate,Content,卡茜亚,或许它们迷失在了无尽的帽子世界里，真是太可怜了！,Or maybe they're stuck somewhere in the mysterious hat dimension! How sad...
+AvgCommunicate_67029_Option_7,acpJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,996,AvgCommunicate,Option,玩家,如果你再不考虑说实话的话……,"Casiah, if you keep lying..."
+AvgCommunicate_67029_Content_7,acps,avg通讯器聊天表_AvgCommunicate_A_M.csv,996,AvgCommunicate,Content,玩家,如果你再不考虑说实话的话，我就要联系达芙黛尔女士来管理一下她的员工了。,"Casiah, if you keep lying, I'll tell Lady Daffodil that her employee is stealing Mythag property."
+AvgCommunicate_67029_Content_8,acpt,avg通讯器聊天表_AvgCommunicate_A_M.csv,997,AvgCommunicate,Content,卡茜亚,好吧好吧，真是没有幽默感！,"Geez, alright! You and your lacking sense of humor!"
+AvgCommunicate_67029_Content_9,acpu,avg通讯器聊天表_AvgCommunicate_A_M.csv,998,AvgCommunicate,Content,卡茜亚,因为卡茜亚最近在研究“母爱”这种感情，可是学校的唤醒体里能参考的人太少啦！,"Casiah has been researching ""motherly love"" recently, but there aren't enough references among the Awakened!"
+AvgCommunicate_67029_Content_10,acpf,avg通讯器聊天表_AvgCommunicate_A_M.csv,999,AvgCommunicate,Content,卡茜亚,所以卡茜亚想到了好办法，先从动物身上开始研究！这样就容易多啦！,So Casiah had a great idea: let's research animals! That's much easier!
+AvgCommunicate_67029_Option_11,acpx,avg通讯器聊天表_AvgCommunicate_A_M.csv,1000,AvgCommunicate,Option,玩家,……所以那几只鸡现在在哪里？,...So where are the chickens now?
+AvgCommunicate_67029_Content_11,acpg,avg通讯器聊天表_AvgCommunicate_A_M.csv,1000,AvgCommunicate,Content,玩家,……所以那几只鸡现在在哪里？,...So where are the chickens now?
+AvgCommunicate_67029_Content_12,acph,avg通讯器聊天表_AvgCommunicate_A_M.csv,1001,AvgCommunicate,Content,卡茜亚,在卡茜亚的房间，现在已经有很多小鸡孵出来了！每天都非常热闹呢！,"In Casiah's room, where many newly hatched chicks now roam free! My room has become very lively!"
+AvgCommunicate_67029_Option_13,acpz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1002,AvgCommunicate,Option,玩家,给我好好还给食堂啊！！,Return those hens to the cafeteria already!!
+AvgCommunicate_67029_Content_13,acpi,avg通讯器聊天表_AvgCommunicate_A_M.csv,1002,AvgCommunicate,Content,玩家,给我好好还给食堂啊！！,Return those hens to the cafeteria already!!
+AvgCommunicate_67029_Content_14,acpj,avg通讯器聊天表_AvgCommunicate_A_M.csv,1003,AvgCommunicate,Content,卡茜亚,咦，你居然要残忍地拆散这些母子，真是太冷酷了！你这个没有母爱的人！,How cruel you are Keeper! Wishing to seperate these chicks from their mothers! Have you forgotten about maternal love?!
+AvgCommunicate_67029_Option_15,acpB,avg通讯器聊天表_AvgCommunicate_A_M.csv,1004,AvgCommunicate,Option,玩家,我到底为什么要对鸡有母爱啊！,I'm not going to feel maternal love towards a bunch of chickens!
+AvgCommunicate_67029_Content_15,acpk,avg通讯器聊天表_AvgCommunicate_A_M.csv,1004,AvgCommunicate,Content,玩家,我到底为什么要对鸡有母爱啊！,I'm not going to feel maternal love towards a bunch of chickens!
+AvgCommunicate_67029_Option_16,acpC,avg通讯器聊天表_AvgCommunicate_A_M.csv,1005,AvgCommunicate,Option,玩家,以及真是唯独不想被你说冷酷啊！,And I won't be called cold-hearted by someone like you!
+AvgCommunicate_67029_Content_16,acpl,avg通讯器聊天表_AvgCommunicate_A_M.csv,1005,AvgCommunicate,Content,玩家,以及真是唯独不想被你说冷酷啊！,And I won't be called cold-hearted by someone like you!
+AvgCommunicate_66999_Content_2,abZQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1116,AvgCommunicate,Content,哈姆林,录音时朵尔教授还提到，校方制作出了一款新型的录音机，体型小巧，音质细腻，甚至可以在出任务时随身携带，有录音和播放的功能。,"During the recording session, Professor Doll also mentioned that the school had developed a new type of tape recorder. It's small and portable for missions, has clear audio, and features both recording and playback functions."
+AvgCommunicate_66999_Content_3,abZR,avg通讯器聊天表_AvgCommunicate_A_M.csv,1117,AvgCommunicate,Content,哈姆林,我看到后就想到了你，如果需要的话，我可以为你录制你想听的乐曲。,"When I saw it, I thought of you. If you'd like, I can make a recording of the music you like to listen to."
+AvgCommunicate_66999_Content_4,abZS,avg通讯器聊天表_AvgCommunicate_A_M.csv,1118,AvgCommunicate,Content,哈姆林,这样即使有时我不在你的身边，也不会担心没有音乐来抚慰你的灵魂。,"That way, even when I'm not by your side, you need not worry about lacking music to soothe your soul."
+AvgCommunicate_66999_Option_5,acah,avg通讯器聊天表_AvgCommunicate_A_M.csv,1119,AvgCommunicate,Option,玩家,哈姆林……我好感动！,Hameln... I'm so moved!
+AvgCommunicate_66999_Content_5,abZT,avg通讯器聊天表_AvgCommunicate_A_M.csv,1119,AvgCommunicate,Content,玩家,哈姆林……我好感动！,Hameln... I'm so moved!
+AvgCommunicate_66999_Content_6,abZU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1120,AvgCommunicate,Content,哈姆林,这都是我应尽的职责，那么，有什么想听的吗？,"It's simply fulfilling my duty. Well then, is there anything you wish to listen to?"
+AvgCommunicate_66999_Option_7,acaj,avg通讯器聊天表_AvgCommunicate_A_M.csv,1121,AvgCommunicate,Option,玩家,有助睡眠的音乐,Relaxing music.
+AvgCommunicate_66999_Content_7,abZV,avg通讯器聊天表_AvgCommunicate_A_M.csv,1121,AvgCommunicate,Content,玩家,说起来，每次听你吹奏摇篮曲的时候，我都会睡得很好。,"Speaking of which, I always sleep well whenever you perform a lullaby."
+AvgCommunicate_66999_Content_8,abZW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1122,AvgCommunicate,Content,玩家,这首曲子有什么特别的吗？,What's makes it so special?
+AvgCommunicate_66999_Content_9,abZX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1123,AvgCommunicate,Content,哈姆林,要这一首吗？我明白了。,You wish to hear that style? Understood.
+AvgCommunicate_66999_Content_10,abZL,avg通讯器聊天表_AvgCommunicate_A_M.csv,1124,AvgCommunicate,Content,哈姆林,如果非要说特别之处，大概是充满了我守护你的心情吧。,"If I must specify what’s special about it, it must be because it’s brimming with my need to protect you. "
+AvgCommunicate_66999_Option_11,acaa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1125,AvgCommunicate,Option,玩家,帮助起床的音乐,Energetic music.
+AvgCommunicate_66999_Content_11,abZM,avg通讯器聊天表_AvgCommunicate_A_M.csv,1125,AvgCommunicate,Content,玩家,其实我一直都有点起床困难，如果有那种令人振奋的音乐，起床应该会容易一些吧！,"Actually, I’ve always had a bit of trouble getting up. If I had some rousing music, it would probable be easier to get out of bed!"
+AvgCommunicate_66999_Content_12,abZN,avg通讯器聊天表_AvgCommunicate_A_M.csv,1126,AvgCommunicate,Content,哈姆林,令人振奋吗？我明白了。,Rousing music? Understood.
+AvgCommunicate_66999_Content_13,abZO,avg通讯器聊天表_AvgCommunicate_A_M.csv,1127,AvgCommunicate,Content,哈姆林,虽然我觉得充足良好的睡眠才是更重要的，但毕竟你肩负了如此多的责任，忙碌也是在所难免。,"Even though I think it’s more important to get quality sleep, you shoulder such numerous burdens that business is unavoidable."
+AvgCommunicate_66999_Content_14,abZP,avg通讯器聊天表_AvgCommunicate_A_M.csv,1128,AvgCommunicate,Content,哈姆林,希望这首进行曲能够带给你力量。,May this march lend you strength!
+AvgCommunicate_66977_Content_1,abNq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1255,AvgCommunicate,Content,二十四,守密人！请问我刚刚是不是去给你送了饼干？,Keeper! Did I just bring you some cookies?
+AvgCommunicate_66977_Option_2,abNM,avg通讯器聊天表_AvgCommunicate_A_M.csv,1256,AvgCommunicate,Option,玩家,呃，没错？,"Uh, yeah?"
+AvgCommunicate_66977_Content_2,abNx,avg通讯器聊天表_AvgCommunicate_A_M.csv,1256,AvgCommunicate,Content,玩家,呃，没错？我刚刚吃完，味道很不错，你的手艺真是越来越好了。,"Uh, yeah? I just finished eating them, they were delicious. You've gotten really good at baking."
+AvgCommunicate_66977_Content_3,abNy,avg通讯器聊天表_AvgCommunicate_A_M.csv,1257,AvgCommunicate,Content,二十四,啊！天呐！我来就是想告诉你千万不要吃那些饼干！那些饼干不是我做的！,Oh no! I wanted to tell you to NOT eat those cookies! I didn't make them!
+AvgCommunicate_66977_Option_4,abNO,avg通讯器聊天表_AvgCommunicate_A_M.csv,1258,AvgCommunicate,Option,玩家,什么？不是你做的？,"Wait, what? You didn't make them?"
+AvgCommunicate_66977_Content_4,abNz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1258,AvgCommunicate,Content,玩家,什么？不是你做的？,"Wait, what? You didn't make them?"
+AvgCommunicate_66977_Content_5,abNA,avg通讯器聊天表_AvgCommunicate_A_M.csv,1259,AvgCommunicate,Content,二十四,是的，刚刚给你送饼干的是我另一个新诞生的人格，她非常喜欢恶作剧……,Yes! The one that made those cookies is one of my new personalities. She loves playing pranks...
+AvgCommunicate_66977_Content_6,abNB,avg通讯器聊天表_AvgCommunicate_A_M.csv,1260,AvgCommunicate,Content,二十四,我模糊地记得她好像在做饼干的时候加入了什么东西……总之你现在有没有哪里不舒服？,I think she added something to the cookies while she made them... Are you alright?
+AvgCommunicate_66977_Option_7,abNR,avg通讯器聊天表_AvgCommunicate_A_M.csv,1261,AvgCommunicate,Option,玩家,你这么一说，我突然感觉全身都不舒服了……,"Now that you mention it, I'm feeling a sudden sense of dread..."
+AvgCommunicate_66977_Content_7,abNC,avg通讯器聊天表_AvgCommunicate_A_M.csv,1261,AvgCommunicate,Content,玩家,你这么一说，我突然感觉全身都不舒服了……,"Now that you mention it, I'm feeling a sudden sense of dread..."
+AvgCommunicate_66977_Content_8,abND,avg通讯器聊天表_AvgCommunicate_A_M.csv,1262,AvgCommunicate,Content,玩家,她到底放了什么，总不会是致命毒药吧？？,"What did she add? It's not poison, is it?!"
+AvgCommunicate_66977_Content_9,abNE,avg通讯器聊天表_AvgCommunicate_A_M.csv,1263,AvgCommunicate,Content,二十四,应该不会的！她只是喜欢恶作剧，并没有那么邪恶。,I don't think she'd go that far! She just likes to prank people.
+AvgCommunicate_66977_Content_10,abNr,avg通讯器聊天表_AvgCommunicate_A_M.csv,1264,AvgCommunicate,Content,二十四,怎么办，我又给你添麻烦了，我，我现在去联系茜尔维亚女士！,What should I do? I've troubled you again. I'll contact Ms. Sylvia right away!
+AvgCommunicate_66977_Option_11,abNH,avg通讯器聊天表_AvgCommunicate_A_M.csv,1265,AvgCommunicate,Option,玩家,等等，慢着，不用了……,"Wait, don't..."
+AvgCommunicate_66977_Content_11,abNs,avg通讯器聊天表_AvgCommunicate_A_M.csv,1265,AvgCommunicate,Content,玩家,等等，慢着，不用了……我知道她放的是什么了……,"Wait, don't... I think I figured out what she added..."
+AvgCommunicate_66977_Option_13,abNJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1267,AvgCommunicate,Option,玩家,是泻药……,The thing she added...
+AvgCommunicate_66977_Content_13,abNu,avg通讯器聊天表_AvgCommunicate_A_M.csv,1267,AvgCommunicate,Content,玩家,是泻药……不说了……我要赶紧去一下厕所……,The thing she added... it was a laxative. I'll be going to the bathroom now.
+AvgCommunicate_66977_Content_14,abNv,avg通讯器聊天表_AvgCommunicate_A_M.csv,1268,AvgCommunicate,Content,玩家,我房间的纸可能不够了，一会儿记得给我送点纸……,"I might run out of paper, so please bring me some later..."
+AvgCommunicate_66977_Content_15,abNw,avg通讯器聊天表_AvgCommunicate_A_M.csv,1269,AvgCommunicate,Content,二十四,好，好的，我会的！对不起！！,"I will, I'll do it! I'm sorry!!"
+AvgCommunicate_67025_Content_1,acni,avg通讯器聊天表_AvgCommunicate_A_M.csv,1329,AvgCommunicate,Content,艾尔瓦,这一阵实行的军犬陪同训练效果超乎我的想象。,It seems the addition of military dogs to my training have far exceeded my expectations.
+AvgCommunicate_67025_Content_2,acnk,avg通讯器聊天表_AvgCommunicate_A_M.csv,1330,AvgCommunicate,Content,艾尔瓦,甚至有原本不参与体能训练的同学也来找我报名上课，大家的热情真是让我惊讶。,Even students who didn't originally participate in physical training are signing up for my classes. I'm really surprised by everyone's enthusiasm.
+AvgCommunicate_67025_Option_3,acnv,avg通讯器聊天表_AvgCommunicate_A_M.csv,1331,AvgCommunicate,Option,玩家,毕竟毛绒绒的小狗没有人能够拒绝！！！,Nobody could possibly resist the charm of fluffy puppies!!!
+AvgCommunicate_67025_Content_3,acnl,avg通讯器聊天表_AvgCommunicate_A_M.csv,1331,AvgCommunicate,Content,玩家,毕竟毛绒绒的小狗没有人能够拒绝！！！,Nobody could possibly resist the charm of fluffy puppies!!!
+AvgCommunicate_67025_Content_4,acnm,avg通讯器聊天表_AvgCommunicate_A_M.csv,1332,AvgCommunicate,Content,艾尔瓦,的确，为了让小狗和同学们培养出更多配合的默契，我选用的都是尚未成年的幼犬。,Indeed. I selected puppies in order to foster better teamwork among the students.
+AvgCommunicate_67025_Content_5,acnn,avg通讯器聊天表_AvgCommunicate_A_M.csv,1333,AvgCommunicate,Content,艾尔瓦,虽然我和大家一样喜欢这些小家伙们，但幼犬需要的照顾和教导的确要比成年犬多得多。,"While I do adore these little ones as much as my students do, they do require more care and training than adult dogs."
+AvgCommunicate_67025_Content_6,acno,avg通讯器聊天表_AvgCommunicate_A_M.csv,1334,AvgCommunicate,Content,艾尔瓦,现在报名人数增加，相应的小狗数量也要增加，还真让我有些招架不来。,"With the increased number of students enrolling in my class, the number of puppies needed has also increased. It's become difficult for me to handle them all myself."
+AvgCommunicate_67025_Option_7,acnz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1335,AvgCommunicate,Option,玩家,这太简单了。,An easily solved problem!
+AvgCommunicate_67025_Content_7,acnp,avg通讯器聊天表_AvgCommunicate_A_M.csv,1335,AvgCommunicate,Content,玩家,这太简单了，只要艾尔瓦教官一声令下，保证有更多的人愿意报名来照顾小狗，到时候只怕小狗都不够分。,"An easily solved problem! If Instructor Alva simply asks for some assistance, plenty of people will sign up to take care of the puppies. In fact, there might be more volunteers then puppies!"
+AvgCommunicate_67025_Content_8,acnq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1336,AvgCommunicate,Content,艾尔瓦,你是说招募一些志愿者吗？确实是好主意。,Recruiting volunteers? That's a good idea.
+AvgCommunicate_67025_Content_9,acnr,avg通讯器聊天表_AvgCommunicate_A_M.csv,1337,AvgCommunicate,Content,艾尔瓦,那么我一会就去找诃勒特院长申请这件事，顺利的话，同学们也可以见到更多的小狗了。,"I'll make a request to Dean Czort to sign off on this. If all goes well, the students will also be able to see more puppies."
+AvgCommunicate_66993_Content_1,abWQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1400,AvgCommunicate,Content,艾继丝,守密人，请问……您什么时候有时间，能够与我见一次面呢？,"Keeper, if it's OK... would you have time to meet with me?"
+AvgCommunicate_66993_Content_2,abWW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1401,AvgCommunicate,Content,艾继丝,啊，当然！如果您很忙的话，能够把贴身的衣物借给我也是可以的！,"Oh, but..! If you're too busy, lending me your underwear would work too!"
+AvgCommunicate_66993_Option_3,abXl,avg通讯器聊天表_AvgCommunicate_A_M.csv,1402,AvgCommunicate,Option,玩家,贴身衣物？这是要做什么吗？,Underwear? Why do you need that?
+AvgCommunicate_66993_Content_3,abWX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1402,AvgCommunicate,Content,玩家,贴身衣物？这是要做什么吗？,Underwear? Why do you need that?
+AvgCommunicate_66993_Content_4,abWY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1403,AvgCommunicate,Content,艾继丝,是，是这样的，最近我和梅森姐姐学会了织毛线，我给莉莉和詹金织了围巾和帽子。,"Yes, well... Recently, I've been learning to knit with Sister Mason. So far I've made scarves and hats for Lily and Jenkin."
+AvgCommunicate_66993_Option_5,abXn,avg通讯器聊天表_AvgCommunicate_A_M.csv,1404,AvgCommunicate,Option,玩家,哇，真厉害呀！,"Wow, that's impressive!"
+AvgCommunicate_66993_Content_5,abWZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1404,AvgCommunicate,Content,玩家,哇，真厉害呀！,"Wow, that's impressive!"
+AvgCommunicate_66993_Content_6,abXa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1405,AvgCommunicate,Content,艾继丝,没有，都是很简单的……,"No, it's nothing special..."
+AvgCommunicate_66993_Content_7,abXb,avg通讯器聊天表_AvgCommunicate_A_M.csv,1406,AvgCommunicate,Content,艾继丝,不过现在我已经很熟练了，可以织一些更难的东西，所以想给守密人织一件毛衣！,"But now I'm skilled enough to knit more complex things, so I want to knit a sweater for you, Keeper!"
+AvgCommunicate_66993_Content_8,abXc,avg通讯器聊天表_AvgCommunicate_A_M.csv,1407,AvgCommunicate,Content,艾继丝,毛衣的话，我需要给守密人量一下尺寸，当然，如果守密人不需要的话就不用麻烦了！,"Before I knit the sweater, I need your measurements. Oh, but if you don't want it, then you don't have to!"
+AvgCommunicate_66993_Option_9,abXr,avg通讯器聊天表_AvgCommunicate_A_M.csv,1408,AvgCommunicate,Option,玩家,怎么会呢？小艾继丝想着我，我高兴还来不及。,How could that be the case? I'm happy that Aigis is thinking about me.
+AvgCommunicate_66993_Content_9,abXd,avg通讯器聊天表_AvgCommunicate_A_M.csv,1408,AvgCommunicate,Content,玩家,怎么会呢？小艾继丝想着我，我高兴还来不及。,How could that be the case? I'm happy that Aigis is thinking about me.
+AvgCommunicate_66993_Content_11,abWS,avg通讯器聊天表_AvgCommunicate_A_M.csv,1410,AvgCommunicate,Content,艾继丝,我觉得红色或者白色的毛衣都很好看，守密人想要什么颜色的呢？,"I think both red or white sweaters would look good on you. Which color do you want, Keeper?"
+AvgCommunicate_66993_Content_14,abWV,avg通讯器聊天表_AvgCommunicate_A_M.csv,1413,AvgCommunicate,Content,艾继丝,好的，艾继丝记住了！我会努力的！,"OK, Aigis will remember! I'll do my best!"
+AvgCommunicate_66978_Content_1,abNU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1490,AvgCommunicate,Content,阿格里帕,喂！快来帮我！我被被子缠住了！,Hey! Help me! I'm tangled up in the blanket!
+AvgCommunicate_66978_Option_2,abOs,avg通讯器聊天表_AvgCommunicate_A_M.csv,1491,AvgCommunicate,Option,玩家,？你被什么？？,"? I'm sorry, what??"
+AvgCommunicate_66978_Content_2,abOc,avg通讯器聊天表_AvgCommunicate_A_M.csv,1491,AvgCommunicate,Content,玩家,？你被什么？？,"? I'm sorry, what??"
+AvgCommunicate_66978_Content_3,abOd,avg通讯器聊天表_AvgCommunicate_A_M.csv,1492,AvgCommunicate,Content,阿格里帕,还不是都怪你们不给我配奴隶！！谁知道这个破被单为什么这么难换啊！,This is all your fault for not assigning me slaves!! Why the hell is this damn bedsheet so difficult to change?!
+AvgCommunicate_66978_Content_4,abOe,avg通讯器聊天表_AvgCommunicate_A_M.csv,1493,AvgCommunicate,Content,阿格里帕,怎么塞都塞不明白，气得我跟被子打了起来！,"I coudn't figure out how to fold it, so I started fighting with the blanket!"
+AvgCommunicate_66978_Content_6,abOg,avg通讯器聊天表_AvgCommunicate_A_M.csv,1495,AvgCommunicate,Content,阿格里帕,愣着干什么，还不快过来救我！我出不来了！,"Well?! Don't just ... me, hurry up and save me! I can't get out!"
+AvgCommunicate_66978_Option_7,abOx,avg通讯器聊天表_AvgCommunicate_A_M.csv,1496,AvgCommunicate,Option,玩家,有时候很疑惑你这种人是怎么活到这么大的。,I'm honestly impressed that someone like you has managed to survive this long.
+AvgCommunicate_66978_Content_7,abOh,avg通讯器聊天表_AvgCommunicate_A_M.csv,1496,AvgCommunicate,Content,玩家,有时候很疑惑你这种人是怎么活到这么大的。,I'm honestly impressed that someone like you has managed to survive this long.
+AvgCommunicate_66978_Content_8,abOi,avg通讯器聊天表_AvgCommunicate_A_M.csv,1497,AvgCommunicate,Content,阿格里帕,明明这些都是奴隶该做的工作，怎么会这么困难……,These menial tasks are for slaves to do! Why are they so difficult...?
+AvgCommunicate_66978_Content_9,abOj,avg通讯器聊天表_AvgCommunicate_A_M.csv,1498,AvgCommunicate,Content,阿格里帕,以前那些奴隶每天都在做这些吗？不可能，他们是怎么做到的？,Did those slaves really do this every day? That's impossible! How did they do it?
+AvgCommunicate_66978_Option_10,abOl,avg通讯器聊天表_AvgCommunicate_A_M.csv,1499,AvgCommunicate,Option,玩家,这已经算最简单的家务了，你真是脱离生活太久了。,This is one of the easiest chores someone could do. You're completely out of touch with normal day to day life.
+AvgCommunicate_66978_Content_10,abNV,avg通讯器聊天表_AvgCommunicate_A_M.csv,1499,AvgCommunicate,Content,玩家,这已经算最简单的家务了，你真是脱离生活太久了。,This is one of the easiest chores someone could do. You're completely out of touch with normal day to day life.
+AvgCommunicate_66978_Content_11,abNW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1500,AvgCommunicate,Content,阿格里帕,哼……那我以后对奴隶温柔一点就是了，你快给我找些勤劳的奴隶来！,Hmph... I suppose I'll treat my future slaves better. Now go find me some hard working ones!
+AvgCommunicate_66978_Option_12,abOn,avg通讯器聊天表_AvgCommunicate_A_M.csv,1501,AvgCommunicate,Option,玩家,都说了罗马亡了啊！,How many times do I have to tell you that Rome is long gone!
+AvgCommunicate_66978_Content_12,abNX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1501,AvgCommunicate,Content,玩家,都说了罗马亡了啊！,How many times do I have to tell you that Rome is long gone!
+AvgCommunicate_66978_Option_13,abOo,avg通讯器聊天表_AvgCommunicate_A_M.csv,1502,AvgCommunicate,Option,玩家,现在是法制社会，你做梦吧！,There aren't any slaves to serve you in modern day society!
+AvgCommunicate_66978_Content_13,abNY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1502,AvgCommunicate,Content,玩家,现在是法制社会，你做梦吧！,There aren't any slaves to serve you in modern day society!
+AvgCommunicate_66978_Content_14,abNZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1503,AvgCommunicate,Content,阿格里帕,我不管！我不管啊啊啊啊，要我每天做这些家务不如让我去死！！,"I don't care, I don't care, I don't care! I'd rather die than be forced to do these chores every day!"
+AvgCommunicate_66978_Option_15,abOq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1504,AvgCommunicate,Option,玩家,呵呵，不止家务，还有作业呢。,"Both chores and homework, huh?"
+AvgCommunicate_66978_Content_15,abOa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1504,AvgCommunicate,Content,玩家,呵呵，不止家务，还有作业呢。,"Both chores and homework, huh?"
+AvgCommunicate_66978_Content_16,abOb,avg通讯器聊天表_AvgCommunicate_A_M.csv,1505,AvgCommunicate,Content,阿格里帕,我要把你丢进迷宫喂子嗣！！！！,I'll throw you into the maze to feed my babies!!!
+AvgCommunicate_67054_Option_2,acDe,avg通讯器聊天表_AvgCommunicate_A_M.csv,1507,AvgCommunicate,Option,玩家,怎么搞的？？,What happened??
+AvgCommunicate_67054_Content_2,acCV,avg通讯器聊天表_AvgCommunicate_A_M.csv,1507,AvgCommunicate,Content,玩家,怎么搞的？？,What happened??
+AvgCommunicate_67054_Content_3,acCW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1508,AvgCommunicate,Content,奥瑞塔,刚刚奥瑞塔想和伙伴们一起玩，于是跳进了鱼缸里，结果，哗啦——,So Aurita wanted to play with her friends! So I jumped into the fish tank—splash—
+AvgCommunicate_67054_Content_4,acCX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1509,AvgCommunicate,Content,奥瑞塔,奥瑞塔太大，鱼缸太小，里面的水就全都挤出来啦！,But Aurita is too big! And the tank is too small! So all the water in the tank splashed out!
+AvgCommunicate_67054_Option_5,acDh,avg通讯器聊天表_AvgCommunicate_A_M.csv,1510,AvgCommunicate,Option,玩家,呃，是你能做出来的事，没事，我这就来。,"Well, that's about what I suspected. Don't worry, I'm on my way."
+AvgCommunicate_67054_Content_5,acCY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1510,AvgCommunicate,Content,玩家,呃，是你能做出来的事，没事，我这就来。,"Well, that's about what I suspected. Don't worry, I'm on my way."
+AvgCommunicate_67054_Content_6,acCZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1511,AvgCommunicate,Content,奥瑞塔,唉，奥瑞塔想要一个大大的鱼缸，超级大，有整个房间那么大！,"Mm... Aurita wishes she had a big fish tank! A SUPER big one, as big as my room!"
+AvgCommunicate_67054_Content_7,acDa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1512,AvgCommunicate,Content,奥瑞塔,这样奥瑞塔和伙伴们就可以每天都在一起玩了！,"That way, Aurita and her friends can play together every day!"
+AvgCommunicate_67054_Option_8,acDk,avg通讯器聊天表_AvgCommunicate_A_M.csv,1513,AvgCommunicate,Option,玩家,梦想很美好，然而学校并没有经费建一个水族馆啊！,"It's a nice wish, but the school can't afford to build an aquarium!"
+AvgCommunicate_67054_Content_8,acDb,avg通讯器聊天表_AvgCommunicate_A_M.csv,1513,AvgCommunicate,Content,玩家,梦想很美好，然而学校并没有经费建一个水族馆啊！,"It's a nice wish, but the school can't afford to build an aquarium!"
+AvgCommunicate_67054_Content_9,acDc,avg通讯器聊天表_AvgCommunicate_A_M.csv,1514,AvgCommunicate,Content,奥瑞塔,哎——为什么，那半个房间那么大的也可以嘛！,Mm—Even one as big as half a room would work too!
+AvgCommunicate_67008_Option_4,acfa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1599,AvgCommunicate,Option,玩家,是，你只是单纯的穷。,"Yeah, because you're always poor."
+AvgCommunicate_67008_Content_4,aceG,avg通讯器聊天表_AvgCommunicate_A_M.csv,1599,AvgCommunicate,Content,玩家,是，你只是单纯的穷。,"Yeah, because you're always poor."
+AvgCommunicate_67008_Content_5,aceH,avg通讯器聊天表_AvgCommunicate_A_M.csv,1600,AvgCommunicate,Content,玩家,那就是那个偏方的事？,So Is this about that remedy?
+AvgCommunicate_67008_Content_6,aceI,avg通讯器聊天表_AvgCommunicate_A_M.csv,1601,AvgCommunicate,Content,凯刻斯,嗯，我想我的天赋或许就到此为止了……,"Well, it seems my journey for power ends here..."
+AvgCommunicate_67008_Content_7,aceJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1602,AvgCommunicate,Content,凯刻斯,自从服用那个偏方之后，我每天能感觉到血脉的躁动，但觉醒的变化却迟迟没有来。,"Ever since I started taking that remedy, my blood boiled every day, but I'm no closer to my Awakening."
+AvgCommunicate_67008_Option_9,acff,avg通讯器聊天表_AvgCommunicate_A_M.csv,1604,AvgCommunicate,Option,玩家,喝那种奇怪的东西能突破就怪了吧……,"Like I said before, drinking that ""remedy"" was unlikely to result in your Awakening..."
+AvgCommunicate_67008_Content_9,aceL,avg通讯器聊天表_AvgCommunicate_A_M.csv,1604,AvgCommunicate,Content,玩家,喝那种奇怪的东西能突破就怪了吧……,"Like I said before, drinking that ""remedy"" was unlikely to result in your Awakening..."
+AvgCommunicate_67008_Content_10,acet,avg通讯器聊天表_AvgCommunicate_A_M.csv,1605,AvgCommunicate,Content,凯刻斯,像我这样没用的人，是否早点放弃，给自己找一个墓穴等死比较好呢？,It seems the only thing left for a useless failure like me would be to crawl into a grave and die...
+AvgCommunicate_67008_Option_11,aceO,avg通讯器聊天表_AvgCommunicate_A_M.csv,1606,AvgCommunicate,Option,玩家,也不至于这么极端！！,That's a bit of an extreme conclusion!
+AvgCommunicate_67008_Content_11,aceu,avg通讯器聊天表_AvgCommunicate_A_M.csv,1606,AvgCommunicate,Content,玩家,也不至于这么极端！！,That's a bit of an extreme conclusion!
+AvgCommunicate_67008_Content_12,acev,avg通讯器聊天表_AvgCommunicate_A_M.csv,1607,AvgCommunicate,Content,玩家,我一直就觉得吧，这不是你的问题，你是真的被卖你偏方的人骗了，对方只是在利用你迫切的心情。,"Listen, it's not your fault. You were decieved and preyed upon by those that sold you that remedy; they took advantage of your desperation."
+AvgCommunicate_67008_Content_13,acew,avg通讯器聊天表_AvgCommunicate_A_M.csv,1608,AvgCommunicate,Content,玩家,你的身体也不是无法承受突破，而是单纯中毒生病了啊！,It's not a matter of you being unable to Awaken; you've been poisoned by quack medicine!
+AvgCommunicate_67008_Content_14,acex,avg通讯器聊天表_AvgCommunicate_A_M.csv,1609,AvgCommunicate,Content,凯刻斯,原来是这样吗？你说的好像有道理。,Is that so? What you're saying does make sense.
+AvgCommunicate_67008_Option_15,aceS,avg通讯器聊天表_AvgCommunicate_A_M.csv,1610,AvgCommunicate,Option,玩家,我不是早就在说了吗！！,So now you believe me?!
+AvgCommunicate_67008_Content_15,acey,avg通讯器聊天表_AvgCommunicate_A_M.csv,1610,AvgCommunicate,Content,玩家,我不是早就在说了吗！！,So now you believe me?!
+AvgCommunicate_67008_Content_16,acez,avg通讯器聊天表_AvgCommunicate_A_M.csv,1611,AvgCommunicate,Content,凯刻斯,原来我只是生病了，那么说明我的觉醒还是有希望的。,So I'm just suck? Then there is still hope for me to Awaken!
+AvgCommunicate_67008_Option_17,aceU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1612,AvgCommunicate,Option,玩家,嗯嗯……没错没错，所以你只要好好治病就好了。,"Yes, yes, that's right. So just relax and focus on getting better."
+AvgCommunicate_67008_Content_17,aceA,avg通讯器聊天表_AvgCommunicate_A_M.csv,1612,AvgCommunicate,Content,玩家,嗯嗯……没错没错，所以你只要好好治病就好了。,"Yes, yes, that's right. So just relax and focus on getting better."
+AvgCommunicate_67008_Content_18,aceB,avg通讯器聊天表_AvgCommunicate_A_M.csv,1613,AvgCommunicate,Content,凯刻斯,我明白了，谢谢你，守密人。,"I understand. Thank you, Keeper."
+AvgCommunicate_67008_Content_19,aceC,avg通讯器聊天表_AvgCommunicate_A_M.csv,1614,AvgCommunicate,Content,凯刻斯,所以……能给我五十去看病吗？,So. Can you lend me fifty so I can see a doctor?
+AvgCommunicate_67008_Option_20,aceY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1615,AvgCommunicate,Option,玩家,怎么最后还是要借钱啊！！！,So it's still about borrowing money after all!!!
+AvgCommunicate_67008_Content_20,aceE,avg通讯器聊天表_AvgCommunicate_A_M.csv,1615,AvgCommunicate,Content,玩家,怎么最后还是要借钱啊！！！,So it's still about borrowing money after all!!!
+AvgCommunicate_67027_Content_1,acoc,avg通讯器聊天表_AvgCommunicate_A_M.csv,1616,AvgCommunicate,Content,希莱斯特,守密人，为什么弥萨格的大家都不来找我许愿了呢？,"Keeper, why doesn't anyone from Mythag ask me to fulfill their wishes anymore?"
+AvgCommunicate_67027_Option_2,acoA,avg通讯器聊天表_AvgCommunicate_A_M.csv,1617,AvgCommunicate,Option,玩家,嗯……可能因为弥萨格的大家都是务实派吧。,Mm... I suppose it's because people at Mythag are pragmatic.
+AvgCommunicate_67027_Content_2,acok,avg通讯器聊天表_AvgCommunicate_A_M.csv,1617,AvgCommunicate,Content,玩家,嗯……可能因为弥萨格的大家都是务实派吧。,Mm... I suppose it's because people at Mythag are pragmatic.
+AvgCommunicate_67027_Content_3,acol,avg通讯器聊天表_AvgCommunicate_A_M.csv,1618,AvgCommunicate,Content,玩家,每天面对无数危险，精神已经非常稳定，不会把事情寄托于许愿来解决了。,"Having faced countless dangers every day, their spirits have become resillient enough to not rely on wishing to save them."
+AvgCommunicate_67027_Option_5,acoD,avg通讯器聊天表_AvgCommunicate_A_M.csv,1620,AvgCommunicate,Option,玩家,没有没有！其实吧，大家也不是完全不相信这些啦。,"No, no! It's not like everyone has completely stopped wishing for things."
+AvgCommunicate_67027_Content_5,acon,avg通讯器聊天表_AvgCommunicate_A_M.csv,1620,AvgCommunicate,Content,玩家,没有没有！其实吧，大家也不是完全不相信这些啦。,"No, no! It's not like everyone has completely stopped wishing for things."
+AvgCommunicate_67027_Content_6,acoo,avg通讯器聊天表_AvgCommunicate_A_M.csv,1621,AvgCommunicate,Content,玩家,如果是那种比较抽象的、长远的愿望，大家还是很热衷凑热闹许个愿的。,It's moreso that their wishes have become more abstract; longterm.
+AvgCommunicate_67027_Content_8,acoq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1623,AvgCommunicate,Content,希莱斯特,我不太明白，什么是抽象的、长远的愿望？,I don't understand. What do you mean by abstract?
+AvgCommunicate_67027_Option_9,acoH,avg通讯器聊天表_AvgCommunicate_A_M.csv,1624,AvgCommunicate,Option,玩家,就比如，逢考必过啦，增长财运啦，甜甜恋爱啦之类的。,"Things like passing exams, improving one's wealth, experiencing a sweet romance..."
+AvgCommunicate_67027_Content_9,acor,avg通讯器聊天表_AvgCommunicate_A_M.csv,1624,AvgCommunicate,Content,玩家,就比如，逢考必过啦，增长财运啦，甜甜恋爱啦之类的。,"Things like passing exams, improving one's wealth, experiencing a sweet romance..."
+AvgCommunicate_67027_Content_10,acod,avg通讯器聊天表_AvgCommunicate_A_M.csv,1625,AvgCommunicate,Content,玩家,与其说是许愿，更像是大家希望获得一份好运和祝福吧。,"Instead of asking for it to be directly fulfilled, people want something to dream about; to look forward to."
+AvgCommunicate_67027_Content_11,acoe,avg通讯器聊天表_AvgCommunicate_A_M.csv,1626,AvgCommunicate,Content,玩家,愿望这种东西，哪怕不能立刻实现，留在心中也是一份安慰和期待。,"Even if their wishes don't immediately come true, the very act of wishing for something can bring comfort to them."
+AvgCommunicate_67027_Content_13,acog,avg通讯器聊天表_AvgCommunicate_A_M.csv,1628,AvgCommunicate,Content,希莱斯特,我好像明白了，明天开始我就去学校的喷泉里为大家送上祝福吧。,"I think I understand now. Starting tomorrow, I will give everyone my blessings at the school's fountain."
+AvgCommunicate_67027_Option_16,acoz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1631,AvgCommunicate,Option,玩家,虽然好像有道理，但感觉还是很奇怪啊！,"I get the logic, but it's a little strange!"
+AvgCommunicate_67027_Content_16,acoj,avg通讯器聊天表_AvgCommunicate_A_M.csv,1631,AvgCommunicate,Content,玩家,虽然好像有道理，但感觉还是很奇怪啊！,"I get the logic, but it's a little strange!"
+AvgCommunicate_67024_Content_1,acmC,avg通讯器聊天表_AvgCommunicate_A_M.csv,1645,AvgCommunicate,Content,卡茜亚,当当，卡茜亚魔术小课堂开课啦！,Ta-da~! Casiah's magic class is now in session!
+AvgCommunicate_67024_Option_2,acna,avg通讯器聊天表_AvgCommunicate_A_M.csv,1646,AvgCommunicate,Option,玩家,你又要搞什么？？,What are you up to now??
+AvgCommunicate_67024_Content_2,acmK,avg通讯器聊天表_AvgCommunicate_A_M.csv,1646,AvgCommunicate,Content,玩家,你又要搞什么？？,What are you up to now??
+AvgCommunicate_67024_Content_3,acmL,avg通讯器聊天表_AvgCommunicate_A_M.csv,1647,AvgCommunicate,Content,卡茜亚,什么嘛，这次我可是受学校邀请，认真给大家上课的！,What? I'm serious! The school invited me to give a lecture!
+AvgCommunicate_67024_Content_4,acmM,avg通讯器聊天表_AvgCommunicate_A_M.csv,1648,AvgCommunicate,Content,卡茜亚,朵尔告诉我，试着当一次老师可以体验教育和传承的感觉。,"Doll told me that teaching would let me ""experience the feeling of education and legacy."""
+AvgCommunicate_67024_Content_5,acmN,avg通讯器聊天表_AvgCommunicate_A_M.csv,1649,AvgCommunicate,Content,卡茜亚,虽然有点难以理解那种东西，但现在开始请叫我卡茜亚老师吧！,"I don't really get it, but regardless, please call me Professor Casiah!"
+AvgCommunicate_67024_Option_6,acne,avg通讯器聊天表_AvgCommunicate_A_M.csv,1650,AvgCommunicate,Option,玩家,呃，卡茜亚……老师。比起你我更难以理解啊！！,"Uh, Casi—Professor Casiah... I'm the one that doesn't get how you can teach at all!!"
+AvgCommunicate_67024_Content_6,acmO,avg通讯器聊天表_AvgCommunicate_A_M.csv,1650,AvgCommunicate,Content,玩家,呃，卡茜亚……老师。比起你我更难以理解啊！！,"Uh, Casi—Professor Casiah... I'm the one that doesn't get how you can teach at all!!"
+AvgCommunicate_67024_Content_7,acmP,avg通讯器聊天表_AvgCommunicate_A_M.csv,1651,AvgCommunicate,Content,卡茜亚,怎么了？卡茜亚老师的魔术手法可是神奇的不传之秘！想要隔空取物、隔山打牛、穿墙偷窃……,"What? Professor Casiah can teach lots of incredible secrets! I could teach you how to juggle, how to pierce through objects, or to steal an object inside a safe..."
+AvgCommunicate_67024_Option_8,acng,avg通讯器聊天表_AvgCommunicate_A_M.csv,1652,AvgCommunicate,Option,玩家,后面的东西越来越不对了吧！！,"These subjects are getting increasingly weird, aren't they?!"
+AvgCommunicate_67024_Content_8,acmQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1652,AvgCommunicate,Content,玩家,后面的东西越来越不对了吧！！,"These subjects are getting increasingly weird, aren't they?!"
+AvgCommunicate_67024_Content_9,acmR,avg通讯器聊天表_AvgCommunicate_A_M.csv,1653,AvgCommunicate,Content,卡茜亚,……这些都学不到！,...but I won't!
+AvgCommunicate_67024_Option_10,acmT,avg通讯器聊天表_AvgCommunicate_A_M.csv,1654,AvgCommunicate,Option,玩家,那你说出来干什么？！,Then why did you bother listing them?!
+AvgCommunicate_67024_Content_10,acmD,avg通讯器聊天表_AvgCommunicate_A_M.csv,1654,AvgCommunicate,Content,玩家,那你说出来干什么？！,Then why did you bother listing them?!
+AvgCommunicate_67024_Content_11,acmE,avg通讯器聊天表_AvgCommunicate_A_M.csv,1655,AvgCommunicate,Content,卡茜亚,哎呀，这些都是卡茜亚老师的独门绝活，你们当然是学不会的啦。,"Well, those are Professor Casiah's exclusive skills. Of course you can't learn them!"
+AvgCommunicate_67024_Content_12,acmF,avg通讯器聊天表_AvgCommunicate_A_M.csv,1656,AvgCommunicate,Content,卡茜亚,不过卡茜亚老师可以教你们让双手变得灵巧的方法，这样以后遇到挣不脱的绳子、打不开的锁，也能掌握溜门撬锁、顺手牵羊的技术！,"But what Professor Casiah CAN teach you is how to make your hands nimble. That way, when you're bound by a rope that can't be untied or stumble on a lock that can't be opened, you'll be able to showcase your ability to take advantage of opportunities!"
+AvgCommunicate_67024_Option_13,acmW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1657,AvgCommunicate,Option,玩家,果然还是在教奇怪的东西啊！！,So you're still set on teaching weird things!
+AvgCommunicate_67024_Content_13,acmG,avg通讯器聊天表_AvgCommunicate_A_M.csv,1657,AvgCommunicate,Content,玩家,果然还是在教奇怪的东西啊！！,So you're still set on teaching weird things!
+AvgCommunicate_67024_Option_14,acmX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1658,AvgCommunicate,Option,玩家,奇怪的词不要乱用啊！！,Enough with these weird examples already!!
+AvgCommunicate_67024_Content_14,acmH,avg通讯器聊天表_AvgCommunicate_A_M.csv,1658,AvgCommunicate,Content,玩家,奇怪的词不要乱用啊！！,Enough with these weird examples already!!
+AvgCommunicate_67024_Content_15,acmI,avg通讯器聊天表_AvgCommunicate_A_M.csv,1659,AvgCommunicate,Content,卡茜亚,啧，朵尔面对的学生也都这么多事吗？好麻烦，当老师真没意思。,"Tsk, does Doll have to deal with students this troublesome all the time? How annoying! Being a teacher sucks!"
+AvgCommunicate_67024_Option_16,acmZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1660,AvgCommunicate,Option,玩家,虽然朵尔老师确实很辛苦，但唯独不想被你嫌弃啊！,"While Ms. Doll does have it tough sometimes, I absolutely will NOT be crticized by the likes of you!"
+AvgCommunicate_67024_Content_16,acmJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1660,AvgCommunicate,Content,玩家,虽然朵尔老师确实很辛苦，但唯独不想被你嫌弃啊！,"While Ms. Doll does have it tough sometimes, I absolutely will NOT be crticized by the likes of you!"
+AvgCommunicate_67000_Content_1,acam,avg通讯器聊天表_AvgCommunicate_A_M.csv,1771,AvgCommunicate,Content,哈姆林,%player%%sirormadam%，最近我又创作了一首新的曲子，想请你在闲暇时间来点评一二。,"{Male=Mr.,Female=Miss} %player%. I've recently composed a new piece and would like to invite you to give it a listen and critique in your free time."
+AvgCommunicate_67000_Option_2,acaC,avg通讯器聊天表_AvgCommunicate_A_M.csv,1772,AvgCommunicate,Option,玩家,你真是太客气了。,You're too kind.
+AvgCommunicate_67000_Content_2,acaq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1772,AvgCommunicate,Content,玩家,你真是太客气了，哈姆林，我这种半吊子哪有资格来点评你的作品啊。,"You're too kind Hameln, but how can a half-baked amateur like me be qualified to critique your work?"
+AvgCommunicate_67000_Content_3,acar,avg通讯器聊天表_AvgCommunicate_A_M.csv,1773,AvgCommunicate,Content,哈姆林,不，不必妄自菲薄，你的建议是我创作最大的动力。,"No, don’t downplay your significance; your suggestions are my greatest source of creative motivation."
+AvgCommunicate_67000_Option_4,acaE,avg通讯器聊天表_AvgCommunicate_A_M.csv,1774,AvgCommunicate,Option,玩家,有这么夸张吗？,Really?
+AvgCommunicate_67000_Content_4,acas,avg通讯器聊天表_AvgCommunicate_A_M.csv,1774,AvgCommunicate,Content,玩家,有这么夸张吗？不过，虽然很不好意思说，其实我每次听你新作的曲子都会听睡着……,"Really? I'm ashamed to admit this, but I tend to fall asleep when I listen to your new compositions..."
+AvgCommunicate_67000_Content_5,acat,avg通讯器聊天表_AvgCommunicate_A_M.csv,1775,AvgCommunicate,Content,玩家,你的曲子是很优美，演奏也无可挑剔，就是每次我都像着了魔一样很快就睡晕过去了，可能我真的没有什么音乐天赋吧。,"Your music is hauntingly beautiful and flawlessly performed, yet it casts some sedative magic on me and I fall asleep instantly. Perhaps I truly lack a musical ear."
+AvgCommunicate_67000_Content_6,acau,avg通讯器聊天表_AvgCommunicate_A_M.csv,1776,AvgCommunicate,Content,哈姆林,不，这正是我想要的。,"No, that is exactly what I want."
+AvgCommunicate_67000_Content_7,acav,avg通讯器聊天表_AvgCommunicate_A_M.csv,1777,AvgCommunicate,Content,哈姆林,能为你带来安眠，正是我的使命与职责。,Being able to bring you restful sleep is my mission and duty.
+AvgCommunicate_67000_Content_8,acaw,avg通讯器聊天表_AvgCommunicate_A_M.csv,1778,AvgCommunicate,Content,哈姆林,不如说，请你具体描述不同曲子为你带来的感受，以及听完后的睡眠质量，入睡的速度和睡眠时长等等。,"Rather, please describe to me in detail the feelings that different pieces bring you, as well as your post-listening sleep quality, how long it takes to fall asleep, the duration of your sleep..."
+AvgCommunicate_67000_Content_10,acan,avg通讯器聊天表_AvgCommunicate_A_M.csv,1780,AvgCommunicate,Content,哈姆林,啊，这样的要求确实有些苛刻，是我考虑不周。,"Ah, such requests are rather austere. My apologies for being inconsiderate."
+AvgCommunicate_67000_Content_11,acao,avg通讯器聊天表_AvgCommunicate_A_M.csv,1781,AvgCommunicate,Content,哈姆林,不如下次就让我在你的床前演奏，让我来细致记录你的睡眠吧。,How about next time I play by your bedside and you allow me to observe and record your sleep.
+AvgCommunicate_67000_Content_12,acap,avg通讯器聊天表_AvgCommunicate_A_M.csv,1782,AvgCommunicate,Content,哈姆林,我希望你的每一次入睡，都有我的守候。,I hope you fall asleep every time under my protection.
+AvgCommunicate_70531_Content_2,adiQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1903,AvgCommunicate,Content,二十四,詹金的唤醒，进行得怎么样了？,How is Jenkin's awakening going?
+AvgCommunicate_70531_Option_3,adjf,avg通讯器聊天表_AvgCommunicate_A_M.csv,1904,AvgCommunicate,Option,玩家,快要完成了,Almost done.
+AvgCommunicate_70531_Content_3,adiR,avg通讯器聊天表_AvgCommunicate_A_M.csv,1904,AvgCommunicate,Content,玩家,学校的材料库已经把她的身体所需物品准备好，现在正在进行唤醒体制作。,"The school's material library has prepared everything needed for her Body, and the process of her Awakening is currently happening."
+AvgCommunicate_70531_Content_4,adiS,avg通讯器聊天表_AvgCommunicate_A_M.csv,1905,AvgCommunicate,Content,玩家,我们很快，就可以再见到她了！,We'll be able to see her again very soon!
+AvgCommunicate_70531_Content_5,adiT,avg通讯器聊天表_AvgCommunicate_A_M.csv,1906,AvgCommunicate,Content,二十四,太好了！太好了……,That's great!
+AvgCommunicate_70531_Content_6,adiU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1907,AvgCommunicate,Content,二十四,谢谢你，守密人。谢谢你们……,"Thank you, Keeper. Thank you..."
+AvgCommunicate_70531_Option_7,adjj,avg通讯器聊天表_AvgCommunicate_A_M.csv,1908,AvgCommunicate,Option,玩家,我们应该感谢你，还有詹金。,I should be the one thanking you and Jenkin.
+AvgCommunicate_70531_Content_7,adiV,avg通讯器聊天表_AvgCommunicate_A_M.csv,1908,AvgCommunicate,Content,玩家,你和詹金救了我们。,You two saved us.
+AvgCommunicate_70531_Content_8,adiW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1909,AvgCommunicate,Content,玩家,她是为了救弥萨格而死，这些都是我们应该做的。,She died for the sake of saving Mythag. Any investigator would do the same.
+AvgCommunicate_70531_Content_9,adiX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1910,AvgCommunicate,Content,玩家,校委会已经讨论通过，你们二位，不用再担心流落在外了。,"The school committee already discussed and approved of your acts, so you two don't need to worry about being abandoned anymore."
+AvgCommunicate_70531_Content_10,adiL,avg通讯器聊天表_AvgCommunicate_A_M.csv,1911,AvgCommunicate,Content,玩家,欢迎加入弥萨格。,"Welcome to Mythag, 24."
+AvgCommunicate_70531_Option_11,adja,avg通讯器聊天表_AvgCommunicate_A_M.csv,1912,AvgCommunicate,Option,玩家,我收到了一条消息……,"...Hold on, someone's at my door..."
+AvgCommunicate_70531_Content_12,adiN,avg通讯器聊天表_AvgCommunicate_A_M.csv,1913,AvgCommunicate,Content,玩家,詹金的唤醒体制作，顺利完成。,Jenkin has successfully Awakened.
+AvgCommunicate_70488_Content_1,acFU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2029,AvgCommunicate,Content,希莱斯特,船长，身体一直在衰弱……,"Captain, my body has been weakening..."
+AvgCommunicate_70488_Option_3,acGl,avg通讯器聊天表_AvgCommunicate_A_M.csv,2031,AvgCommunicate,Option,玩家,这恐怕很难，但弥萨格一定会有办法,"It might be difficult, but Mythag will surely find a way."
+AvgCommunicate_70488_Content_3,acFZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2031,AvgCommunicate,Content,玩家,这恐怕很难，希莱斯特。,"It won't be easy, Celeste."
+AvgCommunicate_70488_Content_4,acGa,avg通讯器聊天表_AvgCommunicate_A_M.csv,2032,AvgCommunicate,Content,玩家,即使是调查员，链接唤醒体也是一个巨大的负担。,"Linking to an Awakaner is a tremendous burden on one's body, even for a trained investigator."
+AvgCommunicate_70488_Content_5,acGb,avg通讯器聊天表_AvgCommunicate_A_M.csv,2033,AvgCommunicate,Content,玩家,更何况，埃尔顿船长在这方面，只是一个普通人。,"For a layman like Captain Elton, it's even more of a strain."
+AvgCommunicate_70488_Content_6,acGc,avg通讯器聊天表_AvgCommunicate_A_M.csv,2034,AvgCommunicate,Content,玩家,他能与你链接这么久，已经是奇迹。,The fact that he's been able to maintain a link with you for this long is already a miracle.
+AvgCommunicate_70488_Content_7,acGd,avg通讯器聊天表_AvgCommunicate_A_M.csv,2035,AvgCommunicate,Content,玩家,不过请放心，我一定会帮你们想办法的。,"But don't worry, I'll definitely find a way to help both of you."
+AvgCommunicate_70488_Content_8,acGe,avg通讯器聊天表_AvgCommunicate_A_M.csv,2036,AvgCommunicate,Content,玩家,弥利亚姆能做到的事情，弥萨格一定也能做到。,"If Miryam can do it, Mythag most certainly can too."
+AvgCommunicate_70488_Content_9,acGf,avg通讯器聊天表_AvgCommunicate_A_M.csv,2037,AvgCommunicate,Content,希莱斯特,人们向我许愿，但对身边之人，我束手无策……,"People make wishes to me, yet I am powerless to help those around me..."
+AvgCommunicate_70488_Content_11,acFW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2039,AvgCommunicate,Content,希莱斯特,若有机会，请救下船长。,"If it is possible, please save the captain."
+AvgCommunicate_70502_Content_3,acPC,avg通讯器聊天表_AvgCommunicate_A_M.csv,2355,AvgCommunicate,Content,阿格里帕,我的迷宫已经重新建好了，我按记忆里的样子，在那里修了一整座竞技场！,I have rebuilt my Maze! An entire arena constructed according to my memories!
+AvgCommunicate_70502_Option_5,acPX,avg通讯器聊天表_AvgCommunicate_A_M.csv,2357,AvgCommunicate,Option,玩家,你什么时候能改改你的语气……,Will you ever be able to ask instead of order...?
+AvgCommunicate_70502_Content_5,acPE,avg通讯器聊天表_AvgCommunicate_A_M.csv,2357,AvgCommunicate,Content,玩家,你那种命令奴隶的语气，什么时候才能改改……,Will you ever be able to ask instead of order...?
+AvgCommunicate_70502_Content_6,acPF,avg通讯器聊天表_AvgCommunicate_A_M.csv,2358,AvgCommunicate,Content,阿格里帕,哼，这有什么好改的。,"Hmph, why would I bother changing my manner of speaking?"
+AvgCommunicate_70502_Content_7,acPG,avg通讯器聊天表_AvgCommunicate_A_M.csv,2359,AvgCommunicate,Content,阿格里帕,我已经让了一万步了！现在我都只在迷宫里使唤那些奴隶。,I've already made ten thousand concessions! The only people I get to order around are the slaves in my maze!
+AvgCommunicate_70502_Option_8,acQa,avg通讯器聊天表_AvgCommunicate_A_M.csv,2360,AvgCommunicate,Option,玩家,你现在不怕回忆那些事情了？,So you're alright with everything now?
+AvgCommunicate_70502_Content_8,acPH,avg通讯器聊天表_AvgCommunicate_A_M.csv,2360,AvgCommunicate,Content,玩家,你现在不怕回忆那些事情了？,So you're alright with everything now?
+AvgCommunicate_70502_Content_9,acPI,avg通讯器聊天表_AvgCommunicate_A_M.csv,2361,AvgCommunicate,Content,阿格里帕,那是。有什么好怕的！,Of course. What's there to be afraid of?
+AvgCommunicate_70502_Content_10,acPr,avg通讯器聊天表_AvgCommunicate_A_M.csv,2362,AvgCommunicate,Content,阿格里帕,伦蒂尼恩不允许养奴隶，这个野蛮的地方。,"As you've reminded me many times, slaves aren't allowed in Londinium. This barbaric land..."
+AvgCommunicate_70502_Content_12,acPt,avg通讯器聊天表_AvgCommunicate_A_M.csv,2364,AvgCommunicate,Content,阿格里帕,他们在竞技场里打起来的样子，真的跟我以前见过的一模一样！,The way they fight in the arena is exactly how I remember it!
+AvgCommunicate_70502_Content_13,acPu,avg通讯器聊天表_AvgCommunicate_A_M.csv,2365,AvgCommunicate,Content,玩家,原来迷宫是用来做这个的……,So that's what the Maze is used for...
+AvgCommunicate_70502_Content_14,acPv,avg通讯器聊天表_AvgCommunicate_A_M.csv,2366,AvgCommunicate,Content,阿格里帕,没错没错！可有意思了！,"That's right, that's right! It's really exciting!"
+AvgCommunicate_70502_Content_15,acPw,avg通讯器聊天表_AvgCommunicate_A_M.csv,2367,AvgCommunicate,Content,阿格里帕,快跟我一起去看看！这可是无上的荣耀！,"Come on, let's go watch! This is the ultimate honor I can grant you!"
+AvgCommunicate_70502_Option_16,acPQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2368,AvgCommunicate,Option,玩家,那我把尤乌哈希也一起叫上吧,Then I'll bring Uvhash along.
+AvgCommunicate_70502_Content_16,acPx,avg通讯器聊天表_AvgCommunicate_A_M.csv,2368,AvgCommunicate,Content,玩家,倒也不是不行，多了解一下历史也没什么坏处……,"Sure, why not? Learning more about history would be nice..."
+AvgCommunicate_70502_Content_17,acPy,avg通讯器聊天表_AvgCommunicate_A_M.csv,2369,AvgCommunicate,Content,玩家,尤乌哈希应该会很喜欢你的竞技场的，要不顺便把他也一起叫上吧？,Uvhash would probably really like your arena. Why not invite him as well?
+AvgCommunicate_70525_Content_2,adfH,avg通讯器聊天表_AvgCommunicate_A_M.csv,2469,AvgCommunicate,Content,卡茜亚,怎么样，守密人，被安迪·约翰逊的舞台布置震撼到了吧！,"So, Keeper? Are you amazed by Andy Johnson's stage setup!"
+AvgCommunicate_70525_Option_3,adfT,avg通讯器聊天表_AvgCommunicate_A_M.csv,2470,AvgCommunicate,Option,玩家,的确很不错！,It was great!
+AvgCommunicate_70525_Content_3,adfI,avg通讯器聊天表_AvgCommunicate_A_M.csv,2470,AvgCommunicate,Content,玩家,当大导演真是当上瘾了……,While you did go a big overboard...
+AvgCommunicate_70525_Content_4,adfJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2471,AvgCommunicate,Content,玩家,不过，你布置的舞台确实很不错。,...I must say that the stage you arranged is truly impressive.
+AvgCommunicate_70525_Content_5,adfK,avg通讯器聊天表_AvgCommunicate_A_M.csv,2472,AvgCommunicate,Content,玩家,演出的调度也做得很好。,The timing of the performance is also well executed.
+AvgCommunicate_70525_Option_6,adfW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2473,AvgCommunicate,Option,玩家,下一部作品就靠你了！,The next project will depend on you!
+AvgCommunicate_70525_Content_7,adfM,avg通讯器聊天表_AvgCommunicate_A_M.csv,2474,AvgCommunicate,Content,玩家,那么，下一部的布景和导演，就决定是你了！,The setting and director for the next installment are up to you!
+AvgCommunicate_70525_Content_8,adfN,avg通讯器聊天表_AvgCommunicate_A_M.csv,2475,AvgCommunicate,Content,卡茜亚,什么，不包括编剧吗？,What? What about the screenwriter?
+AvgCommunicate_70525_Content_11,adfG,avg通讯器聊天表_AvgCommunicate_A_M.csv,2478,AvgCommunicate,Content,卡茜亚,希望这次你们能对表演有所敬畏，不要再拿出来一个什么「女孩从此和妈妈幸福地生活在了一起」之类的东西了！,"I hope next time you'll show some respect for the performance and refrain from bringing up something like ""the girl lived happily with her mother from then on""!"
+AvgCommunicate_70533_Option_3,adkl,avg通讯器聊天表_AvgCommunicate_A_M.csv,2481,AvgCommunicate,Option,玩家,奥瑞塔觉得呢？,"Well, what do you think?"
+AvgCommunicate_70533_Content_3,adjR,avg通讯器聊天表_AvgCommunicate_A_M.csv,2481,AvgCommunicate,Content,玩家,奥瑞塔觉得那些是什么？,"Well, what do you think?"
+AvgCommunicate_70533_Content_4,adjS,avg通讯器聊天表_AvgCommunicate_A_M.csv,2482,AvgCommunicate,Content,奥瑞塔,唔……奥瑞塔想不起来……,Umm... Aurita can't seem to remember...
+AvgCommunicate_70533_Content_6,adjU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2484,AvgCommunicate,Content,奥瑞塔,朋友……,Friends...
+AvgCommunicate_70533_Content_8,adjW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2486,AvgCommunicate,Content,玩家,那些，都是奥瑞塔的朋友。,Those are all Aurita's friends.
+AvgCommunicate_70533_Content_9,adjX,avg通讯器聊天表_AvgCommunicate_A_M.csv,2487,AvgCommunicate,Content,奥瑞塔,朋友？奥瑞塔最喜欢朋友了！,Friends? Aurita loves friends the most!
+AvgCommunicate_70533_Content_12,adjH,avg通讯器聊天表_AvgCommunicate_A_M.csv,2490,AvgCommunicate,Content,玩家,后来，他们要去一个很远的地方。,"But one day, they had to go to a faraway place."
+AvgCommunicate_70533_Content_13,adjI,avg通讯器聊天表_AvgCommunicate_A_M.csv,2491,AvgCommunicate,Content,玩家,他们怕奥瑞塔伤心，所以就带走了奥瑞塔与他们的记忆。,"Worried that Aurita would be sad when they left, they decided to erase her memories of them."
+AvgCommunicate_70533_Content_14,adjJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2492,AvgCommunicate,Content,玩家,但他们依然想要陪伴着奥瑞塔，所以，他们留下了自己的身体。,"But they still wished to stay by her side, so they left their bodies behind."
+AvgCommunicate_70533_Content_15,adjK,avg通讯器聊天表_AvgCommunicate_A_M.csv,2493,AvgCommunicate,Content,玩家,这些身体变成了小陶偶，留在了奥瑞塔的水宫殿里。,These bodies turned into small clay dolls and were left in Aurita's Water Palace.
+AvgCommunicate_70533_Content_16,adjL,avg通讯器聊天表_AvgCommunicate_A_M.csv,2494,AvgCommunicate,Content,玩家,……他们一直都关心、陪伴着奥瑞塔，从来没有改变过。,...They have always cared for and accompanied you. That has never changed.
+AvgCommunicate_70533_Content_17,adjM,avg通讯器聊天表_AvgCommunicate_A_M.csv,2495,AvgCommunicate,Content,奥瑞塔,好像听明白了，又好像没有明白……,I think I get it... but I also don't...
+AvgCommunicate_70533_Content_18,adjN,avg通讯器聊天表_AvgCommunicate_A_M.csv,2496,AvgCommunicate,Content,奥瑞塔,不过，奥瑞塔知道了！水宫殿里的那些，都是奥瑞塔的好朋友。,But! Aurita does know that those in the Water Palace are all good friends of Aurita.
+AvgCommunicate_70533_Content_19,adjO,avg通讯器聊天表_AvgCommunicate_A_M.csv,2497,AvgCommunicate,Content,奥瑞塔,奥瑞塔会好好照顾他们，每天都找他们一起玩！,So Aurita will take good care of them and play with them every day!
+AvgCommunicate_70520_Content_2,adcB,avg通讯器聊天表_AvgCommunicate_A_M.csv,2564,AvgCommunicate,Content,玩家,24，你的人格又切换了……,"24, your personality switched again..."
+AvgCommunicate_70520_Content_5,adcJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2567,AvgCommunicate,Content,二十四,现在，告诉我，你最喜欢的是哪一个人格？,"Instead, tell me which personality is your favorite."
+AvgCommunicate_70520_Content_7,adcL,avg通讯器聊天表_AvgCommunicate_A_M.csv,2569,AvgCommunicate,Content,玩家,嗯，那位学者24，看上去很聪明，那两撇胡子也很带感……,Maybe Scholar 24? She looks very smart and has a very cute mustache...
+AvgCommunicate_70520_Content_8,adcM,avg通讯器聊天表_AvgCommunicate_A_M.csv,2570,AvgCommunicate,Content,二十四,嘁。一个只知道天天读死书的家伙。,Tsk. That one only knows how to read boring books every day.
+AvgCommunicate_70520_Content_9,adcN,avg通讯器聊天表_AvgCommunicate_A_M.csv,2571,AvgCommunicate,Content,二十四,既不出门，也不锻炼，就知道想一些莫名其妙的东西。,"Never going out, wasting her time thinking about useless things."
+AvgCommunicate_70520_Content_10,adcr,avg通讯器聊天表_AvgCommunicate_A_M.csv,2572,AvgCommunicate,Content,二十四,最近身体发胖，睡眠变差，都是因为她！,I've gained weight and my sleep has gotten worse because of her!
+AvgCommunicate_70520_Content_11,adcs,avg通讯器聊天表_AvgCommunicate_A_M.csv,2573,AvgCommunicate,Content,玩家,小丑24的笑话讲得挺好的，给我们带来了很多快乐……,Maybe Clown 24? She's always telling jokes and brings joy everywhere she goes...
+AvgCommunicate_70520_Content_12,adct,avg通讯器聊天表_AvgCommunicate_A_M.csv,2574,AvgCommunicate,Content,二十四,一个哗众取宠的烂梗大王，有什么好喜欢的？,What's there to like about a crass jester desperate for even an ounce of attention?
+AvgCommunicate_70520_Content_13,adcu,avg通讯器聊天表_AvgCommunicate_A_M.csv,2575,AvgCommunicate,Content,二十四,喜欢看小丑，不如多去马戏团。照镜子也可以。,"If you want to see a clown that badly, go visit the circus. Or better yet, look in the mirror."
+AvgCommunicate_70520_Content_14,adcv,avg通讯器聊天表_AvgCommunicate_A_M.csv,2576,AvgCommunicate,Content,玩家,猫咪24好可爱！,Cat 24 is so adorable!
+AvgCommunicate_70520_Content_15,adcw,avg通讯器聊天表_AvgCommunicate_A_M.csv,2577,AvgCommunicate,Content,二十四,咦，一个连人话都不会说的家伙，有什么好喜欢的？,What's there to like about a beast that can't even speak the human language?
+AvgCommunicate_70520_Content_16,adcx,avg通讯器聊天表_AvgCommunicate_A_M.csv,2578,AvgCommunicate,Content,二十四,是因为需要宠物来填补你空洞无聊的生活吗？,Are you that desperate to fill the void of your empty life that you want a glorified pet?
+AvgCommunicate_70520_Option_17,adcW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2579,AvgCommunicate,Option,玩家,我知道了，你是毒舌24。,It seems I'm speaking with Toxic 24.
+AvgCommunicate_70520_Content_17,adcy,avg通讯器聊天表_AvgCommunicate_A_M.csv,2579,AvgCommunicate,Content,玩家,我知道了，你一定叫做毒舌24。,It seems I'm speaking with Toxic 24.
+AvgCommunicate_70520_Content_18,adcz,avg通讯器聊天表_AvgCommunicate_A_M.csv,2580,AvgCommunicate,Content,二十四,什么毒舌24！我是堂堂,Toxic 24?! I'm the Dignified 24!!
+AvgCommunicate_70520_Content_21,adcD,avg通讯器聊天表_AvgCommunicate_A_M.csv,2583,AvgCommunicate,Content,二十四,最近跟詹金去街上，听到那些人吵架听多了，新生成的人格也变得这么不礼貌……,"Recently, I went to the slums with Jenkin. After hearing the people there trash talk so much, my newly formed personality decided to imitate their manner of speech..."
+AvgCommunicate_70520_Content_22,adcE,avg通讯器聊天表_AvgCommunicate_A_M.csv,2584,AvgCommunicate,Content,二十四,请放心，守密人！我一定会尽快把这个人格教育好的！,"Please rest assured, Keeper! I'll make sure to teach this personality some manners!"
+AvgCommunicate_70520_Option_23,addd,avg通讯器聊天表_AvgCommunicate_A_M.csv,2585,AvgCommunicate,Option,玩家,加油……,Do your best...
+AvgCommunicate_70520_Content_23,adcF,avg通讯器聊天表_AvgCommunicate_A_M.csv,2585,AvgCommunicate,Content,玩家,加油……,Do your best...
