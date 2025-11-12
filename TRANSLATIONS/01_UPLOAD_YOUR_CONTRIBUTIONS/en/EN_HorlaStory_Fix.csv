@@ -1,0 +1,953 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+AvgDialog_22130_Content_2,aibw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,,故乡,Home
+AvgDialog_22130_Content_3,aibH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,10,AvgDialog,Content,玩家,好了，奥尔拉，旁边的旅客们都走了。,"Alright, Horla, the passengers next to us are gone."
+AvgDialog_22130_Content_4,aibS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,11,AvgDialog,Content,奥尔拉,真的？没有骗我？,Really? You're not deceiving me?
+AvgDialog_22130_Content_5,aicd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,12,AvgDialog,Content,玩家,……真的。,...Really.
+AvgDialog_22130_Content_6,aico,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,13,AvgDialog,Content,,奥尔拉从那张硕大的羊皮纸下面探出头，小心翼翼地左右张望着。,"Horla peeked out from under the large parchment, cautiously looking around."
+AvgDialog_22130_Content_7,aicz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,14,AvgDialog,Content,,确认周围没有陌生人以后，她长舒一口气，从羊皮纸下钻了出来。,"After confirming there were no strangers around, she let out a long breath and crawled out from under the parchment."
+AvgDialog_22130_Content_8,aicK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,15,AvgDialog,Content,玩家,你知道他们是看不见你的，对吧？,"You know they can't see you, right?"
+AvgDialog_22130_Content_9,aicV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,16,AvgDialog,Content,无纸奥尔拉,那可不一定。旅客里可能有唤醒体，戴着特殊设备的科研人员，天赋异禀的异能者……,"Not necessarily. Among the travelers could be Awakeners, researchers with special equipment, or gifted individuals..."
+AvgDialog_22130_Content_10,aiaZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,17,AvgDialog,Content,无纸奥尔拉,说不定，刚才那位抽烟的老先生，就是审查会的某个秘密成员。,Perhaps the old man who was smoking just now is a secret member of the Committee.
+AvgDialog_22130_Content_11,aibk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,18,AvgDialog,Content,无纸奥尔拉,我总觉得，他身上有一种非常神秘的气质……谁知道呢？,I always felt there was something very mysterious about him... Who knows?
+AvgDialog_22130_Content_12,aibo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,19,AvgDialog,Content,,阳光洒在甲板上。奥尔拉闭上眼，微微张开双臂。,"Sunlight bathed the deck. Horla closed her eyes, arms slightly open."
+AvgDialog_22130_Content_13,aibp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,20,AvgDialog,Content,,注意到你的目光以后，她有些不好意思地将双手缩了回去，背在身后。,"Noticing your gaze, she shyly pulled her hands back and hid them behind her back."
+AvgDialog_22130_Content_14,aibq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,21,AvgDialog,Content,玩家,不错，比我预想中已经好很多了。,"Not bad, much better than I expected."
+AvgDialog_22130_Content_15,aibr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,22,AvgDialog,Content,玩家,我还以为，你在看到游轮上有那么多的人以后，就会想打道回府。,I thought you'd want to turn back after seeing so many people on the cruise.
+AvgDialog_22130_Content_16,aibs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,23,AvgDialog,Content,无纸奥尔拉,当时有这么想，只是没有好意思跟您说……,"I thought about it at the time, but I didn't have the courage to tell you..."
+AvgDialog_22130_Content_17,aibt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,24,AvgDialog,Content,无纸奥尔拉,啊！守密人%sirormadam%，您看！是塞涅尔河！,"Ah! {Male=Sir,Female=Madam} Keeper, look! It's the Szenyér river!"
+AvgDialog_22130_Content_18,aibu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,25,AvgDialog,Content,,大海的漫无边际只维持了很短的时间。很快，一座灯塔从海平面下冉冉升起。,"The boundlessness of the sea only lasted a short while. Soon, a lighthouse rose slowly from beneath the horizon."
+AvgDialog_22130_Content_19,aibv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,26,AvgDialog,Content,,在它身后，一个宽广的入海口，和它两岸模糊的城市，一同映入你们的眼帘。,"Behind it, a wide estuary and the blurred cities on both banks came into view."
+AvgDialog_22130_Content_20,aibx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,27,AvgDialog,Content,汉娜,宁菲亚小姐宁菲亚小姐！,Miss Nymphaea! Miss Nymphaea!
+AvgDialog_22130_Content_21,aiby,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,28,AvgDialog,Content,宁菲亚,你好，请问有什么事吗？,"Hello, may I ask what I can assist you with?"
+AvgDialog_22130_Content_22,aibz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,29,AvgDialog,Content,汉娜,你有看到奥尔拉吗？很急！,Have you seen Horla? It's urgent!
+AvgDialog_22130_Content_23,aibA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,30,AvgDialog,Content,汉娜,你不是有个什么读诗会嘛~据我的线人透露，奥尔拉好像经常出席你们的活动。,"Don't you have a poetry club or something? According to my informant, Horla seems to frequently attend your events."
+AvgDialog_22130_Content_24,aibB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,31,AvgDialog,Content,汉娜,你和她关系这么近，一定知道她在哪吧？！,"You're so close to her, you must know where she is, right?!"
+AvgDialog_22130_Content_25,aibC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,宁菲亚,抱歉，我上次见到奥尔拉，已经是两个月以前的事情了……她不喜欢人多的地方。,"Sorry, I last saw Horla two months ago... She dislikes crowded places."
+AvgDialog_22130_Content_26,aibD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,33,AvgDialog,Content,汉娜,那你有她的诗集吗？你们读诗会一定搜集了很多她的作品吧？！,"Do you have her poems? Your poetry club must have collected many of her works, right?!"
+AvgDialog_22130_Content_27,aibE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,34,AvgDialog,Content,汉娜,如果你那里有的话，我会很愿意花大价钱买下来的。,"If you have it, I'd be willing to pay a high price for it."
+AvgDialog_22130_Content_28,aibF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,35,AvgDialog,Content,宁菲亚,汉娜你找她，是有什么事吗？,"Hannah, do you have something to ask her about?"
+AvgDialog_22130_Content_29,aibG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,36,AvgDialog,Content,汉娜,最近的校报没有什么话题度，奥尔拉从来都不喜欢被采访，连自己的诗集也不愿意刊登。,"The school newspaper hasn't had much attention lately. Horla has never liked being interviewed, not even to publish her own poems."
+AvgDialog_22130_Content_30,aibI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,37,AvgDialog,Content,汉娜,要是能刊登她的诗集，甚至对她做一次专访，这个月的校刊销售量肯定会涨一倍的！,"If we can publish her poems or even conduct an exclusive interview with her, this month's school magazine sales will definitely double!"
+AvgDialog_22130_Content_31,aibJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,38,AvgDialog,Content,汉娜,标题我都想好了，就叫《花园与春天——少女诗人奥尔拉不为人知的往事》……,"I've already thought of the title: ""Garden and Spring—The Untold Stories of Young Poet Horla""..."
+AvgDialog_22130_Content_32,aibK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,39,AvgDialog,Content,朵尔,……据统计，目前的目击案例已经达到两位数。,"...According to statistics, the current number of sightings has reached double digits."
+AvgDialog_22130_Content_33,aibL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,40,AvgDialog,Content,朵尔,根据目击证人描述，西岱的变化并不像是普通融蚀造成的。,"According to eyewitnesses, the changes in Cité don't seem to be caused by ordinary dissolution."
+AvgDialog_22130_Content_34,aibM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,41,AvgDialog,Content,朵尔,现在的西岱，很……,The current Cité is very...
+AvgDialog_22130_Content_35,aibN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,42,AvgDialog,Content,玩家,很……？,Very...?
+AvgDialog_22130_Content_36,aibO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,43,AvgDialog,Content,朵尔,用目击证人的话来说，“很美”。,"In the words of an eyewitness, ""It was beautiful."""
+AvgDialog_22130_Content_37,aibP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,44,AvgDialog,Content,玩家,融蚀……很美？,Dissolution... beautiful?
+AvgDialog_22130_Content_38,aibQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,45,AvgDialog,Content,朵尔,逻辑性缺乏是目击证词的普遍特征。,The lack of logic is a common characteristic of eyewitness testimony.
+AvgDialog_22130_Content_39,aibR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,46,AvgDialog,Content,朵尔,从他们凌乱的话里可以总结出的是，这次事件的独特性和影响范围非常罕见，但它表现出的危险性极低，这两者完全不成正比。,"From their chaotic words, it can be concluded that the uniqueness and impact of this event are extremely rare, yet the exhibited risk is minimal, creating a stark contrast."
+AvgDialog_22130_Content_40,aibT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,47,AvgDialog,Content,朵尔,我们尚未遭遇过类似事件。是否是受融蚀影响，目前也还无法判断。,We have not encountered a similar event. Whether it is the result of dissolution remains unknown.
+AvgDialog_22130_Content_41,aibU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,48,AvgDialog,Content,玩家,西岱的联络人是怎么说的？,What did the contact in Cité say?
+AvgDialog_22130_Content_42,aibV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,49,AvgDialog,Content,朵尔,联络人报告一切正常，所以这次事件的级别并不高。但我们还是需要派人去西岱看看……,"The contact reported that everything was normal, so the level of this event isn't high. But we still need to send someone to Cité to check..."
+AvgDialog_22130_Content_43,aibW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,50,AvgDialog,Content,,砰——,Bang—
+AvgDialog_22130_Content_44,aibX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,51,AvgDialog,Content,,朵尔的话没说完，一个白色的身影幽灵般闯进办公室，躲在了窗帘后面。,"Before Doll finished speaking, a white figure slipped into the office like a ghost and hid behind the curtain."
+AvgDialog_22130_Content_45,aibY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,52,AvgDialog,Content,玩家,……,...
+AvgDialog_22130_Content_46,aibZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,53,AvgDialog,Content,朵尔,……,...
+AvgDialog_22130_Content_47,aica,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,54,AvgDialog,Content,玩家,奥尔拉，如果你是在躲什么人的话……你忘了关门了。,"Horla, if you're hiding from someone... you forgot to close the door."
+AvgDialog_22130_Content_48,aicb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,55,AvgDialog,Content,奥尔拉,啊！对、对不起！给你们添麻烦了……守密人%sirormadam%！朵尔小姐！,"Ah! I'm so sorry! I've caused you trouble... {Male=Sir,Female=Madam} Keeper! Miss Doll!"
+AvgDialog_22130_Content_49,aicc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,56,AvgDialog,Content,,她跑出来将办公室的门关上，又迅速跑回窗帘后藏了起来。,"She hurriedly closed the office door, and quickly hid behind the curtains."
+AvgDialog_22130_Content_50,aice,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,57,AvgDialog,Content,汉娜,奥尔拉！你在哪里？奥尔拉！,Horla! Where are you? Horla!
+AvgDialog_22130_Content_51,aicf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,58,AvgDialog,Content,汉娜,快出来，亲爱的奥尔拉！我们只需要做一个小小的专访就好了~我保证不会把你怎么样的！,"Come out, dear Horla! We just need a short interview~ It won't hurt, I promise!"
+AvgDialog_22130_Content_52,aicg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,59,AvgDialog,Content,,汉娜的声音从门外传来，逐渐飘远。,Hannah's voice drifts away from outside the door.
+AvgDialog_22130_Content_53,aich,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,60,AvgDialog,Content,朵尔,终于开始欺负奥尔拉了吗……看来最近校刊的销量压力的确很大。,Finally started bullying Horla? It seems the pressure from the school paper's sales has indeed become quite significant.
+AvgDialog_22130_Content_54,aici,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,61,AvgDialog,Content,玩家,不想接受采访也没事，你写了那么多的诗，只需要拿几首交给汉娜，她就会放过你了。,"It's fine if you don't want to do the interview. Just hand over a few of the many poems you've written to Hannah, and she'll leave you alone."
+AvgDialog_22130_Content_55,aicj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,62,AvgDialog,Content,奥尔拉,我……不太想……,I... don't really want to...
+AvgDialog_22130_Content_56,aick,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,63,AvgDialog,Content,奥尔拉,那些诗，只会给大家带来不幸……我不想这种事再发生了。,Those poems only bring misfortune... I don't want that to happen again.
+AvgDialog_22130_Content_57,aicl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,64,AvgDialog,Content,,想起奥尔拉所经历的往事，你明白了她的意思，点了点头。,"Recalling what Horla had experienced, you understood her meaning and nodded."
+AvgDialog_22130_Content_58,aicm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,65,AvgDialog,Content,奥尔拉,我还是应该住在外面，不应该在学校这样人多的地方……,"I should be outside, not in a crowded place like the school..."
+AvgDialog_22130_Content_59,aicn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,66,AvgDialog,Content,奥尔拉,守密人%sirormadam%，能请您帮我想想办法吗？,"{Male=Sir,Female=Madam} Keeper, can I ask for your help with a solution?"
+AvgDialog_22130_Content_60,aicp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,67,AvgDialog,Content,玩家,说实话，面对那只雪貂的嗅觉跟行动力，我也没有什么太好的办法。,"To be honest, I don't have any good solutions for dealing with that ferret's agility and sense of smell."
+AvgDialog_22130_Content_61,aicq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,68,AvgDialog,Content,玩家,——不过，如果你愿意出门的话，倒是有个办法可以帮你。,"—However, if you'd prefer to be outdoors, there is a way I can help you."
+AvgDialog_22130_Content_62,aicr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,69,AvgDialog,Content,奥尔拉,啊……一定要出门吗……,Ah... Do I really have to go out...
+AvgDialog_22130_Content_63,aics,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,70,AvgDialog,Content,奥尔拉,是去哪里呢？,Where would we go?
+AvgDialog_22130_Content_64,aict,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,71,AvgDialog,Content,,你拿起桌上的照片，向她晃了晃。,You pick up the photo on the table and wave it in front of her.
+AvgDialog_22130_Content_65,aicu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,72,AvgDialog,Content,玩家,西岱，你的故乡。,"Cité, your home."
+AvgDialog_22130_Content_66,aicv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,73,AvgDialog,Content,,游轮无声地漂行，两侧的民居与花丛缓缓向身后流淌，消失于塞涅尔河悠扬的转角。,"The cruise silently drifts, houses and flowers on both sides slowly fading behind, vanishing at the bend of the Szenyér River."
+AvgDialog_22130_Content_67,aicw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,74,AvgDialog,Content,,奥尔拉闭上眼。笑容在她脸上绽放。,Horla closed her eyes. A smile blossomed on her face.
+AvgDialog_22130_Content_68,aicx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,75,AvgDialog,Content,无纸奥尔拉,是西岱的风！西岱是鲜花的城市，连风里也带着花的味道。,"It's the wind of Cité! Cité is the city of flowers, and even the wind carries the scent of flowers."
+AvgDialog_22130_Content_69,aicy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,76,AvgDialog,Content,无纸奥尔拉,虽然已经过了很多年，但我一闻到就能想起来。,"Even after all these years, the moment I smell it, I remember."
+AvgDialog_22130_Content_70,aicA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,77,AvgDialog,Content,玩家,西岱的这些风景，你会很想念吗？,Do you miss the sights of Cité?
+AvgDialog_22130_Content_71,aicB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,78,AvgDialog,Content,无纸奥尔拉,很想念！不过，我一直是生活在花房里。西岱的这些地方，我大都没有真正见过。,Of course! But I've always lived in the greenhouse. I haven't really been to most of the places in Cité.
+AvgDialog_22130_Content_72,aicC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,无纸奥尔拉,我在诗里写了很多西岱的风景，不过那些毕竟是假的……这次如果有机会的话，我想去看一看那些地方。,"I've written many poems about Cité's scenery, but those are fiction... If there's a chance this time, I'd like to see those places."
+AvgDialog_22130_Content_73,aicD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,80,AvgDialog,Content,玩家,最想去的地方是哪里？,Where do you want to go the most?
+AvgDialog_22130_Content_74,aicE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,81,AvgDialog,Content,无纸奥尔拉,最想去的地方，嗯……是我以前生活的那座花园吧？,"The place I want to visit the most... hmm, it would be the garden where I used to live."
+AvgDialog_22130_Content_75,aicF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,82,AvgDialog,Content,无纸奥尔拉,每次到了玫瑰盛开的季节，那座花园都开满了玫瑰花，就像是住在梦境里一样！,"Every rose season, the garden is in full bloom with roses, as if living in a dream!"
+AvgDialog_22130_Content_76,aicG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,83,AvgDialog,Content,无纸奥尔拉,只是不知道，那场大火之后，现在那里还有没有玫瑰。还有诗集……,Just not sure if the roses and the poem book are still there after that fire...
+AvgDialog_22130_Content_77,aicH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,无纸奥尔拉,大火燃起来的时候，我看没办法跑出去，就把我写的那本诗集埋在了花园的土地里。这次回来，我想去找到它。,"When the fire broke out, I couldn't escape, so I buried my poetry collection in the garden. This time, I intend to find it."
+AvgDialog_22130_Content_78,aicI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,85,AvgDialog,Content,玩家,你在西岱经历了那么多，我还以为你不会喜欢这个地方，也不会想再看到那本诗集。,"After all you've experienced in Cité, I didn't think you'd like this place or want to see that poem again."
+AvgDialog_22130_Content_79,aicJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,86,AvgDialog,Content,无纸奥尔拉,那些事情，和这里的土地与人没有关系……西岱，是一个很美的地方。,Those things have nothing to do with this land or its people... Cité is a beautiful place.
+AvgDialog_22130_Content_80,aicL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,87,AvgDialog,Content,无纸奥尔拉,至于诗集……我说不上来，守密人%sirormadam%。,"As for the poem... I can't say, {Male=Sir,Female=Madam} Keeper."
+AvgDialog_22130_Content_81,aicM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,无纸奥尔拉,它给身边的人带来了很多的痛苦，我不喜欢这一点，可是……它也是我最珍贵的东西。,"It brings much pain to those around me, which I dislike, but... it is also my most precious possession."
+AvgDialog_22130_Content_82,aicN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,89,AvgDialog,Content,无纸奥尔拉,不管是想保存，还是想毁掉，我都想找到它。,"Whether to preserve or destroy it, I still want to find it."
+AvgDialog_22130_Content_83,aicO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,玩家,放心，我一定会带你去看看的。只是不知道过了这么多年，还能不能找得到。,"Don't worry, I will definitely take you to see it. I'm just not sure if we can still find it after all these years."
+AvgDialog_22130_Content_84,aicP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,91,AvgDialog,Content,,一只黑色的蝴蝶翩翩而至，停留在奥尔拉伸出的指尖。,A black butterfly flutters gracefully and lands on Horla's outstretched fingertip.
+AvgDialog_22130_Content_85,aicQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,92,AvgDialog,Content,无纸奥尔拉,您看，守密人%sirormadam%，一只蝴蝶诶！,"Look, {Male=Sir,Female=Madam} Keeper, a butterfly!"
+AvgDialog_22130_Content_86,aicR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,93,AvgDialog,Content,无纸奥尔拉,如果蝴蝶停留在一个人的身上，说明在蝴蝶眼里，这个人的生命就像是花一样。,"If a butterfly lands on someone, it means that, in the butterfly's eyes, this person's life is like a flower."
+AvgDialog_22130_Content_87,aicS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,无纸奥尔拉,在西岱人眼里，一个像花一样的生命，总是能交到好运的~,"To the Cité people, a life like a flower always brings good fortune~"
+AvgDialog_22130_Content_88,aicT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,95,AvgDialog,Content,蝴蝶,没错，这位小姐。你身上有玫瑰的味道。,"Exactly, Miss. You smell like roses."
+AvgDialog_22130_Content_89,aicU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,蝴蝶,西岱有很多美丽的玫瑰园，你们会很适合这个地方的~,Cité has many beautiful rose gardens; you will feel right at home here~
+AvgDialog_22130_Content_90,aicW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22130_Content_91,aicX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,玩家,奥尔拉，小心！,"Horla, be careful!"
+AvgDialog_22130_Content_92,aicY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,99,AvgDialog,Content,,你从未见过这种人形的蝴蝶。你伸手将奥尔拉稍稍向后拉开。,You've never witnessed a butterfly speak. You gently pulled Horla back.
+AvgDialog_22130_Content_93,aicZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,100,AvgDialog,Content,无纸奥尔拉,呀，会说话的蝴蝶？！,"Wow, a talking butterfly?!"
+AvgDialog_22130_Content_94,aida,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,101,AvgDialog,Content,无纸奥尔拉,蝴蝶夫人，很抱歉，我、我不是很擅长和别人聊天……,"Mrs. Butterfly, sorry... I-I'm not very good at small talk..."
+AvgDialog_22130_Content_95,aidb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,102,AvgDialog,Content,玩家,没有攻击性，不像是融蚀异变体……也不是幻觉……,"No aggression, not like a Dissolution variant... nor a Phantasm..."
+AvgDialog_22130_Content_96,aidc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,103,AvgDialog,Content,,纯黑色的人形蝴蝶扇动翅膀，摇曳着离开了游轮。你警惕地望了望身周。塞涅尔河仍然静静流淌。,The pitch-black humanoid butterfly flapped its wings and swayed to and fro as it left the cruise ship. You looked around cautiously. The Szenyér River still flowed quietly.
+AvgDialog_22130_Content_97,aidd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,104,AvgDialog,Content,贵妇？,化成蝴蝶的人类……很美的意象，对吧？,"Humans becoming butterflies... a beautiful image, isn't it?"
+AvgDialog_22130_Content_98,aide,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,105,AvgDialog,Content,,一名打扮堂皇的贵妇人不知何时出现在你们身边。她转过望着塞涅尔河的脸，向奥尔拉微微一笑。,A well-dressed noblewoman appears beside you without your notice. She turns her face toward the Szenyér River and gives Horla a slight smile.
+AvgDialog_22130_Content_99,aidf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,贵妇,不过，这位小姐。你眼睛上的那朵玫瑰，比蝴蝶要美得多。,"However, miss. The rose on your eye is far more beautiful than a butterfly."
+AvgDialog_22130_Content_100,aiba,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,107,AvgDialog,Content,无纸奥尔拉,您、您好……这位夫人……,Y-Yes... Madam...
+AvgDialog_22130_Content_101,aibb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,玩家,奥尔拉，你切断了隐形的能力吗？,"Horla, did you disable your shroud?"
+AvgDialog_22130_Content_102,aibc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,109,AvgDialog,Content,无纸奥尔拉,我没有……这位夫人，您能看到我？,"I haven't... Madam, can you see me?"
+AvgDialog_22130_Content_103,aibd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,110,AvgDialog,Content,贵妇,在新的西岱，一切美好的东西，都应该被看见。,"In the new Cité, all things of beauty should be seen."
+AvgDialog_22130_Content_104,aibe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,111,AvgDialog,Content,玩家,新的西岱……,The new Cité...
+AvgDialog_22130_Content_105,aibf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,112,AvgDialog,Content,贵妇,啊，我们到了。,"Ah, we've arrived."
+AvgDialog_22130_Content_106,aibg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,113,AvgDialog,Content,,你回过头。,You turn around.
+AvgDialog_22130_Content_107,aibh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,114,AvgDialog,Content,,一幅你从未见过的画卷，展开在你眼前。,A painting like you have never seen before unfolds before your eyes.
+AvgDialog_22130_Content_108,aibi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,115,AvgDialog,Content,,游轮碰撞在沿岸的缓冲装置上，发出沉闷的声响。,"The cruise ship collides with the shore buffer, producing a dull thud."
+AvgDialog_22130_Content_109,aibj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,116,AvgDialog,Content,,你和奥尔拉愣愣地望着眼前这一幕，似乎忘了应该如何走路。,"You and Horla stare in bewilderment, seemingly forgetting how to walk."
+AvgDialog_22130_Content_110,aibl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,117,AvgDialog,Content,贵妇,我的车还有一会才到，让我带你们逛逛吧。,"My car won't arrive for a while, so let me show you around."
+AvgDialog_22130_Content_111,aibm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,,她抬起手，手臂划出一道优雅的弧线。,"She raises her hand, her arm tracing an elegant arc."
+AvgDialog_22130_Content_112,aibn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,119,AvgDialog,Content,贵妇,欢迎来到西岱，远方的客人们。,"Welcome to Cité, distant guests."
+AvgDialog_22127_Content_1,ahWH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,,花之都,City of Flowers
+AvgDialog_22127_Content_2,ahXy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,121,AvgDialog,Content,玩家,这……这也太……,This... This is too...
+AvgDialog_22127_Content_3,ahXJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,122,AvgDialog,Content,贵妇,西岱，是花与诗的城市。,"Cité, the city of flowers and poetry."
+AvgDialog_22127_Content_4,ahXU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,贵妇,如今的西岱，真正能够配得上这一名号。,Today's Cité truly lives up to its name.
+AvgDialog_22127_Content_5,ahYf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,124,AvgDialog,Content,,在贵妇人的带领下，你向前走着，闯入眼里的一切让你几乎无法思考。,"Led by the noblewoman, you walk forward, overwhelmed by everything that catches your eye."
+AvgDialog_22127_Content_6,ahYq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,125,AvgDialog,Content,,你走过若隐若现的街道，抚摸建筑上晕染的砖石，摘下彩墨般的梧桐叶。,"You walk down the misty streets, touching the stained bricks on the buildings, plucking sycamore leaves like color ink."
+AvgDialog_22127_Content_7,ahYB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,这座城市似乎被蒙上了一层奇特的滤镜，所有的建筑与植物都如同是被水彩画笔涂抹过的画作，以一种极度不合理的形象奇异地伫立着。,"This city seems to be shrouded by a peculiar filter, with all buildings and plants standing in an extremely surreal, watercolor-like appearance."
+AvgDialog_22127_Content_8,ahYM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，您看这个房子，上面好像漂浮着一些线条？,"{Male=Sir,Female=Madam} Keeper, look at this house, does it seem like there are some lines floating on it?"
+AvgDialog_22127_Content_9,ahYX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,128,AvgDialog,Content,无纸奥尔拉,像是写在建筑上的诗……真美啊！,Like poetry inscribed on buildings... so beautiful!
+AvgDialog_22127_Content_10,ahWI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,129,AvgDialog,Content,,这些美丽的景象似乎让奥尔拉忘记了那些痛苦的记忆，也忘记了还有陌生人在身边。,"These beautiful scenes seem to make Horla forget those painful memories, as well as the strangers around."
+AvgDialog_22127_Content_11,ahWT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,,她眼里泛着光，跟在你们身后，在这如画般的城市里穿行着。,Her eyes shimmered as she followed you through this picturesque city.
+AvgDialog_22127_Content_12,ahXe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,131,AvgDialog,Content,玩家,……难为你了，现在还有心情想这个。,...It's impressive that you still have the heart to think about this now.
+AvgDialog_22127_Content_13,ahXp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,132,AvgDialog,Content,玩家,奥尔拉，你不觉得西岱这座城市变得很奇怪吗？,"Horla, don't you think the city of Cité has become strange?"
+AvgDialog_22127_Content_14,ahXs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,133,AvgDialog,Content,无纸奥尔拉,不会啊，虽然我已经忘了西岱是什么样子了，不过我觉得，西岱就应该长这个样子才对。,"No, although I've forgotten what Cité looks like, I think it should look like this."
+AvgDialog_22127_Content_15,ahXt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,贵妇,这位小姐说的没错。西岱，是花与诗的城市。它就应该长这样才对。,"This lady is correct. Cité, a city of flowers and poetry, should indeed look like this."
+AvgDialog_22127_Content_16,ahXu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,,贵妇人微笑着，拍了拍奥尔拉的后背。,The noblewoman smiled and patted Horla's back.
+AvgDialog_22127_Content_17,ahXv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,无纸奥尔拉,嘿嘿……,Heh heh...
+AvgDialog_22127_Content_18,ahXw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,137,AvgDialog,Content,,似乎此时才意识到有个陌生人在身边，她不好意思地笑了笑，将自己稍稍往羊皮纸里面藏了藏，脸上泛起一阵红晕。,"Only now seeming to realize there was a stranger beside her, she smiled awkwardly, blushing as she hid herself slightly behind the parchment."
+AvgDialog_22127_Content_19,ahXx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,,一阵清脆的铃声响起，一辆马车出现在你们面前。,"A clear bell rings, and a carriage appears before you."
+AvgDialog_22127_Content_20,ahXz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,贵妇,啊，我车快到了……不能继续陪你们。,"Ah, my ride is almost here... I'm afraid I can't stay with you any longer."
+AvgDialog_22127_Content_21,ahXA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,贵妇,没想到你们会来，没有准备什么礼物……这个送给你，希望你不会嫌弃。,"I didn't expect you to come, so I didn't prepare a gift... Here, this is for you. I hope you won't dislike it."
+AvgDialog_22127_Content_22,ahXB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,141,AvgDialog,Content,,她伸出手，将一个东西递到奥尔拉面前。,"She extends her hand, presenting something to Horla."
+AvgDialog_22127_Content_23,ahXC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,142,AvgDialog,Content,奥尔拉,这是……,This is...
+AvgDialog_22127_Content_24,ahXD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,,一朵被水彩晕染的玫瑰，在不知何处起的风中微微颤抖着。,A rose stained with watercolor trembles slightly in the wind from an unknown direction.
+AvgDialog_22127_Content_25,ahXE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,,奥尔拉欣喜地抬起头准备道谢，老妇人已经登上马车。,"Horla looks up joyfully to express gratitude, but the old woman has already boarded the carriage."
+AvgDialog_22127_Content_26,ahXF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,贵妇,再会，奥尔拉。,"Farewell, Horla."
+AvgDialog_22127_Content_27,ahXG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,146,AvgDialog,Content,,马车向前驶去，很快融入在远方的水墨之中。,"The carriage moves forward, soon blending into the distant ink painting."
+AvgDialog_22127_Content_28,ahXH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,147,AvgDialog,Content,无纸奥尔拉,这位老夫人人真好。但是感觉有点怪怪的……,This elderly lady is truly kind. But there's something a bit strange about her...
+AvgDialog_22127_Content_29,ahXI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,148,AvgDialog,Content,玩家,的确……哎呀，忘了向她问路了。,"Indeed... Oh dear, I forgot to ask her for directions."
+AvgDialog_22127_Content_30,ahXK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,149,AvgDialog,Content,玩家,算了，再找找附近的人吧。,"Never mind, let's look for someone nearby."
+AvgDialog_22127_Content_31,ahXL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,玩家,这么大个城市，街上都看不见几个人……真是奇怪。,"Such a big city, yet there are so few people on the streets... It's truly strange."
+AvgDialog_22127_Content_32,ahXM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,151,AvgDialog,Content,朵尔,视觉特征的变化，人数差异……那些目击者的描述没有错。,"Changes in visual features, discrepancies in numbers... The witnesses' accounts were not wrong."
+AvgDialog_22127_Content_33,ahXN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,玩家,……不错。西岱的情况大致如此。,......Indeed. That's roughly the situation in Cité.
+AvgDialog_22127_Content_34,ahXO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,153,AvgDialog,Content,玩家,这边情况有些奇怪，不过目前没有遭遇什么危险，也没有发现融蚀的痕迹。,"Things are strange here, but no danger or signs of Dissolution have been found yet."
+AvgDialog_22127_Content_35,ahXP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,154,AvgDialog,Content,玩家,我和奥尔拉准备继续前进，尽快找到联络员，和他核对这里的情况。,"Horla and I are preparing to move forward, find the contact as soon as possible, and verify the situation here."
+AvgDialog_22127_Content_36,ahXQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,155,AvgDialog,Content,朵尔,校方已经在准备派遣增援，但人员的准备需要一段时间。,"The school is preparing to assign reinforcements, but it will take some time."
+AvgDialog_22127_Content_37,ahXR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,156,AvgDialog,Content,玩家,明白，在这之前，西岱的调查就交给我们吧。,"Understood. Until then, leave the investigation in Cité to us."
+AvgDialog_22127_Content_38,ahXS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,157,AvgDialog,Content,,关掉银芯通讯，你警惕地看着周围。,"Turning off the Silver communicator, you vigilantly scan your surroundings."
+AvgDialog_22127_Content_39,ahXT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,158,AvgDialog,Content,,这座城市似乎被蒙上了一层奇特的滤镜，所有的建筑都如同是被胡乱涂抹过的油画，以一种极度不合理的形象奇异地伫立着。,"This city seems to be enveloped by a peculiar filter, with all the buildings standing bizarrely like haphazardly smeared oil paintings."
+AvgDialog_22127_Content_40,ahXV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,159,AvgDialog,Content,,你们在这条街道上走了十分钟，一个人也没有看见。只有路旁奇怪的建筑，和簇拥着这些建筑的繁花。,"You've been walking down this street for ten minutes without seeing anyone. The only things here are the strange buildings by the roadside, surrounded by clusters of blooming flowers."
+AvgDialog_22127_Content_41,ahXW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,玩家,这大白天，走了这么久还看不到一个人……西岱人都不出门的吗？,"In broad daylight, I've walked for so long without seeing a single person... Do people in Cité not go out?"
+AvgDialog_22127_Content_42,ahXX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,奥尔拉,啊！,Ah!
+AvgDialog_22127_Content_43,ahXY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,玩家,你怎么又躲到羊皮纸里面去了……,Why did you hide inside the parchment again...?
+AvgDialog_22127_Content_44,ahXZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,163,AvgDialog,Content,西岱市民,当当，当当当……,"<Italic:La, laa, la-aah~>"
+AvgDialog_22127_Content_45,ahYa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,,一个居民哼着不知名的歌，从你们前方的路口经过，露出一个背影。,"A resident hums an unfamiliar tune, passing by the intersection ahead, showing only their back."
+AvgDialog_22127_Content_46,ahYb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,,他穿着一件被撑得满满的西装，头部的形状显得有些奇怪。,"He wears a suit that looks overly tight, and the shape of his head appears somewhat odd."
+AvgDialog_22127_Content_47,ahYc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,玩家,啊……谢天谢地，终于看到人了。,"Ah... Thank goodness, finally I see someone."
+AvgDialog_22127_Content_48,ahYd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,,你快步走上前去。,You quickly step forward.
+AvgDialog_22127_Content_49,ahYe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,168,AvgDialog,Content,玩家,这位先生，你好。,"Hello, sir."
+AvgDialog_22127_Content_50,ahYg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,169,AvgDialog,Content,西岱市民,啊，您好！可爱的%sirormadam%。请问有什么能帮到您的吗？,"Ah, hello, dear {Male=Sir,Female=Madam}! May I ask how I can be of assistance to you?"
+AvgDialog_22127_Content_51,ahYh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22127_Content_52,ahYi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,,他转过身来。西装上方，是一个巨大的蜜蜂的头。,He turned around. Above the suit was the enormous head of a bee.
+AvgDialog_22127_Content_53,ahYj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,西岱市民,怎么了，%sirormadam%？是不是我的哪句话说得不太得体，让您不舒服了？,"What's wrong, {Male=Sir,Female=Madam}? Did I say something inappropriate that made you uncomfortable?"
+AvgDialog_22127_Content_54,ahYk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,玩家,没……咳，没有。,No... <Italic:cough—> No.
+AvgDialog_22127_Content_55,ahYl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,174,AvgDialog,Content,玩家,我想问问，美第奇大道怎么走？,"Excuse me, could you tell me how to get to Medici Avenue?"
+AvgDialog_22127_Content_56,ahYm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,西岱市民,啊，这位%sirormadam%，您是刚到西岱，对吗？,"Ah, {Male=Sir,Female=Madam}, you're new to Cité, right?"
+AvgDialog_22127_Content_57,ahYn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,玩家,是的。,Yes.
+AvgDialog_22127_Content_58,ahYo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,177,AvgDialog,Content,西岱市民,难怪，连这条最著名的街道都不知道……,"No wonder, you don't even know the most famous street..."
+AvgDialog_22127_Content_59,ahYp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,西岱市民,请放心请放心，西岱市民都是非常热情好客的。美第奇大道就在……,"Rest assured, the citizens of Cité are very hospitable. Medici Avenue is just..."
+AvgDialog_22127_Content_60,ahYr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,西岱市民,唔——,Hmm—
+AvgDialog_22127_Content_61,ahYs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,180,AvgDialog,Content,,这位蜜蜂先生话没有说完，突然开始浑身抽搐起来。,This Mr. Bee didn't finish his sentence and suddenly started convulsing all over.
+AvgDialog_22127_Content_62,ahYt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,181,AvgDialog,Content,,一对硕大的膜翅撑破他的外套，像烈日下的奶油一般，迅速融化滴落。,"A pair of large membranous wings tore through his coat, melting and dripping like butter under the scorching sun."
+AvgDialog_22127_Content_63,ahYu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,奥尔拉,蜜、蜜蜂先生！……,"Honey, Mr. Bee! ..."
+AvgDialog_22127_Content_64,ahYv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,183,AvgDialog,Content,,啪——,Snap—
+AvgDialog_22127_Content_65,ahYw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,184,AvgDialog,Content,,人形蜜蜂的身躯落在地上，变成了黑色，随即变成一堆粉末，消散在空中。,"The humanoid bee's body fell to the ground, turned black, then crumbled into powder and dispersed into the air."
+AvgDialog_22127_Content_66,ahYx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,185,AvgDialog,Content,玩家,不是融蚀异变体的典型表现……,These aren't the typical symptoms of Dissolution...
+AvgDialog_22127_Content_67,ahYy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,,你再次仔细查看周围的环境。,You examine the surroundings carefully once again.
+AvgDialog_22127_Content_68,ahYz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,,如同抽象画作般的建筑围绕着你。远处偶尔出现的居民，仔细观察，便能看到他们身上各种动植物般的躯体。,"Surrounded by buildings resembling abstract paintings. Observing the occasional distant residents, you can see their bodies resemble various plants and animals."
+AvgDialog_22127_Content_69,ahYA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,,——面前的西岱，如同是从某个怪诞的梦境中搬出来的一般。,—The Cité before me appears as if it were taken straight out of some bizarre dream.
+AvgDialog_22127_Content_70,ahYC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,189,AvgDialog,Content,,叮——,Ding—
+AvgDialog_22127_Content_71,ahYD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,190,AvgDialog,Content,,胸前的徽章银光闪烁。你接通了通讯。,The badge on your chest gleamed silver. You established the communication.
+AvgDialog_22127_Content_72,ahYE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,191,AvgDialog,Content,玩家,朵尔教授，我刚才遇到一个非典型融蚀异变体……,"Professor Doll, I just encountered an atypical dissolution mutant..."
+AvgDialog_22127_Content_73,ahYF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,朵尔,西岱来电。一个市民在闹市街道上，变成了融蚀粉尘。,Call from Cité. A citizen turned into D-Dust on a busy street.
+AvgDialog_22127_Content_74,ahYG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,193,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22127_Content_75,ahYH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,玩家,和我这里遇到的情况……一模一样……,Exactly the same as what I encountered here...
+AvgDialog_22127_Content_76,ahYI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,玩家,可我就在西岱，这里完全不像闹市。,"But I'm in Cité, and it's nothing like a bustling city."
+AvgDialog_22127_Content_77,ahYJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,玩家,这里的确也看不到现实世界和密境之间的接口。可如果不是密境，这个地方和这些人为什么会变成这样……不合理……,"Indeed, there's no interface between the real world and the Domain here. But if it's not a Domain, why would this place and these people become like this... It doesn't make sense."
+AvgDialog_22127_Content_78,ahYK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,朵尔,这样看来，这个密境恐怕和普通的密境不一样，是一个完全独立的空间。,"It seems that this Domain is different from ordinary ones, a completely independent space."
+AvgDialog_22127_Content_79,ahYL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,朵尔,但它对西岱造成的影响，是实际存在的。,But its impact on Cité is real and tangible.
+AvgDialog_22127_Content_80,ahYN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,朵尔,无论如何，在事情进一步扩大之前，要尽快找到原因了。,"No matter what, we need to find the cause before things escalate further."
+AvgDialog_22127_Content_81,ahYO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,玩家,明白。,Understood.
+AvgDialog_22127_Content_82,ahYP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,201,AvgDialog,Content,,结束通讯，气氛变得凝重起来。,Communication ends. The atmosphere becomes heavy.
+AvgDialog_22127_Content_83,ahYQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,202,AvgDialog,Content,奥尔拉,守密人%sirormadam%……蜜蜂先生，是死了吗？,"{Male=Sir,Female=Madam} Keeper... Mr. Bee, has he passed away?"
+AvgDialog_22127_Content_84,ahYR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,203,AvgDialog,Content,,你看着奥尔拉，拍了拍她的背。,You look at Horla and pat her on the back.
+AvgDialog_22127_Content_85,ahYS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,玩家,这里不是真实的西岱。或许，他只是某种幻象也不一定……,"This is not the real Cité. Perhaps, it's just some kind of illusion... "
+AvgDialog_22127_Content_86,ahYT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,奥尔拉,但愿如此……,I hope so...
+AvgDialog_22127_Content_87,ahYU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,,奥尔拉摘下一片梧桐叶，将它放在那些残存的融蚀粉尘之上。,Horla picks a sycamore leaf and places it on the remaining D-dust.
+AvgDialog_22127_Content_88,ahYV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,207,AvgDialog,Content,玩家,走吧，去美第奇大道，找联络人调查清楚。,Let's go to Medici Avenue and find the contact for investigation.
+AvgDialog_22127_Content_89,ahYW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,208,AvgDialog,Content,,……,...
+AvgDialog_22127_Content_90,ahYY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,209,AvgDialog,Content,无纸奥尔拉,您看，守密人%sirormadam%！有轨电车！,"Look, {Male=Sir,Female=Madam} Keeper! A tram!"
+AvgDialog_22127_Content_91,ahYZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,,你们朝前走了一段路。一团黑黢黢的东西朝你们驶来。,"You walked forward for a while, and a dark mass came towards you."
+AvgDialog_22127_Content_92,ahZa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,玩家,有电车，但是没有找到站牌，不知道能不能到我们想去的地方。,"There are trams, but we didn't see the stop, so we're not sure if they go where we want to go."
+AvgDialog_22127_Content_93,ahZb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,无纸奥尔拉,我和您讲过吗？从以前那座花园的栅栏往外看，能看到有轨电车经过，不过我从来没有真正坐过。,"Have I told you? From the fence of the old garden, you could see the tram passing by, but I've never actually rode one."
+AvgDialog_22127_Content_94,ahZc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,213,AvgDialog,Content,无纸奥尔拉,我好想坐一次。我觉得，它可以载我去任何地方。,"I believe I recall it can go anywhere. Regardless, I still would like to board it, at least just once."
+AvgDialog_22127_Content_95,ahZd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,214,AvgDialog,Content,无纸奥尔拉,每次看到那台电车，我都觉得它像一只巨大的……,"Every time I see that tram, it feels like a giant..."
+AvgDialog_22127_Content_96,ahZe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,？？？,您好，请问需要坐车吗？,"Hello, may I offer you a ride?"
+AvgDialog_22127_Content_97,ahZf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22127_Content_98,ahZg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,217,AvgDialog,Content,,在蜿蜒的轨道上，一只巨大的毛毛虫停在你们面前。,"On the winding tracks, a giant caterpillar stops in front of you."
+AvgDialog_22127_Content_99,ahZh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,无纸奥尔拉,啊！和我想的一样！是毛毛虫电车！,Ah! Just as I remember! It's the Caterpillar Train!
+AvgDialog_22127_Content_100,ahWJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,毛毛虫,您好，如果不坐车的话，我就要开走了。还有其他客人在等着呢。,"Hello, if you're not getting in, I'll be leaving. Other passengers are waiting."
+AvgDialog_22127_Content_101,ahWK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,220,AvgDialog,Content,,你警惕地注视着它。毛毛虫电车看上去似乎没有敌意。,You watch it warily. The Caterpillar Train seems friendly enough...
+AvgDialog_22127_Content_102,ahWL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,玩家,请问，这辆车能到美第奇大道吗？,"Excuse me, does this train go to Medici Avenue?"
+AvgDialog_22127_Content_103,ahWM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,222,AvgDialog,Content,毛毛虫,当然，当然……这辆电车可以载你到任何地方。,"Of course, of course... This tram can take you anywhere."
+AvgDialog_22127_Content_104,ahWN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,玩家,可以去任何地方的轨道车，是吗……的确，很合理。,"A railcar that can go anywhere, huh... Sure, that makes sense."
+AvgDialog_22127_Content_105,ahWO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,224,AvgDialog,Content,玩家,无论如何，至少这辆车确实是用来载客的。,"Anyway, at least this vehicle is indeed for carrying passengers."
+AvgDialog_22127_Content_106,ahWP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,225,AvgDialog,Content,,毛毛虫的身躯打开，露出里面整洁的车座。,"The caterpillar's body opens, revealing a tidy seat inside."
+AvgDialog_22127_Content_107,ahWQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,226,AvgDialog,Content,,看着奥尔拉期待的眼神，你们坐了上去。,"Seeing Horla's expectant eyes, you sit down."
+AvgDialog_22127_Content_108,ahWR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,玩家,请问，怎么付钱买票呢？,"Excuse me, how do I pay for the ticket?"
+AvgDialog_22127_Content_109,ahWS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,毛毛虫,不用钱。,Free of charge.
+AvgDialog_22127_Content_110,ahWU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,玩家,看来今天也不是那么倒霉，至少还有免费的车可以坐……,"Looks like today isn't all that bad, at least there's a free ride..."
+AvgDialog_22127_Content_111,ahWV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,230,AvgDialog,Content,无纸奥尔拉,不是免费哦。这辆车的票，需要靠诗来买。,"Not free. To obtain a ticket for this car, you need to pay with a poem."
+AvgDialog_22127_Content_112,ahWW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,231,AvgDialog,Content,玩家,？？？,???
+AvgDialog_22127_Content_113,ahWX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,232,AvgDialog,Content,毛毛虫,啊，没错没错……这位小姑娘，应该是本地人。,"Ah, that's right... This young lady must be a local."
+AvgDialog_22127_Content_114,ahWY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,233,AvgDialog,Content,玩家,奥尔拉，你怎么连这种规则都知道……,"Horla, how do you even know these rules..."
+AvgDialog_22127_Content_115,ahWZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,234,AvgDialog,Content,无纸奥尔拉,我也不太清楚……我印象里就是这样的。,I'm not quite sure... That's just how I remember it.
+AvgDialog_22127_Content_116,ahXa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,235,AvgDialog,Content,无纸奥尔拉,不过也不贵的，每人写一句很简单的就可以了。,It's not costly; each rider just needs to write a simple sentence.
+AvgDialog_22127_Content_117,ahXb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,236,AvgDialog,Content,奥尔拉,我先来……,I'll go first...
+AvgDialog_22127_Content_118,ahXc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,237,AvgDialog,Content,,她来到车头，对着司机位上的售票箱悄悄说了一句话。,She approaches the front of the bus and whispers something into the fare box by the driver's seat.
+AvgDialog_22127_Content_119,ahXd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,238,AvgDialog,Content,毛毛虫,啊……真是一句美丽的诗！请入座，小姐。,"Ah... What a beautiful poem! Please take a seat, miss."
+AvgDialog_22127_Content_120,ahXf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,239,AvgDialog,Content,玩家,不让我也欣赏一下吗？,Can I take a look as well?
+AvgDialog_22127_Content_121,ahXg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,240,AvgDialog,Content,无纸奥尔拉,我……不太好意思……等我回去以后悄悄写给您吧，守密人%sirormadam%。,"I... I'm a bit embarrassed... I'll write it in secret to you after returning, {Male=Keeper Sir,Female=Madam Keeper}."
+AvgDialog_22127_Content_122,ahXh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,241,AvgDialog,Content,毛毛虫,该您了，这位%sirormadam%。,"It's your turn, {Male=Sir,Female=Madam}."
+AvgDialog_22127_Content_123,ahXi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,242,AvgDialog,Content,玩家,嗯，我想想……,"Hmm, let me think..."
+AvgDialog_22127_Content_124,ahXj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,243,AvgDialog,Content,,电车在轨道上蠕动，仿佛一只毛毛虫,The trolley car inched along the tracks like a caterpillar.
+AvgDialog_22127_Content_125,ahXk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,244,AvgDialog,Content,,我的比喻很精妙，像那什么似的,"My analogy is quite ingenious, akin to something else."
+AvgDialog_22127_Content_126,ahXl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,245,AvgDialog,Content,,赶紧开吧，去美第奇大道,"Hurry up, let's head to Medici Avenue!"
+AvgDialog_22127_Content_127,ahXm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,246,AvgDialog,Content,毛毛虫,……,...
+AvgDialog_22127_Content_128,ahXn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,247,AvgDialog,Content,无纸奥尔拉,……,...
+AvgDialog_22127_Content_129,ahXo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,248,AvgDialog,Content,毛毛虫,通常来说，您需要重写一句，但那位小姐的诗可以为所有的位置都买上年票，并且我也不希望受更多的折磨了。请入座吧。,"Generally, you need to rewrite a sentence, but that lady's poem could purchase season tickets for all seats, and I don't wish to endure any more torment. Please, take a seat."
+AvgDialog_22127_Content_130,ahXq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,249,AvgDialog,Content,,毛毛虫睁开眼，明晃晃的灯光从它眼中照出。,"The caterpillar opens its eyes, and a bright light shone from them."
+AvgDialog_22127_Content_131,ahXr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,250,AvgDialog,Content,,它平稳地向前方驶去。,It moves steadily forward.
+AvgDialog_22125_Content_1,ahUu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,251,AvgDialog,Content,,诗中人,The Poet
+AvgDialog_22125_Content_2,ahUG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,252,AvgDialog,Content,无纸奥尔拉,两、两杯咖啡……谢谢。,Two cups of coffee... thank you.
+AvgDialog_22125_Content_3,ahUR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,253,AvgDialog,Content,,很快，那只穿着服务员套装的浣熊给你们递来了两杯咖啡。,"Soon, a raccoon dressed in a waiter's uniform brought you two cups of coffee."
+AvgDialog_22125_Content_4,ahVc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,254,AvgDialog,Content,玩家,进步挺大，能和陌生人说话了。,"Speaking to strangers? You've made great progress already, Horla!"
+AvgDialog_22125_Content_5,ahVn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,255,AvgDialog,Content,无纸奥尔拉,只有一个人，而且长得像动物，会好一点点……,"Only one person, and they look like an animal, but I suppose it's not nothing..."
+AvgDialog_22125_Content_6,ahVy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,256,AvgDialog,Content,玩家,虽然不清楚是不是好事，但人总算是多了起来。,"Although I'm not sure whether it's a good thing, there are finally more people around."
+AvgDialog_22125_Content_7,ahVJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,257,AvgDialog,Content,无纸奥尔拉,毛毛虫先生不是说，只要不做出奇怪的举动，大部分人都不会伤害我们的吗？,Didn't Mr. Caterpillar say that most people won't harm us as long as we don't act strangely?
+AvgDialog_22125_Content_8,ahVU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,258,AvgDialog,Content,玩家,但愿不要再有什么蜜蜂来给我唱歌了……,"Hope no more bees come to ""sing"" for me..."
+AvgDialog_22125_Content_9,ahWf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,259,AvgDialog,Content,,宽敞的街道上，长着各种动物头的市民们来来往往，并没有表现出攻击性。,"On the spacious street, citizens with various animal heads come and go, showing no signs of aggression."
+AvgDialog_22125_Content_10,ahUv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,260,AvgDialog,Content,,不知何处而来的明亮光线，照耀着路边咖啡馆的顶棚与桌椅。,Bright light from an unknown source illuminates the roof and tables of the roadside café.
+AvgDialog_22125_Content_11,ahUx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,261,AvgDialog,Content,,奥尔拉沐浴在光线里，两只脚在空中晃来晃去，打着不知名的节拍。,"Horla bathes in the light, her feet swinging in the air to an unknown beat."
+AvgDialog_22125_Content_12,ahUy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,262,AvgDialog,Content,无纸奥尔拉,我记得报纸上面说，三月街原本是一条很普通的街道，因为一位画家为这家咖啡馆画了一幅画才有了名气。,"I remember reading in the newspaper that March Street was originally an ordinary street, but it gained fame because a painter created a piece for this café."
+AvgDialog_22125_Content_13,ahUz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,263,AvgDialog,Content,无纸奥尔拉,我很喜欢这个故事，曾经为这个故事写过一首诗。那首诗里，这名画家最后就定居在三月街尽头的99号。,"I really love this story and once wrote a poem about it. In the poem, the artist eventually settled at No. 99, End of March Street."
+AvgDialog_22125_Content_14,ahUA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,264,AvgDialog,Content,无纸奥尔拉,不过我觉得，不是三月街遇上了画家，是画家遇上了三月街才对。,"I think it's not that March Street encountered the painter, but rather that the painter encountered March Street."
+AvgDialog_22125_Content_15,ahUB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,265,AvgDialog,Content,玩家,西岱变得这么奇怪，你好像一点也不害怕，还挺享受的？,"Cité has become so strange, yet you seem not at all afraid, even quite enjoying it?"
+AvgDialog_22125_Content_16,ahUC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,266,AvgDialog,Content,无纸奥尔拉,这里不用和人接触，又能碰到好多新奇的事情。,"Here, you don't have to interact with people, yet you can encounter many new and fascinating things."
+AvgDialog_22125_Content_17,ahUD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,267,AvgDialog,Content,无纸奥尔拉,我说不好为什么，但我总是觉得，比起报纸和照片上的西岱，这里更加让我熟悉……,"I can't quite put it into words, but I always feel more at home here than when looking at the newspapers and photos of Cité..."
+AvgDialog_22125_Content_18,ahUE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,268,AvgDialog,Content,无纸奥尔拉,啊，您看，守密人%sirormadam%！是星星！,"Ah, look, {Male=Sir,Female=Madam} Keeper! It's the stars!"
+AvgDialog_22125_Content_19,ahUF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,269,AvgDialog,Content,玩家,星星？可这里好像没有白天和夜晚……,Stars? But there seems to be neither day nor night here...
+AvgDialog_22125_Content_20,ahUH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,270,AvgDialog,Content,,你抬起头。金光闪耀的星星们边上，开出了白色的花瓣。,"You look up. Next to the shimmering golden stars, white petals unfold."
+AvgDialog_22125_Content_21,ahUI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,271,AvgDialog,Content,,硕大的雏菊般的群星，将天空变成了一座花园。,Huge daisy-like stars transform the sky into a garden.
+AvgDialog_22125_Content_22,ahUJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,272,AvgDialog,Content,玩家,西岱是一座诗与花的城市……如果没有那些紧急的事情，这个地方的确还挺让人享受的。,"Cité is a city of poetry and flowers... Without those urgent matters, it would indeed be quite enjoyable."
+AvgDialog_22125_Content_23,ahUK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,273,AvgDialog,Content,玩家,过了三十分钟，遇到了大概一百多个市民，没有遭遇袭击……那辆电车应该没有骗我们。,"After thirty minutes, we encountered about a hundred citizens without any attacks... That tram must not have lied to us."
+AvgDialog_22125_Content_24,ahUL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,274,AvgDialog,Content,无纸奥尔拉,啊，原来守密人%sirormadam%一直在观察吗？,"Ah, so {Male=Sir,Female=Madam} Keeper has been observing all along?"
+AvgDialog_22125_Content_25,ahUM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,275,AvgDialog,Content,玩家,没办法，有人仰望天上的星星，那总要有人注意脚下的土地的。,"I have no choice. Some gaze at the stars, while others must watch the ground beneath their feet."
+AvgDialog_22125_Content_26,ahUN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,276,AvgDialog,Content,玩家,虽然诗歌方面没有什么天分，但好歹也是弥萨格的守密人，这件事还是能做的。,"Though not gifted in poetry, as the Keeper of Mythag, I can still handle this task."
+AvgDialog_22125_Content_27,ahUO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,277,AvgDialog,Content,玩家,联络人就在三月街的101号。做好准备，我们走吧。,"The contact is at 101 March Street. Get ready, let's go."
+AvgDialog_22125_Content_28,ahUP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,278,AvgDialog,Content,,……,...
+AvgDialog_22125_Content_29,ahUQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,279,AvgDialog,Content,？？？,轰轰——,Boom—
+AvgDialog_22125_Content_30,ahUS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,280,AvgDialog,Content,玩家,谁？！,Who?!
+AvgDialog_22125_Content_31,ahUT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,281,AvgDialog,Content,,不知道这里会有什么样的危险，你警惕地注视着周围。,"Unsure of the dangers here, you cautiously observe your surroundings."
+AvgDialog_22125_Content_32,ahUU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,282,AvgDialog,Content,蝴蝶,啊，两位，你们好啊！,"Ah, greetings to both of you!"
+AvgDialog_22125_Content_33,ahUV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,283,AvgDialog,Content,毛毛虫,呼……又见面了……,Phew... We meet again...
+AvgDialog_22125_Content_34,ahUW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,284,AvgDialog,Content,无纸奥尔拉,你们好！蝴蝶夫人，毛毛虫先生！,"Hello! Madame Butterfly, Mr. Caterpillar!"
+AvgDialog_22125_Content_35,ahUX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,285,AvgDialog,Content,玩家,你们这是？,What are you doing?
+AvgDialog_22125_Content_36,ahUY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,286,AvgDialog,Content,蝴蝶,我和丈夫吃过晚饭，正准备到街上逛一逛。,My husband and I had dinner and were preparing to take a stroll down the street.
+AvgDialog_22125_Content_37,ahUZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,287,AvgDialog,Content,蝴蝶,真巧。我听到了那位小姐写的诗了，实在是太美了！,What a coincidence! I heard the poem written by that young lady—it's absolutely beautiful!
+AvgDialog_22125_Content_38,ahVa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,288,AvgDialog,Content,无纸奥尔拉,谢谢……,Thank you...
+AvgDialog_22125_Content_39,ahVb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,289,AvgDialog,Content,蝴蝶,两位，是找不到路吗？,Are the two of you lost?
+AvgDialog_22125_Content_40,ahVd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,290,AvgDialog,Content,玩家,这里的路和地图上标记的不一样，门牌号全是乱的……,"The roads here don't match the markings on the map, and the house numbers are all messed up..."
+AvgDialog_22125_Content_41,ahVe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,291,AvgDialog,Content,玩家,请问，你们知道三月街101号是在哪里吗？,"Excuse me, do you know where No. 101 March Street is located?"
+AvgDialog_22125_Content_42,ahVf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,292,AvgDialog,Content,蝴蝶,101……我记得，三月街好像没有101号？,101... I don't remember if there is a No. 101 on March Street.
+AvgDialog_22125_Content_43,ahVg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,293,AvgDialog,Content,玩家,这样吗……,Is that so...
+AvgDialog_22125_Content_44,ahVh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,294,AvgDialog,Content,玩家,这片地方不大，我们再慢慢找找。,This place isn't very large. Let's continue searching slowly.
+AvgDialog_22125_Content_45,ahVi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,295,AvgDialog,Content,蝴蝶,没有帮上什么，实在抱歉。,Sorry for not being of much help.
+AvgDialog_22125_Content_46,ahVj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,296,AvgDialog,Content,蝴蝶,那二位就慢慢找了。祝你们在西岱玩得开心~,Take your time with the search. Enjoy your stay in Cité~
+AvgDialog_22125_Content_47,ahVk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,297,AvgDialog,Content,,告别了蝴蝶夫人和毛毛虫先生以后，你们继续在三月街的街巷中穿梭着，一个个核对门牌上的数字。,"After bidding farewell to the Butterfly Lady and Mr. Caterpillar, you continue to make your way through the streets of March Street, checking the numbers on the doorplates one by one."
+AvgDialog_22125_Content_48,ahVl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,298,AvgDialog,Content,无纸奥尔拉,咦，我印象里，三月街好像没有这么长呀……,"Hmm, I don't recall March Street being this long..."
+AvgDialog_22125_Content_49,ahVm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,299,AvgDialog,Content,玩家,我们已经逛完两趟了。,We've checked the whole street twice already.
+AvgDialog_22125_Content_50,ahVo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,300,AvgDialog,Content,无纸奥尔拉,啊？但是，我没有看到101号在哪里啊……,Huh? But I don't see where No. 101 is...
+AvgDialog_22125_Content_51,ahVp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,301,AvgDialog,Content,玩家,第一次我也没看到，第二次我仔细注意了所有的门牌号。,"The first time I didn't notice, but the second time I carefully observed all the door numbers."
+AvgDialog_22125_Content_52,ahVq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,302,AvgDialog,Content,玩家,三月街……没有101号。,March Street... There is no No. 101.
+AvgDialog_22125_Content_53,ahVr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,303,AvgDialog,Content,玩家,这里最大的门牌号，是这个。,The highest house number here is this one.
+AvgDialog_22125_Content_54,ahVs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,304,AvgDialog,Content,,你们站在街道尽头的围墙边。身前小楼的金属门牌被取下，换成了一幅画。,You stand by the wall at the end of the street. The metal nameplate on the small building ahead has been replaced with a painting.
+AvgDialog_22125_Content_55,ahVt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,305,AvgDialog,Content,无纸奥尔拉,三月街……99号……,March Street... No. 99.
+AvgDialog_22125_Content_56,ahVu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,306,AvgDialog,Content,画家,谁？,Who's there?
+AvgDialog_22125_Content_57,ahVv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,307,AvgDialog,Content,,门猛然打开，一个瘦削的身影出现在你们面前。,"The door bursts open, revealing a thin figure before you."
+AvgDialog_22125_Content_58,ahVw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,308,AvgDialog,Content,,沾满颜料的破烂衣衫上，是一只昆虫的脸。,"On the paint-stained, tattered clothes is the face of an insect."
+AvgDialog_22125_Content_59,ahVx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,309,AvgDialog,Content,画家,你们是贼？！,Are you thieves?!
+AvgDialog_22125_Content_60,ahVz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,310,AvgDialog,Content,玩家,呃……不是，我们是游客，过来找朋友，他就在三月街101号……,"Uh... no, we're tourists here to visit a friend. He's at 101 March Street..."
+AvgDialog_22125_Content_61,ahVA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,311,AvgDialog,Content,画家,多少号？！！,What's the number?!
+AvgDialog_22125_Content_62,ahVB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,312,AvgDialog,Content,玩家,1……呃，88号。,"1... Uh, No. 88."
+AvgDialog_22125_Content_63,ahVC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,313,AvgDialog,Content,画家,你说的是101……这里没有101号……,You said 101. There's no 101 here...
+AvgDialog_22125_Content_64,ahVD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,314,AvgDialog,Content,画家,你们是小偷……你们偷走了我的画！就是你们偷走了我的画！！,You liars... You stole my painting! It was you who stole my painting!!
+AvgDialog_22125_Content_65,ahVE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,315,AvgDialog,Content,,随着画家的动作，身边的画面突然变化了起来。,"With the painter's movements, the surrounding scene suddenly changes."
+AvgDialog_22125_Content_66,ahVF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,316,AvgDialog,Content,,几道绚烂诡异的色彩突然出现在附近的建筑上，像是一幅完整的画，被某种不知名的力量撕扯成混乱的颜色集合。,"A few dazzling and bizarre colors suddenly appeared on nearby buildings, resembling a complete painting torn apart into chaotic hues by some unknown force."
+AvgDialog_22125_Content_67,ahVG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,317,AvgDialog,Content,玩家,这是……融蚀？！,Is this... Dissolution?!
+AvgDialog_22125_Content_68,ahVH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,318,AvgDialog,Content,,你不太确定这种现象发生的原理，带着奥尔拉快步往后退去。,"Uncertain of the principle behind this phenomenon, you quickly retreated with Horla."
+AvgDialog_22125_Content_69,ahVI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,319,AvgDialog,Content,画家,把我的画……还给我……！,Give me back my painting!!
+AvgDialog_22125_Content_70,ahVK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,320,AvgDialog,Content,,他的手伸向你们。在他的手尚未碰到你们的时候，诡异的色彩来到他身边，如同洪水般，将他裹挟、吞噬……,"His hand reaches for you. Before it touches you, strange colors surge around him like a flood, engulfing and devouring him..."
+AvgDialog_22125_Content_71,ahVL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,321,AvgDialog,Content,,很快，诡异的色彩停止了蠕动。你沉默地看着眼前这一幕。,"Soon, the eerie colors stop writhing. You silently observe the scene before you."
+AvgDialog_22125_Content_72,ahVM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,322,AvgDialog,Content,,胸前的校徽，泛起银色的光。,The school badge on your chest emitted a silver glow.
+AvgDialog_22125_Content_73,ahVN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,323,AvgDialog,Content,玩家,西岱……又发生什么事了吗？,Cité... Did something happen again?
+AvgDialog_22125_Content_74,ahVO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,324,AvgDialog,Content,朵尔,一栋建筑，消失了。,A building has disappeared.
+AvgDialog_22125_Content_75,ahVP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,325,AvgDialog,Content,玩家,位置，是在三月街……,The location is on March Street...
+AvgDialog_22125_Content_76,ahVQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,326,AvgDialog,Content,朵尔,99号。,No. 99.
+AvgDialog_22125_Content_77,ahVR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,327,AvgDialog,Content,,你看着眼前残留的99号门牌，深吸了一口气。,"You look at the remaining doorplate numbered 99, taking a deep breath."
+AvgDialog_22125_Content_78,ahVS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,328,AvgDialog,Content,玩家,不能再让事情这样发展下去……现在找不到联络人，我们需要想想其他的方法。,"We can't let things continue like this... Without a contact, we need to think of another way."
+AvgDialog_22125_Content_79,ahVT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,329,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，我有个猜测……,"{Male=Sir,Female=Madam} Keeper, I have a guess..."
+AvgDialog_22125_Content_80,ahVV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,330,AvgDialog,Content,无纸奥尔拉,不，不是猜测，我敢肯定。,"No, not a guess. I'm certain."
+AvgDialog_22125_Content_81,ahVW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,331,AvgDialog,Content,无纸奥尔拉,这里不是西岱！,This isn't Cité!
+AvgDialog_22125_Content_82,ahVX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,332,AvgDialog,Content,玩家,……奥尔拉，你要不要认真听听自己在说什么。,"......Horla, what are you saying?"
+AvgDialog_22125_Content_83,ahVY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,333,AvgDialog,Content,无纸奥尔拉,我的意思是，这里不是真实的西岱。,"I mean, this isn't the real Cité."
+AvgDialog_22125_Content_84,ahVZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,334,AvgDialog,Content,玩家,不是真实的西岱……,This isn't the real Cité...?
+AvgDialog_22125_Content_85,ahWa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,335,AvgDialog,Content,无纸奥尔拉,需要用诗买票的毛毛虫电车，蝴蝶夫人，只有99号的三月街，画家，雏菊星星……,"The Caterpillar Train that requires a poem for a ticket, Madame Butterfly, only No. 99 March Street, the Painter, Daisy Stars..."
+AvgDialog_22125_Content_86,ahWb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,336,AvgDialog,Content,无纸奥尔拉,我们看到的这些东西，我一直都觉得特别特别熟悉。直到刚才我才终于想起来。,"These things we've seen, I've always felt they were extremely familiar. It was only just now that I finally remembered why."
+AvgDialog_22125_Content_87,ahWc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,337,AvgDialog,Content,无纸奥尔拉,这些东西，都曾经出现在我的诗集里。这里的一切，都是我在诗集里所想象出来的样子……,These things have all appeared in my poetry collection. Everything here is just as I imagined in my poems...
+AvgDialog_22125_Content_88,ahWd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,338,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，这里不是真实的西岱。,"{Male=Sir,Female=Madam} Keeper, this is not the real Cité."
+AvgDialog_22125_Content_89,ahWe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,339,AvgDialog,Content,无纸奥尔拉,这里，是我<Yellow:诗里的西岱>……,This is the <Yellow:Cité of my imagination>...
+AvgDialog_22125_Content_90,ahWg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,340,AvgDialog,Content,,在三月街混乱的色彩下，奥尔拉慢慢转着圈，凝望着这属于她诗中的一切。,"Under the chaotic colors of March Street, Horla slowly spun around, gazing at everything that belonged to her poems."
+AvgDialog_22125_Content_91,ahWh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,341,AvgDialog,Content,,光芒像是纱幔般落下，照亮她好奇、哀愁、困惑的脸。,"The light falls like a veil, illuminating her face, which is filled with curiosity, sorrow, and confusion."
+AvgDialog_22125_Content_92,ahWi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,342,AvgDialog,Content,玩家,原来如此……难怪这里有那么多稀奇古怪的东西。,I see... No wonder there are so many bizarre things here.
+AvgDialog_22125_Content_93,ahWj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,343,AvgDialog,Content,玩家,可是，这样的西岱是如何形成的呢……,But how did Cité end up like this... 
+AvgDialog_22125_Content_94,ahWk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,344,AvgDialog,Content,无纸奥尔拉,我也不知道……这里有些东西和我诗里写的也不完全一样。,I don't know either... Some things here aren't exactly the same as in my poems.
+AvgDialog_22125_Content_95,ahWl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,345,AvgDialog,Content,无纸奥尔拉,诗里的这一切，本来应该是美好又永恒的……我也不知道为什么会变成现在这样……,Everything in the poem should have been beautiful and eternal... I don't know why it turned out this way...
+AvgDialog_22125_Content_96,ahWm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,346,AvgDialog,Content,无纸奥尔拉,不过我想，如果想要处理掉这里的问题，或许需要先找到那本诗集才行。,"But I think, if we want to resolve the issue here, we might need to find that poem first."
+AvgDialog_22125_Content_97,ahWn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,347,AvgDialog,Content,玩家,路你还记得吗？,Do you still remember the way?
+AvgDialog_22125_Content_98,ahWo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,348,AvgDialog,Content,无纸奥尔拉,在我的诗里，三月街离家很近。回家的路，我一直记得的。,"In my poetry, March Street is close to home. I always remember the way back."
+AvgDialog_22125_Content_99,ahWp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,349,AvgDialog,Content,,她向着居民区的方向，哀愁如同有形的雾气，将你缓缓裹住。,"She faces the residential area, sorrow like a tangible mist enveloping you."
+AvgDialog_22125_Content_100,ahUw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,350,AvgDialog,Content,无纸奥尔拉,走吧，守密人%sirormadam%，我们去玫瑰园……去我死去的地方。,"Let's go, {Male=Sir,Female=Madam} Keeper, we're heading to the rose garden... to where I died."
+AvgDialog_22121_Content_1,ahSI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,351,AvgDialog,Content,,迟来的葬礼,A Belated Funeral
+AvgDialog_22121_Content_2,ahST,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,352,AvgDialog,Content,无纸奥尔拉,我们到了！,We're here!
+AvgDialog_22121_Content_3,ahTe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,353,AvgDialog,Content,,穿过西岱繁华的美第奇大道，一路向东北方向走，很快便来到了一处美丽的公寓区域。,"Walking northeast through the bustling Medici Avenue in Cité, you soon arrive at a beautiful apartment area."
+AvgDialog_22121_Content_4,ahTp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,354,AvgDialog,Content,,一栋华丽如同宫殿般的别墅矗立在你们面前，分外惹眼。,"A palace-like mansion stands before you, conspicuous and magnificent."
+AvgDialog_22121_Content_5,ahTA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,355,AvgDialog,Content,无纸奥尔拉,不过……这里为什么变成了这个样子？,But... why has this place changed like this?
+AvgDialog_22121_Content_6,ahTL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,356,AvgDialog,Content,,在它脚下硕大的花园里，长满了死灰色的枯草。你们向花园中走去。,"In the vast garden at its foot, gray withered grass grew everywhere. You walk into the garden."
+AvgDialog_22121_Content_7,ahTW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,357,AvgDialog,Content,玩家,越靠近这里，周围的色彩就变得越暗淡……这些，也是你诗集里的想象吗？,"The closer you get, the dimmer the colors around you become... Are these also part of the imagination of your poetry?"
+AvgDialog_22121_Content_8,ahUh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,358,AvgDialog,Content,无纸奥尔拉,我记不太清楚了……不过，应该不会的吧……,"I can't quite remember... But it shouldn't be, right...?"
+AvgDialog_22121_Content_9,ahUm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,359,AvgDialog,Content,,或许是因为写过一些和死亡有关的诗,Perhaps it's because you've written death into some of your poems.
+AvgDialog_22121_Content_10,ahSJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,360,AvgDialog,Content,,或许是受到了那场大火的影响,Perhaps it's been affected by that great fire.
+AvgDialog_22121_Content_11,ahSK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,361,AvgDialog,Content,玩家,不管怎么样，这里都应该是我们要找的地方了。,"No matter what, this should be the place we are looking for."
+AvgDialog_22121_Content_12,ahSL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,362,AvgDialog,Content,玩家,奥尔拉，那本诗集是放在哪里的？,"Horla, where did you place the poem?"
+AvgDialog_22121_Content_13,ahSM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,363,AvgDialog,Content,无纸奥尔拉,火烧起来的时候，为了保护那本诗集，我挖了一个小土坑，用一个盒子装着，把诗集给埋了进去。,"When the fire broke out, I dug a small pit to protect the poetry collection, placed it in a box, and buried it."
+AvgDialog_22121_Content_14,ahSN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,364,AvgDialog,Content,无纸奥尔拉,我们住在种植玫瑰的温室里，穿过那片花圃就能找到了。,We lived in a greenhouse where roses are grown. You can find it by crossing the flower bed.
+AvgDialog_22121_Content_15,ahSO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,365,AvgDialog,Content,无纸奥尔拉,啊！,Ah!
+AvgDialog_22121_Content_16,ahSP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,366,AvgDialog,Content,玩家,有危险？！,Is there danger?!
+AvgDialog_22121_Content_17,ahSQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,367,AvgDialog,Content,无纸奥尔拉,啊，不是……守密人%sirormadam%，您看那里。,"Ah, no... {Male=Sir,Female=Madam} Keeper, look there."
+AvgDialog_22121_Content_18,ahSR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,368,AvgDialog,Content,,奥尔拉兴奋地指向一面墙。墙上用彩色粉笔画着一幅粗糙的简笔画。,Horla excitedly points to a wall. A rough sketch is drawn on it with colored chalk.
+AvgDialog_22121_Content_19,ahSS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,369,AvgDialog,Content,,两个穿着裙子的小女孩，正在扮演着贵妇与侍女。,Two little girls in dresses are playing at being a lady and a maid.
+AvgDialog_22121_Content_20,ahSU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,370,AvgDialog,Content,无纸奥尔拉,来到这里以后，我们经常玩这个游戏，有时候我演贵族，有时候柯蕾特演。,"When we lived here, Colette and I would often play this game together. Sometimes I would play the noble, sometimes she would."
+AvgDialog_22121_Content_21,ahSV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,371,AvgDialog,Content,无纸奥尔拉,这幅画是她画的，画得不太好看。不过当时我们没有更多的粉笔了。,"This painting was done by her, though it doesn't look very good. However, we didn't have more chalk at the time."
+AvgDialog_22121_Content_22,ahSW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,372,AvgDialog,Content,无纸奥尔拉,这个红裙子，是她用玫瑰的花汁涂抹出来的……现在已经看不太清楚了，好可惜。,"She dyed this dress red with juice from the roses... It's barely visible now, what a pity."
+AvgDialog_22121_Content_23,ahSX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,373,AvgDialog,Content,,奥尔拉的手指轻轻从那副简笔画上拂过，嘴角轻轻扬起。,"Horla's fingers gently brush over the simple line drawing, a faint smile lifting the corners of her lips."
+AvgDialog_22121_Content_24,ahSY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,374,AvgDialog,Content,玩家,柯蕾特……就是那个烧死你的花匠，是吗？,"Colette... the gardener who burned you to death, right?"
+AvgDialog_22121_Content_25,ahSZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,375,AvgDialog,Content,无纸奥尔拉,也是我最好的朋友。,She was also my best friend.
+AvgDialog_22121_Content_26,ahTa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,376,AvgDialog,Content,无纸奥尔拉,小时候住在花房，虽然也很好，但是有一点点挤。我们就梦想着，有一天能在这上面的小楼里有一间房子。,"Growing up in the flower house was nice, but a bit cramped. We dreamed of having a home in the manor someday."
+AvgDialog_22121_Content_27,ahTb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,377,AvgDialog,Content,无纸奥尔拉,不过，直到最后也没有住上……,"However, in the end, I never got to live there..."
+AvgDialog_22121_Content_28,ahTc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,378,AvgDialog,Content,,奥尔拉惋惜地望着眼前华丽的别墅，继续向前走去。,Horla gazed regretfully at the magnificent villa ahead and continued walking forward.
+AvgDialog_22121_Content_29,ahTd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,379,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，穿过这片玫瑰园，我们就快到了。,"{Male=Sir,Female=Madam} Keeper, through this rose garden, we're almost there."
+AvgDialog_22121_Content_30,ahTf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,380,AvgDialog,Content,玩家,玫瑰园？哪里有玫瑰园……,Rose garden? Where is the rose garden...
+AvgDialog_22121_Content_31,ahTg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,381,AvgDialog,Content,无纸奥尔拉,这座宅邸的后院，曾经是开满了玫瑰的。,The backyard of this mansion used to be filled with roses.
+AvgDialog_22121_Content_32,ahTh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,382,AvgDialog,Content,玩家,是柯蕾特种的？,Were they Colette's?
+AvgDialog_22121_Content_33,ahTi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,383,AvgDialog,Content,无纸奥尔拉,嗯！那时候，我们刚刚从以前的庄园被赶出来，没有地方去……,"Hmm! At that time, we had just been driven out of our old manor and had nowhere to go..."
+AvgDialog_22121_Content_34,ahTj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,384,AvgDialog,Content,生前奥尔拉,等等！柯蕾特……我刚才看到了门牌。这里，是伯爵夫人的花园？,Wait! Colette... I just saw the sign. Is this the Countess's garden?
+AvgDialog_22121_Content_35,ahTk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,385,AvgDialog,Content,柯蕾特,你不是说，好久没有见过花园了嘛。喏，这里就是这个片区最漂亮的花园了。,"Didn't you say you hadn't seen a garden for a long time? Well, this is the most beautiful garden in this area."
+AvgDialog_22121_Content_36,ahTl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,386,AvgDialog,Content,生前奥尔拉,柯蕾特，我们快走吧……要是被人发现，会很麻烦的！,"Colette, let's hurry... If we get caught, it will be a lot of trouble!"
+AvgDialog_22121_Content_37,ahTm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,387,AvgDialog,Content,柯蕾特,不会的。你看——,"No, it won't. Look—"
+AvgDialog_22121_Content_38,ahTn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,388,AvgDialog,Content,,她摘下一朵玫瑰，塞到了奥尔拉手里。,She picked a rose and placed it in Horla's hand.
+AvgDialog_22121_Content_39,ahTo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,389,AvgDialog,Content,生前奥尔拉,啊啊啊！柯蕾特，我们要在牢里住了……,"Ahhh! Colette, we're going to end up in prison..."
+AvgDialog_22121_Content_40,ahTq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,390,AvgDialog,Content,柯蕾特,没人会在牢里住。奥尔拉，你看那边！,"No one's going to jail. Horla, look over there!"
+AvgDialog_22121_Content_41,ahTr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,391,AvgDialog,Content,,顺着柯蕾特指的方向，奥尔拉看到了一个培育贵重玫瑰的花房。,"Following Colette's direction, Horla saw a greenhouse cultivating valuable roses."
+AvgDialog_22121_Content_42,ahTs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,392,AvgDialog,Content,,花房里放着两张床，还有她们为数不多的行李。,The flower room contained two beds and their few belongings.
+AvgDialog_22121_Content_43,ahTt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,393,AvgDialog,Content,生前奥尔拉,柯蕾特……这是？,Colette... What is this?
+AvgDialog_22121_Content_44,ahTu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,394,AvgDialog,Content,柯蕾特,我把这里租下来了。,I've rented this place.
+AvgDialog_22121_Content_45,ahTv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,395,AvgDialog,Content,生前奥尔拉,可是……你是怎么……,But... how did you...
+AvgDialog_22121_Content_46,ahTw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,396,AvgDialog,Content,,她这才注意到，柯蕾特母亲留给她的项链没有挂在她的脖子上。,She just noticed that the necklace Colette's mother had left her was no longer around her neck.
+AvgDialog_22121_Content_47,ahTx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,397,AvgDialog,Content,生前奥尔拉,柯蕾特！你……,Colette! You...
+AvgDialog_22121_Content_48,ahTy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,398,AvgDialog,Content,柯蕾特,这些都不重要，奥尔拉。重要的是，这不是什么伯爵的花园——这是我们的花园。,"Shh~ None of that matters, Horla. What matters is, this isn't some count's garden—this is <Italic:our garden.>"
+AvgDialog_22121_Content_49,ahTz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,399,AvgDialog,Content,柯蕾特,我们以后就在花园里睡觉，做饭……我会靠这块土地上长出的花，给我们买衣服，买吃的。,We'll eat and sleep in the greenhouse... I'll sell the flowers that grow on this land to buy us clothes and food.
+AvgDialog_22121_Content_50,ahTB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,400,AvgDialog,Content,柯蕾特,总有一天，就连上面那栋楼房里的房子，我也要买下来！,"One day, I'll even buy us a home in that building!"
+AvgDialog_22121_Content_51,ahTC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,401,AvgDialog,Content,生前奥尔拉,可是……我能做什么呢……,But... what can I do...?
+AvgDialog_22121_Content_52,ahTD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,402,AvgDialog,Content,生前奥尔拉,除了写一些没有人看的诗，我什么忙也帮不上……,All I can do is write poems that no one reads...
+AvgDialog_22121_Content_53,ahTE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,403,AvgDialog,Content,柯蕾特,老实说，你的那些诗我也看不懂……不过，这也不重要。你就写你想写的诗就好了。,"To be honest, I don't understand your poems either... But it doesn't matter. Just write whatever you want to write."
+AvgDialog_22121_Content_54,ahTF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,404,AvgDialog,Content,柯蕾特,每个人都有自己生来就要做的事。我生来就是要为这个花园、为那间房子努力……,Everyone has something they are born to do. I was born to strive for this garden and that house.
+AvgDialog_22121_Content_55,ahTG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,405,AvgDialog,Content,柯蕾特,而你，你生来就是要写诗的。,"And you, you were born to write poetry."
+AvgDialog_22121_Content_56,ahTH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,406,AvgDialog,Content,无纸奥尔拉,那之后，她就靠这个花园里的花养活了我们两个人。,"Since then, she supported the two of us with the flowers from this garden."
+AvgDialog_22121_Content_57,ahTI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,407,AvgDialog,Content,无纸奥尔拉,虽然非常辛苦，离买下房子也差了很远很远，但我能感觉到，那段时间，我们其实过得很开心。,"Although it was extremely tough and we were far from buying a house, we were actually quite happy during that time."
+AvgDialog_22121_Content_58,ahTJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,408,AvgDialog,Content,无纸奥尔拉,直到有一天，出版社为我的诗寄来了第一笔稿费……,"Until one day, the publisher sent me my first payment for my poems..."
+AvgDialog_22121_Content_59,ahTK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,409,AvgDialog,Content,玩家,虽然她后来把你锁在花房，又放了那把火，但你好像并不恨她。,"Although she later locked you in the greenhouse and set the fire, you don't seem to hate her."
+AvgDialog_22121_Content_60,ahTM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,410,AvgDialog,Content,无纸奥尔拉,说不上来……或许吧。我也不知道应该怎么样才好。,Hard to say... Maybe. I don't really know what to think.
+AvgDialog_22121_Content_61,ahTN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,411,AvgDialog,Content,无纸奥尔拉,我只知道，如果不是因为那些诗，这一切都不会发生……,"I only know that, if it weren't for those poems, none of this would have happened..."
+AvgDialog_22121_Content_62,ahTO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,412,AvgDialog,Content,玩家,奥尔拉……,Horla...
+AvgDialog_22121_Content_63,ahTP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,413,AvgDialog,Content,,奥尔拉脑中的画面在你眼前展开，她的哀愁似乎有实感般蔓延开，浸染着周围的一切。,"Horla's visions unfold before you. Her sorrow seems tangible, spreading and permeating everything around."
+AvgDialog_22121_Content_64,ahTQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,414,AvgDialog,Content,无纸奥尔拉,对不起！守密人%sirormadam%……我又让你难过了……,"I'm sorry! {Male=Sir,Female=Madam} Keeper... I've made you sad again..."
+AvgDialog_22121_Content_65,ahTR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,415,AvgDialog,Content,玩家,没关系，不用去克制自己的情绪。,"It's all right, don't restrain your emotions."
+AvgDialog_22121_Content_66,ahTS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,416,AvgDialog,Content,玩家,我们继续找诗集吧。,Let's continue searching for the poetry collection.
+AvgDialog_22121_Content_67,ahTT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,417,AvgDialog,Content,无纸奥尔拉,诗集就埋在那边！守密人%sirormadam%，请随我来！,"The poem is buried over there! {Male=Sir,Female=Madam} Keeper, please follow me!"
+AvgDialog_22121_Content_68,ahTU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,418,AvgDialog,Content,,你们走过花园里蜿蜒的小路，绕过那些被烧焦的木架，来到院子后方的一片空地上。,"You walked through the winding paths in the garden, circled around the burnt wooden frames, and arrived at an open space behind the yard."
+AvgDialog_22121_Content_69,ahTV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,419,AvgDialog,Content,无纸奥尔拉,我们到了！,We're here!
+AvgDialog_22121_Content_70,ahTX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,420,AvgDialog,Content,,她指着后院中间的一小块地方。四周的玫瑰已经变成了灰烬与养料，变成了如今丛生的黑色杂草。,"She points to a small spot in the middle of the backyard. The surrounding roses had turned to ash and fertilizer, now overgrown with black weeds."
+AvgDialog_22121_Content_71,ahTY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,421,AvgDialog,Content,,弥萨格的报告上说，他们是在一块被烧焦的空地上找到了奥尔拉的银芯。,The report from Mythag says they found Horla's Silver on a scorched clearing.
+AvgDialog_22121_Content_72,ahTZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,422,AvgDialog,Content,,——那是诗集的埋藏处。那是她的葬身之地。,—That is where the poem is buried. That is her final resting place.
+AvgDialog_22121_Content_73,ahUa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,423,AvgDialog,Content,无纸奥尔拉,奇怪……这个地方，有一个洞……,Strange... There's a hole here...
+AvgDialog_22121_Content_74,ahUb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,424,AvgDialog,Content,无纸奥尔拉,诗集……诗集本来应该就埋在这里的！,The poem collection... the poem collection should have been buried here!
+AvgDialog_22121_Content_75,ahUc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,425,AvgDialog,Content,老年柯蕾特？,它很多年前就不在那里了。,It hasn't been there for many years.
+AvgDialog_22121_Content_76,ahUd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,426,AvgDialog,Content,无纸奥尔拉,！！！,!!!
+AvgDialog_22121_Content_77,ahUe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,427,AvgDialog,Content,玩家,谁？！——,Who?!—
+AvgDialog_22121_Content_78,ahUf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,428,AvgDialog,Content,,有些熟悉的声音响起。你们猛然转过身。,A familiar voice sounds. You abruptly turn around.
+AvgDialog_22121_Content_79,ahUg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,429,AvgDialog,Content,,别墅的后门打开，那位轮船上遇到的贵妇人站在门口，居高临下望着你们。,"The back door of the villa opens, and the noblewoman you met on the ship stands at the entrance, looking down at you."
+AvgDialog_22121_Content_80,ahUi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,430,AvgDialog,Content,贵妇,那场大火之后，我为你办了一场盛大的葬礼。你没有办法亲眼看到，我一直觉得非常可惜。,"After the great fire, I held a grand funeral for you. It's a pity that you couldn't see it yourself."
+AvgDialog_22121_Content_81,ahUj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,431,AvgDialog,Content,贵妇,在船上见到你的时候，我很开心。我很久没有这么开心过了。,Seeing you on the ship made me happy. I haven't felt this happy in a long time.
+AvgDialog_22121_Content_82,ahUk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,432,AvgDialog,Content,贵妇,几十年了。几十年，我们终于又见面了……,"Decades... Decades, and we finally meet again..."
+AvgDialog_22121_Content_83,ahUl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,433,AvgDialog,Content,贵妇,欢迎回家，奥尔拉。,"Welcome home, Horla."
+AvgDialog_22120_Content_1,ahRg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,434,AvgDialog,Content,,小径分叉的花园,The Garden of Forking Paths
+AvgDialog_22120_Content_2,ahRr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,435,AvgDialog,Content,无纸奥尔拉,你是……柯蕾特……,You are... Colette...
+AvgDialog_22120_Content_3,ahRC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,436,AvgDialog,Content,,奥尔拉微微张着嘴，隔着一片被焚毁的花园，直直地望着那位老妇人。,"Horla slightly parts her lips, staring straight at the old woman across a burned garden."
+AvgDialog_22120_Content_4,ahRN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,437,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22120_Content_5,ahRY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,438,AvgDialog,Content,玩家,她就是……那个花匠……,She is... the florist...
+AvgDialog_22120_Content_6,ahSj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,439,AvgDialog,Content,老年柯蕾特,看到你现在还是这么年轻，真是让人高兴。,It's wonderful to see that you're still so young.
+AvgDialog_22120_Content_7,ahSu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,440,AvgDialog,Content,玩家,你是怎么看到奥尔拉的？,How did you spot Horla?
+AvgDialog_22120_Content_8,ahSF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,441,AvgDialog,Content,老年柯蕾特,我告诉过你答案了。,I've already told you the answer.
+AvgDialog_22120_Content_9,ahSH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,442,AvgDialog,Content,老年柯蕾特,在新的西岱，一切美好的东西，都应该被看见。,"In the new Cité, all things of beauty should be seen."
+AvgDialog_22120_Content_10,ahRh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,443,AvgDialog,Content,老年柯蕾特,要是连我最好的朋友都看不见，那就太让人遗憾了。,It would be a pity if even my best friend couldn't see it.
+AvgDialog_22120_Content_11,ahRi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,444,AvgDialog,Content,,隔着花园，老妇人向你们微笑。,"Across the garden, the old woman smiles at you."
+AvgDialog_22120_Content_12,ahRj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,445,AvgDialog,Content,老年柯蕾特,我的雕塑家朋友告诉我，只有拥有某种天赋的人，才能成为唤醒体。,My sculptor friend told me that only those with a certain Gift can become Awakeners.
+AvgDialog_22120_Content_13,ahRk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,446,AvgDialog,Content,老年柯蕾特,真让人嫉妒啊，奥尔拉。,"So envious, Horla."
+AvgDialog_22120_Content_14,ahRl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,447,AvgDialog,Content,,你注意到了她身上融蚀改造的痕迹，还有她身后站着的人。,You notice the traces of Dissolution on her and the person standing behind her.
+AvgDialog_22120_Content_15,ahRm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,448,AvgDialog,Content,玩家,雕塑家协会吗……看来，这里的情况是花匠和雕塑家协会的人所造成的。,The Sculptors' Association... It seems the situation here was caused by the gardener and the members of the Sculptors' Association.
+AvgDialog_22120_Content_16,ahRn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,449,AvgDialog,Content,无纸奥尔拉,那本诗集，在你手上？,Do you have that poem with you?
+AvgDialog_22120_Content_17,ahRo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,450,AvgDialog,Content,老年柯蕾特,故友的遗物，当然要好好保存了。,"The relics of an old friend must be preserved well, of course."
+AvgDialog_22120_Content_18,ahRp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,451,AvgDialog,Content,老年柯蕾特,另外，需要提醒一下，这不是你的诗集——从始至终，它都是我的。,"Also, just a reminder, this isn't your collection of poems—it has always been mine."
+AvgDialog_22120_Content_19,ahRq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,452,AvgDialog,Content,无纸奥尔拉,西岱变成这样……是你造成的，是吗？,Cité turned out like this... Was it your doing?
+AvgDialog_22120_Content_20,ahRs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,453,AvgDialog,Content,老年柯蕾特,这里，应该叫做“我的西岱”才对。,"This place should be called ""My Cité."""
+AvgDialog_22120_Content_21,ahRt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,454,AvgDialog,Content,老年柯蕾特,还记得吗，曾经我们最大的梦想，不过是要买下一间房。,Do you remember? Our greatest dream used to be simply buying a house.
+AvgDialog_22120_Content_22,ahRu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,455,AvgDialog,Content,老年柯蕾特,可如今呢？诗歌，子民，土地……还有我们一直梦想着的这栋楼。,"What about now? The poetry, the people, the land... and the building we've always dreamed of."
+AvgDialog_22120_Content_23,ahRv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,456,AvgDialog,Content,老年柯蕾特,看哪，亲爱的奥尔拉。如今，整个西岱都是我的。,"Look, dear Horla. Now, all of Cité is mine."
+AvgDialog_22120_Content_24,ahRw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,457,AvgDialog,Content,无纸奥尔拉,柯蕾特，这个疑问困扰了我很多很多年……,"Colette, this question has puzzled me for many, many years..."
+AvgDialog_22120_Content_25,ahRx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,458,AvgDialog,Content,,奥尔拉的手指紧张地绞在一起。她抬起头，盈盈的眼睛盯着柯蕾特。,"Horla's fingers nervously twist together. She looks up, her bright eyes fixed on Colette."
+AvgDialog_22120_Content_26,ahRy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,459,AvgDialog,Content,无纸奥尔拉,你为什么要做这些事……你为什么会变成现在这个样子……,Why are you doing these things... Why have you changed into what you are now...
+AvgDialog_22120_Content_27,ahRz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,460,AvgDialog,Content,,柯蕾特笑着摇了摇头。,Colette smiled and shook her head.
+AvgDialog_22120_Content_28,ahRA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,461,AvgDialog,Content,老年柯蕾特,你是那么的聪明，就算没有出过门，也能写出那些美丽的诗来。可对于人，你真是一点也不了解……,"You are so clever that you can write beautiful poems without ever leaving your house. But when it comes to people, you truly understand nothing about them..."
+AvgDialog_22120_Content_29,ahRB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,462,AvgDialog,Content,老年柯蕾特,我从来没有变过，奥尔拉。,"I have never changed, Horla."
+AvgDialog_22120_Content_30,ahRD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,463,AvgDialog,Content,无纸奥尔拉,不……不可能……你以前明明……,No... impossible... you once clearly...
+AvgDialog_22120_Content_31,ahRE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,464,AvgDialog,Content,老年柯蕾特,有些时候，我真的很嫉妒你。嫉妒你的才华，你的天赋，也嫉妒你的天真。,"Sometimes, I really envy you. I envy your talent, your gifts, and even your innocence."
+AvgDialog_22120_Content_32,ahRF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,465,AvgDialog,Content,老年柯蕾特,可是凭什么呢……凭什么，你可以天真地活着呢？,But why... why do you get to live so innocently?
+AvgDialog_22120_Content_33,ahRG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,466,AvgDialog,Content,老年柯蕾特,——奥尔拉，像我们这样的人，是没有天真的权利的。,"—Horla, people like us don't have the luxury of innocence."
+AvgDialog_22120_Content_34,ahRH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,467,AvgDialog,Content,无纸奥尔拉,不是这样的，柯蕾特……,"It's not like that, Colette..."
+AvgDialog_22120_Content_35,ahRI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,468,AvgDialog,Content,无纸奥尔拉,过去的那些事情，我一点都不在意。请把诗集还给我们，让西岱恢复正常……,I don't care about those things from the past at all. Please return our Poem and restore Cité to normal...
+AvgDialog_22120_Content_36,ahRJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,469,AvgDialog,Content,老年柯蕾特,你不在意？,Don't you care?
+AvgDialog_22120_Content_37,ahRK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,470,AvgDialog,Content,,像是听见一个滑稽的笑话，柯蕾特大声笑着，几乎连腰都直不起来。,"Hearing a funny joke, Colette laughed loudly, nearly unable to straighten her back."
+AvgDialog_22120_Content_38,ahRL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,471,AvgDialog,Content,老年柯蕾特,你不在意……你有什么资格不在意呢？,You don't care... What gives you the right to be indifferent?
+AvgDialog_22120_Content_39,ahRM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,472,AvgDialog,Content,老年柯蕾特,收起你的怜悯吧，奥尔拉。你从来没有明白过我。你什么都不明白。,"Save your pity, Horla. You never understood me. You understand nothing."
+AvgDialog_22120_Content_40,ahRO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,473,AvgDialog,Content,,她站起身，恢复了优雅的仪态，冲身旁的人点了点头。,"She stood up, regained her graceful composure, and nodded to the person beside her."
+AvgDialog_22120_Content_41,ahRP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,474,AvgDialog,Content,老年柯蕾特,仪式今晚就要开始。这里的事情，就麻烦你了。,The ritual begins tonight. I'll leave things here in your hands.
+AvgDialog_22120_Content_42,ahRQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,475,AvgDialog,Content,玩家,仪式？你是想做什么？！,Ritual? What are you trying to do?!
+AvgDialog_22120_Content_43,ahRR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,476,AvgDialog,Content,,柯蕾特没有理会你，整理了一下衣着，走入楼中。,"Colette ignores you, adjusts her clothing, and walks into the building."
+AvgDialog_22120_Content_44,ahRS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,477,AvgDialog,Content,玩家,等等！,Wait!
+AvgDialog_22120_Content_45,ahRT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,478,AvgDialog,Content,,你想要追上去，但眼前的楼突然一下消失，出现在你的身后。,"You try to chase after her, but the building suddenly vanishes and reappears behind you."
+AvgDialog_22120_Content_46,ahRU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,479,AvgDialog,Content,,你发现，花园的结构整个颠倒了过来，如同一个会动的活物。,"You discover that the garden's structure was completely inverted, like a living creature."
+AvgDialog_22120_Content_47,ahRV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,480,AvgDialog,Content,玩家,这个花园的结构，似乎出现了变化？,Has the structure of this garden changed?
+AvgDialog_22120_Content_48,ahRW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,481,AvgDialog,Content,无纸奥尔拉,我在诗集中有写过拥有生命的花园……可是，诗里面的花园不是这样子的……,I wrote about a garden of life in my poetry... but the garden in the poems isn't like this...
+AvgDialog_22120_Content_49,ahRX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,482,AvgDialog,Content,玩家,诗集在花匠手里，这里的结构应该是被她篡改过的……,The poem is in the hands of the gardener; she must have altered the structure here...
+AvgDialog_22120_Content_50,ahRZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,483,AvgDialog,Content,玩家,现在还不清楚这个地方到底是怎么形成的。不过看起来想要找到她，恐怕是有些麻烦了。,"It's still unclear how this place was formed. However, it seems that finding her may prove quite troublesome."
+AvgDialog_22120_Content_51,ahSa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,484,AvgDialog,Content,玩家,我们快追上去！,Let's hurry and chase after them!
+AvgDialog_22120_Content_52,ahSb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,485,AvgDialog,Content,,你带着奥尔拉接近大楼，正准备闯进去的时候，奥尔拉发出一声惊呼。,"Approaching the building with Horla, you suddenly hear her gasp."
+AvgDialog_22120_Content_53,ahSc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,486,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，您看这是什么？,"{Male=Sir,Female=Madam} Keeper, what do you see here?"
+AvgDialog_22120_Content_54,ahSd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,487,AvgDialog,Content,,奥尔拉指着台阶。在他们刚才停留的位置，落着一个白色的小信封。,Horla points to the steps. A small white envelope lies where they just stood.
+AvgDialog_22120_Content_55,ahSe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,488,AvgDialog,Content,,你拾起信，将它拆开。,You pick up the letter and open it.
+AvgDialog_22120_Content_56,ahSf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,489,AvgDialog,Content,玩家,“赫伯特先生敬启——柯蕾特”……,"""To Mr. Herbert — Colette""..."
+AvgDialog_22120_Content_57,ahSg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,490,AvgDialog,Content,,咔嗒——,Click—
+AvgDialog_22120_Content_58,ahSh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,491,AvgDialog,Content,,听到客厅门打开的声音，男子并没有回身，仍然饶有兴致望着窗外。,"Hearing the living room door open, the man didn't turn around and continued to gaze out the window with great interest."
+AvgDialog_22120_Content_59,ahSi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,492,AvgDialog,Content,赫伯特,真是座美丽的花园啊，柯蕾特女士。,"What a beautiful garden, Ms. Colette."
+AvgDialog_22120_Content_60,ahSk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,493,AvgDialog,Content,赫伯特,您的宅邸，尊贵得令人羡慕。,Your mansion is enviably prestigious.
+AvgDialog_22120_Content_61,ahSl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,494,AvgDialog,Content,老年柯蕾特,多亏了赫伯特先生。要是没有您的帮助，我早就已经因为融蚀而死去了。,"Only thanks to Mr. Herbert. Without your help, I would have died from Dissolution."
+AvgDialog_22120_Content_62,ahSm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,495,AvgDialog,Content,老年柯蕾特,更不要说，还能拥有比以前更多的东西……,"Not to mention, you can have even more than before..."
+AvgDialog_22120_Content_63,ahSn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,496,AvgDialog,Content,赫伯特,各取所需。我需要您帮忙，验证密境与现实世界统一的可能性。,Each party gets what they need. I need your help to verify the possibility of unifying the Domain with the real world.
+AvgDialog_22120_Content_64,ahSo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,497,AvgDialog,Content,赫伯特,被融蚀的诗集，竟能产生如此特殊的密境。被融蚀的诗句，竟能干扰到现实的物体……,The dissolved poem produced such a unique domain. Even the dissolved verses could disturb real objects.
+AvgDialog_22120_Content_65,ahSp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,498,AvgDialog,Content,赫伯特,就连弥萨格，也找不出几个这样有趣的研究。,Not even Mythag can find many research projects this interesting.
+AvgDialog_22120_Content_66,ahSq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,499,AvgDialog,Content,老年柯蕾特,如果能一直活在虚假中，那就不存在虚假了。,"If one can always live in falsehood, then falsehood ceases to exist."
+AvgDialog_22120_Content_67,ahSr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,500,AvgDialog,Content,赫伯特,您的智慧让人惊叹，夫人。,"Your wisdom is truly astonishing, madam."
+AvgDialog_22120_Content_68,ahSs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,501,AvgDialog,Content,赫伯特,我们的仪式准备得如何了？,How is our ritual preparation coming along?
+AvgDialog_22120_Content_69,ahSt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,502,AvgDialog,Content,老年柯蕾特,就快了……按照您的吩咐，仪式将在下个月开始。,"Almost there... As per your instructions, the ritual will begin next month."
+AvgDialog_22120_Content_70,ahSv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,503,AvgDialog,Content,老年柯蕾特,照您的说法，到那时候，诗集的融蚀将会扩散，甚至可能会影响到整个西岱？,"According to your statement, by that time, the dissolution of the poem will spread and may even affect the entirety of Cité?"
+AvgDialog_22120_Content_71,ahSw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,504,AvgDialog,Content,赫伯特,我不记得您是一个关心道德的人。,I don't remember you being someone who cares about morals.
+AvgDialog_22120_Content_72,ahSx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,505,AvgDialog,Content,老年柯蕾特,当然。但我关心我所拥有的东西……到那时候，我的密境会受到影响吗？,Of course. But I care about what I have... Will my Domain still be stable by then?
+AvgDialog_22120_Content_73,ahSy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,506,AvgDialog,Content,赫伯特,呵呵……请您放心，夫人。密境的形成，与融蚀息息相关。融蚀越强，您的密境越稳定。,"Heh... Rest assured, ma'am. The formation of the Domain is closely related to Dissolution. The stronger the Dissolution, the more stable your Domain."
+AvgDialog_22120_Content_74,ahSz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,507,AvgDialog,Content,赫伯特,密境现在能覆盖的地方还不大，等到仪式完成，它将会扩散到西岱全境。,"The Domain's coverage is still limited. Once the ritual is complete, it will spread across all of Cité."
+AvgDialog_22120_Content_75,ahSA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,508,AvgDialog,Content,赫伯特,到那个时候，整个西岱的权力与财富，都将是您的。,"By then, all the power and wealth in Cité will be yours."
+AvgDialog_22120_Content_76,ahSB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,509,AvgDialog,Content,赫伯特,“柯蕾特”，胜利……您从来都是赢家。不是吗？,"An inexorable victory. Ah, Colette... haven't you always been a winner?"
+AvgDialog_22120_Content_77,ahSC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,510,AvgDialog,Content,,花匠走到窗边，看着她的花园。,The florist walked to the window and looked at her garden.
+AvgDialog_22120_Content_78,ahSD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,511,AvgDialog,Content,,她尽力保持贵族般得体的微笑，但手中的红酒杯不受控地颤抖。,"She tried to maintain a dignified noble smile, but the wine glass in her hand trembled uncontrollably."
+AvgDialog_22120_Content_79,ahSE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,512,AvgDialog,Content,,贵妇人的脸倒映在摇晃的酒杯上，如同某种溃烂的创口。,"The noblewoman's face was reflected in the swaying wine glass, like a festering wound."
+AvgDialog_22120_Content_80,ahSG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,513,AvgDialog,Content,老年柯蕾特,我们都会是赢家，赫伯特先生。,"<Italic:We will all be winners, Mr. Herbert.>"
+AvgDialog_22133_Content_1,aifK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,514,AvgDialog,Content,,雕像修辞学,Statue Rhetoric
+AvgDialog_22133_Content_2,aifV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,515,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，诗中世界……消失了？,"{Male=Sir,Female=Madam} Keeper, has the poetic world... disappeared?"
+AvgDialog_22133_Content_3,aigg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,516,AvgDialog,Content,玩家,你看门外。,Look back outside.
+AvgDialog_22133_Content_4,aigr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,517,AvgDialog,Content,,奥尔拉回头向外望去。,Horla looks outside the door.
+AvgDialog_22133_Content_5,aigC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,518,AvgDialog,Content,,门外的花园依然保留着诗中世界的样子，但室内的世界和真实的世界一模一样，看不到半点密境的痕迹。,"The garden outside still retains the appearance of the world described in poetry, but the indoor world is identical to the real world, with no trace of the Domain."
+AvgDialog_22133_Content_6,aigN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,519,AvgDialog,Content,玩家,这里应该是现实中的西岱。看来我们是通过了现实和密境的某个连接点。,This should be the real Cité. It seems we've passed through a Link point between reality and the Domain.
+AvgDialog_22133_Content_7,aigY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,520,AvgDialog,Content,玩家,不管是什么地方，都必须找到柯蕾特，夺回诗集……,"Wherever it is, we must find Colette and retrieve the poem..."
+AvgDialog_22133_Content_8,aihi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,521,AvgDialog,Content,,咚咚咚——,Knock knock knock—
+AvgDialog_22133_Content_9,aihj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,522,AvgDialog,Content,,地板发出强烈的震动，你迅速拉起奥尔拉，躲在了一个房门背后。,The floor shakes violently. You quickly pull Horla and hide behind a door.
+AvgDialog_22133_Content_10,aifL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,523,AvgDialog,Content,诗中怪物,帮助柯蕾特女士！抓住入侵者！快搜！,"Help Ms. Colette! Catch the intruder! Quick, search!"
+AvgDialog_22133_Content_11,aifM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,524,AvgDialog,Content,,一群形状各异的怪物跑进楼中，从离你们不远的地方冲了过去。,"A group of monsters with varied shapes rush into the building, passing by not far from you."
+AvgDialog_22133_Content_12,aifN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,525,AvgDialog,Content,玩家,诗中世界的怪物也入侵到现实世界来了……,Monsters from the world of poetry have invaded the real world...
+AvgDialog_22133_Content_13,aifO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,526,AvgDialog,Content,玩家,他们的仪式就快开始了，我们动作得快点。,Their ceremony is about to begin. We need to hurry.
+AvgDialog_22133_Content_14,aifP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,527,AvgDialog,Content,,你探出头去望了望，怪物暂时跑开，你拉起奥尔拉，迅速跑上楼梯。,"Peering out, you see the monster went somewhere else. You grab Horla and quickly run upstairs."
+AvgDialog_22133_Content_15,aifQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,528,AvgDialog,Content,玩家,奥尔拉，我们顺着楼梯上去，找到……咦？,"Horla, let's go up the stairs and find... huh?"
+AvgDialog_22133_Content_16,aifR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,529,AvgDialog,Content,,你们顺着楼梯往上走，却发现楼梯并没有将你们带往上一层，直接中断在了一半。,"You climb the stairs, only to find that they don't lead to the upper floor and end abruptly halfway up."
+AvgDialog_22133_Content_17,aifS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,530,AvgDialog,Content,玩家,这个……是怎么回事……,This... What's going on...
+AvgDialog_22133_Content_18,aifT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,531,AvgDialog,Content,无纸奥尔拉,我以前写过一首诗，里面有写到一个中断在一半的楼梯，它就像我们的充满意外和艰辛的生命。,"I once wrote a poem about a staircase that breaks off halfway, much like our lives filled with unexpected twists and hardships."
+AvgDialog_22133_Content_19,aifU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,532,AvgDialog,Content,无纸奥尔拉,可是，这里明明不是我诗中的世界，怎么会……,"But this is clearly not the world of my poem, how could it be..."
+AvgDialog_22133_Content_20,aifW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,533,AvgDialog,Content,无纸奥尔拉,啊！我明白了！,Ah! I see!
+AvgDialog_22133_Content_21,aifX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,534,AvgDialog,Content,,奥尔拉猛地抬起头，兴奋得忍不住跳了跳。,"Horla suddenly lifts her head, too excited to stop herself from jumping."
+AvgDialog_22133_Content_22,aifY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,535,AvgDialog,Content,无纸奥尔拉,是柯蕾特！这个地方对我们来说都很重要……是她专门把这里保留了下来，按照诗里描述的样子做了改造！,It's Colette! This place is important to us... She specifically preserved it and remodeled it according to the description in the poem!
+AvgDialog_22133_Content_23,aifZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,536,AvgDialog,Content,无纸奥尔拉,我就知道，守密人！柯蕾特不是那样的人！,"I knew it, Keeper! Colette isn't that kind of person!"
+AvgDialog_22133_Content_24,aiga,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,537,AvgDialog,Content,,这是你第一次看到奥尔拉如此欣喜的样子。你深深呼出一口气。,This is the first time you've seen Horla so delighted. You exhale deeply.
+AvgDialog_22133_Content_25,aigb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,538,AvgDialog,Content,,你不忍心打破她的幻想，轻轻拍了拍她的肩膀。,"Not wanting to shatter her illusion, you gently patted her on the shoulder."
+AvgDialog_22133_Content_26,aigc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,539,AvgDialog,Content,玩家,或许吧……你熟悉这里，后面就交给你来带路，怎么样？,Maybe... You're familiar with this place. How about letting you take the lead?
+AvgDialog_22133_Content_27,aigd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,540,AvgDialog,Content,无纸奥尔拉,嗯！,Hmm!
+AvgDialog_22133_Content_28,aige,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,541,AvgDialog,Content,,在奥尔拉的带领下，你们避开怪物的搜索，继续往前走。,"Led by Horla, you evade the monsters' search and continue moving forward."
+AvgDialog_22133_Content_29,aigf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,542,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，前面就是……,"{Male=Sir,Female=Madam} Keeper, up ahead is..."
+AvgDialog_22133_Content_30,aigh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,543,AvgDialog,Content,玩家,嘘！,Shh!
+AvgDialog_22133_Content_31,aigi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,544,AvgDialog,Content,,你一把捂住奥尔拉的嘴，把她拉到墙的拐角边。,You quickly cover Horla's mouth and pull her to the corner of the wall.
+AvgDialog_22133_Content_32,aigj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,545,AvgDialog,Content,怪物A,我们守在这里是要干什么来着？,What are we supposed to be doing here?
+AvgDialog_22133_Content_33,aigk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,546,AvgDialog,Content,怪物B,蠢货！柯蕾特夫人让我们守在这里，是因为……是因为……,Fool! Lady Colette ordered us to guard this place because... because...
+AvgDialog_22133_Content_34,aigl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,547,AvgDialog,Content,怪物B,……总之是柯蕾特夫人让我们守在这里！,"...In short, Lady Colette ordered us to stand guard here!"
+AvgDialog_22133_Content_35,aigm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,548,AvgDialog,Content,怪物A,我们已经守了这么久了，什么都没看到。待会儿会不会赶不上庆典仪式了？,We've been keeping watch for so long and haven't seen anything. Won't we miss the ceremony?
+AvgDialog_22133_Content_36,aign,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,549,AvgDialog,Content,怪物B,不会，钟声都还没有敲响呢。钟声敲响以前，我们哪都不能去！,"No, the bell hasn't rung yet. We can't go anywhere until it rings!"
+AvgDialog_22133_Content_37,aigo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,550,AvgDialog,Content,怪物A,真是期待啊，能够亲眼目睹柯蕾特夫人的现场创作……,I'm truly looking forward to witnessing Madam Colette's live creation...
+AvgDialog_22133_Content_38,aigp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,551,AvgDialog,Content,怪物B,柯蕾特夫人的现场创作，每年只有一次。做好准备，士兵。我们待会儿可是要跟整个西岱的人抢位置！,"Madam Colette's live performance happens only once a year. Get ready, soldiers. We'll be competing with all of Cité for seats!"
+AvgDialog_22133_Content_39,aigq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,552,AvgDialog,Content,怪物A,那我们为什么不现在过去呢？,Why don't we head over now?
+AvgDialog_22133_Content_40,aigs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,553,AvgDialog,Content,怪物B,……因为我们要守在这里。,...because we need to stay here.
+AvgDialog_22133_Content_41,aigt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,554,AvgDialog,Content,怪物A,所以……我们守在这里是要干什么来着？,So... what exactly are we doing here?
+AvgDialog_22133_Content_42,aigu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,555,AvgDialog,Content,怪物B,蠢货！是柯蕾特夫人让我们守在这里！！！,Fool! Madam Colette ordered us to guard this place!
+AvgDialog_22133_Content_43,aigv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,556,AvgDialog,Content,玩家,这两个家伙看起来不是很聪明的样子……,These two don't seem very smart...
+AvgDialog_22133_Content_44,aigw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,557,AvgDialog,Content,玩家,这里没有其他的路，奥尔拉，做好准备，清理掉他们。,"There is no other way, Horla. Get ready to clear them out."
+AvgDialog_22133_Content_45,aigx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,558,AvgDialog,Content,,奥尔拉对你点了点头。你握住银钥匙，奥尔拉拿出纸与笔。,"Horla nods at you. You hold the silver key, and Horla takes out paper and a pen."
+AvgDialog_22133_Content_46,aigy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,559,AvgDialog,Content,怪物们,啊！！——,Ah!!—
+AvgDialog_22133_Content_47,aigz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,560,AvgDialog,Content,,伴随着银色的光芒，几道漂亮的字迹从空中划过，刻入怪物们的体内。两只怪物陷入了沉睡。,"Accompanied by silver light, elegant script appears in the air, inscribing itself into the monsters. The two monsters fall into a deep sleep."
+AvgDialog_22133_Content_48,aigA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,561,AvgDialog,Content,,击败怪物后，你们躲进了他们身后的房间。,"After defeating the monsters, you hid in the room behind them."
+AvgDialog_22133_Content_49,aigB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,562,AvgDialog,Content,玩家,看上去像是个杂物间……这里应该暂时安全了。,Looks like a storage room... It should be safe here for now.
+AvgDialog_22133_Content_50,aigD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,563,AvgDialog,Content,玩家,我们可以在这里歇一歇，然后再找到柯蕾特…… 奥尔拉？你的神色好像不太对？,We can rest here and then find Colette... Horla? You don't look well.
+AvgDialog_22133_Content_51,aigE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,564,AvgDialog,Content,无纸奥尔拉,啊……有吗？,Ah... Is that so?
+AvgDialog_22133_Content_52,aigF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,565,AvgDialog,Content,玩家,你刚才皱着眉头，是在思考什么吗？,"Were you frowning just now, thinking about something?"
+AvgDialog_22133_Content_53,aigG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,566,AvgDialog,Content,无纸奥尔拉,噢……守密人%sirormadam%，我在想刚才那两个怪物的谈话……,"Oh... {Male=Sir,Female=Madam} Keeper, I was thinking about the conversation between those two monsters earlier..."
+AvgDialog_22133_Content_54,aigH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,567,AvgDialog,Content,无纸奥尔拉,之前偷听的时候我就觉得很熟悉，直到刚刚才终于想起来……,"When I was eavesdropping earlier, it felt so familiar... I just now finally remembered."
+AvgDialog_22133_Content_55,aigI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,568,AvgDialog,Content,无纸奥尔拉,在那本诗集里，我写过一首诗，是关于诗之城雕像的。,"In that poetry collection, I wrote a poem about the statue in the City of Poems."
+AvgDialog_22133_Content_56,aigJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,569,AvgDialog,Content,无纸奥尔拉,诗之城是一个以诗歌为食物的城邦，这个城邦没有国王，他们的信仰是一块雕像。,Poetry City is a city-state that feeds on poetry. It has no king; their faith lies in a statue.
+AvgDialog_22133_Content_57,aigK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,570,AvgDialog,Content,无纸奥尔拉,每年的庆典日，当钟楼的钟声敲响，雕像就会活过来，为这座城市的人写一首诗歌。,"Each year on the festival day, when the clock tower chimes, the statue comes to life and writes a poem for the people of the city."
+AvgDialog_22133_Content_58,aigL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,571,AvgDialog,Content,无纸奥尔拉,它的诗歌非常优美，可以供这一整座城市的人生存一整年。,Its poetry is so beautiful that it can sustain the entire city for a whole year.
+AvgDialog_22133_Content_59,aigM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,572,AvgDialog,Content,无纸奥尔拉,所以每年的庆典日，人们都会聚集在雕像所在的广场，聆听这座雕像现场创作出的诗……,"Every year on the festival day, people gather at the square where the statue stands to listen to the poems it creates live..."
+AvgDialog_22133_Content_60,aigO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,573,AvgDialog,Content,玩家,我明白了。柯蕾特是将那块雕像的意象窜改成了她自己……,I see. Colette altered the statue's image into her own...
+AvgDialog_22133_Content_61,aigP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,574,AvgDialog,Content,玩家,那个钟楼是在哪里？,Where is the clock tower?
+AvgDialog_22133_Content_62,aigQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,575,AvgDialog,Content,无纸奥尔拉,写诗的时候，我不太清楚外面的世界是什么样……所以那个钟楼，就是以这栋楼旁边的钟楼为原型的。,"When I was writing poetry, I had no idea what the outside world was like... So that clock tower was modeled after the one next to this building."
+AvgDialog_22133_Content_63,aigR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,576,AvgDialog,Content,无纸奥尔拉,两栋楼连在一起，从一座廊桥上就能过去。,"The two buildings are connected, and you can cross over via a covered bridge."
+AvgDialog_22133_Content_64,aigS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,577,AvgDialog,Content,玩家,……奥尔拉，你能猜到柯蕾特把诗集放在哪里吗？,"...Horla, can you guess where Colette hid the poem?"
+AvgDialog_22133_Content_65,aigT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,578,AvgDialog,Content,无纸奥尔拉,应该……可以吧……,It should... be okay... right...?
+AvgDialog_22133_Content_66,aigU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,579,AvgDialog,Content,无纸奥尔拉,这栋楼里有一个非常豪华的房间，是伯爵夫人的财产，她一年会偶尔来住一两次，平时就只是让女佣来定时打扫。,"There is an extremely luxurious room in this building, belonging to the Countess. She stays here once or twice a year on occasion, while the maid regularly cleans it in her absence."
+AvgDialog_22133_Content_67,aigV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,580,AvgDialog,Content,无纸奥尔拉,柯蕾特非常喜欢那个房间，甚至还带我偷偷溜进去看过。她说，等她赚到了钱，一定在那个房间里生活。,"Colette loved that room and even snuck me in to see it. She said that once she made some money, she would definitely live in that room."
+AvgDialog_22133_Content_68,aigW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,581,AvgDialog,Content,无纸奥尔拉,我想，她和那本诗集，应该都会在那里。,I think she and the poetry collection will both be there.
+AvgDialog_22133_Content_69,aigX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,582,AvgDialog,Content,玩家,原来如此……我有办法了！,I see... I have a solution!
+AvgDialog_22133_Content_70,aigZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,583,AvgDialog,Content,无纸奥尔拉,是去柯蕾特的房间把诗集抢过来吗？可是这里的怪物很多……,Are you going to Colette's room to grab the poem? But there are many monsters here...
+AvgDialog_22133_Content_71,aiha,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,584,AvgDialog,Content,玩家,没错，这里怪物很多，我们恐怕处理不了。,"Yes, there are many monsters here; we probably won't be able to handle them."
+AvgDialog_22133_Content_72,aihb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,585,AvgDialog,Content,玩家,所以，我们先把他们引开，再去她的房间拿诗集。,"So, we'll distract them first, then go to her room to get the poem."
+AvgDialog_22133_Content_73,aihc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,586,AvgDialog,Content,无纸奥尔拉,可是他们现在那么戒备……我们要用什么把他们引开呢？,But they're so alert now... what can we use to distract them?
+AvgDialog_22133_Content_74,aihd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,587,AvgDialog,Content,玩家,用钟楼。,Use the clock tower.
+AvgDialog_22133_Content_75,aihe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,588,AvgDialog,Content,无纸奥尔拉,钟楼？……啊！我明白了！,Clock tower? ... Ah! I understand!
+AvgDialog_22133_Content_76,aihf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,589,AvgDialog,Content,无纸奥尔拉,我们去钟楼提前敲响钟声，这样，怪物们就会聚集到广场上，不会有人再来阻拦我们了！,"Let's ring the bell at the clock tower early. This way, the monsters will gather in the square, and no one will stop us!"
+AvgDialog_22133_Content_77,aihg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,590,AvgDialog,Content,玩家,没错。柯蕾特要去准备开始她的表演，身上没有地方装这么厚的诗集，大概率会放在房间里保险的地方。,Exactly. Colette needs to prepare for her performance. She won't carry such a thick poetry collection; it will likely be kept somewhere safe in her room.
+AvgDialog_22133_Content_78,aihh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,591,AvgDialog,Content,玩家,利用这个时间差，我们去她的房间，毁掉那本诗集！,Use this time gap to go to her room and destroy that poetry collection!
+AvgDialog_22132_Content_1,aidg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,592,AvgDialog,Content,,花园挽歌,Garden Elegy
+AvgDialog_22132_Content_2,aiea,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,593,AvgDialog,Content,好心的邻居,救火！快救火啊！,"Fire! Quick, put it out!"
+AvgDialog_22132_Content_3,aiel,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,594,AvgDialog,Content,悲伤的邻居,来不及了……花园里的东西，什么都不剩了……,It's too late... Nothing remains of the garden...
+AvgDialog_22132_Content_4,aiew,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,595,AvgDialog,Content,悲伤的邻居,人都救出来了吗？,Has everyone been rescued?
+AvgDialog_22132_Content_5,aieH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,596,AvgDialog,Content,好心的邻居,大部分都救出来了……有一个，还在花房里……,"Most of them, yes... But one is still in the greenhouse..."
+AvgDialog_22132_Content_6,aieS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,597,AvgDialog,Content,悲伤的邻居,真是可怜啊……两个孩子，生活刚刚有了些起色。,"How pitiful... Two children, just as life was beginning to improve."
+AvgDialog_22132_Content_7,aifd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,598,AvgDialog,Content,好心的邻居,柯蕾特，柯蕾特……你也不要太伤心了。,"Colette, Colette... don't be too sad."
+AvgDialog_22132_Content_8,aifo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,599,AvgDialog,Content,,火是在一瞬间燃起来的。或许是因为高温，或许是因为老爷们的烟头，或许是因为别的什么。,"The fire ignited in an instant. Perhaps it was due to the high temperature, an old man's cigarette butt, or something else."
+AvgDialog_22132_Content_9,aifz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,600,AvgDialog,Content,,火焰在满是枯草的花园中升腾，包围了花房，在人们还没有反应过来的时候，便已经平息。,"Flames rose in the garden filled with dry grass, engulfing the greenhouse. Before people could react, it had already subsided."
+AvgDialog_22132_Content_10,aidh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,601,AvgDialog,Content,好心的邻居,可怜的孩子……你和奥尔拉就像是亲姐妹一样……,Poor child... you and Horla are like sisters...
+AvgDialog_22132_Content_11,aids,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,602,AvgDialog,Content,好心的邻居,奥尔拉已经不在了，你要好好活下去。她的在天之灵，也会祝福你的……,Horla is gone. You must live well. Her spirit will bless you...
+AvgDialog_22132_Content_12,aidD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,603,AvgDialog,Content,好心的邻居,不要让她伤心……柯蕾特，好好活下去。,"Don't let her be sad... Colette, live a good life."
+AvgDialog_22132_Content_13,aidO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,604,AvgDialog,Content,,刚开始的时候，有很多人来安慰。慢慢的，周围的人都散去了，将时间留给了她自己。,"At first, many people came to comfort her. Gradually, everyone drifted away, leaving her alone with her thoughts."
+AvgDialog_22132_Content_14,aidU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,605,AvgDialog,Content,,柯蕾特站在自己苦心经营的花房的灰烬旁，一动不动，任凭余焰炙烤着她的脸。,"Colette stood motionless beside the ashes of her painstakingly maintained conservatory, letting the embers scorch her face."
+AvgDialog_22132_Content_15,aidV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,606,AvgDialog,Content,,一滴眼泪从她的脸上滑落，很快蒸发在火焰的余温里。,"A tear slid down her face, quickly evaporating in the lingering warmth of the flames."
+AvgDialog_22132_Content_16,aidW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,607,AvgDialog,Content,柯蕾特,奥尔拉，他们说的对……你会祝福我的。你不会恨我。,"Horla, they were right... You will bless me. You won't hate me."
+AvgDialog_22132_Content_17,aidX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,608,AvgDialog,Content,柯蕾特,不会恨我夺走了你的一切。你的才华，你的生命……即使是这样，你也不会恨我。,"You won't hate me for taking everything from you—your talent, your life... Even so, you still won't hate me."
+AvgDialog_22132_Content_18,aidY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,609,AvgDialog,Content,柯蕾特,你是那样善良、高尚。所有人在你面前，都是庸俗、卑劣的。,"You are so kind and noble. In your presence, everyone else appears vulgar and petty."
+AvgDialog_22132_Content_19,aidZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,610,AvgDialog,Content,柯蕾特,我活得已经很努力了……可是和你比起来，我为什么永远都只能做那个卑劣的人呢？,"I've tried so hard to live... But compared to you, why am I always the contemptible one?"
+AvgDialog_22132_Content_20,aieb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,611,AvgDialog,Content,柯蕾特,真是残忍啊，奥尔拉。你连任何一个恨你的理由都不给我。你就非要让我在痛苦里度过自己的余生……,"So cruel, Horla. You don't give me a single reason to hate you. You force me to live out my remaining days in pain..."
+AvgDialog_22132_Content_21,aiec,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,612,AvgDialog,Content,,一阵啜泣。柯蕾特抹去脸上的泪水。灰烬被涂抹开，胡乱地装点在她的脸上。,"A sob. Colette wipes away her tears. Ash smears across her face, decorating it haphazardly."
+AvgDialog_22132_Content_22,aied,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,613,AvgDialog,Content,,她学着一个贵族的样子，骄傲地抬起头，冲着已化作余焰与灰烬的花园微笑。,"She imitated a noble, proudly raising her head and smiling at the garden now reduced to embers and ashes."
+AvgDialog_22132_Content_23,aiee,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,614,AvgDialog,Content,柯蕾特,……那么，再见了，奥尔拉。,"...Goodbye, then, Horla."
+AvgDialog_22132_Content_24,aief,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,615,AvgDialog,Content,,啪嗒——,Plop—
+AvgDialog_22132_Content_25,aieg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,616,AvgDialog,Content,,一滴泪水滑落在诗集上，在房间中发出清晰的声响。,"A tear falls on the poem collection, producing a clear sound in the room."
+AvgDialog_22132_Content_26,aieh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,617,AvgDialog,Content,老年柯蕾特,我已经很多很多年没有这样了……奥尔拉，你还真是像以前一样，充满了惊喜。,"It's been many, many years since I've felt this way... Horla, you're still just as full of surprises as before."
+AvgDialog_22132_Content_27,aiei,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,618,AvgDialog,Content,老年柯蕾特,你说，你为什么没有在诗集里留下你自己的形象呢？,"You ask, why didn't you leave your own image in the poem?"
+AvgDialog_22132_Content_28,aiej,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,619,AvgDialog,Content,老年柯蕾特,要见你一面，真是不容易……可惜了。,It was truly difficult seeing you again... What a pity.
+AvgDialog_22132_Content_29,aiek,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,620,AvgDialog,Content,侍卫,柯蕾特女士，午夜的钟声快要敲响了，请您早做准备。,"Lady Colette, the midnight bell is about to toll. Please make preparations."
+AvgDialog_22132_Content_30,aiem,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,621,AvgDialog,Content,老年柯蕾特,嗯，知道了。,"Hmm, understood."
+AvgDialog_22132_Content_31,aien,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,622,AvgDialog,Content,,她坐在镜子前，侍女拿出手绢，仔细地为她擦去脸上的泪痕。,She sits in front of the mirror while the maid carefully wipes away her tears with a handkerchief.
+AvgDialog_22132_Content_32,aieo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,623,AvgDialog,Content,老年柯蕾特,今天是个大日子，连最好的观众都已经入场了……今天的妆，可不能弄花了。,Today is a big day. Even the best audience has arrived... The makeup must not be ruined today.
+AvgDialog_22132_Content_33,aiep,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,624,AvgDialog,Content,,她认真地打量着镜子里的自己，牵动嘴角，露出一个贵族般的、胜利者的微笑。,"She gazes intently at herself in the mirror, curling her lips into a smile befitting nobility and victory."
+AvgDialog_22132_Content_34,aieq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,625,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，这边！,"{Male=Sir,Female=Madam} Keeper, this way!"
+AvgDialog_22132_Content_35,aier,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,626,AvgDialog,Content,玩家,去钟楼的路还真是复杂……路上看守的怪物也多。,The path to the clock tower is truly complex... and there are many monsters standing guard along the way.
+AvgDialog_22132_Content_36,aies,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,627,AvgDialog,Content,无纸奥尔拉,在《诗之城的钟声》那首诗里，通往钟楼的道路就是一座迷宫。它象征着诗之城的居民们迷茫的内心。,"In the poem ""The Bells of the City of Poetry,"" the path to the clock tower is a maze. It symbolizes the confusion in the hearts of the city's residents."
+AvgDialog_22132_Content_37,aiet,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,628,AvgDialog,Content,,很贴切的意象,A fitting image.
+AvgDialog_22132_Content_38,aieu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,629,AvgDialog,Content,,真是不合时宜的修辞学……,What untimely rhetoric...
+AvgDialog_22132_Content_39,aiev,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,630,AvgDialog,Content,,避开怪物们的搜索，你们来到了顶楼。,"Avoiding the monsters' search, you arrive at the top floor."
+AvgDialog_22132_Content_40,aiex,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,631,AvgDialog,Content,无纸奥尔拉,钟楼就在那里！穿过这个楼道就到了。,The clock tower is right there! Just go through this corridor.
+AvgDialog_22132_Content_41,aiey,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,632,AvgDialog,Content,玩家,只有一个怪物守在这里么？,Is there only one monster guarding this place?
+AvgDialog_22132_Content_42,aiez,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,633,AvgDialog,Content,无纸奥尔拉,其他的怪物都去找我们了吧……这个怪物，应该就是负责敲钟的那位。,The other monsters must have gone elsewhere... This one should be the one responsible for ringing the bell.
+AvgDialog_22132_Content_43,aieA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,634,AvgDialog,Content,玩家,你觉得有没有办法骗过他？,Do you think there's a way to deceive him?
+AvgDialog_22132_Content_44,aieB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,635,AvgDialog,Content,无纸奥尔拉,嗯，应该可以的……诗里面有写到，雕塑的使臣会为敲钟人送上一封信件，那便是午夜来临的信号。,"Sure, it should be possible... As the poem goes, the envoy of the sculpture will deliver a letter to the bell-ringer, which signals the arrival of midnight."
+AvgDialog_22132_Content_45,aieC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,636,AvgDialog,Content,玩家,太好了……奥尔拉，待会你就装成使臣，骗他敲钟。我找机会，在它反应过来之前将它除掉。,"Great... Horla, you act as an envoy and trick him into ringing the bell. I'll take it out before it reacts."
+AvgDialog_22132_Content_46,aieD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,637,AvgDialog,Content,无纸奥尔拉,啊？我、我要去……跟陌生人撒谎吗……,Huh? I... I have to... lie to a stranger...?
+AvgDialog_22132_Content_47,aieE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,638,AvgDialog,Content,玩家,呃……算了，还是我去吧……你就躲在这里，如果对方有什么异动，帮我制服它。,"Uh... nevermind, I'll go instead... You stay here, and if they make any sudden moves, help me subdue them."
+AvgDialog_22132_Content_48,aieF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,639,AvgDialog,Content,无纸奥尔拉,嗯！,Hmm!
+AvgDialog_22132_Content_49,aieG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,640,AvgDialog,Content,,你整理了一下衣着，走上前去。,You adjust your clothing and step forward.
+AvgDialog_22132_Content_50,aieI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,641,AvgDialog,Content,敲钟人,谁？,Who's there?
+AvgDialog_22132_Content_51,aieJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,642,AvgDialog,Content,,是我，柯蕾特夫人的使臣。,I am the envoy of Lady Colette.
+AvgDialog_22132_Content_52,aieK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,643,AvgDialog,Content,敲钟人,啊……原来是使臣大人……,Ah... So it's the envoy...
+AvgDialog_22132_Content_53,aieL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,644,AvgDialog,Content,玩家,我是来给你送信的。午夜将要到了。,I'm here to deliver a message. Midnight approaches.
+AvgDialog_22132_Content_54,aieM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,645,AvgDialog,Content,,你将那封柯蕾特写给赫伯特的信递给他。他恭敬地接下。,You hand the bell-ringer the letter Colette had written to Herbert. He accepts it respectfully.
+AvgDialog_22132_Content_55,aieN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,646,AvgDialog,Content,敲钟人,可是……使臣大人，看现在的天象，时间还没有到午夜啊……,"But... Your Excellency, the envoy, the current celestial signs show that it is not yet midnight..."
+AvgDialog_22132_Content_56,aieO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,647,AvgDialog,Content,,今天的天象有误差,There was an error in today's celestial observation.
+AvgDialog_22132_Content_57,aieP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,648,AvgDialog,Content,,你敢质疑柯蕾特夫人的决定？,How dare you question Lady Colette's decision?
+AvgDialog_22132_Content_58,aieQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,649,AvgDialog,Content,敲钟人,明……明白了！我这就去办！,Understood...! I'll get it done right away!
+AvgDialog_22132_Content_59,aieR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,650,AvgDialog,Content,,敲钟人按下了按钮。精密的齿轮开始转动，铁锤落下，击打在硕大的钟身上。,"The bell-ringer presses a button. The intricate gears begin to turn, and the hammer falls, striking the massive bell."
+AvgDialog_22132_Content_60,aieT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,651,AvgDialog,Content,,铛——铛——铛——,Ding—Ding—
+AvgDialog_22132_Content_61,aieU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,652,AvgDialog,Content,,铁锤一遍遍落下，午夜的十二道钟声响彻西岱。,The hammer falls repeatedly as the twelve chimes of midnight echo across Cité.
+AvgDialog_22132_Content_62,aieV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,653,AvgDialog,Content,敲钟人,使臣大人，午夜的钟声已经敲响了。,"Envoy, the midnight bell has rung."
+AvgDialog_22132_Content_63,aieW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,654,AvgDialog,Content,玩家,很好……接下来，我们就可以去参加柯蕾特夫人的庆典了。,"Great... Next, we can attend Lady Colette's celebration."
+AvgDialog_22132_Content_64,aieX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,655,AvgDialog,Content,敲钟人,啊，伟大的柯蕾特夫人，能为您敲响庆典的钟声，是我的幸运。能看到您亲手写下的字迹，是我的……,"Ah, great Lady Colette, it is my fortune to ring the bell for your celebration. To see your handwriting is my..."
+AvgDialog_22132_Content_65,aieY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,656,AvgDialog,Content,敲钟人,咦……“赫伯特先生敬启——柯蕾特”……,"my...? ""Dear Mr. Herbert — Colette""..."
+AvgDialog_22132_Content_66,aieZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,657,AvgDialog,Content,敲钟人,这不是敲钟的命令……你……,This is not a command to ring the bell... You...!
+AvgDialog_22132_Content_67,aifa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,658,AvgDialog,Content,,没等他的话说完，几道字迹飘入他的大脑，他的眼皮耷拉下来。,"Before he could finish, several lines of text floated into his mind, and his eyelids drooped."
+AvgDialog_22132_Content_68,aifb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,659,AvgDialog,Content,,在空中晃了两圈之后，沉重的身子砰的一声倒在了地上。,"After swaying twice in the air, the heavy body thuds to the ground."
+AvgDialog_22132_Content_69,aifc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,660,AvgDialog,Content,,奥尔拉从墙后探出身子，冲你招了招手。,Horla peeks out from behind the wall and waves at you.
+AvgDialog_22132_Content_70,aife,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,661,AvgDialog,Content,玩家,看来他得错过这场庆典了。我们走。,Looks like he'll miss the celebration. Let's go.
+AvgDialog_22132_Content_71,aiff,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,662,AvgDialog,Content,,铛——铛——铛——,Ding—Ding—
+AvgDialog_22132_Content_72,aifg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,663,AvgDialog,Content,,十二道钟声清脆悠远，宣告着午夜的降临。,"The twelve chimes ring out clear and distant, announcing the arrival of midnight."
+AvgDialog_22132_Content_73,aifh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,664,AvgDialog,Content,,人们走出房门，汇集在西岱的街头，如同一条黑色的河流，缓缓涌向柯蕾特花园外的广场。,"People stepped out of their homes and gathered on the streets of Cité, like a black river, slowly flowing toward the square outside Colette Garden."
+AvgDialog_22132_Content_74,aifi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,665,AvgDialog,Content,兴奋的市民,这一天终于要来了！马上就能见到柯蕾特夫人了！,The day has finally arrived! I'm about to meet Lady Colette!
+AvgDialog_22132_Content_75,aifj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,666,AvgDialog,Content,兴奋的市民,啊，柯蕾特夫人，唯一的诗人，整个西岱的信仰……,"Ah, Madam Colette, the sole poet and the faith of all Cité..."
+AvgDialog_22132_Content_76,aifk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,667,AvgDialog,Content,兴奋的市民,听说这次典礼将会是最为盛大的一次。要是能站在台下，和她握一握手……,I've heard that this ceremony will be the grandest ever. If only I could stand below the stage and shake her hand...
+AvgDialog_22132_Content_77,aifl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,668,AvgDialog,Content,冷静的市民,想得美。这么多人都想见一见柯蕾特夫人，你凭什么能挤到前面去？,Dream on. So many people want to meet Madam Colette. What makes you think you can cut to the front?
+AvgDialog_22132_Content_78,aifm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,669,AvgDialog,Content,兴奋的市民,只是想一想嘛，又没有犯法……,"Just thinking about it... it's not against the law, is it?"
+AvgDialog_22132_Content_79,aifn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,670,AvgDialog,Content,冷静的市民,听我的，别想那么多，跟我一起安安心心在外面看吧。,"Trust me, don't overthink it. Just relax and watch with me from the outside."
+AvgDialog_22132_Content_80,aifp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,671,AvgDialog,Content,冷静的市民,只需要远远望一眼柯蕾特夫人，听到她讲话，我也就知足了。,A distant glimpse of Lady Colette and hearing her speak is enough for me.
+AvgDialog_22132_Content_81,aifq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,672,AvgDialog,Content,,门轻轻打开。你警惕地向里面望了望。,The door opens softly. You cautiously peek inside.
+AvgDialog_22132_Content_82,aifr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,673,AvgDialog,Content,玩家,进来吧。钟声起作用了，所有人都去了广场。,"Come in. The bell rang, and everyone went to the square."
+AvgDialog_22132_Content_83,aifs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,674,AvgDialog,Content,玩家,奥尔拉，是这里吗？,"Horla, is this the place?"
+AvgDialog_22132_Content_84,aift,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,675,AvgDialog,Content,,奥尔拉没有立刻回话，她环顾着这个房间，眼睛晶莹地闪烁着。,"Horla didn't reply immediately. She looked around the room, her eyes glistening."
+AvgDialog_22132_Content_85,aifu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,676,AvgDialog,Content,玩家,奥尔拉？,Horla?
+AvgDialog_22132_Content_86,aifv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,677,AvgDialog,Content,无纸奥尔拉,和我们小时候来看的样子，一点都没有变……,It looks exactly the same as it did when we were kids...
+AvgDialog_22132_Content_87,aifw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,678,AvgDialog,Content,无纸奥尔拉,就算已经拥有了这么多的东西，就算拥有了整个西岱……这里，也一直都是柯蕾特梦想的地方。,"Even with so much, even having all of Cité... this place has always been where Colette's dreams lie."
+AvgDialog_22132_Content_88,aifx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,679,AvgDialog,Content,,奥尔拉的情绪再次传播开来，你感到自己的心也跟着被触动。,"Horla's emotions spread once more, and you felt your heart being touched."
+AvgDialog_22132_Content_89,aify,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,680,AvgDialog,Content,玩家,奥尔拉……,Horla...
+AvgDialog_22132_Content_90,aifA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,681,AvgDialog,Content,无纸奥尔拉,啊！对不起，守密人%sirormadam%……我总是控制不好自己的情绪……,"Ah! I'm sorry, {Male=Sir,Female=Madam} Keeper... I always struggle to control my emotions..."
+AvgDialog_22132_Content_91,aifB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,682,AvgDialog,Content,,没关系，这很正常,"No worries, that's perfectly normal."
+AvgDialog_22132_Content_92,aifC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,683,AvgDialog,Content,,谁都不应该抛弃自己的过往,No one should abandon their past.
+AvgDialog_22132_Content_93,aifD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,684,AvgDialog,Content,无纸奥尔拉,谢谢您……守密人%sirormadam%……,"Thank you... {Male=Sir,Female=Madam} Keeper..."
+AvgDialog_22132_Content_94,aifE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,685,AvgDialog,Content,无纸奥尔拉,我们曾经聊到过，柯蕾特说，等买下这栋房子以后，她会把所有珍贵的东西，都放在一个专门的展柜里，让所有客人观看。,"We spoke about it before. Colette said that once we buy this house, she would place all her precious items in a special display cabinet for all the guests to see."
+AvgDialog_22132_Content_95,aifF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,686,AvgDialog,Content,无纸奥尔拉,首饰，手提包，珍贵的服饰……还有，以她的名字署名的诗集。,"Jewelry, handbags, fine clothing... and a poetry collection signed with her name."
+AvgDialog_22132_Content_96,aifG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,687,AvgDialog,Content,,在奥尔拉的带领下，你们来到一个造型精致的玻璃展柜前。,"Led by Horla, you arrive at a delicately crafted glass display case."
+AvgDialog_22132_Content_97,aifH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,688,AvgDialog,Content,,展柜最中央的架子上，那本厚重、华丽的诗集静静地沉睡着，像是一个睡在宫殿中的君主。,"On the central shelf of the showcase, the thick, lavish poem book lay quietly, like a monarch sleeping in a palace."
+AvgDialog_22132_Content_98,aifI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,689,AvgDialog,Content,玩家,《玫瑰的栖居》，柯蕾特著……,"""The Abode of Roses,"" authored by Colette..."
+AvgDialog_22132_Content_99,aifJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,690,AvgDialog,Content,无纸奥尔拉,以前，这个诗集就是一些用别针扎起来的纸张……现在，样子已经变得很不一样啦。,"Back then, this poem collection was just some papers pinned together... Now, it looks quite different."
+AvgDialog_22132_Content_100,aidi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,691,AvgDialog,Content,,你将诗集拿了出来。,You take out the poem.
+AvgDialog_22132_Content_101,aidj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,692,AvgDialog,Content,玩家,你怀念它吗？,Do you miss it?
+AvgDialog_22132_Content_102,aidk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,693,AvgDialog,Content,无纸奥尔拉,非常、非常怀念……不过没关系的，守密人%sirormadam%。,"I miss it very, very much... But it's okay, {Male=Sir,Female=Madam} Keeper."
+AvgDialog_22132_Content_103,aidl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,694,AvgDialog,Content,,她抹去眼角的眼泪，笑着摇了摇头。,She wiped away her tears and shook her head with a smile.
+AvgDialog_22132_Content_104,aidm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,695,AvgDialog,Content,无纸奥尔拉,无论是对于我，对于柯蕾特，还是对于整个西岱，这本诗集带来的，只有无尽的痛苦……,"For me, for Colette, and for all of Cité, this poem brings only endless pain..."
+AvgDialog_22132_Content_105,aidn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,696,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，能让我自己来吗？,"{Male=Sir,Female=Madam} Keeper, may I?"
+AvgDialog_22132_Content_106,aido,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,697,AvgDialog,Content,,将诗集递给奥尔拉,Hand the poem to Horla
+AvgDialog_22132_Content_107,aidp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,698,AvgDialog,Content,无纸奥尔拉,我会怀念它。它也只应该存在于我的怀念里。,I'll miss it. But it should exist only in my memories.
+AvgDialog_22132_Content_108,aidq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,699,AvgDialog,Content,无纸奥尔拉,再见吧……,Farewell...
+AvgDialog_22132_Content_109,aidr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,700,AvgDialog,Content,,火光在奥尔拉手上燃起。很快，诗集在火焰中变成了一堆灰烬。,"Flames ignited in Horla's hand. Soon, the poem turned into a pile of ashes in the fire."
+AvgDialog_22132_Content_110,aidt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,701,AvgDialog,Content,无纸奥尔拉,在很多年前，它就应该和我一起变成灰烬……这样的话，也不会有现在的麻烦了。,"This book and I should have shared the same fate, reduced to ashes long ago... There wouldn't be such trouble now if it had."
+AvgDialog_22132_Content_111,aidu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,702,AvgDialog,Content,玩家,总算，问题解决了。,"Finally, the problem is solved."
+AvgDialog_22132_Content_112,aidv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,703,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，我好像没有察觉到什么变化？,"{Male=Sir,Female=Madam} Keeper, I don't seem to notice any changes?"
+AvgDialog_22132_Content_113,aidw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,704,AvgDialog,Content,玩家,这么大面积的影响，或许还要过一段时间才能消除。我们先离开……,"With such a widespread impact, it may take some time to dissipate. Let's leave for now..."
+AvgDialog_22132_Content_114,aidx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,705,AvgDialog,Content,老年柯蕾特,喜欢这个房间吗，奥尔拉？这里的一切，可都是保留着几十年前的模样。,"Do you like this room, Horla? Everything here has been kept just as it was decades ago."
+AvgDialog_22132_Content_115,aidy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,706,AvgDialog,Content,玩家,！！！,!!!
+AvgDialog_22132_Content_116,aidz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,707,AvgDialog,Content,无纸奥尔拉,诗集已经烧毁……你的计划失败了，柯蕾特。,"The poem is already burned... Your plan has failed, Colette."
+AvgDialog_22132_Content_117,aidA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,708,AvgDialog,Content,老年柯蕾特,诗集？啊，你说的是这个……,"The poems? Oh, you mean this..."
+AvgDialog_22132_Content_118,aidB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,709,AvgDialog,Content,,她招了招手。一本全新的诗集，出现在她的手上，和被烧毁的那本一模一样。,"She waved, and a new collection of poems appeared in her hand, identical to the one that had been burned."
+AvgDialog_22132_Content_119,aidC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,710,AvgDialog,Content,,黑色的融蚀液，从诗集中滴落在地。,Black dissolution liquid drips onto the ground from the poem.
+AvgDialog_22132_Content_120,aidE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,711,AvgDialog,Content,无纸奥尔拉,！！！,!!!
+AvgDialog_22132_Content_121,aidF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,712,AvgDialog,Content,无纸奥尔拉,你……,You...
+AvgDialog_22132_Content_122,aidG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,713,AvgDialog,Content,玩家,是陷阱……奥尔拉，准备攻击！……,"It's a trap... Horla, prepare to attack!"
+AvgDialog_22132_Content_123,aidH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,714,AvgDialog,Content,,砰——,Clang—
+AvgDialog_22132_Content_124,aidI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,715,AvgDialog,Content,,一个笼子突然出现在你们身旁，将你们困在其中。,"A cage suddenly appears beside you, trapping you inside."
+AvgDialog_22132_Content_125,aidJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,716,AvgDialog,Content,玩家,这是……诗集里，不应该会有这样的东西……,This is... there shouldn't be such things in the poem...
+AvgDialog_22132_Content_126,aidK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,717,AvgDialog,Content,老年柯蕾特,奥尔拉的诗里，的确没有写过这样的文字。,Such words were indeed never written in Horla's poems.
+AvgDialog_22132_Content_127,aidL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,718,AvgDialog,Content,老年柯蕾特,但很抱歉，这是我的诗集。我想要的任何东西，都会出现在这里。,"Sorry, but this is my poem collection. Anything I want will appear here."
+AvgDialog_22132_Content_128,aidM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,719,AvgDialog,Content,,她微笑着抬抬手，将诗集收入怀中。,"Smiling, she raised her hand and tucked the poem collection into her chest."
+AvgDialog_22132_Content_129,aidN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,720,AvgDialog,Content,老年柯蕾特,……在这座西岱，我是唯一的主人。,"...In this Cité, I am the sole master."
+AvgDialog_22132_Content_130,aidP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,721,AvgDialog,Content,,铛——铛——铛——,Ding—Ding—
+AvgDialog_22132_Content_131,aidQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,722,AvgDialog,Content,老年柯蕾特,听呐，奥尔拉。午夜的钟声敲响了。,"Listen, Horla. The midnight bell has tolled."
+AvgDialog_22132_Content_132,aidR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,723,AvgDialog,Content,老年柯蕾特,今天是西岱最盛大的庆典日……我很荣幸，能够有两位尊贵的客人前来观礼。,Today is Cité's grandest festival... I am honored to have two distinguished guests here to witness the ceremony.
+AvgDialog_22132_Content_133,aidS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,724,AvgDialog,Content,老年柯蕾特,卫兵，把他们带到广场上去吧。,"Guards, take them to the square."
+AvgDialog_22132_Content_134,aidT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,725,AvgDialog,Content,老年柯蕾特,我为两位尊贵的客人，准备了最佳的观礼位置。,I have prepared the best seats for our two distinguished guests.
+AvgDialog_22129_Content_1,aiae,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,726,AvgDialog,Content,,诗篇1843,Psalm 1843
+AvgDialog_22129_Content_2,aiap,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,727,AvgDialog,Content,士兵,柯蕾特夫人！西岱的子民将永远效忠于您！,Lady Colette! The citizens of Cité will forever remain loyal to you!
+AvgDialog_22129_Content_3,aiaA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,728,AvgDialog,Content,市民,让开！你挡着我了！,Move! You're blocking my way!
+AvgDialog_22129_Content_4,aiaL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,729,AvgDialog,Content,市民,柯蕾特夫人！柯蕾特夫人，请看这边！！,"Ms. Colette! Ms. Colette, look over here!!"
+AvgDialog_22129_Content_5,aiaT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,730,AvgDialog,Content,,玫瑰广场之上人头攒动。整个西岱的市民都挤到了这里，从高处看去，就像是一团蠕动着的巨大黑色球体。,"Rose Square is packed. All of Cité's citizens have gathered here. From above, it looks like a writhing, massive black mass."
+AvgDialog_22129_Content_6,aiaU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,731,AvgDialog,Content,老年柯蕾特,多么振奋人心的画面啊……不是吗？,What an inspiring scene... wouldn't you say?
+AvgDialog_22129_Content_7,aiaV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,732,AvgDialog,Content,,柯蕾特身着盛装，站在华丽的舞台上，优雅地向下招手。,"Colette, dressed in her finest, stands on the grand stage, elegantly waving down."
+AvgDialog_22129_Content_8,aiaW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,733,AvgDialog,Content,,在她身后，材质不明的黑色笼子将你和奥尔拉关了起来，吊在舞台后方。,"Behind her, a black cage of unknown material confines you and Horla, hanging backstage."
+AvgDialog_22129_Content_9,aiaX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,734,AvgDialog,Content,,在众人围观的目光中，奥尔拉蜷缩在羊皮纸下，身体止不住地颤抖着。,"Under the crowd's gaze, Horla finds herself curled up beneath the parchment, trembling uncontrollably."
+AvgDialog_22129_Content_10,aiaf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,735,AvgDialog,Content,玩家,奥尔拉……没事，他们都是诗集的形象而已，不用担心……,"Horla... it's fine. They're just figures from the poem, so don't worry."
+AvgDialog_22129_Content_11,aiag,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,736,AvgDialog,Content,玩家,这个牢笼应该是融蚀的产物，帮我争取一些时间，我会尽快想办法离开这里。,This cage must be a product of Dissolution. Buy me some time; I'll find a way out soon.
+AvgDialog_22129_Content_12,aiah,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,737,AvgDialog,Content,老年柯蕾特,啊，我都快忘了，你还是这样怕生，奥尔拉。,"Ah, I almost forgot. You're still so shy, Horla."
+AvgDialog_22129_Content_13,aiai,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,738,AvgDialog,Content,,奥尔拉缓缓从羊皮纸下露出了头。,Horla slowly peeked out from under the parchment.
+AvgDialog_22129_Content_14,aiaj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,739,AvgDialog,Content,无纸奥尔拉,柯蕾特，我看过你写给赫伯特的信了……,"Colette, I have read the letter you wrote to Herbert..."
+AvgDialog_22129_Content_15,aiak,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,740,AvgDialog,Content,老年柯蕾特,我很想听听，到了这种时候，你会怎样劝说我呢？,I'd really like to hear how you plan to persuade me at this moment.
+AvgDialog_22129_Content_16,aial,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,741,AvgDialog,Content,无纸奥尔拉,我不是想劝你……我能理解你做的这些事。,I'm not trying to persuade you... I understand why you're doing this.
+AvgDialog_22129_Content_17,aiam,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,742,AvgDialog,Content,老年柯蕾特,呵……什么？,Heh... What?
+AvgDialog_22129_Content_18,aian,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,743,AvgDialog,Content,无纸奥尔拉,为了名望与权力，牺牲掉我，牺牲掉诗歌，牺牲掉西岱，都在所不惜……这些我都能理解。,"For fame and power, sacrificing me, sacrificing poetry, sacrificing Cité... All of this, I can understand."
+AvgDialog_22129_Content_19,aiao,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,744,AvgDialog,Content,无纸奥尔拉,我喜欢写诗，柯蕾特。我尝试去倾听一切人与事物的心声……你是我最好的朋友，你的心声，我怎么会听不到呢？,"I love writing poetry, Colette. I try to listen to the voices of all people and things... You're my best friend—how could I not hear your heart?"
+AvgDialog_22129_Content_20,aiaq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,745,AvgDialog,Content,无纸奥尔拉,可融蚀扩散以后……这片花园，就会从所有人的记忆里被抹除掉……,But after Dissolution spreads... this garden will be erased from everyone's memory...
+AvgDialog_22129_Content_21,aiar,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,746,AvgDialog,Content,无纸奥尔拉,这里发生的这所有的事，我们一起度过的那些开心和难过的日子……对于你来说，难道也都是可以放弃的吗？,"All that has happened here, the happy and sad days we spent together... Can you really just let it all go?"
+AvgDialog_22129_Content_22,aias,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,747,AvgDialog,Content,,柯蕾特怔了一下，随即笑了起来。她越笑越大声，几乎忘了维持自己贵族的姿态。,"Colette paused for a moment, then burst into laughter. Her laughter grew louder and louder, almost causing her to forget to maintain her noble demeanor."
+AvgDialog_22129_Content_23,aiat,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,748,AvgDialog,Content,老年柯蕾特,我还以为……你是想和我说什么……,I thought... you wanted to say something to me...
+AvgDialog_22129_Content_24,aiau,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,749,AvgDialog,Content,老年柯蕾特,西岱有这么多的人，我连他们的性命都不在乎，你现在问我，在不在意一个花园？,Cité has so many people whose lives I don't care about. Do you think I care about a measly garden?
+AvgDialog_22129_Content_25,aiav,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,750,AvgDialog,Content,,她喘了口气，直起身来。,She took a deep breath and straightened herself up.
+AvgDialog_22129_Content_26,aiaw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,751,AvgDialog,Content,老年柯蕾特,奥尔拉啊，你从小就很受欢迎。即使我才是那个靠自己的勤劳养活我们的人，但人们称赞的永远都是你……,"Horla, you've been popular since you were young. Even though I'm the one who worked hard to support us, people always praised you..."
+AvgDialog_22129_Content_27,aiax,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,752,AvgDialog,Content,老年柯蕾特,你有着出色的天赋，可那又如何呢？有些道理，你永远不明白。,"You possess remarkable talent, but so what? There are some truths you will never comprehend."
+AvgDialog_22129_Content_28,aiay,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,753,AvgDialog,Content,老年柯蕾特,诗歌，情感，回忆，道德……这一切都是累赘。只有权力与名望，才是真正永恒的。,"Poetry, emotion, memories, morals... All just burdens. Only power and fame are truly eternal."
+AvgDialog_22129_Content_29,aiaz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,754,AvgDialog,Content,市民,说得好！柯蕾特夫人！,Well said! Lady Colette!
+AvgDialog_22129_Content_30,aiaB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,755,AvgDialog,Content,,热烈的掌声与欢呼声从广场上响起，巨大的声浪将你们淹没。,"The square erupts in applause and cheers, drowning you in a wave of sound."
+AvgDialog_22129_Content_31,aiaC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,756,AvgDialog,Content,老年柯蕾特,你听，奥尔拉。听听西岱子民们的心声。,"Listen, Horla. Hear the voices of the Cité people."
+AvgDialog_22129_Content_32,aiaD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,757,AvgDialog,Content,老年柯蕾特,在这个世界，诗歌没有意义。在另一个世界，也一样。,"In this world, poetry holds no meaning. In another world, it is the same."
+AvgDialog_22129_Content_33,aiaE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,758,AvgDialog,Content,无纸奥尔拉,原来，你是这样想的……我明白了，柯蕾特。,"So that's what you think... I understand, Colette."
+AvgDialog_22129_Content_34,aiaF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,759,AvgDialog,Content,老年柯蕾特,说实话，你能来这里，我真的很高兴。,"To be honest, I'm really glad that you could come here."
+AvgDialog_22129_Content_35,aiaG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,760,AvgDialog,Content,老年柯蕾特,在我人生最重要的阶段，你又成为了我的见证者。,"At the most crucial stage of my life, you have once again become my witness."
+AvgDialog_22129_Content_36,aiaH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,761,AvgDialog,Content,,她扬起双臂。,She raises her arms.
+AvgDialog_22129_Content_37,aiaI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,762,AvgDialog,Content,,广场上，所有的人们都朝着她跪了下来。,"In the square, everyone knelt down before her."
+AvgDialog_22129_Content_38,aiaJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,763,AvgDialog,Content,,没有诗歌，没有宣讲。只有臆想出的狂热的崇拜。只有纯粹的权力。,"No poetry, no preaching. Only imagined fanatical worship. Only pure power."
+AvgDialog_22129_Content_39,aiaK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,764,AvgDialog,Content,,大地开始微微震动。你注意到，融蚀正以诗集为中心，用肉眼可见的速度扩大。,The earth begins to tremble. You notice the dissolution visibly spreading from the poem's center.
+AvgDialog_22129_Content_40,aiaM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,765,AvgDialog,Content,老年柯蕾特,看着吧，奥尔拉。看着我，赢得又一场胜利——,"Watch, Horla. Watch me secure another victory—"
+AvgDialog_22129_Content_41,aiaN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,766,AvgDialog,Content,,哐当——,Clang—
+AvgDialog_22129_Content_42,aiaO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,767,AvgDialog,Content,老年柯蕾特,？！,?!
+AvgDialog_22129_Content_43,aiaP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,768,AvgDialog,Content,,银光一瞬即逝。牢笼消失不见，你和奥尔拉落在地上。,"A flash of silver light. The cage vanishes, and you and Horla fall to the ground."
+AvgDialog_22129_Content_44,aiaQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,769,AvgDialog,Content,玩家,让我来这里当观众或许是个错误，柯蕾特夫人。,"It may have been a mistake to bring me here as a spectator, Ms. Colette."
+AvgDialog_22129_Content_45,aiaR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,770,AvgDialog,Content,老年柯蕾特,弥萨格的银钥匙……就连赫伯特先生，也很是羡慕呢。,Mythag's Silver Key... Even Mr. Herbert is quite envious.
+AvgDialog_22129_Content_46,aiaS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,771,AvgDialog,Content,老年柯蕾特,但我很想知道，在这样的一个地方，就算你们逃出了牢笼，又能做些什么呢？,"But I'm curious—even in a place like this, what can you do even if you manage to escape from the cage?"
+AvgDialog_22122_Content_1,ahUn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,772,AvgDialog,Content,,无数的怪物向台上涌来。,Countless monsters surge onto the stage.
+AvgDialog_22122_Content_2,ahUo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,773,AvgDialog,Content,玩家,这样下去不是办法。奥尔拉，跟紧我，我们从这边突围出去！,"This isn't working. Horla, stay close. Let's break through from this side!"
+AvgDialog_22122_Content_3,ahUp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,774,AvgDialog,Content,无纸奥尔拉,可是那样的话……柯蕾特会毁掉这里……,But if that's the case... Colette will destroy this place...
+AvgDialog_22122_Content_4,ahUq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,775,AvgDialog,Content,玩家,现在不是纠结的时候。怪物的数量太多，我们现在没有办法阻止柯蕾特……相信我，奥尔拉。,"Now is not the time to hesitate. There are too many monsters, and we can't stop Colette now... Trust me, Horla."
+AvgDialog_22122_Content_5,ahUr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,776,AvgDialog,Content,,看到你坚定的眼神，奥尔拉仍没有明白你的意思，但她点了点头。,"Seeing your determined gaze, Horla still doesn't understand your meaning, but she nods."
+AvgDialog_22122_Content_6,ahUs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,777,AvgDialog,Content,无纸奥尔拉,我……我知道了……,I... I understand...
+AvgDialog_22122_Content_7,ahUt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,778,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，小心！,"{Male=Sir,Female=Madam} Keeper, be careful!"
+AvgDialog_22126_Content_1,ahWq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,779,AvgDialog,Content,无纸奥尔拉,呼……呼……守密人%sirormadam%，怪物数量太多了，完全应付不过来……,"Huff... Huff... {Male=Sir,Female=Madam} Keeper, there are too many monsters to handle..."
+AvgDialog_22126_Content_2,ahWz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,780,AvgDialog,Content,,融蚀越来越大，再这样下去，我们也会被困在这里……,"The Dissolution is growing larger. If this continues, we will be trapped here..."
+AvgDialog_22126_Content_3,ahWA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,781,AvgDialog,Content,老年柯蕾特,你们来到西岱的时候，我就听到你们的对话了。,I overheard your conversation when you arrived in Cité.
+AvgDialog_22126_Content_4,ahWB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,782,AvgDialog,Content,老年柯蕾特,想去找救兵吗？我不会给你这个机会的，守密人。,"Looking for reinforcements? I won't give you the chance, Keeper."
+AvgDialog_22126_Content_5,ahWC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,783,AvgDialog,Content,,在柯蕾特的命令下，一群群怪物跑向出口，将你们的去路完全堵住。,"Under Colette's command, hordes of monsters rush to the exit, completely blocking your way."
+AvgDialog_22126_Content_6,ahWD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,784,AvgDialog,Content,玩家,机会来了。只有一次。,The opportunity has arrived. Only once.
+AvgDialog_22126_Content_7,ahWE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,785,AvgDialog,Content,无纸奥尔拉,啊？……什么……什么意思……,Huh? ...What... what do you mean...
+AvgDialog_22126_Content_8,ahWF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,786,AvgDialog,Content,,你的余光注意到，柯蕾特将舞台后方的怪物全部派去封堵你们的出路。,Your peripheral vision catches Colette dispatching all the monsters backstage to block your escape route.
+AvgDialog_22126_Content_9,ahWG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,787,AvgDialog,Content,,而在她自己身边，怪物的数量变得很少，少到足够你们进行一次尝试。,"Around her, the number of monsters has decreased significantly, making it possible for you to attempt something."
+AvgDialog_22126_Content_10,ahWr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,788,AvgDialog,Content,,——突围寻找增援只是一个幌子。这是你一直在等待的机会。,—Breaking through to seek reinforcements is just a ruse. This is the opportunity you've been waiting for.
+AvgDialog_22126_Content_11,ahWs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,789,AvgDialog,Content,玩家,制住她，奥尔拉！,"Restrain her, Horla!"
+AvgDialog_22126_Content_12,ahWt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,790,AvgDialog,Content,,你猛然转过身。,You suddenly turn around.
+AvgDialog_22126_Content_13,ahWu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,791,AvgDialog,Content,,奥尔拉微微一怔，明白了你的意图，跟你一起向柯蕾特冲了过去……,"Horla paused for a moment, understanding your intention, and then charged towards Colette with you..."
+AvgDialog_22126_Content_14,ahWv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,792,AvgDialog,Content,玩家,这是！！,This is!!
+AvgDialog_22126_Content_15,ahWw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,793,AvgDialog,Content,,一只巨大的花形怪物，从广场周围的藤蔓上结出身形，挡在柯蕾特身前。,"A giant flower-shaped monster takes form from the vines around the square, blocking Colette's path."
+AvgDialog_22126_Content_16,ahWx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,794,AvgDialog,Content,老年柯蕾特,不错的想法，守密人。但我不会让任何意外影响到我的计划。,"Good idea, Keeper. But I won't let any surprises affect my plan."
+AvgDialog_22126_Content_17,ahWy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,795,AvgDialog,Content,老年柯蕾特,听着吧，奥尔拉。这首诗，是我写给你的——,"Listen, Horla. This poem is written for you—"
+AvgDialog_22111_Content_1,ahOS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,796,AvgDialog,Content,玩家,啊！——,Ah! —
+AvgDialog_22111_Content_2,ahPw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,797,AvgDialog,Content,,你们的突袭成功击倒了柯蕾特召唤出的怪物。诗中世界出现一阵动荡，西岱展露出它的一部分真容。,"Your surprise attack successfully defeated the monster summoned by Colette. The world within the poem trembled, revealing a portion of Cité's true form."
+AvgDialog_22111_Content_3,ahPH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,798,AvgDialog,Content,,但在你们靠近柯蕾特的瞬间，无数的花藤从她身边的土地里钻出。花藤上面的尖刺刺入你们的身体，将你们死死捆住。,"But the moment you approached Colette, countless flower vines erupted from the soil around her. The spikes on the vines pierced your bodies, binding you tightly."
+AvgDialog_22111_Content_4,ahPS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,799,AvgDialog,Content,老年柯蕾特,你……弄脏了我的衣服……,You... got my clothes dirty...
+AvgDialog_22111_Content_5,ahQd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,800,AvgDialog,Content,老年柯蕾特,你知道，这个衣服是花了多少钱买下来的吗？,Do you know how much this outfit cost?
+AvgDialog_22111_Content_6,ahQo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,801,AvgDialog,Content,,柯蕾特的愤怒很快消失不见。她重新换上那副贵族般的得体笑脸。,Colette's anger quickly vanished. She resumed her noble and composed smile.
+AvgDialog_22111_Content_7,ahQz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,802,AvgDialog,Content,老年柯蕾特,没关系，没关系……,"It's all right, it's all right..."
+AvgDialog_22111_Content_8,ahQK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,803,AvgDialog,Content,老年柯蕾特,想要在我的花园里击败我，很有勇气，也很愚蠢。,"To confront me in my garden, you must be both brave and foolish."
+AvgDialog_22111_Content_9,ahQV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,804,AvgDialog,Content,老年柯蕾特,你们浪费了最后逃出去的机会……这场庆典，你们需要陪我看到底了。,"You've wasted your last chance to escape... This celebration, you'll have to see it through with me."
+AvgDialog_22111_Content_10,ahOT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,805,AvgDialog,Content,无纸奥尔拉,那里……那里是……,There... there is...
+AvgDialog_22111_Content_11,ahPe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,806,AvgDialog,Content,,你们站在花园边缘的广场。肉眼可见的融蚀裂隙从小楼下方往上蔓延，囊括了中间花园的空地。,"You stand at the edge of the garden plaza. Visible D-Rifts spread upward from beneath the small building, encompassing the open space in the center of the garden."
+AvgDialog_22111_Content_12,ahPo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,807,AvgDialog,Content,无纸奥尔拉,那是……我们的花园……不……柯蕾特，不……,"That is... our garden... no... Colette, no..."
+AvgDialog_22111_Content_13,ahPp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,808,AvgDialog,Content,,奥尔拉低下头。柯蕾特走到她身旁，托起她的下巴，让她的视线看着花园的中央。,"Horla lowered her head. Colette walked up to her, lifted her chin, and directed her gaze toward the center of the garden."
+AvgDialog_22111_Content_14,ahPq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,809,AvgDialog,Content,老年柯蕾特,你知道吗，奥尔拉。很多年前，我就是在这个地方，看着那场大火烧起来的。,"You know, Horla... Many years ago, I watched that great fire start right here."
+AvgDialog_22111_Content_15,ahPr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,810,AvgDialog,Content,老年柯蕾特,我把这里改建成了广场，在这里树立了我的雕像……你看，我也是懂象征的。,"I've transformed this place into a plaza and erected my statue here... See, I understand symbolism too."
+AvgDialog_22111_Content_16,ahPs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,811,AvgDialog,Content,老年柯蕾特,看着。看清楚了。那是我们生活的地方……那是我们的花园。很快，那里的一切都将消失掉。,"Watch closely. See it clearly. That is where we live... That is our garden. Soon, everything there will disappear."
+AvgDialog_22111_Content_17,ahPt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,812,AvgDialog,Content,老年柯蕾特,我的生命，是从你死的那一天正式开始的。今天，它会在这里再次走向辉煌……,"My life truly began the day you died. Today, it will once again move towards brilliance..."
+AvgDialog_22111_Content_18,ahPu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,813,AvgDialog,Content,,黑色的裂隙快速地扩散着。很快，华丽的别墅被整个吞没。,"The black rift spreads rapidly. Soon, the entire luxurious villa is engulfed."
+AvgDialog_22111_Content_19,ahPv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,814,AvgDialog,Content,,花园，灰烬，简笔画，诗歌，记忆，笑声，誓言……一切的一切，都沉入了望不见尽头的黑暗中。,"Garden, ashes, doodles, poetry, memories, laughter, oaths... Everything has sunk into the endless darkness."
+AvgDialog_22111_Content_20,ahPx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,815,AvgDialog,Content,,嘀嗒——,Tick-tock—
+AvgDialog_22111_Content_21,ahPy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,816,AvgDialog,Content,士兵,咦？我的眼睛，是怎么回事……,Huh? What's wrong with my eyes...?
+AvgDialog_22111_Content_22,ahPz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,817,AvgDialog,Content,市民,刚才那种感觉是……心痛？为什么会……,Was that... heartache just now? Why...
+AvgDialog_22111_Content_23,ahPA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,818,AvgDialog,Content,,一滴眼泪从奥尔拉的脸上划过。,A tear slid down Horla's face.
+AvgDialog_22111_Content_24,ahPB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,819,AvgDialog,Content,,眼泪落在地上，如同落入无波的湖面。平静的涟漪无声散开，拂过这个虚幻的世界里，所有苍白的心。,"Tears fall to the ground, like drops into a still lake. Silent ripples spread, brushing past every pale heart in this illusory world."
+AvgDialog_22111_Content_25,ahPC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,820,AvgDialog,Content,老年柯蕾特,！！不对……这种感觉……,!! No... this feeling...
+AvgDialog_22111_Content_26,ahPD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,821,AvgDialog,Content,,柯蕾特察觉到了自己的情绪变化。她诧异地望向身旁的奥尔拉。,Colette noticed the change in her emotions. She looked at Horla beside her in surprise.
+AvgDialog_22111_Content_27,ahPE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,822,AvgDialog,Content,玩家,<LightGray:这是……奥尔拉传播情绪的能力？！！>,<LightGray:Is this... Horla's ability to spread emotions?!>
+AvgDialog_22111_Content_28,ahPF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,823,AvgDialog,Content,玩家,<LightGray:她的能力或许能发挥出作用！我得抓住这个机会……>,<LightGray:Her ability might prove useful! I must seize this opportunity...>
+AvgDialog_22111_Content_29,ahPG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,824,AvgDialog,Content,无纸奥尔拉,你想杀了我，用诗集去换取自己想要的生活……不论你做什么，我从来都没有恨过你，柯蕾特。,"You want to kill me and use the poem to get the life you desire... No matter what you did, I've never hated you, Colette."
+AvgDialog_22111_Content_30,ahPI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,825,AvgDialog,Content,无纸奥尔拉,曾经的那个柯蕾特，是我最好的朋友。可是如果你把这里毁掉……就只剩下现在的这个柯蕾特了。,The Colette I once knew was my best friend. But if you destroy this place... only the current Colette will remain.
+AvgDialog_22111_Content_31,ahPJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,826,AvgDialog,Content,无纸奥尔拉,我不能……看着曾经的那个柯蕾特，被你抹除掉……,I can't... let the Colette I once knew be erased by you...
+AvgDialog_22111_Content_32,ahPK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,827,AvgDialog,Content,老年柯蕾特,看看你的样子吧，奥尔拉……你除了作诗，还会什么呢？,"Look at yourself, Horla... What else can you do besides writing poetry?"
+AvgDialog_22111_Content_33,ahPL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,828,AvgDialog,Content,无纸奥尔拉,你说得对……我除了作诗，什么也不会……,"You're right... Apart from writing poems, I'm not good at anything else..."
+AvgDialog_22111_Content_34,ahPM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,829,AvgDialog,Content,无纸奥尔拉,西岱是花与诗的城市，是我们的故乡……可这里的玫瑰都死掉了，柯蕾特……,"Cité, the city of flowers and poems, is our home... But all the roses have withered here, Colette..."
+AvgDialog_22111_Content_35,ahPN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,830,AvgDialog,Content,无纸奥尔拉,这些玫瑰，是你曾经送我的。今天，我把它们还给你。,"These roses are the ones you once gave me. Today, I am returning them to you."
+AvgDialog_22111_Content_36,ahPO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,831,AvgDialog,Content,,她上前一步。,She takes a step forward.
+AvgDialog_22111_Content_37,ahPP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,832,AvgDialog,Content,,噗——,Poof—
+AvgDialog_22111_Content_38,ahPQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,833,AvgDialog,Content,玩家,奥尔拉！！！,Horla!!!
+AvgDialog_22111_Content_39,ahPR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,834,AvgDialog,Content,,尖利的荆棘撕破她的衣服，刺入她的皮肉，她丝毫不在意。,"Sharp thorns tear her clothes and pierce her flesh, but she doesn't care."
+AvgDialog_22111_Content_40,ahPT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,835,AvgDialog,Content,,巨大的玫瑰尖刺贯穿了她的心脏。她的鲜血顺着黑色的藤蔓流下。流过了第一个枝头。,"A massive rose spike pierced her heart. Her blood flowed down the black vine, passing the first branch."
+AvgDialog_22111_Content_41,ahPU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,836,AvgDialog,Content,,黑色的花朵迅速在枝头凋亡。一朵红色的玫瑰，从枝头探出花苞，舒展，盛开。,"The black flowers wither rapidly on the branches. A red rose bud appears, unfurls, and blooms."
+AvgDialog_22111_Content_42,ahPV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,837,AvgDialog,Content,,鲜血顺着藤蔓，如同树叶的脉络一样，流向了城市的各个角落。,"Blood flows along the vines, like the veins of leaves, spreading to every corner of the city."
+AvgDialog_22111_Content_43,ahPW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,838,AvgDialog,Content,,它所经过的地方，晦暗的黑色消失。它将色彩与情感、将花与诗还给了西岱。,"Where it passed, the deep darkness faded. It restored color and emotion, flowers and poetry to Cité."
+AvgDialog_22111_Content_44,ahPX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,839,AvgDialog,Content,玩家,好……好痛……,So... much pain...
+AvgDialog_22111_Content_45,ahPY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,840,AvgDialog,Content,士兵,心脏……好像被刺穿了……,Heart... feels as if it's been pierced...
+AvgDialog_22111_Content_46,ahPZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,841,AvgDialog,Content,士兵,那是……母亲！母亲……,That's... Mother! Mother...
+AvgDialog_22111_Content_47,ahQa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,842,AvgDialog,Content,市民,孩子……我的孩子出生了……,Child... my child has been born...
+AvgDialog_22111_Content_48,ahQb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,843,AvgDialog,Content,,随着鲜血的蔓延，一幅幅图景在人们的眼前浮现。,"As the blood spreads, scenes unfold before people's eyes."
+AvgDialog_22111_Content_49,ahQc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,844,AvgDialog,Content,,那是婴孩的新生，是母亲的歌谣，是恋人的诀别。,"It is the newborn's rebirth, the mother's lullaby, and the lovers' farewell."
+AvgDialog_22111_Content_50,ahQe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,845,AvgDialog,Content,,那是你们人生中最为珍贵的时刻。,That was the most precious moment in your lives.
+AvgDialog_22111_Content_52,ahQg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,847,AvgDialog,Content,,奥尔拉所经历的巨大的痛苦，随着她的鲜血，涟漪般传向了整个西岱。,"The immense pain that Horla endured spread throughout all of Cité, rippling with her blood."
+AvgDialog_22111_Content_53,ahQh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,848,AvgDialog,Content,,玫瑰的尖刺贯穿了无数颗心脏。鲜红的花朵，在每个人心中盛开。,Rose spikes pierce countless hearts. Crimson flowers blossom within every one.
+AvgDialog_22111_Content_54,ahQi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,849,AvgDialog,Content,奥尔拉,柯蕾特，你已经有了整个西岱，可你还住在这里。,"Colette, you own all of Cité, yet you still live here."
+AvgDialog_22111_Content_55,ahQj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,850,AvgDialog,Content,奥尔拉,住在我们曾经梦想住着的房子，住在我们曾经一起生活的花园……,"Living in the house we once dreamed of, in the garden where we once lived together..."
+AvgDialog_22111_Content_56,ahQk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,851,AvgDialog,Content,奥尔拉,你曾经救下过我的命。这首用生命写的诗，送给你，送给花园。,"You once saved my life. This poem, written with life, is for you and for the garden."
+AvgDialog_22111_Content_57,ahQl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,852,AvgDialog,Content,奥尔拉,这是春天，写给花园的诗。,This is a poem written for the garden in spring.
+AvgDialog_22111_Content_58,ahQm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,853,AvgDialog,Content,柯蕾特,奥尔拉……你……,Horla... you...
+AvgDialog_22111_Content_59,ahQn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,854,AvgDialog,Content,,泪水冲刷着她精致的妆容，她毫不在意，任由它们在脸上留下不得体的凌乱痕迹。,"Tears washed away her delicate makeup, but she didn't care, letting them leave messy traces on her face."
+AvgDialog_22111_Content_60,ahQp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,855,AvgDialog,Content,,柯蕾特忘记了，自己的泪水是从什么时候开始流下的。,Colette couldn't remember when her tears had started to flow.
+AvgDialog_22111_Content_61,ahQq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,856,AvgDialog,Content,,——过往的画面在她眼前清晰地展开。这是她第一次，真正读懂了奥尔拉的诗。她终于明白了自己真正珍视的东西。,"—Past scenes unfold clearly before her. For the first time, she truly understood Horla's poetry. She finally realized what she truly cherished."
+AvgDialog_22111_Content_62,ahQr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,857,AvgDialog,Content,,不只是她。这个西岱中的所有人，都读懂了奥尔拉的诗。他们被奥尔拉的情绪所触动，动弹不得。,Not just her. Everyone in the Cité understood Horla's poem. They were moved by Horla's emotions and could not move.
+AvgDialog_22111_Content_63,ahQs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,858,AvgDialog,Content,玩家,就是现在！,It's now!
+AvgDialog_22111_Content_64,ahQt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,859,AvgDialog,Content,,你早有准备，强大的精神力让你从奥尔拉的情绪中挣脱出来。,"You were well-prepared, your powerful spirit power allowing you to break free from Horla's emotions."
+AvgDialog_22111_Content_65,ahQu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,860,AvgDialog,Content,,你摆脱荆棘的束缚，夺下了柯蕾特手里的诗集。,You break free from the thorns and snatch the poem collection from Colette's hand.
+AvgDialog_22111_Content_66,ahQv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,861,AvgDialog,Content,玩家,永别了……诗里的西岱！,Farewell... Cité in the poems!
+AvgDialog_22111_Content_67,ahQw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,862,AvgDialog,Content,,银光猛然闪烁。强烈的光芒下，诗集上的融蚀痕迹快速地蒸发、消融。,"A flash of silver. Under intense light, the D-mark on the poem evaporates and dissolves rapidly."
+AvgDialog_22111_Content_68,ahQx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,863,AvgDialog,Content,玩家,唔！——,Ugh! —
+AvgDialog_22111_Content_69,ahQy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,864,AvgDialog,Content,,强烈的刺痛袭向你。大量的精神力损耗让你不堪重负。,A sharp pain strikes you. The heavy loss of spirit power overwhelms you.
+AvgDialog_22111_Content_70,ahQA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,865,AvgDialog,Content,,那本被清除掉融蚀的诗集变成了一堆普通的发黄旧稿，被简易别针别在一起，掉落在地。,"That poetry collection, purged of Dissolution, turned into a pile of yellowed old drafts, simply clipped together with a basic clip, and fell to the ground."
+AvgDialog_22111_Content_71,ahQB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,866,AvgDialog,Content,士兵,啊！啊！！——,Ah! Ah!!—
+AvgDialog_22111_Content_72,ahQC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,867,AvgDialog,Content,,无数的怪物们吼叫着，倒在地上，逐渐恢复成人的形态。,"Countless monsters roar, fall to the ground, and gradually revert to human form."
+AvgDialog_22111_Content_73,ahQD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,868,AvgDialog,Content,,权欲在消退，情感在回归。构建这个世界的根基荡然无存。,"Desire fades, emotions return. The foundation of this world crumbles."
+AvgDialog_22111_Content_74,ahQE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,869,AvgDialog,Content,,柯蕾特感受到了。,Colette felt it.
+AvgDialog_22111_Content_75,ahQF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,870,AvgDialog,Content,,她感受到了力量的消失。她感受到了失败的到来。她唤出利刃般的棘刺，走向奥尔拉。,She felt her power fading. She felt defeat approaching. She summoned thorn-like blades and walked towards Horla.
+AvgDialog_22111_Content_76,ahQG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,871,AvgDialog,Content,老年柯蕾特,“柯蕾特”，胜利……老夫人的狗死了，她把那条狗的名字赏给我的时候，你就在我旁边。,"""Colette,"" victory... When the old lady's dog passed away and she gave me its name, you were right beside me."
+AvgDialog_22111_Content_77,ahQH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,872,AvgDialog,Content,老年柯蕾特,这是狗的名字，但我从来没有换过。我要提醒自己，不能再输了。,"This is the dog's name, but I've never changed it. I need to remind myself not to lose again."
+AvgDialog_22111_Content_78,ahQI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,873,AvgDialog,Content,老年柯蕾特,你说的对。我忘不掉你，忘不掉这里的一切……,"You're right. I can't forget you, can't forget everything here..."
+AvgDialog_22111_Content_79,ahQJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,874,AvgDialog,Content,老年柯蕾特,我想赢。我只是想赢。想赢有什么错？,I want to win. I just want to win. What's wrong with wanting to win?
+AvgDialog_22111_Content_80,ahQL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,875,AvgDialog,Content,老年柯蕾特,抱歉，奥尔拉。,"Sorry, Horla."
+AvgDialog_22111_Content_81,ahQM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,876,AvgDialog,Content,,柯蕾特痛苦地抽泣着，缓缓向奥尔拉靠近。,"Colette sobbed in anguish, slowly approaching Horla."
+AvgDialog_22111_Content_82,ahQN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,877,AvgDialog,Content,玩家,密境在消失，你的计划已经失败了，柯蕾特！,"The Domain is vanishing. Your plan has failed, Colette!"
+AvgDialog_22111_Content_83,ahQO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,878,AvgDialog,Content,玩家,就算你现在对她动手，也改变不了什么！,"Even if you attack her now, it won't change a thing!"
+AvgDialog_22111_Content_84,ahQP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,879,AvgDialog,Content,,你挣扎着，想要靠近奥尔拉，但强烈的痛苦让你无法移动。,"Struggling to approach Horla, the intense pain immobilized you."
+AvgDialog_22111_Content_85,ahQQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,880,AvgDialog,Content,,尖刺伸向奥尔拉的头颅。,The spike extends towards Horla's head.
+AvgDialog_22111_Content_86,ahQR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,881,AvgDialog,Content,玩家,等等！！,Wait!!
+AvgDialog_22111_Content_87,ahQS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,882,AvgDialog,Content,,咔嚓——,*Snap*—
+AvgDialog_22111_Content_88,ahQT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,883,AvgDialog,Content,,一朵玫瑰被剪下。柯蕾特拿着它，递到了奥尔拉面前。,A rose was cut. Colette took it and handed it to Horla.
+AvgDialog_22111_Content_89,ahQU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,884,AvgDialog,Content,老年柯蕾特,一首好诗，奥尔拉……我就用我的花，来换你的诗吧。,"A fine poem, Horla... I'll trade my flowers for your poem."
+AvgDialog_22111_Content_90,ahQW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,885,AvgDialog,Content,,砰——,Bang—
+AvgDialog_22111_Content_91,ahQX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,886,AvgDialog,Content,,或许是密境的消解让花匠变化。,Perhaps the Domain's dissolution changed the gardener.
+AvgDialog_22111_Content_92,ahQY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,887,AvgDialog,Content,,又或许是花匠的变化让密境消解。,Or perhaps the gardener's transformation caused the Domain to dissolve.
+AvgDialog_22111_Content_93,ahQZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,888,AvgDialog,Content,,诗集中的西岱渐渐消失，支撑柯蕾特的力量也不复存在。,"The Cité in the poems is gradually disappearing, and the power supporting Colette has also vanished."
+AvgDialog_22111_Content_94,ahRa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,889,AvgDialog,Content,,她的身体变成了一滩黑泥，混合着零落的花瓣，沉入奥尔拉身前的土地里。,"Her body turned into a pool of black sludge, mixed with scattered petals, sinking into the ground in front of Horla."
+AvgDialog_22111_Content_95,ahRb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,890,AvgDialog,Content,生前奥尔拉,柯蕾特柯蕾特，看完了吗？,"Colette, Colette, are you finished reading?"
+AvgDialog_22111_Content_96,ahRc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,891,AvgDialog,Content,柯蕾特正位,嗯……看完了……不过我好像看不太懂。,Hmm... I've finished reading... but I don't quite understand it.
+AvgDialog_22111_Content_97,ahRd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,892,AvgDialog,Content,生前奥尔拉,啊，这样吗……这是我写的第一首诗，写得不好……,"Ah, is that so...? This is my first poem. It's not very good..."
+AvgDialog_22111_Content_98,ahRe,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,893,AvgDialog,Content,柯蕾特正位,不是你的问题，奥尔拉，谁的诗我都看不懂。,"It's not you, Horla. I don't really understand anyone's poetry."
+AvgDialog_22111_Content_99,ahRf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,894,AvgDialog,Content,柯蕾特正位,我问了身边好多人，他们也看不懂。,"I asked many people around me, and they couldn't make sense of it either."
+AvgDialog_22111_Content_100,ahOU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,895,AvgDialog,Content,柯蕾特正位,我不太明白，一个人们都看不懂的东西，到底有什么意义呢……,I don't get it... What's the point of something that no one can comprehend?
+AvgDialog_22111_Content_101,ahOV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,896,AvgDialog,Content,生前奥尔拉,嗯……我觉得，诗歌并不是一种文字或者画面，它像是一把钥匙。,Hmm... I think poetry isn't just words or images; it's like a key.
+AvgDialog_22111_Content_102,ahOW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,897,AvgDialog,Content,柯蕾特正位,钥匙？,A... key?
+AvgDialog_22111_Content_103,ahOX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,898,AvgDialog,Content,生前奥尔拉,对！人的心都像是一个箱子，里面装着好多好多的感情。这个箱子被上了锁，这些感情平时都被锁在箱子里，想拿也拿不出来。,"Yes! A person's heart is like a box filled with many emotions. This box is locked, and these emotions are usually kept inside, hard to take out."
+AvgDialog_22111_Content_104,ahOY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,899,AvgDialog,Content,生前奥尔拉,诗呢，就是打开这个箱子的那把钥匙。,Poetry is the key to unlocking this chest.
+AvgDialog_22111_Content_105,ahOZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,900,AvgDialog,Content,生前奥尔拉,其实，诗是不需要被读懂的，甚至连被阅读都不需要。,"Actually, poetry doesn't need to be understood, or even read."
+AvgDialog_22111_Content_106,ahPa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,901,AvgDialog,Content,生前奥尔拉,每个人，不论读不读诗，不论早还是晚，在他们生命的某个瞬间，都一定会找到这把钥匙的。,"Everyone, whether they read poetry or not, sooner or later, will find this key at some moment in their life."
+AvgDialog_22111_Content_107,ahPb,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,902,AvgDialog,Content,柯蕾特正位,那你肯定会成为最好的钥匙匠！,You'll surely become the best keysmith!
+AvgDialog_22111_Content_108,ahPc,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,903,AvgDialog,Content,生前奥尔拉,骗人……你刚刚才说了没看懂。,Liar... You just said you didn't get it.
+AvgDialog_22111_Content_109,ahPd,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,904,AvgDialog,Content,柯蕾特正位,你说的这些我都听不懂。可是我相信你，奥尔拉。,"I don't understand what you're saying, but I trust you, Horla."
+AvgDialog_22111_Content_110,ahPf,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,905,AvgDialog,Content,柯蕾特正位,这首《玫瑰的栖居》，是你写的第一首诗。从今天开始，你所有的诗我都会帮你珍藏起来的。,"This poem, ""The Abode of Roses,"" is your first piece. From today onward, I will help you treasure all your poems."
+AvgDialog_22111_Content_111,ahPg,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,906,AvgDialog,Content,柯蕾特正位,我会用别针把它们整理到一起，等以后有钱了，就把它们印成一本漂亮的诗集！,"I'll use pins to keep them together, and when I have money, I'll print a beautiful poetry collection!"
+AvgDialog_22111_Content_112,ahPh,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,907,AvgDialog,Content,,她伸出一直背在身后的手。那双手布满了棘刺留下的伤口，黝黑，粗糙，完全辨认不出是一双属于少女的手。,"She extended her hand, which she had kept behind her back. The hands were covered in wounds from thorns, dark and rough, completely unrecognizable as those of a young girl."
+AvgDialog_22111_Content_113,ahPi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,908,AvgDialog,Content,生前奥尔拉,这……这个是……,This... this is...
+AvgDialog_22111_Content_114,ahPj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,909,AvgDialog,Content,柯蕾特正位,听那些新贵族们说，西岱是花与诗的城市，一首好诗，可以换到一束玫瑰……,The new nobles say that Cité is a city of flowers and poetry. A good poem can earn you a bouquet of roses...
+AvgDialog_22111_Content_115,ahPk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,910,AvgDialog,Content,柯蕾特正位,我种的玫瑰今天开了。开的不是很多，全部都拿去付了房租和地租。,"My roses bloomed today. Not many, and all were used to pay the rent and land lease."
+AvgDialog_22111_Content_116,ahPl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,911,AvgDialog,Content,柯蕾特正位,不过我趁他们不注意，悄悄留下了一朵……,"But while they weren't paying attention, I secretly kept a flower..."
+AvgDialog_22111_Content_117,ahPm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,912,AvgDialog,Content,,那只满是伤痕的手，将一朵有些残破、但依然鲜红的玫瑰，递到了奥尔拉的面前。,That scarred hand presented a slightly damaged yet still vividly red rose to Horla.
+AvgDialog_22111_Content_118,ahPn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,913,AvgDialog,Content,柯蕾特正位,一首好诗，奥尔拉……以后，我就用我的花，来换你的诗吧！,"A fine poem, Horla... In the future, I'll trade my flowers for your poems!"
+AvgDialog_22128_Content_1,ahZi,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,914,AvgDialog,Content,,余香,Lingering Fragrance
+AvgDialog_22128_Content_2,ahZt,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,915,AvgDialog,Content,汉娜,宁菲亚小姐宁菲亚小姐！,Miss Nymphaea! Miss Nymphaea!
+AvgDialog_22128_Content_3,ahZE,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,916,AvgDialog,Content,宁菲亚,啊，汉娜小姐，你又来找我了……,"Ah, Miss Hannah, you've come to see me again..."
+AvgDialog_22128_Content_4,ahZP,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,917,AvgDialog,Content,汉娜,我也很高兴见到你！,Well I'm glad to see you too!
+AvgDialog_22128_Content_5,ahZZ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,918,AvgDialog,Content,汉娜,那个，有个急事要问你……,"Um, I have an urgent matter to ask you about..."
+AvgDialog_22128_Content_6,aiaa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,919,AvgDialog,Content,宁菲亚,我不知道奥尔拉在哪。,I don't know where Horla is.
+AvgDialog_22128_Content_7,aiab,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,920,AvgDialog,Content,汉娜,啊？！怎么可能！她都已经回来一天了，都还没联系你吗！,What?! How is that possible! She's been back for a whole day and still hasn't contacted you?!
+AvgDialog_22128_Content_8,aiac,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,921,AvgDialog,Content,汉娜,难道外界关于你们两个关系不好的传闻是真的？,Could the rumors about the two of you not getting along be true?
+AvgDialog_22128_Content_9,aiad,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,922,AvgDialog,Content,汉娜,是因为文学爱好者之间的互相轻贱吗？还是因为成为了情敌？！,Is it due to mutual disdain among literature enthusiasts? Or have you turned into romantic rivals?!
+AvgDialog_22128_Content_10,ahZj,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,923,AvgDialog,Content,宁菲亚,……我还有点事，请允许我先告辞……,"...I have some matters to attend to, please excuse me..."
+AvgDialog_22128_Content_11,ahZk,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,924,AvgDialog,Content,汉娜,喂喂喂！宁菲亚小姐！,Hey hey hey! Miss Nymphaea!
+AvgDialog_22128_Content_12,ahZl,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,925,AvgDialog,Content,玩家,汉娜。,Hannah.
+AvgDialog_22128_Content_13,ahZm,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,926,AvgDialog,Content,汉娜,请稍等守密人！我有急事要找宁菲亚小姐！弄不好这就是头条新闻！,"Wait a moment, Keeper! I urgently need to see Miss Nymphaea! This could very well be headline news!"
+AvgDialog_22128_Content_14,ahZn,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,927,AvgDialog,Content,玩家,奥尔拉让我来找你。,Horla sent me to find you.
+AvgDialog_22128_Content_15,ahZo,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,928,AvgDialog,Content,汉娜,嗯？！！！,Huh?!!!
+AvgDialog_22128_Content_16,ahZp,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,929,AvgDialog,Content,,汉娜紧急刹住了脚。,Hannah came to a sudden stop.
+AvgDialog_22128_Content_17,ahZq,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,930,AvgDialog,Content,玩家,她让我把这个交给你。,She asked me to give this to you.
+AvgDialog_22128_Content_18,ahZr,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,931,AvgDialog,Content,汉娜,《玫瑰的栖居》，奥尔拉·柯蕾特……,"The Abode of Roses, by Horla Colette..."
+AvgDialog_22128_Content_19,ahZs,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,932,AvgDialog,Content,汉娜,这是！！奥尔拉的诗集？！！！还有奥尔拉的新笔名？！,"Is this... Horla's poem?! And a new pen name, too?!"
+AvgDialog_22128_Content_20,ahZu,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,933,AvgDialog,Content,玩家,她让我转达，如果你觉得不错的话，请你帮她发表在……,"She asked me to pass on the message that, if you think it's good, to please help her publish it in—"
+AvgDialog_22128_Content_21,ahZv,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,934,AvgDialog,Content,汉娜,没问题没问题！诗好不好不重要，有话题度就够了！,"No problem, no problem! It doesn't matter if the poem is good or not, as long as it generates some buzz!"
+AvgDialog_22128_Content_22,ahZw,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,935,AvgDialog,Content,汉娜,另外守密人，奥尔拉愿意接受我的专访吗？！,"Also, Keeper, is Horla willing to accept my exclusive interview?!"
+AvgDialog_22128_Content_23,ahZx,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,936,AvgDialog,Content,汉娜,你就悄悄带我过去见一见……,"Just quietly take me to see her, and..."
+AvgDialog_22128_Content_24,ahZy,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,937,AvgDialog,Content,玩家,再贪心的话，小心连诗集都没的发表了。,"Be too greedy, and you might not even get that poem published."
+AvgDialog_22128_Content_25,ahZz,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,938,AvgDialog,Content,汉娜,噢……,Oh...
+AvgDialog_22128_Content_26,ahZA,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,939,AvgDialog,Content,玩家,诗集交给汉娜了。,I gave the poem to Hannah.
+AvgDialog_22128_Content_27,ahZB,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,940,AvgDialog,Content,无纸奥尔拉,您之前和我说，诗集带来的并不是不幸，我怎么都不相信。,"You once told me that the poems didn't bring misfortune, but I couldn't believe it."
+AvgDialog_22128_Content_28,ahZC,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,941,AvgDialog,Content,无纸奥尔拉,这次以后，我才真正明白过来。,Only after this did I truly come to understand.
+AvgDialog_22128_Content_29,ahZD,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,942,AvgDialog,Content,无纸奥尔拉,谢谢您，守密人%sirormadam%！,"Thank you, {Male=Sir,Female=Madam} Keeper!"
+AvgDialog_22128_Content_30,ahZF,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,943,AvgDialog,Content,玩家,这些话你可以留着等汉娜给你做专访的时候说……,You can save these words for when Hannah interviews you...
+AvgDialog_22128_Content_31,ahZG,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,944,AvgDialog,Content,无纸奥尔拉,啊……不要不要……我还是不太敢和别人说话……不过我会慢慢调整的！,"Ah... no, no... I still don't dare to talk to others... but I'll adjust gradually!"
+AvgDialog_22128_Content_32,ahZH,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,945,AvgDialog,Content,玩家,开个玩笑。我已经帮你回绝她了。,Just kidding. I've already declined her on your behalf.
+AvgDialog_22128_Content_33,ahZI,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,946,AvgDialog,Content,,奥尔拉长舒一口气。你走到她身旁。,Horla lets out a deep sigh. You approach her.
+AvgDialog_22128_Content_34,ahZJ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,947,AvgDialog,Content,玩家,你知道，汉娜就算把诗集发表出来，也没多少人真正会在意的。,"You know, even if Hannah publishes that poem, few people would actually care."
+AvgDialog_22128_Content_35,ahZK,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,948,AvgDialog,Content,玩家,大家在意的，其实也只是围绕那本诗集的故事和话题。,What people really care about is the stories and topics surrounding that collection of poems.
+AvgDialog_22128_Content_36,ahZL,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,949,AvgDialog,Content,无纸奥尔拉,嗯，我知道的，守密人%sirormadam%。,"Hmm, I know, {Male=Sir,Female=Madam} Keeper."
+AvgDialog_22128_Content_37,ahZM,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,950,AvgDialog,Content,无纸奥尔拉,就连西岱这样的城市，真正读诗的人也很少很少……,"Even in a city like Cité, there are very few true poetry readers..."
+AvgDialog_22128_Content_38,ahZN,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,951,AvgDialog,Content,玩家,不介意？,And you don't mind that?
+AvgDialog_22128_Content_39,ahZO,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,952,AvgDialog,Content,无纸奥尔拉,对于柯蕾特，这是最好的纪念方式。,"For Colette, this is the best way to pay tribute."
+AvgDialog_22128_Content_40,ahZQ,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,953,AvgDialog,Content,无纸奥尔拉,至于诗本身嘛……,As for the poem itself...
+AvgDialog_22128_Content_41,ahZR,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,954,AvgDialog,Content,,她从眼睛上那朵玫瑰上，摘下了一片花瓣，凑到鼻尖上。,She plucked a petal from a rose above her eye and brought it to her nose.
+AvgDialog_22128_Content_42,ahZS,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,955,AvgDialog,Content,无纸奥尔拉,在西岱，即使看不见花的地方，也满是花的香味。,"In Cité, even where flowers are not visible, their fragrance fills the air."
+AvgDialog_22128_Content_43,ahZT,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,956,AvgDialog,Content,无纸奥尔拉,诗和花一样，不一定是需要被人看到的……,"Poetry, like flowers, doesn't always need to be seen..."
+AvgDialog_22128_Content_44,ahZU,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,957,AvgDialog,Content,,她转过头来，对着你笑了笑。,She turned her head and smiled at you.
+AvgDialog_22128_Content_45,ahZV,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,958,AvgDialog,Content,无纸奥尔拉,守密人%sirormadam%，您相信吗？,"{Male=Sir,Female=Madam} Keeper, do you believe that too?"
+AvgDialog_22128_Content_46,ahZW,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,959,AvgDialog,Content,无纸奥尔拉,西岱仍然没有什么人读诗，但我想，玫瑰，其实早就已经开在人们心里了。,"Few in Cité read poetry, but I believe roses have long since bloomed in their hearts."
+AvgDialog_22128_Content_47,ahZX,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,960,AvgDialog,Content,,她扬起手。鲜红的花瓣离开她的手掌，悠扬飘远。,She raised her hand. Crimson petals drifted gracefully away from her palm.
+AvgDialog_22128_Content_48,ahZY,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,961,AvgDialog,Content,,风中带着玫瑰的香味，像从数十年前的西岱吹来。,"The wind carries the scent of roses, as if blowing from Cité decades ago."

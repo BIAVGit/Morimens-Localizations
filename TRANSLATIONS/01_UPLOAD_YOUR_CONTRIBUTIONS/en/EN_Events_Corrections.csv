@@ -1,0 +1,307 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+Event_7101_ChoiceDesc3,azGl,s事件_Event_A.csv,8,Event,ChoiceDesc3,,【驱逐】移除最多 3 张症状卡，获得 Arg2 黑印。,"[Expel] Destroy up to 3 Symptom cards, and receive Arg2 Black Sigils."
+Event_57738_ChoiceDesc1,axNL,s事件_Event_A.csv,51,Event,ChoiceDesc1,,【硬闯】所有唤醒体获得 30 点狂气，但将两张「(Skill.Arg1)」塞入卡组,"[Forceful Entry] Increase all Awakeners' Aliemus by 30, but add two ""(Skill.Arg1)"" cards to the deck."
+Event_57738_ChoiceDesc3,axNN,s事件_Event_A.csv,51,Event,ChoiceDesc3,,【伏击】消耗所有唤醒体狂气，获得 30 黑印并移除守卫威胁。,[Ambush] All Awakeners lose all Aliemus; receive 30 Black Sigils.
+Event_57776_ChoiceDesc2,axOk,s事件_Event_A.csv,56,Event,ChoiceDesc2,,【诈降】探索完该区域后，传送至羁押点，获得 2 张随机「症状」。,"[Feign Surrender] After exploring this area, be transferred to the Detention Point and develop two random Symptoms."
+Event_57776_ChoiceDesc3,axOl,s事件_Event_A.csv,56,Event,ChoiceDesc3,,【闯入】探索完该区域后，传送至羁押点，失去 Arg1 点生命。,"[Intrude] After exploring this area, be transferred to the Detention Point and lose Arg1 HP."
+Event_57776_Tips3,axOs,s事件_Event_A.csv,56,Event,Tips3,,当前生命不足,You don't have enough HP.
+Event_6908_ChoiceDesc1,ayMz,s事件_Event_A.csv,67,Event,ChoiceDesc1,,【解开上方的枝节】,[Unravel the Upper Branch]
+Event_6908_ChoiceDesc2,ayMA,s事件_Event_A.csv,67,Event,ChoiceDesc2,,【解开下方的枝节】,[Unravel the Lower Branch]
+Event_7353_ChoiceDesc1,aALH,s事件_Event_A.csv,109,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7340_ChoiceDesc1,aAIH,s事件_Event_A.csv,110,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7262_ChoiceDesc1,aAqH,s事件_Event_A.csv,114,Event,ChoiceDesc1,,【离开】,[Leave] Receive 25 Black Sigils
+Event_7298_ChoiceDesc1,aAyX,s事件_Event_A.csv,115,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_59612_ChoiceDesc1,axZX,s事件_Event_A.csv,119,Event,ChoiceDesc1,,【离开】,[Leave] Receive 25 Black Sigils
+Event_59632_ChoiceDesc1,ayeD,s事件_Event_A.csv,120,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_6914_ChoiceDesc1,ayNT,s事件_Event_A.csv,124,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6967_ChoiceDesc1,azaf,s事件_Event_A.csv,125,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_74169_ChoiceDesc1,aBgj,s事件_Event_A.csv,127,Event,ChoiceDesc1,,【保持距离】获得25黑印,[Maintain Distance] Receive 25 Black Sigils
+Event_7390_ChoiceDesc1,aAUj,s事件_Event_A.csv,130,Event,ChoiceDesc1,,【原地不动】获得25黑印,[Stand Still] Receive 25 Black Sigils
+Event_6943_ChoiceDesc1,ayUD,s事件_Event_A.csv,133,Event,ChoiceDesc1,,【转身】获得25黑印,[Turn Around] Receive 25 Black Sigils
+Event_7381_ChoiceDesc1,aASf,s事件_Event_A.csv,136,Event,ChoiceDesc1,,【转身】获得25黑印,[Turn Around] Receive 25 Black Sigils
+Event_6921_ChoiceDesc1,ayPz,s事件_Event_A.csv,139,Event,ChoiceDesc1,,【低头看】获得25黑印,[Lower Gaze] Receive 25 Black Sigils
+Event_59583_ChoiceDesc1,axTn,s事件_Event_A.csv,142,Event,ChoiceDesc1,,【说服】获得25黑印,[Persuade] Receive 25 Black Sigils
+Event_7338_ChoiceDesc1,aAIj,s事件_Event_A.csv,145,Event,ChoiceDesc1,,【俯瞰倒影】获得25黑印,[Overlook Reflection] Receive 25 Black Sigils
+Event_35903_ChoiceDesc1,awEf,s事件_Event_A.csv,148,Event,ChoiceDesc1,,【触碰银光】获得25黑印,[Touch the Silver Light] Receive 25 Black Sigils
+Event_50293_ChoiceDesc1,axEX,s事件_Event_A.csv,151,Event,ChoiceDesc1,,【安心】获得25黑印,[Calm] Receive 25 Black Sigils
+Event_7393_ChoiceDesc3,aAUV,s事件_Event_A.csv,154,Event,ChoiceDesc3,,【静心聆听】获得25黑印,[Listen Quietly] Receive 25 Black Sigils
+Event_59610_ChoiceDesc3,axZB,s事件_Event_A.csv,158,Event,ChoiceDesc3,,【沉默观看】获得25黑印,[Silent Watch] Receive 25 Black Sigils
+Event_7112_ChoiceDesc3,azIN,s事件_Event_A.csv,162,Event,ChoiceDesc3,,【放回抽屉】获得25黑印,[Put Back in Drawer] Receive 25 Black Sigils
+Event_7448_ChoiceDesc3,aBuN,s事件_Event_A.csv,166,Event,ChoiceDesc3,,【仔细观察】获得25黑印,[Observe Carefully] Receive 25 Black Sigils
+Event_7152_ChoiceDesc3,azRZ,s事件_Event_A.csv,170,Event,ChoiceDesc3,,【小心收好】获得25黑印,[Store Carefully] Receive 25 Black Sigils
+Event_7251_ChoiceDesc3,aAoh,s事件_Event_A.csv,174,Event,ChoiceDesc3,,【置之不理】获得25黑印,[Ignore] Receive 25 Black Sigils
+Event_36743_ChoiceDesc3,awRd,s事件_Event_A.csv,178,Event,ChoiceDesc3,,【无视疼痛】获得25黑印,[Ignore Pain] Receive 25 Black Sigils
+Event_7378_ChoiceDesc3,aARx,s事件_Event_A.csv,182,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7410_ChoiceDesc3,aAZp,s事件_Event_A.csv,185,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6941_ChoiceDesc3,ayUh,s事件_Event_A.csv,188,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6824_ChoiceDesc3,ayth,s事件_Event_A.csv,191,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7595_ChoiceDesc3,aCcJ,s事件_Event_A.csv,194,Event,ChoiceDesc3,,【背对】获得25黑印,[Turn Your Back] Receive 25 Black Sigils
+Event_61073_ChoiceDesc3,aynF,s事件_Event_A.csv,198,Event,ChoiceDesc3,,【继续奔跑】获得25黑印,[Keep Running] Receive 25 Black Sigils
+Event_36880_ChoiceDesc3,awUN,s事件_Event_A.csv,202,Event,ChoiceDesc3,,【同她商量】获得25黑印,[Negotiate with Her] Receive 25 Black Sigils
+Event_7619_ChoiceDesc3,aCil,s事件_Event_A.csv,227,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6958_ChoiceDesc3,ayYd,s事件_Event_A.csv,230,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7229_ChoiceDesc3,aAjd,s事件_Event_A.csv,233,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7085_ChoiceDesc3,azCp,s事件_Event_A.csv,236,Event,ChoiceDesc3,,【转身离开】获得25黑印,[Turn and Leave] Receive 25 Black Sigils
+Event_48230_ChoiceDesc3,axlR,s事件_Event_A.csv,239,Event,ChoiceDesc3,,【无视它】获得25黑印,[Disregard It] Receive 25 Black Sigils
+Event_24545_ChoiceDesc3,awzZ,s事件_Event_A.csv,243,Event,ChoiceDesc3,,【转身离开】获得25黑印,[Turn and Leave] Receive 25 Black Sigils
+Event_50015_ChoiceDesc3,axvd,s事件_Event_A.csv,246,Event,ChoiceDesc3,,【揉揉眼睛】获得25黑印,[Rub Your Eyes] Receive 25 Black Sigils
+Event_61061_ChoiceDesc3,aykR,s事件_Event_A.csv,250,Event,ChoiceDesc3,,【呼喊幽灵】获得25黑印,[Call the Spirit] Receive 25 Black Sigils
+Event_7043_ChoiceDesc3,azsF,s事件_Event_A.csv,254,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7498_ChoiceDesc3,aBGp,s事件_Event_A.csv,257,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_59600_ChoiceDesc3,axXl,s事件_Event_A.csv,260,Event,ChoiceDesc3,,【默默接受】获得25黑印,[Accept Silently] Receive 25 Black Sigils
+Event_7561_ChoiceDesc3,aBUR,s事件_Event_A.csv,263,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6988_ChoiceDesc3,azfV,s事件_Event_A.csv,266,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_59588_ChoiceDesc3,axUx,s事件_Event_A.csv,269,Event,ChoiceDesc3,,【闭上双眼】获得25黑印,[Close Your Eyes] Receive 25 Black Sigils
+Event_7159_ChoiceDesc3,azTF,s事件_Event_A.csv,272,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_91468_ChoiceDesc3,byPg,s事件_Event_A.csv,275,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7491_ChoiceDesc1,aBEH,s事件_Event_A.csv,296,Event,ChoiceDesc1,,【您愿意付出怎样的代价呢？】随机提升1张卡牌的刻印品质,[What Price Are You Willing to Pay?] Enhance the Orison quality of a random card.
+Event_7185_ChoiceDesc1,azZD,s事件_Event_A.csv,299,Event,ChoiceDesc1,,【女士肖像画】随机提升1张卡牌的刻印品质,[Lady's Portrait] Enhance the Orison quality of a random card.
+Event_7480_ChoiceDesc1,aBCf,s事件_Event_A.csv,302,Event,ChoiceDesc1,,【静静听着】随机提升1张卡牌的刻印品质,[Listening Quietly] Enhance the Orison quality of a random card.
+Event_7160_ChoiceDesc1,azTP,s事件_Event_A.csv,305,Event,ChoiceDesc1,,【留下供奉】随机提升1张卡牌的刻印品质,[Leave an Offering] Enhance the Orison quality of a random card.
+Event_50292_ChoiceDesc1,axEL,s事件_Event_A.csv,308,Event,ChoiceDesc1,,【挣脱回忆】随机提升1张卡牌的刻印品质,[Break Free from Memories] Enhance the Orison quality of a random card.
+Event_7374_ChoiceDesc3,aAQB,s事件_Event_A.csv,347,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7550_ChoiceDesc3,aBSp,s事件_Event_A.csv,350,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_59574_ChoiceDesc3,axRl,s事件_Event_A.csv,353,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7536_ChoiceDesc3,aBPd,s事件_Event_A.csv,356,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_91499_ChoiceDesc3,byRl,s事件_Event_A.csv,359,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7026_ChoiceDesc3,azoJ,s事件_Event_A.csv,362,Event,ChoiceDesc3,,【拆开它】获得50黑印,[Disassemble It] Receive 50 Black Sigils
+Event_59570_ChoiceDesc3,axQp,s事件_Event_A.csv,366,Event,ChoiceDesc3,,【以直视】获得50黑印,[Stare Directly] Receive 50 Black Sigils
+Event_7135_ChoiceDesc3,azOd,s事件_Event_A.csv,370,Event,ChoiceDesc3,,【赶紧开溜】获得50黑印,[Run Away] Receive 50 Black Sigils
+Event_7404_ChoiceDesc3,aAXx,s事件_Event_A.csv,374,Event,ChoiceDesc3,,【我要走自己的路】获得50黑印,[I Will Walk My Own Path] Receive 50 Black Sigils
+Event_7591_ChoiceDesc3,aCbN,s事件_Event_A.csv,378,Event,ChoiceDesc3,,【夺走诗人的稿纸】获得50黑印,[Steal the Poet's Manuscript] Receive 50 Black Sigils
+Event_50276_ChoiceDesc3,axBd,s事件_Event_A.csv,382,Event,ChoiceDesc3,,【继续前进】获得50黑印,[Keep Going] Receive 50 Black Sigils
+Event_7304_ChoiceDesc1,aAAr,s事件_Event_A.csv,388,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_80468_ChoiceDesc1,bsjy,s事件_Event_A.csv,401,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7297_ChoiceDesc1,aAyL,s事件_Event_A.csv,513,Event,ChoiceDesc1,,【迎向蝴蝶】删除1张指令卡，获得Arg1黑印,"[Go to the Butterflies] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_7016_ChoiceDesc1,azmr,s事件_Event_A.csv,514,Event,ChoiceDesc1,,【抓住第二只蝴蝶】删除1张指令卡，获得Arg1黑印,"[Catch the Second Butterfly] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_7017_ChoiceDesc1,azmD,s事件_Event_A.csv,515,Event,ChoiceDesc1,,【观察第三只蝴蝶】删除1张指令卡，获得Arg1黑印,"[Observe the Third Butterfly] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_7436_ChoiceDesc1,aBrX,s事件_Event_A.csv,517,Event,ChoiceDesc1,,【放弃抵抗】删除1张指令卡，获得Arg1黑印,"[Give Up Resistance] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_6889_ChoiceDesc1,ayIf,s事件_Event_A.csv,518,Event,ChoiceDesc1,,【放弃抵抗】删除1张指令卡，获得Arg1黑印,"[Give Up Resistance] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_6837_ChoiceDesc1,aywf,s事件_Event_A.csv,519,Event,ChoiceDesc1,,【放弃抵抗】删除1张指令卡，获得Arg1黑印,"[Give Up Resistance] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_80480_ChoiceDesc1,bsmm,s事件_Event_A.csv,521,Event,ChoiceDesc1,,【开始「工作」】删除1张指令卡，获得Arg1黑印,[Start 'working'] Destroy a Command card and receive Arg1 Black Sigils.
+Event_80469_ChoiceDesc1,bsjK,s事件_Event_A.csv,522,Event,ChoiceDesc1,,【开始「工作」】删除1张指令卡，获得Arg1黑印,[Start 'working'] Destroy a Command card and receive Arg1 Black Sigils.
+Event_80478_ChoiceDesc1,bslO,s事件_Event_A.csv,523,Event,ChoiceDesc1,,【开始「工作」】删除1张指令卡，获得Arg1黑印,[Start 'working'] Destroy a Command card and receive Arg1 Black Sigils.
+Event_6831_ChoiceDesc1,ayuL,s事件_Event_A.csv,525,Event,ChoiceDesc1,,【阅读书信】删除1张指令卡，获得Arg1黑印,"[Read the Letter] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_6915_ChoiceDesc1,ayOf,s事件_Event_A.csv,526,Event,ChoiceDesc1,,【阅读书信】删除1张指令卡，获得Arg1黑印,"[Read the Letter] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_7027_ChoiceDesc1,azoT,s事件_Event_A.csv,527,Event,ChoiceDesc1,,【阅读书信】删除1张指令卡，获得Arg1黑印,"[Read the Letter] Destroy a Command card, and receive Arg1 Black Sigils."
+Event_6923_ChoiceDesc1,ayPX,s事件_Event_A.csv,529,Event,ChoiceDesc1,,【驱赶乌鸦】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_6923_ChoiceDesc2,ayPY,s事件_Event_A.csv,529,Event,ChoiceDesc2,,【无视】获得25黑印，离开,[Disregard] Receive 25 Black Sigils and leave.
+Event_7202_ChoiceDesc1,aAdz,s事件_Event_A.csv,530,Event,ChoiceDesc1,,【驱赶乌鸦】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7400_ChoiceDesc1,aAWz,s事件_Event_A.csv,531,Event,ChoiceDesc1,,【驱赶乌鸦】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7288_ChoiceDesc1,aAwH,s事件_Event_A.csv,532,Event,ChoiceDesc1,,【驱赶乌鸦】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_6953_ChoiceDesc1,ayWT,s事件_Event_A.csv,533,Event,ChoiceDesc1,,【驱赶乌鸦】获得Arg1黑印，感染「(Skill.Arg2)」,"[Chase the Crows] Receive Arg1 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_6905_ChoiceDesc1,ayLP,s事件_Event_A.csv,536,Event,ChoiceDesc1,,【摁住乌鸦】获得40黑印，感染「(Skill.Arg2)」，继续选择,"[Pin Down the Crow] Receive 40 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_6905_ChoiceDesc2,ayLQ,s事件_Event_A.csv,536,Event,ChoiceDesc2,,【放任不管】获得25黑印，离开,[Ignore It] Receive 25 Black Sigils and leave.
+Event_7193_ChoiceDesc1,aAbv,s事件_Event_A.csv,537,Event,ChoiceDesc1,,【摁住乌鸦】获得35黑印，感染「(Skill.Arg2)」，继续选择,"[Pin Down the Crow] Receive 35 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7197_ChoiceDesc1,aAcr,s事件_Event_A.csv,538,Event,ChoiceDesc1,,【摁住乌鸦】获得30黑印，感染「(Skill.Arg2)」，继续选择,"[Pin Down the Crow] Receive 30 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7270_ChoiceDesc1,aAsz,s事件_Event_A.csv,539,Event,ChoiceDesc1,,【摁住乌鸦】获得25黑印，感染「(Skill.Arg2)」，继续选择,"[Pin Down the Crow] Receive 25 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7266_ChoiceDesc1,aArD,s事件_Event_A.csv,540,Event,ChoiceDesc1,,【摁住乌鸦】获得20黑印，感染「(Skill.Arg2)」,"[Pin Down the Crow] Receive 20 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_91490_ChoiceDesc1,byQE,s事件_Event_A.csv,543,Event,ChoiceDesc1,,【聆听】获得40黑印，感染「(Skill.Arg2)」，继续选择,"[Listen] Receive 40 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_91490_ChoiceDesc2,byQF,s事件_Event_A.csv,543,Event,ChoiceDesc2,,【无视】获得25黑印，离开,[Disregard] Receive 25 Black Sigils and leave.
+Event_91506_ChoiceDesc1,byRI,s事件_Event_A.csv,544,Event,ChoiceDesc1,,【聆听】获得35黑印，感染「(Skill.Arg2)」，继续选择,"[Listen] Receive 35 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_91464_ChoiceDesc1,byOO,s事件_Event_A.csv,545,Event,ChoiceDesc1,,【聆听】获得30黑印，感染「(Skill.Arg2)」，继续选择,"[Listen] Receive 30 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_91466_ChoiceDesc1,byOV,s事件_Event_A.csv,546,Event,ChoiceDesc1,,【聆听】获得25黑印，感染「(Skill.Arg2)」，继续选择,"[Listen] Receive 25 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_91500_ChoiceDesc1,byRo,s事件_Event_A.csv,547,Event,ChoiceDesc1,,【聆听】获得20黑印，感染「(Skill.Arg2)」,"[Listen] Receive 20 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_59571_ChoiceDesc1,axQz,s事件_Event_A.csv,550,Event,ChoiceDesc1,,【寻找答案】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Seek Answers] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_59571_ChoiceDesc2,axQA,s事件_Event_A.csv,550,Event,ChoiceDesc2,,【放弃】获得25黑印，离开,[Give Up] Receive 25 Black Sigils and leave.
+Event_59597_ChoiceDesc1,axWz,s事件_Event_A.csv,551,Event,ChoiceDesc1,,【寻找答案】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Seek Answers] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_59619_ChoiceDesc1,aybD,s事件_Event_A.csv,552,Event,ChoiceDesc1,,【寻找答案】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Seek Answers] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_59608_ChoiceDesc1,axZb,s事件_Event_A.csv,553,Event,ChoiceDesc1,,【寻找答案】获得Arg1黑印，感染「(Skill.Arg2)」，继续选择,"[Seek Answers] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_59633_ChoiceDesc1,ayeP,s事件_Event_A.csv,554,Event,ChoiceDesc1,,【寻找答案】获得Arg1黑印，感染「(Skill.Arg2)」,"[Seek Answers] Receive Arg1 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7548_ChoiceDesc1,aBRP,s事件_Event_A.csv,557,Event,ChoiceDesc1,,【驱赶乌鸦】获得40黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive 40 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7548_ChoiceDesc2,aBRQ,s事件_Event_A.csv,557,Event,ChoiceDesc2,,【继续追逐孩子】获得25黑印，离开,[Keep Chasing the Child] Receive 25 Black Sigils and leave.
+Event_7505_ChoiceDesc1,aBHT,s事件_Event_A.csv,558,Event,ChoiceDesc1,,【驱赶乌鸦】获得35黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive 35 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7492_ChoiceDesc1,aBET,s事件_Event_A.csv,559,Event,ChoiceDesc1,,【驱赶乌鸦】获得30黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive 30 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7334_ChoiceDesc1,aAHn,s事件_Event_A.csv,560,Event,ChoiceDesc1,,【驱赶乌鸦】获得25黑印，感染「(Skill.Arg2)」，继续选择,"[Chase the Crows] Receive 25 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7435_ChoiceDesc1,aBrL,s事件_Event_A.csv,561,Event,ChoiceDesc1,,【驱赶乌鸦】获得20黑印，感染「(Skill.Arg2)」,"[Chase the Crows] Receive 20 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_7188_ChoiceDesc1,aAan,s事件_Event_A.csv,563,Event,ChoiceDesc1,,【呼唤乌鸦】获得40黑印，感染「(Skill.Arg2)」，继续选择,"[Call the Crow] Receive 40 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7188_ChoiceDesc2,aAao,s事件_Event_A.csv,563,Event,ChoiceDesc2,,【远远离开】获得25黑印,[Stay Far Away] Receive 25 Black Sigils and leave.
+Event_7032_ChoiceDesc1,azqb,s事件_Event_A.csv,564,Event,ChoiceDesc1,,【呼唤乌鸦】获得35黑印，感染「(Skill.Arg2)」，继续选择,"[Call the Crow] Receive 35 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_6836_ChoiceDesc1,ayvT,s事件_Event_A.csv,565,Event,ChoiceDesc1,,【呼唤乌鸦】获得30黑印，感染「(Skill.Arg2)」，继续选择,"[Call the Crow] Receive 30 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7001_ChoiceDesc1,aziT,s事件_Event_A.csv,566,Event,ChoiceDesc1,,【呼唤乌鸦】获得25黑印，感染「(Skill.Arg2)」，继续选择,"[Call the Crow] Receive 25 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_7124_ChoiceDesc1,azLz,s事件_Event_A.csv,567,Event,ChoiceDesc1,,【呼唤乌鸦】获得20黑印，感染「(Skill.Arg2)」,"[Call the Crow] Receive 20 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_35916_ChoiceDesc1,awHf,s事件_Event_A.csv,570,Event,ChoiceDesc1,,【无法抽身】获得40黑印，感染「(Skill.Arg2)」，继续选择,"[No Way Out] Receive 40 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_35916_ChoiceDesc2,awHg,s事件_Event_A.csv,570,Event,ChoiceDesc2,,【拥抱现实】获得25黑印,[Embrace Reality] Receive 25 Black Sigils and leave.
+Event_35894_ChoiceDesc1,awCb,s事件_Event_A.csv,571,Event,ChoiceDesc1,,【向下坠落】获得35黑印，感染「(Skill.Arg2)」，继续选择,"[Fall Downwards] Receive 35 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_35895_ChoiceDesc1,awCn,s事件_Event_A.csv,572,Event,ChoiceDesc1,,【周而复始】获得30黑印，感染「(Skill.Arg2)」，继续选择,"[Cycle Again] Receive 30 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_35933_ChoiceDesc1,awLb,s事件_Event_A.csv,573,Event,ChoiceDesc1,,【无处可逃】获得25黑印，感染「(Skill.Arg2)」，继续选择,"[Nowhere to Run] Receive 25 Black Sigils, develop ""(Skill.Arg2)"" and continue choosing."
+Event_35912_ChoiceDesc1,awGj,s事件_Event_A.csv,574,Event,ChoiceDesc1,,【沉沦迷离】获得20黑印，感染「(Skill.Arg2)」,"[Sink into Oblivion] Receive 20 Black Sigils, but develop ""(Skill.Arg2)"""
+Event_6818_ChoiceDesc2,ayrM,s事件_Event_A.csv,577,Event,ChoiceDesc2,,【合奏】每有一名狂气值在50及以上的唤醒体，获得15黑印,[Ensemble] Receive 15 Black Sigils for each Awakener with 50 or more Aliemus.
+Event_74175_ChoiceDesc2,aBhQ,s事件_Event_A.csv,580,Event,ChoiceDesc2,,【聆听琴声】每有一名狂气值在50及以上的唤醒体，获得15黑印,[Listening to the Strings] Receive 15 Black Sigils for each Awakener with 50 or more Aliemus.
+Event_6888_ChoiceDesc2,ayHU,s事件_Event_A.csv,583,Event,ChoiceDesc2,,【听完弹奏】每有一名狂气值在50及以上的唤醒体，获得15黑印,[Listen to the Performance] Receive 15 Black Sigils for each Awakener with 50 or more Aliemus.
+Event_50073_ChoiceDesc2,axyY,s事件_Event_A.csv,586,Event,ChoiceDesc2,,【捂住耳朵】每有一名狂气值在50及以上的唤醒体，获得15黑印,[Cover Ears] Receive 15 Black Sigils for each Awakener with 50 or more Aliemus.
+Event_7064_ChoiceDesc2,azxw,s事件_Event_A.csv,590,Event,ChoiceDesc2,,【聆听喜悦】每有一名狂气值在50及以上的唤醒体，获得15黑印,[Hear Joy] Receive 15 Black Sigils for each Awakener with 50 or more Aliemus.
+Event_6983_ChoiceDesc2,azeM,s事件_Event_A.csv,593,Event,ChoiceDesc2,,【拒绝离开】获得75黑印，感染「(Skill.Arg2)」,"[Refuse to Leave] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_7221_ChoiceDesc2,aAhk,s事件_Event_A.csv,596,Event,ChoiceDesc2,,【低头查看】获得75黑印，感染「(Skill.Arg2)」,"[Look Down] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_36874_ChoiceDesc2,awTs,s事件_Event_A.csv,599,Event,ChoiceDesc2,,【没有上过学】获得75黑印，感染「(Skill.Arg2)」,"[Uneducated] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_7538_ChoiceDesc2,aBPA,s事件_Event_A.csv,602,Event,ChoiceDesc2,,【继续捂住耳朵】获得75黑印，感染「(Skill.Arg2)」,"[Keep Covering Ears] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_91481_ChoiceDesc2,byPZ,s事件_Event_A.csv,605,Event,ChoiceDesc2,,【低头离开】获得75黑印，感染「(Skill.Arg2)」,"[Black Sigil] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_7420_ChoiceDesc3,aBkh,s事件_Event_A.csv,625,Event,ChoiceDesc3,,【离开】获得 Arg1 黑印,[Leave] Receive Arg1 Black Sigils
+Event_59609_ChoiceDesc3,axZp,s事件_Event_A.csv,628,Event,ChoiceDesc3,,【离开】获得 Arg1 黑印,[Leave] Receive Arg1 Black Sigils
+Event_7296_ChoiceDesc3,aAyB,s事件_Event_A.csv,631,Event,ChoiceDesc3,,【离开】获得 Arg1 黑印,[Leave] Receive Arg1 Black Sigils
+Event_91472_ChoiceDesc3,byPu,s事件_Event_A.csv,634,Event,ChoiceDesc3,,【离开】获得 Arg1 黑印,[Leave] Receive Arg1 Black Sigils
+Event_7382_ChoiceDesc3,aASt,s事件_Event_A.csv,637,Event,ChoiceDesc3,,【离开】获得 Arg1 黑印,[Leave] Receive Arg1 Black Sigils
+Event_7192_ChoiceDesc1,aAbj,s事件_Event_A.csv,643,Event,ChoiceDesc1,,【离开】获得50黑印，感染「(Skill.Arg1)」,"[Leave] Receive 50 Black Sigils, but develop the Symptom ""(Skill.Arg1)"""
+Event_7330_ChoiceDesc1,aAGr,s事件_Event_A.csv,645,Event,ChoiceDesc1,,【离开】所有唤醒体回复Arg1狂气,[Leave] Increase all Awakeners' Aliemus by Arg1
+Event_6991_ChoiceDesc1,azgD,s事件_Event_A.csv,651,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7237_ChoiceDesc1,aAkT,s事件_Event_A.csv,654,Event,ChoiceDesc1,,【离开】所有唤醒体回复Arg1狂气,[Leave] Increase all Awakeners' Aliemus by Arg1
+Event_7098_ChoiceDesc1,azFz,s事件_Event_A.csv,658,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7477_ChoiceDesc1,aBBv,s事件_Event_A.csv,661,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7247_ChoiceDesc1,aAnj,s事件_Event_A.csv,667,Event,ChoiceDesc1,,【离开】删除1张指令卡，获得25黑印,[Leave] Destroy a Command card and receive 25 Black Sigils.
+Event_7074_ChoiceDesc1,azzL,s事件_Event_A.csv,679,Event,ChoiceDesc1,,【离开】提升 Arg1 点生命，并获得25黑印,[Leave] Increase Max HP by Arg1 and receive 25 Black Sigils.
+Event_7620_ChoiceDesc1,aCiv,s事件_Event_A.csv,682,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7621_ChoiceDesc1,aCiH,s事件_Event_A.csv,683,Event,ChoiceDesc1,,【离开】获得75黑印，感染「(Skill.Arg2)」,"[Leave] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_7449_ChoiceDesc1,aBuX,s事件_Event_A.csv,697,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7335_ChoiceDesc1,aAHz,s事件_Event_A.csv,698,Event,ChoiceDesc1,,【离开】获得75黑印，感染「(Skill.Arg2)」,"[Leave] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_35929_ChoiceDesc1,awKf,s事件_Event_A.csv,721,Event,ChoiceDesc1,,【离开】获得 25 黑印,[Leave] Receive 25 Black Sigils
+Event_35902_ChoiceDesc1,awDT,s事件_Event_A.csv,727,Event,ChoiceDesc1,,【离开】获得 50 黑印,[Leave] Receive 50 Black Sigils
+Event_49939_ChoiceDesc1,axsn,s事件_Event_A.csv,754,Event,ChoiceDesc1,,【相信莱克】所有唤醒体回复Arg1狂气,[Trust Ryker] Increase all Awakeners' Aliemus by Arg1
+Event_7539_ChoiceDesc1,aBPL,s事件_Event_A.csv,798,Event,ChoiceDesc1,,【学猫叫】获得50黑印,[Imitate Cat's Call] Receive 50 Black Sigils
+Event_7539_ChoiceDesc2,aBPM,s事件_Event_A.csv,798,Event,ChoiceDesc2,,【投喂食物】获得75黑印，感染「(Skill.Arg2)」,"[Feed] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_74167_ChoiceDesc1,aBfL,s事件_Event_A.csv,801,Event,ChoiceDesc1,,【揉揉眼睛】获得50黑印,[Rub Your Eyes] Receive 50 Black Sigils
+Event_74167_ChoiceDesc2,aBfM,s事件_Event_A.csv,801,Event,ChoiceDesc2,,【闭上眼睛】获得75黑印，感染「(Skill.Arg2)」,"[Close Your Eyes] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_59615_ChoiceDesc1,ayaH,s事件_Event_A.csv,804,Event,ChoiceDesc1,,【忽视怀疑】获得50黑印,[Ignore Suspicion] Receive 50 Black Sigils
+Event_59615_ChoiceDesc2,ayaI,s事件_Event_A.csv,804,Event,ChoiceDesc2,,【独断专行】获得75黑印，感染「(Skill.Arg2)」,"[Arbitrary] Receive 75 Black Sigils, but develop the Symptom ""(Skill.Arg2)"""
+Event_7537_ChoiceDesc3,aBPp,s事件_Event_A.csv,807,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7502_ChoiceDesc3,aBHl,s事件_Event_A.csv,810,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_80620_ChoiceDesc3,bspA,s事件_Event_A.csv,813,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7065_ChoiceDesc1,azxH,s事件_Event_A.csv,831,Event,ChoiceDesc1,,【他们在寻找某个人】删除1张指令卡，获得25黑印,"[They're Searching for Someone] Destroy a Command card, and receive 25 Black Sigils."
+Event_74145_ChoiceDesc1,aBaj,s事件_Event_A.csv,834,Event,ChoiceDesc1,,【阅读】删除1张指令卡，获得25黑印,"[Read] Destroy a Command card, and receive 25 Black Sigils."
+Event_6820_ChoiceDesc1,aysj,s事件_Event_A.csv,837,Event,ChoiceDesc1,,【清理打字机】删除1张指令卡，获得25黑印,"[Clean the Typewriter] Destroy a Command card, and receive 25 Black Sigils."
+Event_80597_ChoiceDesc3,bsnk,s事件_Event_A.csv,843,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6851_ChoiceDesc3,ayzt,s事件_Event_A.csv,846,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7161_ChoiceDesc3,azUd,s事件_Event_A.csv,849,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7162_ChoiceDesc3,azUp,s事件_Event_A.csv,852,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_91467_ChoiceDesc3,byPb,s事件_Event_A.csv,855,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7547_ChoiceDesc3,aBRF,s事件_Event_A.csv,858,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7164_ChoiceDesc3,azUN,s事件_Event_A.csv,861,Event,ChoiceDesc3,,【迎接蝴蝶】获得25黑印,[Welcome the Butterflies] Receive 25 Black Sigils
+Event_7279_ChoiceDesc3,aAuF,s事件_Event_A.csv,865,Event,ChoiceDesc3,,【吞回肚子】获得25黑印,[Swallow Back] Receive 25 Black Sigils
+Event_35896_ChoiceDesc3,awCB,s事件_Event_A.csv,869,Event,ChoiceDesc3,,【目视黑暗】获得25黑印,[Stare into Darkness] Receive 25 Black Sigils
+Event_7007_ChoiceDesc3,azkp,s事件_Event_A.csv,873,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_91484_ChoiceDesc2,byQj,s事件_Event_A.csv,876,Event,ChoiceDesc2,,【拿起听筒】获得黄金造物「(RelicConfig.Arg1)」，感染「(Skill.Arg2)」,"[Pick up the Receiver] Acquire the Golden Relic ""(RelicConfig.Arg1)"", but develop ""(Skill.Arg2)"""
+Event_91484_ChoiceDesc3,byQk,s事件_Event_A.csv,876,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7183_ChoiceDesc3,azZh,s事件_Event_A.csv,879,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_61060_ChoiceDesc3,aykF,s事件_Event_A.csv,882,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7395_ChoiceDesc3,aAVt,s事件_Event_A.csv,897,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7343_ChoiceDesc3,aAJt,s事件_Event_A.csv,900,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_35915_ChoiceDesc3,awGV,s事件_Event_A.csv,903,Event,ChoiceDesc3,,【注视她】获得25黑印,[Gaze at Her] Receive 25 Black Sigils
+Event_50067_ChoiceDesc3,axxF,s事件_Event_A.csv,907,Event,ChoiceDesc3,,【偷听谈话】获得25黑印,[Eavesdrop] Receive 25 Black Sigils
+Event_74166_ChoiceDesc3,aBfB,s事件_Event_A.csv,944,Event,ChoiceDesc3,,【无视】获得25黑印,[Ignore] Receive 25 Black Sigils
+Event_7397_ChoiceDesc3,aAVR,s事件_Event_A.csv,947,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_59590_ChoiceDesc3,axUV,s事件_Event_A.csv,950,Event,ChoiceDesc3,,【收起】获得25黑印,[Store] Receive 25 Black Sigils
+Event_7392_ChoiceDesc3,aAUJ,s事件_Event_A.csv,953,Event,ChoiceDesc3,,【转身离开】获得25黑印,[Turn and Leave] Receive 25 Black Sigils
+Event_40458_ChoiceDesc3,awXN,s事件_Event_A.csv,954,Event,ChoiceDesc3,,【回信】获得25黑印,[Reply] Receive 25 Black Sigils
+Event_7590_ChoiceDesc1,aCbz,s事件_Event_A.csv,961,Event,ChoiceDesc1,,【检查胶片】随机升级2张卡牌的刻印效果,[Check the Film] Enhance the Orison quality of 2 random cards.
+Event_59614_ChoiceDesc1,ayav,s事件_Event_A.csv,964,Event,ChoiceDesc1,,【勇气】随机升级2张卡牌的刻印效果,[Courage] Enhance the Orison quality of 2 random cards.
+Event_22399_ChoiceDesc2,awwY,s事件_Event_A.csv,1003,Event,ChoiceDesc2,,【出声问询】获得25黑印,[Ask Aloud] Receive 25 Black Sigils
+Event_7531_ChoiceDesc1,aBNT,s事件_Event_A.csv,1006,Event,ChoiceDesc1,,【直视地狱犬来源】获得黄金造物「(RelicConfig.Arg1)」，感染「(Skill.Arg2)」,"[Stare Down the Hellhound Source] Acquire the Golden Relic ""(RelicConfig.Arg1)"" but develop ""(Skill.Arg2)"""
+Event_74247_ChoiceDesc2,aBlA,s事件_Event_A.csv,1023,Event,ChoiceDesc2,,【还是算了】获得25黑印,[Forget It] Receive 25 Black Sigils
+Event_74256_ChoiceDesc1,aBnP,s事件_Event_A.csv,1025,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7493_ChoiceDesc2,aBFg,s事件_Event_A.csv,1029,Event,ChoiceDesc2,,【还是算了】获得25黑印,[Forget It] Receive 25 Black Sigils
+Event_6865_ChoiceDesc1,ayCD,s事件_Event_A.csv,1031,Event,ChoiceDesc1,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7494_ChoiceDesc3,aBFt,s事件_Event_A.csv,1035,Event,ChoiceDesc3,,【清醒离开】获得25黑印,[Clear-Minded Departure] Receive 25 Black Sigils
+Event_7495_ChoiceDesc1,aBFD,s事件_Event_A.csv,1039,Event,ChoiceDesc1,,【全力挣扎】删除1张指令卡，获得Arg1黑印,[Struggle Fully] Destroy a Command card and receive Arg1 Black Sigils.
+Event_80637_ChoiceDesc1,bsti,s事件_Event_A.csv,1043,Event,ChoiceDesc1,,【选择拒绝】删除1张指令卡，获得Arg1黑印,[Refuse] Destroy a Command card and receive Arg1 Black Sigils.
+Event_36726_ChoiceDesc1,awNf,s事件_Event_A.csv,1047,Event,ChoiceDesc1,,【绕路而行】删除1张指令卡，获得Arg1黑印,[Detour] Destroy a Command card and receive Arg1 Black Sigils.
+Event_50064_ChoiceDesc1,axwT,s事件_Event_A.csv,1051,Event,ChoiceDesc1,,【切断红绸】删除1张指令卡，获得Arg1黑印,[Cut the Red Ribbon] Destroy a Command card and receive Arg1 Black Sigils.
+Event_59641_ChoiceDesc1,aygH,s事件_Event_A.csv,1055,Event,ChoiceDesc1,,【挣扎向前】删除1张指令卡，获得Arg1黑印,[Struggle Forward] Destroy a Command card and receive Arg1 Black Sigils.
+Event_7496_ChoiceDesc3,aBFR,s事件_Event_A.csv,1059,Event,ChoiceDesc3,,【收件人：老师】获得25黑印,[Recipient: Teacher] Receive 25 Black Sigils
+Event_6868_ChoiceDesc2,ayDo,s事件_Event_A.csv,1066,Event,ChoiceDesc2,,【反面】50%概率获得75黑印，50%概率感染「(Skill.Arg3)」,"[Tails] 50% chance to receive 75 Black Sigils, 50% chance to develop ""(Skill.Arg3)"""
+Event_6869_ChoiceDesc1,ayDz,s事件_Event_A.csv,1070,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7102_ChoiceDesc2,azGw,s事件_Event_A.csv,1071,Event,ChoiceDesc2,,【给祂一拳】获得25黑印,[Punch It] Receive 25 Black Sigils
+Event_7244_ChoiceDesc2,aAmA,s事件_Event_A.csv,1072,Event,ChoiceDesc2,,【反面】50%概率获得75黑印，50%概率感染「(Skill.Arg3)」,"[Red Chip] 50% chance to receive 75 Black Sigils, 50% chance to develop ""(Skill.Arg3)"""
+Event_7153_ChoiceDesc2,azSk,s事件_Event_A.csv,1077,Event,ChoiceDesc2,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7486_ChoiceDesc3,aBDB,s事件_Event_A.csv,1080,Event,ChoiceDesc3,,【警惕】获得25黑印,[Be Wary] Receive 25 Black Sigils
+Event_91509_ChoiceDesc3,byRU,s事件_Event_A.csv,1084,Event,ChoiceDesc3,,【封存】获得25黑印,[Sealed] Receive 25 Black Sigils
+Event_7018_ChoiceDesc1,azmP,s事件_Event_A.csv,1089,Event,ChoiceDesc1,,【离开】获得25黑印，感染「(Skill.Arg1)」,"[Leave] Receive 25 Black Sigils, but develop the Symptom ""(Skill.Arg1)"""
+Event_7210_ChoiceDesc1,aAfr,s事件_Event_A.csv,1091,Event,ChoiceDesc1,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6902_ChoiceDesc3,ayLh,s事件_Event_A.csv,1092,Event,ChoiceDesc3,,【什么也不做】获得25黑印,[Do Nothing] Receive 25 Black Sigils
+Event_24544_ChoiceDesc3,awzN,s事件_Event_A.csv,1096,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_35921_ChoiceDesc3,awIp,s事件_Event_A.csv,1099,Event,ChoiceDesc3,,【无视它】获得25黑印,[Disregard It] Receive 25 Black Sigils
+Event_74250_ChoiceDesc3,aBmx,s事件_Event_A.csv,1103,Event,ChoiceDesc3,,【分辨老人的声音】获得25黑印,[Discern the Elder's Voice] Receive 25 Black Sigils
+Event_6901_ChoiceDesc3,ayKV,s事件_Event_A.csv,1107,Event,ChoiceDesc3,,【握住一只手】获得25黑印,[Hold a Hand] Receive 25 Black Sigils
+Event_6899_ChoiceDesc3,ayKx,s事件_Event_A.csv,1119,Event,ChoiceDesc3,,【拒绝食用】获得25黑印,[Refuse to Eat] Receive 25 Black Sigils
+Event_80639_ChoiceDesc3,bstI,s事件_Event_A.csv,1123,Event,ChoiceDesc3,,【拒绝选择】获得25黑印,[Refuse to Choose] Receive 25 Black Sigils
+Event_7543_ChoiceDesc3,aBQJ,s事件_Event_A.csv,1143,Event,ChoiceDesc3,,【拒绝提问】获得50黑印,[Refuse to Ask] Receive 50 Black Sigils
+Event_7312_ChoiceDesc1,aACj,s事件_Event_A.csv,1148,Event,ChoiceDesc1,,【离开】感染「(Skill.Arg1)」，获得50黑印,"[Leave] Receive 50 Black Sigils, but develop the Symptom ""(Skill.Arg1)"""
+Event_7310_ChoiceDesc1,aABL,s事件_Event_A.csv,1150,Event,ChoiceDesc1,,【离开】感染「(Skill.Arg1)」，获得50黑印,"[Leave] Receive 50 Black Sigils, but develop the Symptom ""(Skill.Arg1)"""
+Event_6895_ChoiceDesc3,ayJB,s事件_Event_A.csv,1151,Event,ChoiceDesc3,,【浮出水面】获得25黑印,[Surface] Receive 25 Black Sigils
+Event_7281_ChoiceDesc3,aAvd,s事件_Event_A.csv,1155,Event,ChoiceDesc3,,【浮出水面】获得25黑印,[Surface] Receive 25 Black Sigils
+Event_35936_ChoiceDesc3,awLN,s事件_Event_A.csv,1159,Event,ChoiceDesc3,,【不再想】获得25黑印,[Stop Thinking] Receive 25 Black Sigils
+Event_36724_ChoiceDesc3,awMJ,s事件_Event_A.csv,1163,Event,ChoiceDesc3,,【不去惊扰】获得25黑印,[Do Not Disturb] Receive 25 Black Sigils
+Event_59629_ChoiceDesc3,aydV,s事件_Event_A.csv,1167,Event,ChoiceDesc3,,【挣扎】获得25黑印,[Struggle] Receive 25 Black Sigils
+Event_6903_ChoiceDesc3,ayLt,s事件_Event_A.csv,1171,Event,ChoiceDesc3,,【提出新观点】获得25黑印,[Suggest New Idea] Receive 25 Black Sigils
+Event_80612_ChoiceDesc3,bsnI,s事件_Event_A.csv,1174,Event,ChoiceDesc3,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_47312_ChoiceDesc3,axft,s事件_Event_A.csv,1177,Event,ChoiceDesc3,,【丢弃】获得25黑印,[Discard] Receive 25 Black Sigils
+Event_6997_ChoiceDesc1,azhX,s事件_Event_A.csv,1181,Event,ChoiceDesc1,,【学猫叫】50%概率获得125黑印，50%概率感染「(Skill.Arg2)」,"[Imitate Cat's Call] 50% chance to receive 125 Black Sigils, 50% chance to develop ""(Skill.Arg2)"""
+Event_6997_ChoiceDesc2,azhY,s事件_Event_A.csv,1181,Event,ChoiceDesc2,,【投喂食物】75%概率获得100黑印，25%概率感染「(Skill.Arg2)」,"[Feed] 75% chance to receive 100 Black Sigils, 25% chance to develop ""(Skill.Arg2)"""
+Event_6997_ChoiceDesc3,azhZ,s事件_Event_A.csv,1181,Event,ChoiceDesc3,,【拔腿就跑】获得50黑印,[Run Away] Receive 50 Black Sigils
+Event_80624_ChoiceDesc1,bsqu,s事件_Event_A.csv,1185,Event,ChoiceDesc1,,【攻击黑猫】50%概率获得125黑印，50%概率感染「(Skill.Arg2)」,"[Attack the Cat] 50% chance to receive 125 Black Sigils, 50% chance to develop ""(Skill.Arg2)"""
+Event_80624_ChoiceDesc2,bsqv,s事件_Event_A.csv,1185,Event,ChoiceDesc2,,【学猫叫】75%概率获得100黑印，25%概率感染「(Skill.Arg2)」,"[Meow Like a Cat] 75% chance to receive 100 Black Sigils, 25% chance to develop ""(Skill.Arg2)"""
+Event_80624_ChoiceDesc3,bsqw,s事件_Event_A.csv,1185,Event,ChoiceDesc3,,【尝试撸猫】获得50黑印,[Attempt to Pet the Cat] Receive 50 Black Sigils
+Event_6996_ChoiceDesc2,azhM,s事件_Event_A.csv,1189,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7232_ChoiceDesc2,aAjM,s事件_Event_A.csv,1192,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7155_ChoiceDesc1,azSH,s事件_Event_A.csv,1194,Event,ChoiceDesc1,,【领取】获得50黑印,[Claim] Receive 50 Black Sigils
+Event_6995_ChoiceDesc1,azhz,s事件_Event_A.csv,1195,Event,ChoiceDesc1,,【置若罔闻】感染「(Skill.Arg1)」,"[Ignore It] Acquire a Relic, but develop the Symptom ""(Skill.Arg1)"""
+Event_7140_ChoiceDesc3,azPl,s事件_Event_A.csv,1198,Event,ChoiceDesc3,,【闭上双眼】获得50黑印,[Close Your Eyes] Receive 50 Black Sigils
+Event_7359_ChoiceDesc1,aANb,s事件_Event_A.csv,1199,Event,ChoiceDesc1,,【继续捂住耳朵】获得狂气值最高的唤醒体狂气值等同数量黑印(Arg1),[Keep Covering Ears] Receive Arg1 Black Sigils; an amount equal to the highest Aliemus value of an Awakener.
+Event_7360_ChoiceDesc1,aANn,s事件_Event_A.csv,1202,Event,ChoiceDesc1,,【抓住一只乌鸦】每拥有1名已觉醒唤醒体获得25黑印,[Catch a Crow] Receive 25 Black Sigils for each Roused Awakener.
+Event_74251_ChoiceDesc1,aBmH,s事件_Event_A.csv,1206,Event,ChoiceDesc1,,【前进】从牌库中随机获取3张指令卡，选择1张卡进行删除，获得75黑印,"[Advance] Destroy 1 of 3 Command cards, and receive 75 Black Sigils."
+Event_74251_ChoiceDesc2,aBmI,s事件_Event_A.csv,1206,Event,ChoiceDesc2,,【歇息】从牌库中随机获取3张指令卡，选择1张卡的原始复制进入牌库，获得25黑印,"[Rest] Duplicate 1 of 3 Command cards, and receive 25 Black Sigils."
+Event_74251_ChoiceDesc3,aBmJ,s事件_Event_A.csv,1206,Event,ChoiceDesc3,,【回望】获得50黑印,[Look Back] Receive 50 Black Sigils
+Event_7205_ChoiceDesc1,aAej,s事件_Event_A.csv,1210,Event,ChoiceDesc1,,【检查碎片】从牌库中随机获取3张指令卡，选择1张卡进行删除，获得75黑印,"[Check Fragment] Destroy 1 of 3 Command cards, and receive 75 Black Sigils."
+Event_7205_ChoiceDesc2,aAek,s事件_Event_A.csv,1210,Event,ChoiceDesc2,,【询问朵尔】从牌库中随机获取3张指令卡，选择1张卡的原始复制进入牌库，获得25黑印,"[Ask Doll] Duplicate 1 of 3 Command cards, and receive 25 Black Sigils."
+Event_7205_ChoiceDesc3,aAel,s事件_Event_A.csv,1210,Event,ChoiceDesc3,,【无视】获得50黑印,[Disregard] Receive 50 Black Sigils
+Event_7000_ChoiceDesc1,aziH,s事件_Event_A.csv,1214,Event,ChoiceDesc1,,【置若罔闻】从牌库中随机获取3张指令卡，选择1张卡进行删除，获得75黑印,"[Turn a Deaf Ear] Destroy 1 of 3 Command cards, and receive 75 Black Sigils."
+Event_7000_ChoiceDesc2,aziI,s事件_Event_A.csv,1214,Event,ChoiceDesc2,,【谨慎检查】从牌库中随机获取3张指令卡，选择1张卡的原始复制进入牌库，获得25黑印,"[Carefully Inspect] Duplicate 1 of 3 Command cards, and receive 25 Black Sigils."
+Event_7000_ChoiceDesc3,aziJ,s事件_Event_A.csv,1214,Event,ChoiceDesc3,,【转身离开】获得50黑印,[Turn and Leave] Receive 50 Black Sigils
+Event_6999_ChoiceDesc3,azix,s事件_Event_A.csv,1218,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7113_ChoiceDesc3,azIZ,s事件_Event_A.csv,1230,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7482_ChoiceDesc1,aBCD,s事件_Event_A.csv,1231,Event,ChoiceDesc1,,【获得100黑印】,[Tune] Receive 100 Black Sigils
+Event_7128_ChoiceDesc1,azMv,s事件_Event_A.csv,1253,Event,ChoiceDesc1,,【随悲伤离去】复制卡牌，如果复制症状卡，获得75黑印,"[Leave with Sorrow] Copy a card. If a Symptom card is copied, receive 75 Black Sigils."
+Event_7129_ChoiceDesc2,azMI,s事件_Event_A.csv,1256,Event,ChoiceDesc2,,【背道而驰】获得25黑印,[Go Against the Flow] Receive 25 Black Sigils
+Event_6844_ChoiceDesc2,ayxM,s事件_Event_A.csv,1257,Event,ChoiceDesc2,,【背道而驰】获得25黑印,[Go Against the Flow] Receive 25 Black Sigils
+Event_6845_ChoiceDesc2,ayxY,s事件_Event_A.csv,1258,Event,ChoiceDesc2,,【背道而驰】获得25黑印,[Go Against the Flow] Receive 25 Black Sigils
+Event_6846_ChoiceDesc2,ayyk,s事件_Event_A.csv,1259,Event,ChoiceDesc2,,【背道而驰】获得25黑印,[Go Against the Flow] Receive 25 Black Sigils
+Event_6847_ChoiceDesc2,ayyw,s事件_Event_A.csv,1260,Event,ChoiceDesc2,,【背道而驰】获得25黑印,[Go Against the Flow] Receive 25 Black Sigils
+Event_6985_ChoiceDesc2,azfk,s事件_Event_A.csv,1262,Event,ChoiceDesc2,,【抽身离开】获得25黑印,[Pull Away] Receive 25 Black Sigils
+Event_6904_ChoiceDesc2,ayLE,s事件_Event_A.csv,1263,Event,ChoiceDesc2,,【抽身离开】获得25黑印,[Pull Away] Receive 25 Black Sigils
+Event_6976_ChoiceDesc2,azck,s事件_Event_A.csv,1264,Event,ChoiceDesc2,,【抽身离开】获得25黑印,[Pull Away] Receive 25 Black Sigils
+Event_7606_ChoiceDesc2,aCfk,s事件_Event_A.csv,1265,Event,ChoiceDesc2,,【抽身离开】获得25黑印,[Pull Away] Receive 25 Black Sigils
+Event_7331_ChoiceDesc2,aAGE,s事件_Event_A.csv,1266,Event,ChoiceDesc2,,【抽身离开】获得25黑印,[Pull Away] Receive 25 Black Sigils
+Event_7127_ChoiceDesc2,azMk,s事件_Event_A.csv,1268,Event,ChoiceDesc2,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_6928_ChoiceDesc2,ayRg,s事件_Event_A.csv,1285,Event,ChoiceDesc2,,【抚摸】删除一张打击/防御卡，获得刻印：「(EnchantConfig.Arg1)」,"[Touch] Destroy a Strike or Defense card, and engrave the Orison ""(EnchantConfig.Arg1)"" on 1 of 3 Command cards."
+Event_6928_ChoiceDesc3,ayRh,s事件_Event_A.csv,1285,Event,ChoiceDesc3,,【厌恶】获得25黑印,[Disgust] Receive 25 Black Sigils
+Event_6932_ChoiceDesc3,aySd,s事件_Event_A.csv,1290,Event,ChoiceDesc3,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_80630_ChoiceDesc3,bsrQ,s事件_Event_A.csv,1292,Event,ChoiceDesc3,,【放回原处】获得50黑印,[Put it back] Receive 50 Black Sigils
+Event_7228_ChoiceDesc3,aAiR,s事件_Event_A.csv,1296,Event,ChoiceDesc3,,【丢弃它】获得50黑印,[Discard It] Receive 50 Black Sigils
+Event_7415_ChoiceDesc3,aBdV,s事件_Event_A.csv,1300,Event,ChoiceDesc3,,【检查信件】获得50黑印,[Check Letter] Receive 50 Black Sigils
+Event_7602_ChoiceDesc2,aCeo,s事件_Event_A.csv,1307,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7114_ChoiceDesc2,azJk,s事件_Event_A.csv,1310,Event,ChoiceDesc2,,【放弃它】获得25黑印。,[Abandon It] Receive 25 Black Sigils
+Event_7179_ChoiceDesc2,azYk,s事件_Event_A.csv,1313,Event,ChoiceDesc2,,【投入五片什】获得25黑印。,[Invest Five Pence] Receive 25 Black Sigils
+Event_7177_ChoiceDesc2,azXM,s事件_Event_A.csv,1316,Event,ChoiceDesc2,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7178_ChoiceDesc2,azXY,s事件_Event_A.csv,1317,Event,ChoiceDesc2,,【拒绝请求】获得25黑印,[Refuse Request] Receive 25 Black Sigils
+Event_7441_ChoiceDesc2,aBtg,s事件_Event_A.csv,1320,Event,ChoiceDesc2,,【犹豫】获得25黑印,[Hesitate] Receive 25 Black Sigils
+Event_7181_ChoiceDesc2,azYI,s事件_Event_A.csv,1323,Event,ChoiceDesc2,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7182_ChoiceDesc2,azYU,s事件_Event_A.csv,1324,Event,ChoiceDesc2,,【离开】获得25黑印,[Leave] Receive 25 Black Sigils
+Event_7589_ChoiceDesc2,aCbo,s事件_Event_A.csv,1325,Event,ChoiceDesc2,,【无视】获得50黑印,[Disregard] Receive 50 Black Sigils
+Event_7309_ChoiceDesc2,aABA,s事件_Event_A.csv,1328,Event,ChoiceDesc2,,【不做理会】获得50黑印,[Ignore] Receive 50 Black Sigils
+Event_6946_ChoiceDesc2,ayVo,s事件_Event_A.csv,1331,Event,ChoiceDesc2,,【检查相机】获得50黑印,[Check Camera] Receive 50 Black Sigils
+Event_6977_ChoiceDesc2,azcw,s事件_Event_A.csv,1334,Event,ChoiceDesc2,,【放弃查看】获得50黑印,[Give Up Checking] Receive 50 Black Sigils
+Event_7311_ChoiceDesc2,aABY,s事件_Event_A.csv,1337,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7379_ChoiceDesc2,aARI,s事件_Event_A.csv,1338,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7306_ChoiceDesc2,aAAQ,s事件_Event_A.csv,1339,Event,ChoiceDesc2,,【离开】获得50黑印,[Leave] Receive 50 Black Sigils
+Event_7554_ChoiceDesc1,aBTj,s事件_Event_A.csv,1385,Event,ChoiceDesc1,,【解开下方的枝节】,[Unravel the Lower Branch]
+Event_44301_Desc,awZw,s事件_Event_A.csv,1412,Event,Desc,,「你行在苦难的道路上，你偏离了父神的荣光。\n「回来吧，迷途的羔羊，听从父神的教导，行到正路上来。」,"""You walk a path of suffering, straying from the All-Father's glory.\n""Return, lost lamb. Heed the All-Father's teachings and find the right path."""
+Event_44395_ChoiceDesc1,awZD,s事件_Event_A.csv,1414,Event,ChoiceDesc1,,【求取外物】主教承受你的 1 张症状，你获得 Arg1 黑印。若无症状，直接获得黑印,"[Want for the Worldly] Receive Arg1 Black Sigils. The Bishop takes a Symptom, if you have one."
+Event_44401_ChoiceDesc1,axan,s事件_Event_A.csv,1421,Event,ChoiceDesc1,,【眼疾手快】获得 Arg1 黑印,[Quick Reflexes] Receive Arg1 Black Sigils
+Event_44407_ChoiceDesc2,axaA,s事件_Event_A.csv,1422,Event,ChoiceDesc2,,【拥抱虚妄】获得 2 张随机症状，获得 Arg1 黑印。,"[Embrace Delusion] Receive Arg1 Black Sigils, but develop 2 random Symptoms."
+Event_44445_ChoiceDesc3,axaN,s事件_Event_A.csv,1424,Event,ChoiceDesc3,,【舍弃外物】扣除 5 黑印，获得 1 张「灵感」,"[Discard Extraneous Items] Lose 5 Black Sigils and add 1 ""Insight"" to the deck."
+Event_47464_ChoiceDesc2,axgA,s事件_Event_A.csv,1443,Event,ChoiceDesc2,,【暗淡的记忆】将牌库中所有合奏刻印升级为高级合奏刻印,[Faded Memory] Enhance the Orison quality of all engraved Ensemble Orisons.
+Event_47992_ChoiceDesc3,axkl,s事件_Event_A.csv,1449,Event,ChoiceDesc3,,【驱逐】移除最多 3 张症状卡，获得 Arg2 黑印。,"[Expel] Destroy up to 3 Symptom cards, and receive Arg2 Black Sigils."
+Event_65403_ChoiceDesc1,ayoX,s事件_Event_A.csv,1501,Event,ChoiceDesc1,,【补给兑换】获得 25 个黑印，每有 1 名科考团员额外获得 1 个黑印（Arg1）。,"[Supply Trade] Receive 25 Black Sigils, plus 1 per Expedition Member (Arg1)."
+Event_7101_ChoiceDesc1,azGj,s事件_Event_A.csv,8,Event,ChoiceDesc1,,【接通】回复 Arg2 点生命。[ExDesc1],[Connect] Recover Arg2 HP. [ExDesc1]
+Event_7101_ChoiceDesc2,azGk,s事件_Event_A.csv,8,Event,ChoiceDesc2,,【冥想】选择觉醒1名唤醒体。[ExDesc1],[Meditate] Rouse an Awakener. [ExDesc1]
+Event_74161_ChoiceDesc1,aBer,s事件_Event_A.csv,9,Event,ChoiceDesc1,,【安葬】回复 Arg2 点生命[ExDesc1]，选择 1 张指令卡删除。,[Interment] Destroy a Command card and recover Arg2 HP. [ExDesc1]
+Event_35103_ChoiceDesc1,awAv,s事件_Event_A.csv,1392,Event,ChoiceDesc1,,【接通】回复 Arg2 点生命[ExDesc1][ExDesc2]。,[Connect] Recover Arg2 HP. [ExDesc1] [ExDesc2]
+Event_38700_ChoiceDesc1,awVH,s事件_Event_A.csv,1401,Event,ChoiceDesc1,,【接通】回复 Arg2 点生命[ExDesc1]。,[Connect] Recover Arg2 HP. [ExDesc1]
