@@ -234,7 +234,7 @@
 必杀,图鲁,Tulu,PVPOpeningVoice_99978_AwakerVoiceContent,群星庇佑！,星々の加護を！
 错误,图鲁,Tulu,PVPOpeningVoice_99846_AwakerVoiceContent,啧，晃神了……,ちっ、気が散ったか……
 死亡,图鲁,Tulu,PVPOpeningVoice_99975_AwakerVoiceContent,扰余清梦……,余の眠りを妨げるとは……
-普通开场,墨菲,Murphy,PVPOpeningVoice_99993_AwakerVoiceContent,本小姐登场，还不快快奉上小蛋糕！,手伝ってあげるから、早くケーキを持ってきなさい！
+普通开场,墨菲,Murphy,PVPOpeningVoice_99993_AwakerVoiceContent,本小姐登场，还不快快奉上小蛋糕！,私が来たのだから、ケーキのひとつくらい用意なさい！
 角色关系对话2-杜勒赛因,杜勒赛因,Doresain,PVPOpeningVoice_100065_AwakerVoiceContent,这位小姐，我不禁要夸赞你身上那奇异而芬芳的，来自海洋的香味……,あなたから漂う、深海の独特で芳醇なアロマ……実に魅惑的と言わざるを得ませんね。
 ,墨菲,Murphy,PVPOpeningVoice_99943_AwakerVoiceContent,真没礼貌！把你那看小蛋糕一样的眼神从本小姐身上挪开！,失礼ね！そのケーキでも見るような目でわたくしを見ないで！
 角色关系对话3-戈利亚,戈利亚,Goliath,PVPOpeningVoice_100101_AwakerVoiceContent,只吃那些黏糊糊的甜食太没营养了，怎么长出健壮的肌肉来？要多吃肉！,あんなベタベタした甘いもんばかり食ってたら、栄養偏るだろ。そんなんでどうやって筋肉つけるんだ？もっと肉を食え！
@@ -332,7 +332,7 @@
 思考,萨尔瓦多,Salvador,PVPOpeningVoice_99902_AwakerVoiceContent,一切救赎的旨意早已记于父的圣言之中……,すべての救済の御心は、すでに父なる神の御言葉に記されています……
 催促,萨尔瓦多,Salvador,PVPOpeningVoice_100102_AwakerVoiceContent,不必忧心，仁慈的父终会消解苦难。,憂うことはありません。慈悲深き父なる神が必ずや苦難を取り除いてくださるでしょう。
 必杀,萨尔瓦多,Salvador,PVPOpeningVoice_99921_AwakerVoiceContent,聆听父神的教诲吧！,父なる神の御言葉に耳を傾けよ！
-错误,萨尔瓦多,Salvador,PVPOpeningVoice_99923_AwakerVoiceContent,这或许是不必要的争斗……,これは、きっと不要な争いかもしれません……
+错误,萨尔瓦多,Salvador,PVPOpeningVoice_99923_AwakerVoiceContent,这或许是不必要的争斗……,これは、きっと不要な争いなのでしょう……
 死亡,萨尔瓦多,Salvador,PVPOpeningVoice_100042_AwakerVoiceContent,父神在呼唤我……,父なる神が、私を呼んでいます……
 普通开场,索蕾尔,Sorel,PVPOpeningVoice_100108_AwakerVoiceContent,为了你，我可是盛装出席而来。,あなたのために、特別に正装してまいりました。
 角色关系对话3-达芙黛尔,索蕾尔,Sorel,PVPOpeningVoice_99829_AwakerVoiceContent,真应该让伦蒂尼恩的贵族们来您的店里看看，像这样有多少财富也买不了的宝物，才是货真价实的奢侈品啊。,本当に、ロンディニウムの貴族たちにも、ぜひあなたのお店をご覧いただきたいものですね。このように、どれほど富を積んでも手に入れることができない宝物こそ、真の贅沢品と呼べるのですから。
@@ -482,12 +482,12 @@
 思考,克莱门汀,Clementine,PVPOpeningVoice_100167_AwakerVoiceContent,嗯……这样的病症很罕见呢，请务必与我多聊一聊。,ふむ……こんな症状は珍しいですね。ぜひ、もっと詳しく私に聞かせてください。
 催促,克莱门汀,Clementine,PVPOpeningVoice_99899_AwakerVoiceContent,不多倾诉一下的话，心灵的创伤是无法愈合的哦。,胸の内を十分に打ち明けてくださらないと、心の傷は癒えませんよ。
 必杀,克莱门汀,Clementine,PVPOpeningVoice_100170_AwakerVoiceContent,跟随我、听从我，温顺地迈入那个终局吧！,さあ、私に従い、私の言うことを聞いて。そして、おとなしく運命の終焉へ歩みを進めるのです！
-错误,克莱门汀,Clementine,PVPOpeningVoice_99857_AwakerVoiceContent,脱离了催眠吗？没关系，我们还有很多其他治疗方案……,催眠が解けてしまいましたか？ですが、ご心配なく。他いいくらでも治療のプランがありますから……
+错误,克莱门汀,Clementine,PVPOpeningVoice_99857_AwakerVoiceContent,脱离了催眠吗？没关系，我们还有很多其他治疗方案……,催眠が解けてしまいましたか？ですが、ご心配なく。他にいくらでも治療のプランがありますから……
 死亡,克莱门汀,Clementine,PVPOpeningVoice_100208_AwakerVoiceContent,被拒绝了呢，没关系，下一次……,拒絶されてしまいましたか……いえ、構いません。次こそは……
 普通开场,卡斯托尔,Castor,PVPOpeningVoice_116789_AwakerVoiceContent,我与飓风都已准备好。,俺もこの翼も、準備はできている。
 角色关系对话1-波吕克斯,卡斯托尔,Castor,PVPOpeningVoice_120268_AwakerVoiceContent,如果可以，我不想和你战斗，哪怕是切磋。,できることなら、お前とは戦いたくないな。たとえ手合わせだとしても。
 ,波吕克斯,Pollux,PVPOpeningVoice_120248_AwakerVoiceContent,不要再婆婆妈妈了，卡斯托尔，放马过来吧，你以为我会输给你吗？,いつまでもぐずぐずするな、カストル！潔くかかってくるがいい。我がそなたに負けるとでも思っているのか？
-角色关系对话2-诞妄·墨菲,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120274_AwakerVoiceContent,我也曾如你一般冥顽不灵……为何不肯接纳侍奉神明的伟大命运？,わたくしもかつてはお前のように頑なに拒んでた……なぜ、神に仕えるという偉大な使命を受け入れようとしないの？
+角色关系对话2-诞妄·墨菲,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120274_AwakerVoiceContent,我也曾如你一般冥顽不灵……为何不肯接纳侍奉神明的伟大命运？,わたくしもかつてはお前のように頑なに拒んでいたわ……なぜ、神に仕えるという偉大な使命を受け入れようとしないの？
 ,卡斯托尔,Castor,PVPOpeningVoice_120252_AwakerVoiceContent,我不明白什么是伟大，我只知道自由的权力无人可以剥夺。,俺にその「偉大さ」は分からない。俺はただ、自由を奪われることが許せないだけだ。
 思考,卡斯托尔,Castor,PVPOpeningVoice_116786_AwakerVoiceContent,要先行出击吗，还是全力防御……,先手を打つべきか、それとも守りに徹するべきか……
 催促,卡斯托尔,Castor,PVPOpeningVoice_116788_AwakerVoiceContent,你的犹豫将成为失败的前兆。,迷いは失敗につながるぞ。
@@ -497,15 +497,15 @@
 普通开场,波吕克斯,Pollux,PVPOpeningVoice_120280_AwakerVoiceContent,我将净化你心中的罪孽。,我がそなたの罪を清めよう。
 角色关系对话,波吕克斯,Pollux,PVPOpeningVoice_120284_AwakerVoiceContent,无法变强？莫非是因为你的灵魂过于肮脏？,強くなれない？そなたの魂はそれほどまでに穢れているのか。
 ,凯刻斯,Caecus,PVPOpeningVoice_120258_AwakerVoiceContent,肮脏……还是因为我的血脉不够纯净吗……,穢れている……やっぱり、僕の血脈が純粋ではないからなのか……
-角色关系对话,波吕克斯,Pollux,PVPOpeningVoice_120283_AwakerVoiceContent,既然你是神明，为何要对世间的罪恶坐视不理？,神ともあろう御方が、なにゆえこの世の罪を見て看過なさるのか？
+角色关系对话,波吕克斯,Pollux,PVPOpeningVoice_120283_AwakerVoiceContent,既然你是神明，为何要对世间的罪恶坐视不理？,神ともあろう御方が、なにゆえこの世の罪を看過なさるのか？
 ,图鲁,Tulu,PVPOpeningVoice_120256_AwakerVoiceContent,你想要清除罪恶吗……真是执迷不悟，余不会做如此徒劳无功之事。,罪を消し去りたいと望むか……愚かじゃな。余はそのような無意味なことはせぬ。
-思考,波吕克斯,Pollux,PVPOpeningVoice_120287_AwakerVoiceContent,纯洁的圣心将引导你走向净化之路。,純潔なる聖心が、そなたを浄化の道へと導こう。
+思考,波吕克斯,Pollux,PVPOpeningVoice_120287_AwakerVoiceContent,纯洁的圣心将引导你走向净化之路。,純潔なる聖心が、そなたを浄化の道へと導かん。
 催促,波吕克斯,Pollux,PVPOpeningVoice_120286_AwakerVoiceContent,在犹豫什么？你的信仰动摇了吗？,何を躊躇うことがあろう？そなたの信仰が揺らいだというのか？
 必杀,波吕克斯,Pollux,PVPOpeningVoice_120259_AwakerVoiceContent,我嗅到了不洁的气息，不敬的罪人！,穢れの気配を感じるぞ、不敬なる罪人よ！
 错误,波吕克斯,Pollux,PVPOpeningVoice_120279_AwakerVoiceContent,给你一次忏悔的机会……向我证明你的虔诚吧。,懺悔の機会を一度だけ与えよう……我にそなたの敬虔さを示してみせよ。
 死亡,波吕克斯,Pollux,PVPOpeningVoice_120275_AwakerVoiceContent,直面罪恶……这是我应得的惩罚……,自らの罪と向き合う……これこそ、我が背負うべき罪なのだ……
 普通开场,皮克曼,Pickman,PVPOpeningVoice_120261_AwakerVoiceContent,来吧！见证我的艺术！,さあ、俺の芸術を見てくれ！
-角色关系对话,杜勒赛因,Doresain,PVPOpeningVoice_120262_AwakerVoiceContent,我欣赏你的才华，可惜亵渎尸体有违我的艺术，我会给你一个认错的机会。,あなたの才能は認めておりますが、死体を冒涜するのはわたくしの美学に反します。過ちを認める機会を与えましょう。
+角色关系对话,杜勒赛因,Doresain,PVPOpeningVoice_120262_AwakerVoiceContent,我欣赏你的才华，可惜亵渎尸体有违我的艺术，我会给你一个认错的机会。,あなたの才能は認めておりますが、死体を冒涜することはわたくしの美学に反します。過ちを認める機会を与えましょう。
 ,皮克曼,Pickman,PVPOpeningVoice_120253_AwakerVoiceContent,可恶，就算你是杜勒赛因也不可以侮辱我的画作！,くそ、たとえドゥルセイン様であろうと、俺の絵を侮辱することは許さない！
 角色关系对话,皮克曼,Pickman,PVPOpeningVoice_120247_AwakerVoiceContent,珊，让我们来一场艺术的切磋吧！,サンガー、さあ、芸術の腕を競い合おう！
 ,珊,Sanga,PVPOpeningVoice_120276_AwakerVoiceContent,正合我意，皮克曼先生。相信您的画作不会让我失望。,お望みとあらば、ピックマン先生。あなたの絵には期待しているわ。
@@ -516,7 +516,7 @@
 角色关系对话,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120282_AwakerVoiceContent,你要为我献上神明诞生的至高绘卷吗？,これは何？わたくしに、神の誕生を描いた至高の絵巻を捧げようというの？
 ,皮克曼,Pickman,PVPOpeningVoice_120299_AwakerVoiceContent,不，不……灵感之神已经为这幅画作赐名《囚笼中的圣母》！,いや、インスピレーションの神は、すでにこの絵を「檻の中の聖母」と名付けている！
 思考,皮克曼,Pickman,PVPOpeningVoice_120246_AwakerVoiceContent,应该如何构图呢？,構図はどうしようか？
-催促,皮克曼,Pickman,PVPOpeningVoice_120255_AwakerVoiceContent,灵感枯竭了……不行，我需要新的模特！,アイデアが浮かばない……ダメだ、新しいモデルを探さないと！
+催促,皮克曼,Pickman,PVPOpeningVoice_120255_AwakerVoiceContent,灵感枯竭了……不行，我需要新的模特！,インスピレーションが降りてこない……ダメだ、新しいモデルを探さないと！
 必杀,皮克曼,Pickman,PVPOpeningVoice_120277_AwakerVoiceContent,成为我的模特吧！,俺のモデルになってくれ！
 错误,皮克曼,Pickman,PVPOpeningVoice_120251_AwakerVoiceContent,差一点！只差一点我就能创造出完美的作品了！,もう少しだ！あと少しで、完璧な作品が生み出せるのに！
 死亡,皮克曼,Pickman,PVPOpeningVoice_120257_AwakerVoiceContent,我的画作……还没有完成……,俺の絵は……まだ完成していない……
@@ -531,4 +531,5 @@
 催促,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120250_AwakerVoiceContent,一群蝼蚁。速战速决，本神母要回去安歇了。,たかが蟻の群れ、速やかに片付けなさい。神母は戻って休まねばならないの。
 必杀,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120281_AwakerVoiceContent,哼，不敬之人。,ふん、不敬な者め。
 错误,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120273_AwakerVoiceContent,不，我的命运不该如此，一定有哪里出错了！,いや、わたくしの運命はこんなはずがないわ。きっとどこかで何かが間違ったのよ！
+
 死亡,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120266_AwakerVoiceContent,难道……这就是我的宿命？,これが……わたくしの運命だというの？
