@@ -1662,8 +1662,8 @@ RelicConfig_71269_Name,aJOX,z造物_RelicConfig_A.csv,479,RelicConfig,Name,,<Ora
 RelicConfig_71252_BattleDesc,aJNF,z造物_RelicConfig_A.csv,480,RelicConfig,BattleDesc,,回合开始时图鲁获得 [Arg1] 狂气。图鲁的狂气消耗降低 [Arg2] 点，释放狂气爆发后立刻生成 [Arg3] 条临时触腕。,ターン開始時、トゥルーは[Arg1]狂気を獲得する。トゥルーの狂気消費が[Arg2]減少し、「狂気解放」を発動後、即座に[Arg3]本の一時的な触腕を獲得する。
 RelicConfig_71252_Desc,aJNG,z造物_RelicConfig_A.csv,480,RelicConfig,Desc,,回合开始时图鲁获得 [Arg1] 狂气。图鲁的狂气消耗降低 [Arg2] 点，释放狂气爆发后立刻生成 [Arg3] 条临时触腕。,ターン開始時、トゥルーは[Arg1]狂気を獲得する。トゥルーの狂気消費が[Arg2]減少し、「狂気解放」を発動後、即座に[Arg3]本の一時的な触腕を獲得する。
 RelicConfig_71252_Name,aJNH,z造物_RelicConfig_A.csv,480,RelicConfig,Name,,<OrangeQuality:维度影像·图鲁>,<OrangeQuality:次元影像・トゥルー>
-RelicConfig_71257_BattleDesc,aJNZ,z造物_RelicConfig_A.csv,481,RelicConfig,BattleDesc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供儀」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
-RelicConfig_71257_Desc,aJOa,z造物_RelicConfig_A.csv,481,RelicConfig,Desc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供儀」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
+RelicConfig_71257_BattleDesc,aJNZ,z造物_RelicConfig_A.csv,481,RelicConfig,BattleDesc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供犠」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
+RelicConfig_71257_Desc,aJOa,z造物_RelicConfig_A.csv,481,RelicConfig,Desc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供犠」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
 RelicConfig_71257_Name,aJOb,z造物_RelicConfig_A.csv,481,RelicConfig,Name,,<OrangeQuality:维度影像·墨菲>,<OrangeQuality:次元影像・マーフィー>
 RelicConfig_84117_BattleDesc,btQS,z造物_RelicConfig_A.csv,482,RelicConfig,BattleDesc,,回合开始时珊获得 [Arg1] 狂气。战斗开始时对珊的所有指令卡赋予保留、预备 1、获得 [Arg2] 点护盾。,ターン開始時、サンガーは[Arg1]狂気を獲得する。戦闘開始時、サンガーのすべての指令カードに保留、準備1を付与し、[Arg2]点のシールドを獲得する。
 RelicConfig_84117_Desc,btQT,z造物_RelicConfig_A.csv,482,RelicConfig,Desc,,回合开始时珊获得 [Arg1] 狂气。战斗开始时对珊的所有指令卡赋予保留、预备 1、获得 [Arg2] 点护盾。,ターン開始時、サンガーは[Arg1]狂気を獲得する。戦闘開始時、サンガーのすべての指令カードに保留、準備1を付与し、[Arg2]点のシールドを獲得する。
@@ -1677,8 +1677,8 @@ RelicConfig_84128_Name,btRM,z造物_RelicConfig_A.csv,484,RelicConfig,Name,,<Ora
 RelicConfig_84122_BattleDesc,btRm,z造物_RelicConfig_A.csv,485,RelicConfig,BattleDesc,,回合开始时图鲁获得 [Arg1] 狂气。图鲁的狂气消耗降低 [Arg2] 点，释放狂气爆发后立刻生成 [Arg3] 条临时触腕。,ターン開始時、トゥルーは[Arg1]狂気を獲得する。トゥルーの狂気消費が[Arg2]減少し、「狂気解放」を発動後、即座に[Arg3]本の一時的な触腕を獲得する。
 RelicConfig_84122_Desc,btRn,z造物_RelicConfig_A.csv,485,RelicConfig,Desc,,回合开始时图鲁获得 [Arg1] 狂气。图鲁的狂气消耗降低 [Arg2] 点，释放狂气爆发后立刻生成 [Arg3] 条临时触腕。,ターン開始時、トゥルーは[Arg1]狂気を獲得する。トゥルーの狂気消費が[Arg2]減少し、「狂気解放」を発動後、即座に[Arg3]本の一時的な触腕を獲得する。
 RelicConfig_84122_Name,btRo,z造物_RelicConfig_A.csv,485,RelicConfig,Name,,<OrangeQuality:维度影像·图鲁>,<OrangeQuality:次元影像・トゥルー>
-RelicConfig_84119_BattleDesc,btRa,z造物_RelicConfig_A.csv,486,RelicConfig,BattleDesc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供儀」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
-RelicConfig_84119_Desc,btRb,z造物_RelicConfig_A.csv,486,RelicConfig,Desc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供儀」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
+RelicConfig_84119_BattleDesc,btRa,z造物_RelicConfig_A.csv,486,RelicConfig,BattleDesc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供犠」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
+RelicConfig_84119_Desc,btRb,z造物_RelicConfig_A.csv,486,RelicConfig,Desc,,回合开始时墨菲获得 [Arg1] 狂气。墨菲的「打击」和「防御」能够将 [Arg2]% 的「献祭」转化为临时触腕伤害，但每回合最多生效 1 次。,ターン開始時、マーフィーは[Arg1]狂気を獲得する。マーフィーの「攻撃」と「防御」は、[Arg2]%の「供犠」を一時的な触腕ダメージに変換し、毎ターン最大1回まで発動する。
 RelicConfig_84119_Name,btRc,z造物_RelicConfig_A.csv,486,RelicConfig,Name,,<OrangeQuality:维度影像·墨菲>,<OrangeQuality:次元影像・マーフィー>
 RelicConfig_71230_BattleDesc,aJLV,z造物_RelicConfig_A.csv,487,RelicConfig,BattleDesc,,回合开始时雷娅获得 [Arg1] 狂气。每当失去生命后获得 [Arg2] 点力量，每场战斗最多叠加 [Arg3] 次。叠加 [Arg3] 次后，「苦痛与欢愉」算力消耗降低 2，伤害次数提高 1。,ターン開始時、レーアは[Arg1]狂気を獲得する。ライフを失うたび、[Arg2]点の力を獲得し、戦闘中最大[Arg3]回まで累積可能。[Arg3]回獲得した後、「苦痛と歓喜」の行動力消費が2減少し、ダメージ回数が1増加する。
 RelicConfig_71230_Desc,aJLW,z造物_RelicConfig_A.csv,487,RelicConfig,Desc,,回合开始时雷娅获得 [Arg1] 狂气。每当失去生命后获得 [Arg2] 点力量，每场战斗最多叠加 [Arg3] 次。叠加 [Arg3] 次后，「苦痛与欢愉」算力消耗降低 2，伤害次数提高 1。,ターン開始時、レーアは[Arg1]狂気を獲得する。ライフを失うたび、[Arg2]点の力を獲得し、戦闘中最大[Arg3]回まで累積可能。[Arg3]回獲得した後、「苦痛と歓喜」の行動力消費が2減少し、ダメージ回数が1増加する。
@@ -1873,4 +1873,5 @@ RelicConfig_83510_Name,btQo,z造物_RelicConfig_A.csv,569,RelicConfig,Name,,<Ora
 RelicConfig_83511_BattleDesc,btQq,z造物_RelicConfig_A.csv,570,RelicConfig,BattleDesc,,探索开始时造物上限+1，「超维」界域唤醒体获得其「维度影像」。队伍中每有 1 名「超维」界域唤醒体，造物上限+1。,探索開始時、遺物の上限+1、「超次元」界域の覚醒体はその「次元影像」を獲得する。チームに「超次元」界域の覚醒体が1名いるごとに、遺物の上限+1。
 RelicConfig_83511_Desc,btQr,z造物_RelicConfig_A.csv,570,RelicConfig,Desc,,探索开始时造物上限+1，「超维」界域唤醒体获得其「维度影像」。队伍中每有 1 名「超维」界域唤醒体，造物上限+1。,探索開始時、遺物の上限+1、「超次元」界域の覚醒体はその「次元影像」を獲得する。チームに「超次元」界域の覚醒体が1名いるごとに、遺物の上限+1。
 RelicConfig_83511_Name,btQs,z造物_RelicConfig_A.csv,570,RelicConfig,Name,,<OrangeQuality:「超维指轮」>,<OrangeQuality:「超次元の指輪」>
+
 
