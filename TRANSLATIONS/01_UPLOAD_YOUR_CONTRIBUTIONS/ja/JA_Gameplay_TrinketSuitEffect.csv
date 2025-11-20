@@ -33,7 +33,7 @@ TrinketSuitEffect_18351_SuitEffectDesc_1,bnfd,s饰品套装效果表_TrinketSuit
 TrinketSuitEffect_18351_SuitEffectDesc_2,bnfe,s饰品套装效果表_TrinketSuitEffect_A.csv,21,TrinketSuitEffect,SuitEffectDesc_2,,队伍唯一。银钥能量上限及钥令消耗银钥能量 +200，装备者狂气爆发的暴击率、暴击伤害、护盾、回复生命提高 30%。,唯一装備：キーエネルギー上限および「キーオーダー」発動時に消費するキーエネルギー+200。装備者の「狂気解放」のクリティカル率、クリティカルダメージ、シールド、ライフ回復効果が30%増加する。,
 TrinketSuitEffect_18352_Name,bnfg,s饰品套装效果表_TrinketSuitEffect_A.csv,16,TrinketSuitEffect,Name,,扭曲双子·白,歪みの双子・白,
 TrinketSuitEffect_18352_SuitEffectDesc_1,bnfh,s饰品套装效果表_TrinketSuitEffect_A.csv,16,TrinketSuitEffect,SuitEffectDesc_1,,死亡抵抗 +16.8%,死亡抵抗率+16.8%,
-TrinketSuitEffect_18352_SuitEffectDesc_2,bnfi,s饰品套装效果表_TrinketSuitEffect_A.csv,16,TrinketSuitEffect,SuitEffectDesc_2,,偶数回合开始后，将一张附加<NothingnessIconKeywords:虚无>和<DepleteIconKeywords:消耗>的装备者的「防御」加入手牌。,偶数ターン開始時、<NothingnessIconKeywords:虚無>と<DepleteIconKeywords:消費>が付与された装備者の「防御」を1枚手札に加える。,
+TrinketSuitEffect_18352_SuitEffectDesc_2,bnfi,s饰品套装效果表_TrinketSuitEffect_A.csv,16,TrinketSuitEffect,SuitEffectDesc_2,,偶数回合开始后，将一张附加<NothingnessIconKeywords:虚无>和<DepleteIconKeywords:消耗>的装备者的「防御」加入手牌。,偶数ターン開始時、<NothingnessIconKeywords:虚無>と<DepleteIconKeywords:除外>が付与された装備者の「防御」を1枚手札に加える。,
 TrinketSuitEffect_18353_Name,bnfk,s饰品套装效果表_TrinketSuitEffect_A.csv,11,TrinketSuitEffect,Name,,猩红之拥,深紅の抱擁,
 TrinketSuitEffect_18353_SuitEffectDesc_1,bnfl,s饰品套装效果表_TrinketSuitEffect_A.csv,11,TrinketSuitEffect,SuitEffectDesc_1,,暴击率 +4.8%,クリティカル率+4.8%,
 TrinketSuitEffect_18353_SuitEffectDesc_2,bnfm,s饰品套装效果表_TrinketSuitEffect_A.csv,11,TrinketSuitEffect,SuitEffectDesc_2,,装备者造成伤害时获得 35 点银钥能量，若造成暴击伤害，改为获得 70 点银钥能量，每回合最多触发 3 次。,装備者がダメージを与えた時、35キーエネルギーを獲得する。クリティカルダメージを与えた場合は、70キーエネルギーを獲得する。毎ターン最大3回まで発動する。,
@@ -48,7 +48,8 @@ TrinketSuitEffect_18357_SuitEffectDesc_1,bnfB,s饰品套装效果表_TrinketSuit
 TrinketSuitEffect_18357_SuitEffectDesc_2,bnfC,s饰品套装效果表_TrinketSuitEffect_A.csv,27,TrinketSuitEffect,SuitEffectDesc_2,,探索开始时，获得 10 黑印。装备者「防御」造成护盾提高 60%。,探索開始時、10黒章を獲得する。装備者の「防御」によるシールドが60％増加する。,
 TrinketSuitEffect_18358_Name,bnfE,s饰品套装效果表_TrinketSuitEffect_A.csv,13,TrinketSuitEffect,Name,,扭曲双子·黑,歪みの双子・黒,
 TrinketSuitEffect_18358_SuitEffectDesc_1,bnfF,s饰品套装效果表_TrinketSuitEffect_A.csv,13,TrinketSuitEffect,SuitEffectDesc_1,,暴击率 +4.8%,クリティカル率+4.8％,
-TrinketSuitEffect_18358_SuitEffectDesc_2,bnfG,s饰品套装效果表_TrinketSuitEffect_A.csv,13,TrinketSuitEffect,SuitEffectDesc_2,,奇数回合开始后，将一张附加<NothingnessIconKeywords:虚无>和<DepleteIconKeywords:消耗>的装备者的「打击」加入手牌。,奇数ターン開始時、<NothingnessIconKeywords:虚無>と<DepleteIconKeywords:消費>が付与された装備者の「攻撃」を1枚手札に加える。,
+TrinketSuitEffect_18358_SuitEffectDesc_2,bnfG,s饰品套装效果表_TrinketSuitEffect_A.csv,13,TrinketSuitEffect,SuitEffectDesc_2,,奇数回合开始后，将一张附加<NothingnessIconKeywords:虚无>和<DepleteIconKeywords:消耗>的装备者的「打击」加入手牌。,奇数ターン開始時、<NothingnessIconKeywords:虚無>と<DepleteIconKeywords:除外>が付与された装備者の「攻撃」を1枚手札に加える。,
 TrinketSuitEffect_18360_Name,bnfM,s饰品套装效果表_TrinketSuitEffect_A.csv,15,TrinketSuitEffect,Name,,埋骨地絮语,墓地の囁き,
 TrinketSuitEffect_18360_SuitEffectDesc_1,bnfN,s饰品套装效果表_TrinketSuitEffect_A.csv,15,TrinketSuitEffect,SuitEffectDesc_1,,死亡抵抗 +16.8%,死亡抵抗率+16.8%,
 TrinketSuitEffect_18360_SuitEffectDesc_2,bnfO,s饰品套装效果表_TrinketSuitEffect_A.csv,15,TrinketSuitEffect,SuitEffectDesc_2,,关卡开始时<DeathResistanceIconKeywords:死亡抵抗>提高 25%。触发死亡抵抗后，装备者获得 50 点狂气。,探索開始時、<DeathResistanceIconKeywords:死亡抵抗>率が25%増加する。死亡抵抗が発動すると、装備者は50狂気を獲得する。,
+
