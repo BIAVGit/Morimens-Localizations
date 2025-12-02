@@ -234,7 +234,7 @@
 必杀,图鲁,Tulu,PVPOpeningVoice_99978_AwakerVoiceContent,群星庇佑！,星々の加護を！
 错误,图鲁,Tulu,PVPOpeningVoice_99846_AwakerVoiceContent,啧，晃神了……,ちっ、気が散ったか……
 死亡,图鲁,Tulu,PVPOpeningVoice_99975_AwakerVoiceContent,扰余清梦……,余の眠りを妨げるとは……
-普通开场,墨菲,Murphy,PVPOpeningVoice_99993_AwakerVoiceContent,本小姐登场，还不快快奉上小蛋糕！,私が来たのだから、ケーキのひとつくらい用意なさい！
+普通开场,墨菲,Murphy,PVPOpeningVoice_99993_AwakerVoiceContent,本小姐登场，还不快快奉上小蛋糕！,わたくしが来たんだから、ケーキのひとつくらい用意なさい！
 角色关系对话2-杜勒赛因,杜勒赛因,Doresain,PVPOpeningVoice_100065_AwakerVoiceContent,这位小姐，我不禁要夸赞你身上那奇异而芬芳的，来自海洋的香味……,あなたから漂う、深海の独特で芳醇なアロマ……実に魅惑的と言わざるを得ませんね。
 ,墨菲,Murphy,PVPOpeningVoice_99943_AwakerVoiceContent,真没礼貌！把你那看小蛋糕一样的眼神从本小姐身上挪开！,失礼ね！そのケーキでも見るような目でわたくしを見ないで！
 角色关系对话3-戈利亚,戈利亚,Goliath,PVPOpeningVoice_100101_AwakerVoiceContent,只吃那些黏糊糊的甜食太没营养了，怎么长出健壮的肌肉来？要多吃肉！,あんなベタベタした甘いもんばかり食ってたら、栄養偏るだろ。そんなんでどうやって筋肉つけるんだ？もっと肉を食え！
@@ -403,7 +403,7 @@
 催促,阿格里帕,Agrippa,PVPOpeningVoice_99950_AwakerVoiceContent,喂，快打啊，角斗的过程怎么能停下！,ちょっと、早く戦いなさいよ！闘いの途中で手を止めるなんて、ありえない！
 必杀,阿格里帕,Agrippa,PVPOpeningVoice_100005_AwakerVoiceContent,准备迎接苍白之主的审判吧！,蒼白の主の審判を受ける覚悟はいい？
 错误,阿格里帕,Agrippa,PVPOpeningVoice_99862_AwakerVoiceContent,咦？又搞错了？这么麻烦的规矩到底是谁定下的！我不玩了！,え？また間違えたの？こんな面倒なルール、いったい誰が決めたのよ！付き合ってられるか！
-死亡,阿格里帕,Agrippa,PVPOpeningVoice_100070_AwakerVoiceContent,可恶，把你们都拿去喂子嗣……,くそっ、お前たち全員、子孫の餌食にしてやる……
+死亡,阿格里帕,Agrippa,PVPOpeningVoice_100070_AwakerVoiceContent,可恶，把你们都拿去喂子嗣……,くそっ、お前たち全員、下僕の餌にしてやる……
 普通开场,杜勒赛因,Doresain,PVPOpeningVoice_99764_AwakerVoiceContent,死者之友、死亡之神，向您致敬。,死の神、そして死にゆく者の友として、あなたに敬意を表します。
 思考,杜勒赛因,Doresain,PVPOpeningVoice_100146_AwakerVoiceContent,耐心些，复杂的处理方式能让食材焕发出充满层次的味道。,焦ってはなりません。丁寧な下ごしらえこそ、食材の奥深い味わいを引き出すのです。
 催促,杜勒赛因,Doresain,PVPOpeningVoice_99787_AwakerVoiceContent,再等下下去，美食可就要凉了呀。,これ以上待っていては、せっかくのご馳走が冷めてしまいます。
@@ -533,3 +533,4 @@
 错误,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120273_AwakerVoiceContent,不，我的命运不该如此，一定有哪里出错了！,いや、わたくしの運命はこんなはずがないわ。きっとどこかで何かが間違ったのよ！
 
 死亡,诞妄·墨菲,Murphy: Fauxborn,PVPOpeningVoice_120266_AwakerVoiceContent,难道……这就是我的宿命？,これが……わたくしの運命だというの？
+
