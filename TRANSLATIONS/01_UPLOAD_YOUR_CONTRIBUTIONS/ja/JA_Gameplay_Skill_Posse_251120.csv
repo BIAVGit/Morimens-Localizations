@@ -19,7 +19,7 @@ Skill_4582_Name,aOac,j技能表_Skill_A.csv,34,Skill,Name,,不朽的葬仪,不�
 Skill_4582_Desc,aOaa,j技能表_Skill_A.csv,34,Skill,Desc,,所有唤醒体获得 <Energy:15> 点狂气，下回合开始时，获得 5% 最大生命 <SacrificeKeyWord:献祭>。,すべての覚醒体は<Energy:15>狂気を獲得する。次のターン開始時、最大ライフの5%分の<SacrificeKeyWord:供犠>を獲得する。
 Skill_4582_BattleDesc,aNZZ,j技能表_Skill_A.csv,34,Skill,BattleDesc,,所有唤醒体获得 <Energy:15> 点狂气，下回合开始时，受到最大生命 5%([Arg3]) 的<SacrificeKeyWord:献祭>。,すべての覚醒体は<Energy:15>狂気を獲得する。次のターン開始時、最大ライフの5%分([Arg3])の<SacrificeKeyWord:供犠>を獲得する。
 Skill_36809_Name,aLSs,j技能表_Skill_A.csv,35,Skill,Name,,最后的誓言,最後の誓い
-Skill_36809_Desc,aLSq,j技能表_Skill_A.csv,35,Skill,Desc,,获得 [Arg1]% 临时暴击率和 [Arg2] 点临时<PowerIconKeywords:力量>。 若在首领战中且本回合尚未打出过任何牌，则尝试触发 [Arg3] 次死亡抵抗，若成功则获得 <Block:[Block:Arg4]> 点护盾，此效果只能触发 [Arg5] 次。,[Arg1]%の一時的なクリティカル率と[Arg2]点の<一時的なPowerIconKeywords:力>を獲得する。ボス戦中、かつこのターン中にまだカードを使用していない場合、死亡抵抗を[Arg3]回試行し、成功すると<Block:[Block:Arg4]>点のシールドを獲得する。この効果は[Arg5]回まで発動する。
+Skill_36809_Desc,aLSq,j技能表_Skill_A.csv,35,Skill,Desc,,获得 [Arg1]% 临时暴击率和 [Arg2] 点临时<PowerIconKeywords:力量>。 若在首领战中且本回合尚未打出过任何牌，则尝试触发 [Arg3] 次死亡抵抗，若成功则获得 <Block:[Block:Arg4]> 点护盾，此效果只能触发 [Arg5] 次。,[Arg1]%の一時的なクリティカル率と[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。ボス戦中、かつこのターン中にまだカードを使用していない場合、死亡抵抗を[Arg3]回試行し、成功すると<Block:[Block:Arg4]>点のシールドを獲得する。この効果は[Arg5]回まで発動する。
 Skill_36800_Name,aLRX,j技能表_Skill_A.csv,36,Skill,Name,,奥瑞塔的宝藏,オレッタの宝物
 Skill_36800_Desc,aLRV,j技能表_Skill_A.csv,36,Skill,Desc,,从抽牌堆中抽 [Arg1] 张算力消耗最低的卡牌。若当前界域为「深海」，则额外使<TentacleInjurieIconKeywords:触腕伤害>提高 [Arg2] 点。,山札から最も行動力消費が低いカードを[Arg1]枚引く。現在の界域が「深海」の場合、<TentacleInjurieIconKeywords:触腕ダメージ>が[Arg2]点増加する。
 Skill_36807_Name,aLSe,j技能表_Skill_A.csv,37,Skill,Name,,咆哮的血与沙,咆哮する血と砂
@@ -107,3 +107,4 @@ Skill_100304_Name,bCuL,j技能表_Skill_A.csv,76,Skill,Name,,虚世之彩,虚空
 Skill_100304_Desc,bCuK,j技能表_Skill_A.csv,76,Skill,Desc,,选择一名唤醒体获得 [Arg1] 点狂气，将 1 张 <DerivativeCardKeywords_4:「灵感」>洗入抽牌堆。若皮克曼在队伍中，使其获得 1 层「<Chuangyi:创意>」。,覚醒体を1名選択し、[Arg1]狂気を獲得させ、<DerivativeCardKeywords_4:「啓示」>を1枚山札に追加する。ピックマンがチームいる場合、1点の「<Chuangyi:発想>」を獲得する。
 Skill_116332_Name,bHuA,j技能表_Skill_A.csv,77,Skill,Name,,美梦一刹,束の間の夢
 Skill_116332_Desc,bHuz,j技能表_Skill_A.csv,77,Skill,Desc,,获得 <Block:[Block:Arg1]> 点护盾和等同于当前护盾 10％ 的临时<PowerIconKeywords:力量>。,<Block:[Block:Arg1]>点のシールドとシールドの10%に等しい一時的な<PowerIconKeywords:力>を獲得する。
+
