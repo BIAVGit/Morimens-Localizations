@@ -1,0 +1,50 @@
+﻿AvgDialog_10142_Content_3,adpU,avg序章_AvgDialog_C_M.csv,14,AvgDialog,Content,拉蒙娜,立下自己的墓碑，以此证明我们为<Yellow:对抗融蚀>献出生命的决意——这不仅是弥萨格的传统，也是我们结束预科学习、成为正式调查员的标志。,"Erect your tombstone, and devote your life to the fight against <Yellow:Dissolution>. This Mythag tradition marks your graduation from preparatory studies, and the beginning of your tenure as an Investigator."
+AvgDialog_10130_Content_3,adnO,avg序章_AvgDialog_C_M.csv,19,AvgDialog,Content,拉蒙娜,或者说……欢迎你，正式跨入世界的里侧。,"Or rather, welcome back to the world beyond the veil."
+AvgDialog_10130_Content_7,adnS,avg序章_AvgDialog_C_M.csv,23,AvgDialog,Content,拉蒙娜,希望你的@1 外勤课题不像微积分课程一样依赖我这个<Blue:助手>。,"Just promise me your @1 field work won't rely too much on me as your <Blue:assistant>; or at least, not as much as you did for your Calculus course."
+AvgDialog_10130_Content_21,adnL,avg序章_AvgDialog_C_M.csv,37,AvgDialog,Content,,细雨将指尖濡湿，微弱的电流穿透手套，顺着你的皮肤和她的指尖隐秘流淌。,"Raindrops slip into your gloves, wetting your fingertips. A faint current seeps through the material, flowing secretly between your skin and hers."
+AvgDialog_10127_Content_2,adng,avg序章_AvgDialog_C_M.csv,41,AvgDialog,Content,拉蒙娜,"你可不能轻易倒下哦，<Yellow:世界唯一>的守密人。
+我们还指望靠你来调查和记录所有被融蚀抹消的历史呢。","As <Yellow:the one and only> Keeper in this world, you mustn't falter. We're counting on you to investigate and document all history lost to Dissolution."
+AvgDialog_10127_Content_4,adni,avg序章_AvgDialog_C_M.csv,43,AvgDialog,Content,,淅沥的雨声填满天地。,The sound of pattering rain fills the world.
+AvgDialog_10127_Content_5,adnj,avg序章_AvgDialog_C_M.csv,44,AvgDialog,Content,,<Red:不安、疼痛、窒息>却在某滴雨珠落下时，填满了胸口。,"Yet with the fall of a single raindrop, <Red:unease, pain, and suffocation> suddenly flood your chest."
+AvgDialog_10120_Content_1,adle,avg序章_AvgDialog_C_M.csv,53,AvgDialog,Content,拉蒙娜战损版,"保护好你手中的指令仪，小心融蚀污染。
+在接下来的战斗中，它不可或缺。",Protect the command device in your hand and beware of Dissolution! It will be essential in the upcoming battle!
+AvgDialog_10125_Content_6,admY,avg序章_AvgDialog_C_M.csv,80,AvgDialog,Content,,视线尽头，金发少年抬着与身量不相称的黑色巨盾，正在抵抗身姿矫健的双剑战士的攻击。,"In the periphery of your vision, a blond youth raises a massive black shield, barely fending off the assault of a dual-wielding swordswoman."
+AvgDialog_10125_Content_7,admZ,avg序章_AvgDialog_C_M.csv,81,AvgDialog,Content,,他用护盾牢牢挡住身后的粉色长发少女，被逼得节节后退。,"He guards a pink-haired girl behind him, each deflected attack pushing him back another step."
+AvgDialog_10125_Content_12,admi,avg序章_AvgDialog_C_M.csv,86,AvgDialog,Content,,你认识她，她是以难交流著称的教授朵尔，隶属于<Blue:唤醒系科研所>。换句话说，是非战斗人员。,"You recognize her—Professor Doll, belonging to the <Blue:Awakening Research Institute> and infamously difficult to communicate with. In other words, a non-combatant."
+AvgDialog_10125_Content_17,admn,avg序章_AvgDialog_C_M.csv,91,AvgDialog,Content,朵尔唤醒体,"拉蒙娜。
+那些是我们的义务，%player%只是个刚读完预科的新人。","Ramona. This is our duty. %player% is still a freshman, freshly graduated from prep school."
+AvgDialog_10125_Content_22,admt,avg序章_AvgDialog_C_M.csv,96,AvgDialog,Content,拉蒙娜战损版,"情况紧急，我们别无选择，不是吗？
+而且，%player%不是普通的新生，%heorshe%是我们唯一的守密人。","It's an emergency! We have no choice, right? Besides, %player% isn't just any freshman. {Male=He's,Female=She's} our only Keeper."
+AvgDialog_10125_Content_26,admx,avg序章_AvgDialog_C_M.csv,100,AvgDialog,Content,朵尔唤醒体,我们面对的是会毁灭物质存在本身的现象，一旦被<Yellow:融蚀>污染，你的一切都会烟消云散。,"We're combating a phenomenon that unmakes existence itself. Once contaminated by <Yellow:Dissolution>, everything that is <Bold:you> will vanish entirely from this world."
+AvgDialog_10125_Content_27,admy,avg序章_AvgDialog_C_M.csv,101,AvgDialog,Content,朵尔唤醒体,你在宣誓仪式中刻在墓碑上的名字，也会化作一滩黑泥，无人铭记。,"Your tombstone inscription and your legacy will be reduced to a sludge of nothingness, forgotten by all."
+AvgDialog_10125_Content_46,admT,avg序章_AvgDialog_C_M.csv,120,AvgDialog,Content,朵尔唤醒体,"你来得很及时，守密人。
+我和奥吉尔……都已经是强弩之末了。","Your timing is adequate, Keeper. Ogier and I... we were at our limit."
+AvgDialog_10135_Content_2,adpm,avg序章_AvgDialog_C_M.csv,125,AvgDialog,Content,,只听“咣”地一声，萝坦的双剑再次击碎了黑色粘液凝固成的巨盾。,"With a clang, Lotan's twin swords shatter his shield of black sludge once again."
+AvgDialog_10135_Content_4,adpo,avg序章_AvgDialog_C_M.csv,127,AvgDialog,Content,,名为萝坦的唤醒体挥舞着双刀，一次又一次地袭向奥吉尔，那威力昭示着无情的现实——她已经彻底失控了。,"Awakener Lotan swings her twin blades, relentlessly assaulting Ogier. The sheer power behind each strike makes it clear—she has lost control."
+AvgDialog_10135_Content_11,adpf,avg序章_AvgDialog_C_M.csv,134,AvgDialog,Content,玩家,夸我的时候“百年一遇”，真面临危机了就把我当花瓶，这不太合适。,"When praising me, you refer to me as a ""once-in-a-century prodigy"", but in times of crisis, I'm relegated to but a figurehead. That's hardly appropriate."
+AvgDialog_10135_Content_14,adpi,avg序章_AvgDialog_C_M.csv,137,AvgDialog,Content,玩家,"况且，就凭你我二人，根本不可能突破钟楼那边的包围。
+我们需要帮助，需要支配唤醒体的力量。","Besides, we can't possibly break through the blockade around the Clock Tower by ourselves. We'll need all the help we can get... we must find a way to command the Awakeners."
+AvgDialog_10137_Content_4,adpz,avg序章_AvgDialog_C_M.csv,155,AvgDialog,Content,萝坦,<Shake:早知如此……绝不与你们定下约定……>,<Shake:Had I known this would happen... I would have never made that pact...>
+AvgDialog_10123_Content_1,adll,avg序章_AvgDialog_C_M.csv,169,AvgDialog,Content,,你们穿过钟楼下的小门，进入一处隐蔽的封闭通道。,"You slip through a hidden door beneath the Clock Tower, stepping into a concealed passage."
+AvgDialog_10123_Content_4,adlS,avg序章_AvgDialog_C_M.csv,172,AvgDialog,Content,朵尔唤醒体,"尽人皆知的，我猜就不叫密道了。
+通道连接的是<Yellow:黑池>，那是弥萨格的立身之本。","If it was common knowledge, it would hardly qualify as a secret passage. This tunnel leads to the <Yellow:Black Pool>... the foundation of Mythag."
+AvgDialog_10123_Content_5,adlZ,avg序章_AvgDialog_C_M.csv,173,AvgDialog,Content,朵尔唤醒体,如果没有黑池底的被称为<Yellow:核>的<Yellow:巨型银芯>，仅靠孱弱的人类精神来维持唤醒体现世，弥萨格的唤醒体技术不知道要比现在落后几十年。,"Without the giant Silver artifact known as the <Yellow:Core> at the bottom of the Black Pool, our Awakener technology would regress decades. Human spirits alone are too fragile to sustain them."
+AvgDialog_10123_Content_9,admd,avg序章_AvgDialog_C_M.csv,177,AvgDialog,Content,,"说着，朵尔按下了通道侧面一个不显眼的按钮。
+叮的一声，门洞敞开，你们迈入光线幽暗的狭小空间。","As she speaks, Doll presses an inconspicuous button on the wall. A sharp ding rings out as the doorway slides open, revealing a cramped and dimly lit chamber beyond."
+AvgDialog_10123_Content_14,adlq,avg序章_AvgDialog_C_M.csv,182,AvgDialog,Content,,恍惚间，你眼前非人的身影，与你在钥冢中出神时看到的年轻女性的轮廓悄然重合。,"Mesmerized, you gaze upon the inhuman entity; Their outline briefly superimposing with that of the young woman you saw while in a trance back at the Keygrave."
+AvgDialog_10123_Content_16,adls,avg序章_AvgDialog_C_M.csv,184,AvgDialog,Content,,至高、至洁、至善、至美。,The Supreme. The Purest. The Noblest. The Fairest.
+AvgDialog_10123_Content_18,adlu,avg序章_AvgDialog_C_M.csv,186,AvgDialog,Content,,白色的怪物发出喑哑的声音，似是嘶吼，又似是悲鸣。,The pale monster emits a hoarse cry; roar and wail entwined.
+AvgDialog_10123_Content_19,adlv,avg序章_AvgDialog_C_M.csv,187,AvgDialog,Content,,那绝非人类的语言，你却理解了祂话语中的含义。,"It was most definitely not human speech, yet you comprehend Their meaning perfectly."
+AvgDialog_10123_Content_20,adlx,avg序章_AvgDialog_C_M.csv,188,AvgDialog,Content,,眼前的一切突然变得模糊，你眨了眨眼睛，温热的液体从你脸颊滑过。,"Your vision blurs and unexpectedly, your eyes sting. Warm rivulets trace paths down your cheeks."
+AvgDialog_10123_Content_21,adly,avg序章_AvgDialog_C_M.csv,189,AvgDialog,Content,,那是泪水吗？可是为什么？是什么让你感到胸口发紧，眼眶酸涩？,Are these tears? But why? What is this ache constricting your chest?
+AvgDialog_10123_Content_26,adlD,avg序章_AvgDialog_C_M.csv,194,AvgDialog,Content,,洪积90年，<Blue:华德·菲利普斯>，<Blue:刻拉尔克什>和<Blue:塔薇>成立了<Blue:弥萨格学院（Mythag College）>。,"In the year AF 90, <Blue:Ward Philips>, <Blue:Khlarcus>, and <Blue:Tawil> founded <Blue:Mythag College>."
+AvgDialog_10123_Content_27,adlE,avg序章_AvgDialog_C_M.csv,195,AvgDialog,Content,,那正是你现在所在的，<Blue:弥萨格大学（Mythag University）>的前身。,That was where you stood now. The predecessor to the current day <Blue:Mythag University>.
+AvgDialog_10133_Content_5,adoV,avg序章_AvgDialog_C_M.csv,218,AvgDialog,Content,,你爆发出能够达到的最快速度，勉强挡在了拉蒙娜的面前。,"You unleashed every ounce of speed you possessed, barely managing to intercept Their path."
+AvgDialog_10133_Content_11,adog,avg序章_AvgDialog_C_M.csv,224,AvgDialog,Content,,银钥匙闪过回应的微光。,The Key faintly shines in response.
+AvgDialog_10133_Content_16,adol,avg序章_AvgDialog_C_M.csv,229,AvgDialog,Content,,全都化成了一滩黑水，随后消失不见。,"One by one, they melt into the Black Pool before vanishing completely. The woman with a vacant expression begins to float upward."
+AvgDialog_10133_Content_17,adom,avg序章_AvgDialog_C_M.csv,230,AvgDialog,Content,,不顾拉蒙娜和朵尔的呼喊，你握着银钥匙眺望高处，眺望向「塔薇」退回的「门」之内。,"Deaf to Ramona and Doll's calls, you clutch the Silver Key and stare up at ""Tawil,"" already being engulfed by the ""Gate"" above."
+AvgDialog_10133_Content_18,adon,avg序章_AvgDialog_C_M.csv,231,AvgDialog,Content,,"你清晰地记得刚才看到的面容。
+无论是淡漠的神色，眉眼的轮廓，还是嘴唇的弧度，都与拉蒙娜——",You know that face. The indifference. The brows. The lips. They all mirror Ramona's appearance.
+AvgDialog_10133_Content_21,ador,avg序章_AvgDialog_C_M.csv,234,AvgDialog,Content,诃勒特,……弥萨格大学是对抗融蚀的先行者，是守望人类未来的重要防线。,...We of Mythag University are pioneers in the battle against Dissolution. We stand as humanity's last line of defense.
+AvgDialog_10133_Content_28,adoy,avg序章_AvgDialog_C_M.csv,241,AvgDialog,Content,,说话的人是弥萨格生命科学院代理院长诃勒特，传说中她能够看见异种生物，是前任院长最钟爱的学生。,Ms. Czort is the Acting Dean of Mythag's Department of Biological Studies. Legend had it that she could see otherworldly beings. The former dean's star pupil.
+AvgDialog_10133_Content_42,adoO,avg序章_AvgDialog_C_M.csv,255,AvgDialog,Content,,虽然你希望知道真相，但还是点头答应。,"Although you wish to know the truth, you nod in agreement compliantly."
