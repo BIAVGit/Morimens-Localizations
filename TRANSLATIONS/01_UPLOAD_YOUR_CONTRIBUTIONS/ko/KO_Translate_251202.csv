@@ -1,4 +1,198 @@
-﻿AvgCommunicate_58020_Content_1,abJc,avg通讯器聊天表_AvgCommunicate_A_M.csv,23,AvgCommunicate,Content,本源拉蒙娜通讯器,居然有这样的机会时时与你联系。,언제든지 너와 연락할 수 있게 되었네.
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,NewKR
+Activity_61371_ActivityName,aaIu,h活动_Activity_A.csv,8,Activity,ActivityName,,六翼满开之愿,여섯 날개의 기도
+Activity_61371_BannerText,aaIy,h活动_Activity_A.csv,8,Activity,BannerText,,签到领取超多银芯,출석을 통해 은심 획득
+Activity_61370_ActivityName,aaIo,h活动_Activity_A.csv,9,Activity,ActivityName,,纯银的初心,순은의 초심
+Activity_61370_BannerText,aaIs,h活动_Activity_A.csv,9,Activity,BannerText,,限定SSR命轮免费领取,무료 한정 SSR 명륜 획득
+Activity_89008_ActivityName,bwJR,h活动_Activity_A.csv,10,Activity,ActivityName,,萦回维度的追随,차원을 넘는 추적
+Activity_89008_BannerText,bwJV,h活动_Activity_A.csv,10,Activity,BannerText,,签到领取超多无垢之芯,출석을 통해 무구의 은핵 획득
+Activity_89576_ActivityName,bxrW,h活动_Activity_A.csv,11,Activity,ActivityName,,愿希望再度萌芽,희망이 다시 싹트기를
+Activity_89576_BannerText,bxsa,h活动_Activity_A.csv,11,Activity,BannerText,,限定SSR命轮免费领取,무료 한정 SSR 명륜 획득
+Activity_65387_ActivityName,aaRG,h活动_Activity_A.csv,12,Activity,ActivityName,,校猫的歉意,캠퍼스 고양이의 사과
+Activity_65387_BannerText,aaRK,h活动_Activity_A.csv,12,Activity,BannerText,,签到领取银芯,출석을 통해 은심 획득
+Activity_65502_BannerText,aaRQ,h活动_Activity_A.csv,13,Activity,BannerText,,限定命轮免费领取,무료 한정 명륜 획득
+Activity_61369_BannerText,aaIm,h活动_Activity_A.csv,14,Activity,BannerText,,限定命轮免费领取,무료 한정 명륜 획득
+Activity_48825_ActivityName,aaAw,h活动_Activity_A.csv,15,Activity,ActivityName,,校猫的谢礼,캠퍼스 고양이의 감사 선물
+Activity_48825_BannerText,aaAA,h活动_Activity_A.csv,15,Activity,BannerText,,限定唤醒体免费领取,무료 한정 각성체 획득
+Activity_48827_ActivityName,aaAI,h活动_Activity_A.csv,16,Activity,ActivityName,,帽中的银芯,모자 속 은심
+Activity_48827_BannerText,aaAM,h活动_Activity_A.csv,16,Activity,BannerText,,签到领取超多银芯,출석을 통해 은심 획득
+Activity_48826_ActivityName,aaAC,h活动_Activity_A.csv,17,Activity,ActivityName,,极夜与破晓,극야와 새벽
+Activity_48826_BannerText,aaAG,h活动_Activity_A.csv,17,Activity,BannerText,,限定SSR命轮免费领取,무료 한정 SSR 명륜 획득
+Activity_119694_ActivityName,bKbA,h活动_Activity_A.csv,18,Activity,ActivityName,,晨星的指引,새벽별의 인도
+Activity_119694_ActivityTips,bKbC,h活动_Activity_A.csv,18,Activity,ActivityTips,,<Title:活动规则>\n·守密人完成指定的纪行任务后，可以在「晨星的指引」中领取奖励。\n·解锁「高级纪行」后，完成任务后可额外领取奖励。\n·本次「高级纪行」购买有时间限制，逾期将无法再购买。请守密人在1月26日9：00（GMT+8）前酌情购买。\n·请注意：在本活动中解锁的「高级纪行」仅在本活动生效。请守密人酌情理性消费。," <Title:활동 규칙>\n· 수호자가 지정된 기행 임무를 완료한 후, 「새벽별의 인도」에서 보상을 받을 수 있습니다.\n· 「고급 기행」 을 개방하면, 임무 완료 후 추가 보상을 받을 수 있습니다.\n· 이번 「고급 기행」 구매에는 기간 제한이 있으며, 기간이 지나면 더 이상 구매할 수 없습니다. 1월 26일 9:00 (GMT+8) 전에 구매하시기를 권장합니다.\n· 주의: 이번 이벤트에서 개방된 「고급 기행」은 이벤트 유효 기간 동안만 적용됩니다. 신중하게 소비해주세요."
+Activity_119694_BannerText,bKcP,h活动_Activity_A.csv,18,Activity,BannerText,,特别纪行活动限时开启！,기간 한정 특별 기행!
+Activity_119693_ActivityName,bKbw,h活动_Activity_A.csv,19,Activity,ActivityName,,以银钥之名,은열쇠의 이름으로
+Activity_119693_ActivityPlot,bKbx,h活动_Activity_A.csv,19,Activity,ActivityPlot,,完成任务后可从以下限定唤醒体中选择1名唤醒！,임무를 완료한 후 아래 한정 각성체 중 1명을 선택할 수 있습니다!
+Activity_119693_BannerText,bKbz,h活动_Activity_A.csv,19,Activity,BannerText,,限定唤醒体免费领取,무료 한정 각성체 획득
+Activity_99296_ActivityName,bIbh,h活动_Activity_A.csv,20,Activity,ActivityName,,你我终将重逢,다시 만날 거야
+Activity_99296_ActivityPlot,bIbi,h活动_Activity_A.csv,20,Activity,ActivityPlot,,每日登录可领取纪念限定SSR命轮「你我终将重逢」，总计可领取16个！,매일 로그인하여 한정 SSR 명륜 「다시 만날 거야」를 최대 16개까지 획득할 수 있습니다!
+Activity_99296_BannerText,bIbk,h活动_Activity_A.csv,20,Activity,BannerText,,限定SSR命轮免费领取,무료 한정 SSR 명륜 획득
+Activity_116818_ActivityName,bHAY,h活动_Activity_A.csv,21,Activity,ActivityName,,再战原初,원초와의 재전
+Activity_116818_BannerText,bHBa,h活动_Activity_A.csv,21,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_116818_ActivityStageEndContent,bLfP,h活动_Activity_A.csv,21,Activity,ActivityStageEndContent,,活动已结束,이벤트가 종료되었습니다.
+Activity_120954_ActivityName,bKwG,h活动_Activity_A.csv,22,Activity,ActivityName,,群星咏叹调,별빛의 찬가
+Activity_122827_ActivityName,bLmu,h活动_Activity_A.csv,23,Activity,ActivityName,,繁育的恩宠,번영의 은총
+Activity_122827_BannerText,bLmw,h活动_Activity_A.csv,23,Activity,BannerText,,免费领取幻衣!,무료 스킨 획득
+Activity_95492_ActivityName,bzze,h活动_Activity_A.csv,24,Activity,ActivityName,,君王的嘉赏,군주의 포상
+Activity_95492_BannerText,bzzh,h活动_Activity_A.csv,24,Activity,BannerText,,签到领取超多无垢之芯,출석을 통해 무구의 은핵 획득
+Activity_38717_ActivityName,aayK,h活动_Activity_A.csv,25,Activity,ActivityName,,返校报到,복학 신고
+Activity_38716_ActivityName,aayE,h活动_Activity_A.csv,26,Activity,ActivityName,,调查重启,조사 재시작
+Activity_53729_ActivityName,aaBW,h活动_Activity_A.csv,27,Activity,ActivityName,,返校报到,복학 신고
+Activity_53727_ActivityName,aaBK,h活动_Activity_A.csv,28,Activity,ActivityName,,返校日,복학일
+Activity_94859_BannerText,bBhG,h活动_Activity_A.csv,32,Activity,BannerText,,特别纪行活动限时开启！,기간 한정 특별 기행!
+Activity_97950_BannerText,bBhJ,h活动_Activity_A.csv,33,Activity,BannerText,,特别纪行活动限时开启！,기간 한정 특별 기행!
+Activity_116765_BannerText,bHAd,h活动_Activity_A.csv,34,Activity,BannerText,,特别纪行活动限时开启！,기간 한정 특별 기행!
+Activity_97190_BannerText,bARK,h活动_Activity_A.csv,35,Activity,BannerText,,特别纪行活动限时开启！,기간 한정 특별 기행!
+Activity_66375_BannerText,aaZC,h活动_Activity_A.csv,38,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_70438_BannerText,abdQ,h活动_Activity_A.csv,39,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_81771_BannerText,brMn,h活动_Activity_A.csv,40,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_81771_ActivityStageEndContent,brMl,h活动_Activity_A.csv,40,Activity,ActivityStageEndContent,,活动已结束,이벤트가 종료되었습니다.
+Activity_46609_BannerText,aaAi,h活动_Activity_A.csv,47,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_48719_BannerText,aaAu,h活动_Activity_A.csv,49,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_51127_BannerText,aaBk,h活动_Activity_A.csv,52,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_52040_BannerText,aaBI,h活动_Activity_A.csv,54,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_53829_BannerText,aaCg,h活动_Activity_A.csv,56,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_55110_BannerText,aaDi,h活动_Activity_A.csv,58,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56431_BannerText,aaDS,h活动_Activity_A.csv,60,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56433_BannerText,aaEe,h活动_Activity_A.csv,61,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56427_BannerText,aaDu,h活动_Activity_A.csv,63,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56430_BannerText,aaDM,h活动_Activity_A.csv,65,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56436_BannerText,aaEw,h活动_Activity_A.csv,66,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56432_BannerText,aaDY,h活动_Activity_A.csv,68,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56435_BannerText,aaEq,h活动_Activity_A.csv,70,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56428_BannerText,aaDA,h活动_Activity_A.csv,72,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56434_BannerText,aaEk,h活动_Activity_A.csv,74,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67727_BannerText,abay,h活动_Activity_A.csv,75,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68405_BannerText,abda,h活动_Activity_A.csv,78,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67741_BannerText,abbG,h活动_Activity_A.csv,79,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67742_BannerText,abbM,h活动_Activity_A.csv,81,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_56429_BannerText,aaDG,h活动_Activity_A.csv,83,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68410_BannerText,abdE,h活动_Activity_A.csv,84,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_73879_BannerText,abfC,h活动_Activity_A.csv,86,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_72101_BannerText,abfk,h活动_Activity_A.csv,87,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_67726_BannerText,abas,h活动_Activity_A.csv,89,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68406_BannerText,abdg,h活动_Activity_A.csv,91,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_78652_BannerText,abki,h活动_Activity_A.csv,92,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_81019_BannerText,brLV,h活动_Activity_A.csv,94,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
+Activity_81178_BannerText,brMb,h活动_Activity_A.csv,95,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_78791_BannerText,abkY,h活动_Activity_A.csv,97,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_89730_BannerText,bxvN,h活动_Activity_A.csv,99,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71098_BannerText,abeo,h活动_Activity_A.csv,101,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_91027_BannerText,byoC,h活动_Activity_A.csv,102,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_95977_BannerText,bzRy,h活动_Activity_A.csv,105,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67733_BannerText,abaQ,h活动_Activity_A.csv,106,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_95191_BannerText,bzjW,h活动_Activity_A.csv,108,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67721_BannerText,abaa,h活动_Activity_A.csv,110,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_94860_BannerText,byHK,h活动_Activity_A.csv,112,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_96838_BannerText,bADf,h活动_Activity_A.csv,114,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_74364_BannerText,abfU,h活动_Activity_A.csv,116,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_116470_BannerText,bHvA,h活动_Activity_A.csv,118,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_97853_BannerText,bBcr,h活动_Activity_A.csv,120,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67745_BannerText,abce,h活动_Activity_A.csv,122,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67732_BannerText,bqsx,h活动_Activity_A.csv,124,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67734_BannerText,abaW,h活动_Activity_A.csv,126,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67730_BannerText,bqsr,h活动_Activity_A.csv,127,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67731_BannerText,abaK,h活动_Activity_A.csv,129,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67718_BannerText,aaZO,h活动_Activity_A.csv,131,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67746_BannerText,abck,h活动_Activity_A.csv,133,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_97672_BannerText,bAVH,h活动_Activity_A.csv,134,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_67735_BannerText,abbc,h活动_Activity_A.csv,135,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68411_BannerText,abdK,h活动_Activity_A.csv,138,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68409_BannerText,abdy,h活动_Activity_A.csv,139,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71100_BannerText,abeu,h活动_Activity_A.csv,140,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68407_BannerText,abdm,h活动_Activity_A.csv,141,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71097_BannerText,abei,h活动_Activity_A.csv,142,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_68404_BannerText,abcU,h活动_Activity_A.csv,143,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71102_BannerText,abeG,h活动_Activity_A.csv,144,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71101_BannerText,abeA,h活动_Activity_A.csv,146,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+Activity_71096_BannerText,abec,h活动_Activity_A.csv,147,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
+AvgDialog_4881_Content_53,amuF,avgV1.1莉莉大型支线_AvgDialog_C_M.csv,653,AvgDialog,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
+AvgDialog_22708_Content_51,aikK,avg测试剧情_AvgDialog_C_M.csv,639,AvgDialog,Content,旁白（卡茜亚）,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
+AvgDialog_18912_Content_27,afAq,avg章1新_AvgDialog_C_M.csv,1055,AvgDialog,Content,,落日金黄的余晖穿透钟楼的巨大透明钟面，洒落到女孩的身上。,"노을의 금빛 잔광이 시계탑의 유리 면을 꿰뚫고, 소녀의 몸에 부드럽게 쏟아진다."
+AvgDialog_65482_Content_21,aoFT,avg章9_AvgDialog_C_M.csv,299,AvgDialog,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
+AvgDialog_65482_Content_22,aoFU,avg章9_AvgDialog_C_M.csv,300,AvgDialog,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
+AvgVideoCaption_18618_Content_1,arKT,avg视频字幕_AvgVideoCaption_C_M.csv,8,AvgVideoCaption,Content,,密室的深处，洁白的怪物静寂地伫立。,"밀실 깊은 곳에, 새하얀 괴물이 조용히 서 있다."
+AvgVideoCaption_18624_Content_1,arLa,avg视频字幕_AvgVideoCaption_C_M.csv,9,AvgVideoCaption,Content,,下个瞬间，诡异的表象褪去。,"다음 순간, 하얀 날개의 괴물은 모습을 감추었고——"
+AvgVideoCaption_18620_Content_1,arKW,avg视频字幕_AvgVideoCaption_C_M.csv,10,AvgVideoCaption,Content,,随着她的话音落地，所有超乎常理的存在，都在刹那间消失了。,"그녀의 말이 끝나자, 상식을 벗어난 모든 존재들이 순식간에 사라졌다."
+AvgVideoCaption_18625_Content_1,arLb,avg视频字幕_AvgVideoCaption_C_M.csv,11,AvgVideoCaption,Content,,在那些庞大而未知的存在面前……,그 거대한 미지의 존재들 앞에서...
+AvgVideoCaption_18625_Content_2,arLe,avg视频字幕_AvgVideoCaption_C_M.csv,12,AvgVideoCaption,Content,,人类，如此渺小。,인간은 너무나도 왜소하다.
+AvgVideoCaption_18625_Content_3,arLf,avg视频字幕_AvgVideoCaption_C_M.csv,13,AvgVideoCaption,Content,,是梦吗？,이것은 꿈인가?
+AvgVideoCaption_18625_Content_4,arLg,avg视频字幕_AvgVideoCaption_C_M.csv,14,AvgVideoCaption,Content,,强烈的不安在胸口涌现。,강렬한 불안감이 덮쳐온다.
+AvgVideoCaption_18625_Content_5,arLh,avg视频字幕_AvgVideoCaption_C_M.csv,15,AvgVideoCaption,Content,,—弥萨格大学钥冢，银钥授予仪式—,"—미사그 대학 열쇠 무덤, 은열쇠 수여식—"
+AvgVideoCaption_18625_Content_6,arLi,avg视频字幕_AvgVideoCaption_C_M.csv,16,AvgVideoCaption,Content,,“……弥萨格大学是对抗@2的先行者……”,「...미사그 대학은 @2에 대한 선구자이며...」
+AvgVideoCaption_18625_Content_7,arLj,avg视频字幕_AvgVideoCaption_C_M.csv,17,AvgVideoCaption,Content,,“……成为弥萨格大学的调查员，”,"「...미사그 대학의 조사원이 된다는 것은,」"
+AvgVideoCaption_18625_Content_8,arLk,avg视频字幕_AvgVideoCaption_C_M.csv,18,AvgVideoCaption,Content,,“意味着你们的余生将与死亡和疯狂为伴……”,「여러분의 남은 인생이 죽음과 광기로 채워지게 될 것을 의미합니다...」
+AvgVideoCaption_18625_Content_9,arLl,avg视频字幕_AvgVideoCaption_C_M.csv,19,AvgVideoCaption,Content,,“近十年，扩散@2……”,"「지난 10년 동안, @2이 확산되어...」"
+AvgVideoCaption_18625_Content_10,arLc,avg视频字幕_AvgVideoCaption_C_M.csv,20,AvgVideoCaption,Content,,听到那个词汇的瞬间，剧烈的嗡鸣声伴随疼痛直钻颅脑深处。,"그 단어를 듣는 순간, 격렬한 이명과 함께 통증이 두뇌 깊은 곳까지 파고들었다."
+AvgVideoCaption_18625_Content_11,arLd,avg视频字幕_AvgVideoCaption_C_M.csv,21,AvgVideoCaption,Content,,胃里翻江倒海，呕吐物的刺激臭味冲击鼻腔。,"위장이 뒤집히고, 토사물의 자극적인 냄새가 코를 찌른다."
+AvgVideoCaption_18619_Content_1,arKU,avg视频字幕_AvgVideoCaption_C_M.csv,22,AvgVideoCaption,Content,,狂乱的神采逐渐从萝坦的眼中淡去，取而代之的是一种散发着银光的黯淡色泽。,"광기에 물들었던 로탄의 눈에, 은빛의 광채가 점차 돌아왔다."
+AvgVideoCaption_18619_Content_2,arKV,avg视频字幕_AvgVideoCaption_C_M.csv,23,AvgVideoCaption,Content,,恢复清醒的萝坦仿佛忍受着剧烈的头痛，扶着一侧额头，垂下头去。,"정신을 차린 로탄은, 심한 두통을 견디는 것처럼 한쪽 이마를 잡고 고개를 숙였다."
+AvgVideoCaption_18622_Content_1,arKY,avg视频字幕_AvgVideoCaption_C_M.csv,24,AvgVideoCaption,Content,,落日金黄的余晖穿透钟楼的巨大透明钟面，洒落到女孩的身上。,"노을의 금빛 잔광이 시계탑의 유리 면을 꿰뚫고, 소녀의 몸에 부드럽게 쏟아진다."
+AvgVideoCaption_18621_Content_1,arKX,avg视频字幕_AvgVideoCaption_C_M.csv,25,AvgVideoCaption,Content,,她抬起手，将面前的一块玻璃擦拭干净。,아이기스는 손을 들어 눈앞의 유리를 닦았다.
+AvgVideoCaption_18623_Content_1,arKZ,avg视频字幕_AvgVideoCaption_C_M.csv,26,AvgVideoCaption,Content,,是又一次变得只有自己一个人。,"또다시, 혼자가 되어버렸어요."
+AvgVideoCaption_18626_Content_1,arLm,avg视频字幕_AvgVideoCaption_C_M.csv,27,AvgVideoCaption,Content,,能换来大家现在的安全，我也知足了。,"모두를 지킬 수 있다면, 전 그걸로 충분해요."
+AvgVideoCaption_18626_Content_2,arLp,avg视频字幕_AvgVideoCaption_C_M.csv,28,AvgVideoCaption,Content,,我将不会再被控制。,더 이상 조종당하지 않을 거에요.
+AvgVideoCaption_18626_Content_3,arLq,avg视频字幕_AvgVideoCaption_C_M.csv,29,AvgVideoCaption,Content,,不会再伤害任何人。,더 이상 누군가를 해치지 않을 거에요.
+AvgVideoCaption_18626_Content_4,arLr,avg视频字幕_AvgVideoCaption_C_M.csv,30,AvgVideoCaption,Content,,不会再让朋友因我而死。,더 이상 저 때문에 친구가 죽도록 내버려두지 않을 거에요.
+AvgVideoCaption_18626_Content_5,arLs,avg视频字幕_AvgVideoCaption_C_M.csv,31,AvgVideoCaption,Content,,借着钟声的掩盖，艾继丝不知用了什么方法，将面前应该封死的玻璃轻松推开。,"종소리를 틈타, 아이기스는 어떻게든 눈앞의 닫힌 유리를 가볍게 밀어 올렸다."
+AvgVideoCaption_18626_Content_6,arLt,avg视频字幕_AvgVideoCaption_C_M.csv,32,AvgVideoCaption,Content,,替我和詹金说抱歉。,젠킨에게 미안하다고 전해 주세요.
+AvgVideoCaption_18626_Content_7,arLu,avg视频字幕_AvgVideoCaption_C_M.csv,33,AvgVideoCaption,Content,,替我和她说，我们是永远的朋友。,"그리고, 우리는 영원히 친구라고 전해 주세요."
+AvgVideoCaption_18626_Content_8,arLv,avg视频字幕_AvgVideoCaption_C_M.csv,34,AvgVideoCaption,Content,,艾继丝闭上眼，只觉得自己变得很轻，很轻。在她身后，拉蒙娜急切地向夜空伸出手。,"아이기스는 눈을 감았다. 몸이 한없이 가벼워진 듯한 감각. 그녀의 뒤에서, 라모나가 밤하늘을 향해 필사적으로 손을 뻗는다."
+AvgVideoCaption_18626_Content_9,arLw,avg视频字幕_AvgVideoCaption_C_M.csv,35,AvgVideoCaption,Content,,接触，抓紧。,"닿아라, 붙잡아라."
+AvgVideoCaption_18626_Content_10,arLn,avg视频字幕_AvgVideoCaption_C_M.csv,36,AvgVideoCaption,Content,,指尖传来潮湿的触觉，却没有触摸的实感。,"손끝에 따뜻한 감촉이 스며들지만, 잡았다는 느낌은 들지 않았다."
+AvgVideoCaption_18626_Content_11,arLo,avg视频字幕_AvgVideoCaption_C_M.csv,37,AvgVideoCaption,Content,,一小部分现实在她指尖消散，从世界上永远地消失了。,"그녀의 손끝에서, 현실의 조각 하나가 지워지고, 세계에서 영원히 소멸했다."
+AvgVideoCaption_24281_Content_1,arLG,avg视频字幕_AvgVideoCaption_C_M.csv,38,AvgVideoCaption,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
+AvgVideoCaption_22146_Content_1,arLx,avg视频字幕_AvgVideoCaption_C_M.csv,39,AvgVideoCaption,Content,,恐怖的灾难降临了,무시무시한 재앙
+AvgVideoCaption_22146_Content_2,arLy,avg视频字幕_AvgVideoCaption_C_M.csv,40,AvgVideoCaption,Content,,「融蚀」,「융식」
+AvgVideoCaption_22146_Content_3,arLz,avg视频字幕_AvgVideoCaption_C_M.csv,41,AvgVideoCaption,Content,,它吞噬一切,그것은 모든 것을 삼키고
+AvgVideoCaption_22146_Content_4,arLA,avg视频字幕_AvgVideoCaption_C_M.csv,42,AvgVideoCaption,Content,,就连记忆，也难逃其手,기억마저 앗아가는 존재
+AvgVideoCaption_22146_Content_5,arLB,avg视频字幕_AvgVideoCaption_C_M.csv,43,AvgVideoCaption,Content,,历经数百年，我们终于找到了突破口——,"수백 년을 거쳐 찾아낸 돌파구, 그것은——"
+AvgVideoCaption_22146_Content_6,arLC,avg视频字幕_AvgVideoCaption_C_M.csv,44,AvgVideoCaption,Content,,「银芯」,「은심」
+AvgVideoCaption_22146_Content_7,arLD,avg视频字幕_AvgVideoCaption_C_M.csv,45,AvgVideoCaption,Content,,它能唤醒逝去的灵,잃어버린 영혼을 깨우는 물질
+AvgVideoCaption_22146_Content_8,arLE,avg视频字幕_AvgVideoCaption_C_M.csv,46,AvgVideoCaption,Content,,这些灵，是我们最后的希望,그것이 최후의 희망
+AvgVideoCaption_22146_Content_9,arLF,avg视频字幕_AvgVideoCaption_C_M.csv,47,AvgVideoCaption,Content,,至少，我们是这样期待的……,"적어도 우리는, 그렇게 믿고 있다."
+AvgVideoCaption_24724_Content_1,arLH,avg视频字幕_AvgVideoCaption_C_M.csv,48,AvgVideoCaption,Content,,失败的次数无关紧要,"몇 번을 실패했는지는, 이제 상관 없어."
+AvgVideoCaption_24724_Content_2,arLI,avg视频字幕_AvgVideoCaption_C_M.csv,49,AvgVideoCaption,Content,,无论回去多少次，我都一定会找到的,"몇 번을 다시 시작한다 한들, 반드시 찾아낼 거야."
+AvgVideoCaption_24724_Content_3,arLJ,avg视频字幕_AvgVideoCaption_C_M.csv,50,AvgVideoCaption,Content,,拯救这个世界,이 세계를...
+AvgVideoCaption_24724_Content_4,arLK,avg视频字幕_AvgVideoCaption_C_M.csv,51,AvgVideoCaption,Content,,拯救你的方法,"그리고, 너를 구할 방법을."
+AvgVideoCaption_36151_Content_1,arLL,avg视频字幕_AvgVideoCaption_C_M.csv,52,AvgVideoCaption,Content,,出口，出口就在那里……,출구... 출구가 코앞인데...
+AvgVideoCaption_36151_Content_2,arLU,avg视频字幕_AvgVideoCaption_C_M.csv,53,AvgVideoCaption,Content,,神母，何故离去？,"신모여, 왜 떠나려는 거죠?"
+AvgVideoCaption_36151_Content_3,arLV,avg视频字幕_AvgVideoCaption_C_M.csv,54,AvgVideoCaption,Content,,不要……我不要做什么神母,"싫어... 신모 따위, 싫다구..."
+AvgVideoCaption_36151_Content_4,arLW,avg视频字幕_AvgVideoCaption_C_M.csv,55,AvgVideoCaption,Content,,我不要成为祭品……,제물 같은 건... 되고 싶지 않아...
+AvgVideoCaption_36151_Content_5,arLX,avg视频字幕_AvgVideoCaption_C_M.csv,56,AvgVideoCaption,Content,,神国将诞汝身,당신은 신을 잉태하는 존재.
+AvgVideoCaption_36151_Content_6,arLY,avg视频字幕_AvgVideoCaption_C_M.csv,57,AvgVideoCaption,Content,,还有多远？还有多久？,아직이야? 출구가 바로 앞일 텐데...
+AvgVideoCaption_36151_Content_7,arLZ,avg视频字幕_AvgVideoCaption_C_M.csv,58,AvgVideoCaption,Content,,正位之刻已至——,"지금, 별들이 제자리를 찾고——"
+AvgVideoCaption_36151_Content_8,arMa,avg视频字幕_AvgVideoCaption_C_M.csv,59,AvgVideoCaption,Content,,已经……来不及了吗？,이미... 늦은 거야?
+AvgVideoCaption_36151_Content_9,arMb,avg视频字幕_AvgVideoCaption_C_M.csv,60,AvgVideoCaption,Content,,可是……凭什么？！,하지만... 어째서?!
+AvgVideoCaption_122450_Content_4,bLdU,avg视频字幕_AvgVideoCaption_C_M.csv,1297,AvgVideoCaption,Content,,不要……我不要做什么神母,"싫어... 신모 따위, 싫다구..."
+CollectionHall_120344_Title,bKpU,t图鉴_CollectionHall_A.csv,351,CollectionHall,Title,,你我终将重逢,다시 만날 거야
+CommonID_HeadType_1_Desc,bCbR,t通用中文ID_CommonID_A.csv,685,CommonID,Desc,,以银钥之名,은열쇠의 이름으로
+ErrCode_ERR_ACTIVITY_FINISH_Desc,awhy,c错误码提示_ErrCode_A.csv,252,ErrCode,Desc,,活动已结束,이벤트가 종료되었습니다.
+Item_48828_Name,aDxB,d道具_Item_A.csv,357,Item,Name,,极夜与破晓,극야와 새벽
+Item_61391_Name,aEDJ,d道具_Item_A.csv,358,Item,Name,,纯银的初心,순은의 초심
+Item_116878_Name,bIbn,d道具_Item_A.csv,360,Item,Name,,你我终将重逢,다시 만날 거야
+Item_120534_Name,bKtF,d道具_Item_A.csv,1526,Item,Name,,晨星的指引,새벽별의 인도
+PanelText_UI_Event_Activity_DonationBox_Text_C_Finish_Content,aIDM,j界面文字表_PanelText_C.csv,1725,PanelText,Content,,活动已结束,이벤트가 종료되었습니다.
+PanelText_UI_Event_Activity_Horla_Text_C_Finish_Content,aIDS,j界面文字表_PanelText_C.csv,2004,PanelText,Content,,活动已结束,이벤트가 종료되었습니다.
+Resonance_67082_Name_1,aKbq,g共鸣_Resonance_A_M.csv,214,Resonance,Name,,纯银的初心,순은의 초심
+Skill_50300_Name,aPbq,jPVP技能表_Skill_A.csv,436,Skill,Name,,极夜与破晓,극야와 새벽
+Skill_66891_Name,aQfC,jPVP技能表_Skill_A.csv,440,Skill,Name,,纯银的初心,순은의 초심
+Skill_119574_Name,bKaH,jPVP技能表_Skill_A.csv,444,Skill,Name,,你我终将重逢,다시 만날 거야
+StageGroup_120952_Name,bKzi,g关卡组_StageGroup_A.csv,145,StageGroup,Name,,群星咏叹调,별빛의 찬가
+StageGroup_120951_Name,bKzf,g关卡组_StageGroup_A.csv,146,StageGroup,Name,,群星咏叹调,별빛의 찬가
+StageGroup_120953_Name,bKzl,g关卡组_StageGroup_A.csv,147,StageGroup,Name,,群星咏叹调,별빛의 찬가
+StageGroup_116813_TypeText,bHSh,g关卡组_StageGroup_A.csv,573,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116814_TypeText,bHSj,g关卡组_StageGroup_A.csv,574,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116816_TypeText,bHSn,g关卡组_StageGroup_A.csv,575,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116812_TypeText,bHSf,g关卡组_StageGroup_A.csv,576,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116811_TypeText,bHSd,g关卡组_StageGroup_A.csv,577,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116817_TypeText,bHSp,g关卡组_StageGroup_A.csv,578,StageGroup,TypeText,,再战原初,원초와의 재전
+StageGroup_116815_TypeText,bHSl,g关卡组_StageGroup_A.csv,579,StageGroup,TypeText,,再战原初,원초와의 재전
+State_50302_Name,aYrO,zPVP状态表_State_A.csv,351,State,Name,,极夜与破晓,극야와 새벽
+State_66902_Name,aZmo,zPVP状态表_State_A.csv,352,State,Name,,纯银的初心,순은의 초심
+State_119583_Name,bKbd,zPVP状态表_State_A.csv,369,State,Name,,你我终将重逢,다시 만날 거야
+State_66900_Name,aZmi,zPVP状态表_State_A.csv,443,State,Name,,纯银的初心,순은의 초심
+TipsType_10822_Desc,bmLk,t提示信息_TipsType_C.csv,934,TipsType,Desc,,活动已结束,이벤트가 종료되었습니다.
+AvgCommunicate_58020_Content_1,abJc,avg通讯器聊天表_AvgCommunicate_A_M.csv,23,AvgCommunicate,Content,本源拉蒙娜通讯器,居然有这样的机会时时与你联系。,언제든지 너와 연락할 수 있게 되었네.
 AvgCommunicate_58020_Content_2,abJf,avg通讯器聊天表_AvgCommunicate_A_M.csv,24,AvgCommunicate,Content,本源拉蒙娜通讯器,这实在是……,이건 정말...
 AvgCommunicate_58020_Content_3,abJg,avg通讯器聊天表_AvgCommunicate_A_M.csv,25,AvgCommunicate,Content,本源拉蒙娜通讯器,替我谢谢那个朵尔。,그쪽의 돌에게 감사하다고 전해줘.
 AvgCommunicate_58020_Content_5,abJi,avg通讯器聊天表_AvgCommunicate_A_M.csv,27,AvgCommunicate,Content,本源拉蒙娜通讯器,虽然没有什么帮忙的需要。,"도움이 필요할 일은 없겠지만,"
@@ -1544,6 +1738,17 @@ Lottery_81263_DrawBtnText,bszB,c抽奖_Lottery_A.csv,32,Lottery,DrawBtnText,,交
 Lottery_95604_Name,bzVO,c抽奖_Lottery_A.csv,33,Lottery,Name,,王邸餐厅,유골 궁전의 연회
 Lottery_95604_DrawTitle,bzVN,c抽奖_Lottery_A.csv,33,Lottery,DrawTitle,,王邸餐厅,유골 궁전의 연회
 Lottery_95604_DrawBtnText,bzVM,c抽奖_Lottery_A.csv,33,Lottery,DrawBtnText,,换取菜品,요리 교환
+PVPNewRank_46160_Name,aIao,pPVP段位_PVPNewRank_A.csv,8,PVPNewRank,Name,,相位新手,입문자
+PVPNewRank_46161_Name,aIap,pPVP段位_PVPNewRank_A.csv,9,PVPNewRank,Name,,对弈学徒,숙련자
+PVPNewRank_46157_Name,aIal,pPVP段位_PVPNewRank_A.csv,10,PVPNewRank,Name,,相位精英,엘리트
+PVPNewRank_46158_Name,aIam,pPVP段位_PVPNewRank_A.csv,11,PVPNewRank,Name,,对弈大师,마스터
+PVPNewRank_46159_Name,aIan,pPVP段位_PVPNewRank_A.csv,12,PVPNewRank,Name,,相位支配者,지배자
+PVPNewRank_121221_Name,bKEz,pPVP段位_PVPNewRank_A.csv,13,PVPNewRank,Name,,相位传奇,전설
+PVPPosition_41384_Name,aIaq,zPVP定位_PVPPosition_A.csv,8,PVPPosition,Name,,守护,수호
+PVPPosition_41388_Name,aIau,zPVP定位_PVPPosition_A.csv,9,PVPPosition,Name,,斗争,투쟁
+PVPPosition_41387_Name,aIat,zPVP定位_PVPPosition_A.csv,10,PVPPosition,Name,,灵智,영지
+PVPPosition_41386_Name,aIas,zPVP定位_PVPPosition_A.csv,11,PVPPosition,Name,,凶星,흉성
+PVPPosition_41385_Name,aIar,zPVP定位_PVPPosition_A.csv,12,PVPPosition,Name,,祝福,축복
 PanelText_UI_Recharge_Panel_Main_Text_C_Refresh_Content,aIVK,j界面文字表_PanelText_C.csv,253,PanelText,Content,,联系客服,고객 지원
 PanelText_UI_Passport_Money_Item_Text_C_Name_Content,aIQd,j界面文字表_PanelText_C.csv,315,PanelText,Content,,课题礼匣,과제 선물상자
 PanelText_UI_Passport_Praising_Item_Text_C_Title_Content,aIQx,j界面文字表_PanelText_C.csv,323,PanelText,Content,,课题礼匣,과제 선물상자
@@ -1551,6 +1756,11 @@ PanelText_UI_Recharge_Panel_Extract_Text_C_Refresh_Content,aIVb,j界面文字表
 PanelText_UI_Recharge_Panel_Main_Optimized_Text_C_Refresh_Content,aIVn,j界面文字表_PanelText_C.csv,2011,PanelText,Content,,联系客服,고객 지원
 PanelText_UI_Events_Panel_Tawil_Text_C_Shop_Content,aILm,j界面文字表_PanelText_C.csv,2253,PanelText,Content,,回声,메아리
 PanelText_UI_Dungeons_Panel_Daily_Challenge_New_Text_C_Store_Content,bKwe,j界面文字表_PanelText_C.csv,3041,PanelText,Content,,兑换商店,교환 상점
+Rank_18707_Name,aJfg,d段位_Rank_A.csv,10,Rank,Name,,梦境学徒,꿈세계 견습
+Rank_18704_Name,aJfd,d段位_Rank_A.csv,11,Rank,Name,,深潜学者,심잠 학자
+Rank_18702_Name,aJfb,d段位_Rank_A.csv,12,Rank,Name,,深潜大师,심잠 대가
+Rank_18705_Name,aJfe,d段位_Rank_A.csv,13,Rank,Name,,幻梦主宰,환몽 지배자
+Rank_117739_Name,bJzV,d段位_Rank_A.csv,14,Rank,Name,,幻梦传奇,환몽 전설
 RelicConfig_94696_Name,bAiP,zPVP造物_RelicConfig_A.csv,8,RelicConfig,Name,,<OrangeQuality:活性注射器>,<OrangeQuality:활력 주사기>
 RelicConfig_94697_Name,bAiS,zPVP造物_RelicConfig_A.csv,9,RelicConfig,Name,,<OrangeQuality:蛊惑风铃>,<OrangeQuality:미혹의 풍경>
 RelicConfig_94698_Name,bAiV,zPVP造物_RelicConfig_A.csv,10,RelicConfig,Name,,<OrangeQuality:阿方索之器>,<OrangeQuality:알폰소의 기구>
