@@ -1,363 +1,4 @@
 ﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,NewKR
-AwakerPotency_79151_PotencyName,atwZ,h唤醒体启灵_AwakerPotency_A.csv,805,AwakerPotency,PotencyName,波吕克斯,神启新约,계시의 신약
-MonsterIntent_怪物意图攻击_Name,aHVJ,g怪物意图_MonsterIntent_A.csv,8,MonsterIntent,Name,,打击,타격
-MonsterIntent_怪物意图重攻击_Name,aHWd,g怪物意图_MonsterIntent_A.csv,9,MonsterIntent,Name,,打击,타격
-MonsterIntent_怪物意图人面犬重攻击_Name,aHVv,g怪物意图_MonsterIntent_A.csv,10,MonsterIntent,Name,,打击,타격
-Skill_19322_Name,aKXz,jPVP技能表_Skill_A.csv,9,Skill,Name,拉蒙娜,打击,타격
-Skill_19449_Name,aLcT,jPVP技能表_Skill_A.csv,15,Skill,Name,环行·拉蒙娜,打击,타격
-Skill_19331_Name,aKXX,jPVP技能表_Skill_A.csv,21,Skill,Name,奥吉尔,打击,타격
-Skill_19463_Name,aLdD,jPVP技能表_Skill_A.csv,27,Skill,Name,萝坦,打击,타격
-Skill_19452_Name,aLdb,jPVP技能表_Skill_A.csv,33,Skill,Name,朵尔,打击,타격
-Skill_45498_Name,aNIr,jPVP技能表_Skill_A.csv,39,Skill,Name,雷娅,打击,타격
-Skill_45478_Name,aNGB,jPVP技能表_Skill_A.csv,45,Skill,Name,尤乌哈希,打击,타격
-Skill_45600_Name,aNRJ,jPVP技能表_Skill_A.csv,52,Skill,Name,希洛,打击,타격
-Skill_45553_Name,aNNt,jPVP技能表_Skill_A.csv,58,Skill,Name,血链·希洛,打击,타격
-Skill_45571_Name,aNPb,jPVP技能表_Skill_A.csv,64,Skill,Name,泰旖丝,打击,타격
-Skill_45532_Name,aNLz,jPVP技能表_Skill_A.csv,70,Skill,Name,萨尔瓦多,打击,타격
-Skill_45634_Name,aNUK,jPVP技能表_Skill_A.csv,76,Skill,Name,索蕾尔,打击,타격
-Skill_45598_Name,aNRu,jPVP技能表_Skill_A.csv,82,Skill,Name,阿格里帕,打击,타격
-Skill_45497_Name,aNIn,jPVP技能表_Skill_A.csv,88,Skill,Name,艾继丝,打击,타격
-Skill_45570_Name,aNOX,jPVP技能表_Skill_A.csv,94,Skill,Name,菲茵特,打击,타격
-Skill_19432_Name,aLcn,jPVP技能表_Skill_A.csv,100,Skill,Name,希莱斯特,打击,타격
-Skill_19337_Name,aKYf,jPVP技能表_Skill_A.csv,106,Skill,Name,凯刻斯,打击,타격
-Skill_19391_Name,aLav,jPVP技能表_Skill_A.csv,112,Skill,Name,奥瑞塔,打击,타격
-Skill_19346_Name,aKYD,jPVP技能表_Skill_A.csv,118,Skill,Name,法洛思,打击,타격
-Skill_19424_Name,aLbT,jPVP技能表_Skill_A.csv,124,Skill,Name,珊,打击,타격
-Skill_19425_Name,aLbX,jPVP技能表_Skill_A.csv,130,Skill,Name,弥利亚姆,打击,타격
-Skill_19378_Name,aKZL,jPVP技能表_Skill_A.csv,136,Skill,Name,墨菲,打击,타격
-Skill_45475_Name,aNGp,jPVP技能表_Skill_A.csv,141,Skill,Name,诞妄·墨菲,虚妄王女,허망의 왕녀
-Skill_45459_Name,aNEK,jPVP技能表_Skill_A.csv,142,Skill,Name,诞妄·墨菲,打击,타격
-Skill_19328_Name,aKXP,jPVP技能表_Skill_A.csv,148,Skill,Name,戈利亚,打击,타격
-Skill_19380_Name,aKZT,jPVP技能表_Skill_A.csv,154,Skill,Name,图鲁,打击,타격
-Skill_19439_Name,aLcD,jPVP技能表_Skill_A.csv,160,Skill,Name,宁菲亚,打击,타격
-Skill_19358_Name,aKZf,jPVP技能表_Skill_A.csv,166,Skill,Name,诺缔拉,打击,타격
-Skill_19314_Name,aKXf,jPVP技能表_Skill_A.csv,172,Skill,Name,「24」,打击,타격
-Skill_19465_Name,aLdH,jPVP技能表_Skill_A.csv,178,Skill,Name,潘狄娅,打击,타격
-Skill_19360_Name,aKZj,jPVP技能表_Skill_A.csv,184,Skill,Name,艾尔瓦,打击,타격
-Skill_19422_Name,aLbP,jPVP技能表_Skill_A.csv,191,Skill,Name,珈伦,打击,타격
-Skill_19413_Name,aLbn,jPVP技能表_Skill_A.csv,197,Skill,Name,莉莉,打击,타격
-Skill_19339_Name,aKYj,jPVP技能表_Skill_A.csv,203,Skill,Name,莱克,打击,타격
-Skill_45530_Name,aNLr,jPVP技能表_Skill_A.csv,209,Skill,Name,莉兹,打击,타격
-Skill_45519_Name,aNKl,jPVP技能表_Skill_A.csv,215,Skill,Name,旺达,打击,타격
-Skill_45603_Name,aNRV,jPVP技能表_Skill_A.csv,221,Skill,Name,达芙黛尔,打击,타격
-Skill_45561_Name,aNOg,jPVP技能表_Skill_A.csv,227,Skill,Name,汀克特,打击,타격
-Skill_45628_Name,aNUf,jPVP技能表_Skill_A.csv,233,Skill,Name,本源汀克特,打击,타격
-Skill_45484_Name,aNHg,jPVP技能表_Skill_A.csv,239,Skill,Name,温柯尔,打击,타격
-Skill_45483_Name,aNHc,jPVP技能表_Skill_A.csv,245,Skill,Name,奥尔拉,打击,타격
-Skill_45573_Name,aNPj,jPVP技能表_Skill_A.csv,251,Skill,Name,詹金,打击,타격
-Skill_45511_Name,aNJF,jPVP技能表_Skill_A.csv,260,Skill,Name,艾瑞卡,打击,타격
-Skill_45471_Name,aNFZ,jPVP技能表_Skill_A.csv,266,Skill,Name,卡茜亚,打击,타격
-Skill_60884_Name,aPQE,jPVP技能表_Skill_A.csv,277,Skill,Name,哈姆林,打击,타격
-Skill_66445_Name,aQcP,jPVP技能表_Skill_A.csv,283,Skill,Name,塔薇,打击,타격
-Skill_45633_Name,aNUG,jPVP技能表_Skill_A.csv,289,Skill,Name,熔毁·朵尔,打击,타격
-Skill_71904_Name,aQHo,jPVP技能表_Skill_A.csv,308,Skill,Name,克莱门汀,打击,타격
-Skill_84231_Name,btSH,jPVP技能表_Skill_A.csv,315,Skill,Name,克珀珊特,打击,타격
-Skill_89427_Name,bxpn,jPVP技能表_Skill_A.csv,322,Skill,Name,卡斯托尔,打击,타격
-Skill_91220_Name,bynZ,jPVP技能表_Skill_A.csv,330,Skill,Name,杜勒赛因,打击,타격
-Skill_96737_Name,bABE,jPVP技能表_Skill_A.csv,337,Skill,Name,凯蒂古拉,打击,타격
-Skill_99042_Name,bCmS,jPVP技能表_Skill_A.csv,344,Skill,Name,皮克曼,打击,타격
-Skill_117172_Name,bIkN,jPVP技能表_Skill_A.csv,350,Skill,Name,波吕克斯,无罪的圣裁,무죄의 성재
-Skill_117176_Name,bIkV,jPVP技能表_Skill_A.csv,351,Skill,Name,波吕克斯,打击,타격
-Skill_119116_Name,bKaA,jPVP技能表_Skill_A.csv,364,Skill,Name,茉夏,打击,타격
-Skill_121784_Name,bKTg,jPVP技能表_Skill_A.csv,374,Skill,Name,茉夏,打击,타격
-Skill_4337_Name,aMTV,j技能表_Skill_A.csv,1040,Skill,Name,拉蒙娜,打击,타격
-Skill_4587_Name,aOaL,j技能表_Skill_A.csv,1047,Skill,Name,环行·拉蒙娜,打击,타격
-Skill_4323_Name,aMSj,j技能表_Skill_A.csv,1058,Skill,Name,奥吉尔,打击,타격
-Skill_4646_Name,aOjq,j技能表_Skill_A.csv,1065,Skill,Name,萝坦,打击,타격
-Skill_4036_Name,aMfu,j技能表_Skill_A.csv,1072,Skill,Name,朵尔,打击,타격
-Skill_70301_Name,aQAr,j技能表_Skill_A.csv,1079,Skill,Name,熔毁·朵尔,打击,타격
-Skill_4297_Name,aMOX,j技能表_Skill_A.csv,1091,Skill,Name,雷娅,打击,타격
-Skill_4678_Name,aOnI,j技能表_Skill_A.csv,1098,Skill,Name,尤乌哈希,打击,타격
-Skill_4163_Name,aMxd,j技能表_Skill_A.csv,1105,Skill,Name,希洛,打击,타격
-Skill_4429_Name,aNgP,j技能表_Skill_A.csv,1113,Skill,Name,泰旖丝,打击,타격
-Skill_4686_Name,aOoA,j技能表_Skill_A.csv,1123,Skill,Name,萨尔瓦多,打击,타격
-Skill_4178_Name,aMzm,j技能表_Skill_A.csv,1134,Skill,Name,索蕾尔,打击,타격
-Skill_4061_Name,aMiE,j技能表_Skill_A.csv,1141,Skill,Name,阿格里帕,打击,타격
-Skill_4376_Name,aMZf,j技能表_Skill_A.csv,1148,Skill,Name,艾继丝,打击,타격
-Skill_4778_Name,aOBo,j技能表_Skill_A.csv,1155,Skill,Name,菲茵特,打击,타격
-Skill_4197_Name,aMBL,j技能表_Skill_A.csv,1162,Skill,Name,希莱斯特,打击,타격
-Skill_4753_Name,aOxR,j技能表_Skill_A.csv,1170,Skill,Name,凯刻斯,打击,타격
-Skill_4203_Name,aMCB,j技能表_Skill_A.csv,1177,Skill,Name,奥瑞塔,打击,타격
-Skill_4377_Name,aMZo,j技能表_Skill_A.csv,1184,Skill,Name,法洛思,打击,타격
-Skill_4121_Name,aMqN,j技能表_Skill_A.csv,1191,Skill,Name,珊,打击,타격
-Skill_4400_BattleDesc,aNcu,j技能表_Skill_A.csv,1192,Skill,BattleDesc,珊,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
-Skill_4721_Name,aOtm,j技能表_Skill_A.csv,1198,Skill,Name,弥利亚姆,打击,타격
-Skill_4666_Name,aOmi,j技能表_Skill_A.csv,1211,Skill,Name,墨菲,打击,타격
-Skill_4325_Name,aMSx,j技能表_Skill_A.csv,1218,Skill,Name,戈利亚,打击,타격
-Skill_4714_Name,aOsl,j技能表_Skill_A.csv,1231,Skill,Name,图鲁,打击,타격
-Skill_4541_Name,aNDM,j技能表_Skill_A.csv,1238,Skill,Name,宁菲亚,打击,타격
-Skill_4233_EffectNameList,bIFp,j技能表_Skill_A.csv,1242,Skill,EffectNameList,宁菲亚,伤害,피해
-Skill_4233_PropertyNameList,bIFq,j技能表_Skill_A.csv,1242,Skill,PropertyNameList,宁菲亚,攻击力*GrowValue1,공격력*GrowValue1
-Skill_4234_Name,aMGL,j技能表_Skill_A.csv,1245,Skill,Name,诺缔拉,打击,타격
-Skill_4172_Name,aMys,j技能表_Skill_A.csv,1252,Skill,Name,「24」,打击,타격
-Skill_4525_Name,aNAg,j技能表_Skill_A.csv,1259,Skill,Name,潘狄娅,打击,타격
-Skill_3971_Name,aLWT,j技能表_Skill_A.csv,1266,Skill,Name,艾尔瓦,打击,타격
-Skill_4427_Name,aNgd,j技能表_Skill_A.csv,1273,Skill,Name,珈伦,打击,타격
-Skill_4046_Name,aMgy,j技能表_Skill_A.csv,1282,Skill,Name,莉莉,打击,타격
-Skill_3961_Name,aLVB,j技能表_Skill_A.csv,1289,Skill,Name,莱克,打击,타격
-Skill_4603_Name,aOcA,j技能表_Skill_A.csv,1300,Skill,Name,莉兹,打击,타격
-Skill_4291_Name,aMOh,j技能表_Skill_A.csv,1314,Skill,Name,旺达,打击,타격
-Skill_4111_Name,aMps,j技能表_Skill_A.csv,1321,Skill,Name,达芙黛尔,打击,타격
-Skill_4366_Name,aMXS,j技能表_Skill_A.csv,1360,Skill,Name,汀克特,打击,타격
-Skill_4777_Name,aOBf,j技能表_Skill_A.csv,1367,Skill,Name,温柯尔,打击,타격
-Skill_4275_Name,aMMc,j技能表_Skill_A.csv,1381,Skill,Name,詹金,打击,타격
-Skill_3997_Name,aMak,j技能表_Skill_A.csv,1390,Skill,Name,詹金,打击,타격
-Skill_4422_Name,aNfu,j技能表_Skill_A.csv,1392,Skill,Name,詹金,打击,타격
-Skill_4165_Name,aMxr,j技能表_Skill_A.csv,1400,Skill,Name,艾瑞卡,打击,타격
-Skill_4130_Name,aMrY,j技能表_Skill_A.csv,1408,Skill,Name,卡茜亚,打击,타격
-Skill_78783_Name,aQUE,j技能表_Skill_A.csv,1415,Skill,Name,克莱门汀,打击,타격
-Skill_58939_Name,aPAD,j技能表_Skill_A.csv,1424,Skill,Name,哈姆林,打击,타격
-Skill_119762_Name,bKcV,j技能表_Skill_A.csv,1434,Skill,Name,诞妄·墨菲,打击,타격
-Skill_119762_Desc_0,bKcS,j技能表_Skill_A.csv,1434,Skill,Desc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_119762_Desc_3,bKLG,j技能表_Skill_A.csv,1434,Skill,Desc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다."
-Skill_119762_BattleDesc_0,bKcQ,j技能表_Skill_A.csv,1434,Skill,BattleDesc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_119762_BattleDesc_3,bKLF,j技能表_Skill_A.csv,1434,Skill,BattleDesc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次( [Arg3]/1 )。," <Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다. ([Arg3]/1)"
-Skill_119762_EffectNameList,bKcU,j技能表_Skill_A.csv,1434,Skill,EffectNameList,诞妄·墨菲,"伤害,狂气","피해,광기"
-Skill_119762_PropertyNameList,bKcW,j技能表_Skill_A.csv,1434,Skill,PropertyNameList,诞妄·墨菲,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
-Skill_119767_Name,bKdu,j技能表_Skill_A.csv,1435,Skill,Name,诞妄·墨菲,防御,방어
-Skill_119767_Desc_0,bKdr,j技能表_Skill_A.csv,1435,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_119767_Desc_3,bKLI,j技能表_Skill_A.csv,1435,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다."
-Skill_119767_BattleDesc_0,bKdp,j技能表_Skill_A.csv,1435,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_119767_BattleDesc_3,bKLH,j技能表_Skill_A.csv,1435,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次( [Arg3]/1 )。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다. ([Arg3]/1)"
-Skill_119767_EffectNameList,bKdt,j技能表_Skill_A.csv,1435,Skill,EffectNameList,诞妄·墨菲,"护盾,狂气","방어막,광기"
-Skill_119767_PropertyNameList_0,bKdv,j技能表_Skill_A.csv,1435,Skill,PropertyNameList,诞妄·墨菲,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
-Skill_119764_Name,bKde,j技能表_Skill_A.csv,1436,Skill,Name,诞妄·墨菲,虚妄王女,허망의 왕녀
-Skill_119764_Desc,bKHO,j技能表_Skill_A.csv,1436,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到最大生命 [Arg2]% 的<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg3] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 최대 HP [Arg2]%의 <SacrificeKeyWord:희생>을 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg3]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다."
-Skill_119764_BattleDesc,bKHN,j技能表_Skill_A.csv,1436,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到 [Arg7] 点<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg3] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg7] 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg3]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다."
-Skill_119764_OverLimitUtlSkillDesc,bKdf,j技能表_Skill_A.csv,1436,Skill,OverLimitUtlSkillDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到 [Arg7] 点<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg8] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。将 3 张算力消耗为 2 的「螺湮圆舞」置入手中并使其获得<DepleteIconKeywords:消耗>和<PrepareKeypvewords1:预备1>。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg7] 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg8]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다. 산출력 소비가 2인 「나선원무」 3장을 손패에 추가하고, <DepleteIconKeywords:소모>와 <PrepareKeypvewords1:준비 1>을 부여합니다."
-Skill_119764_EffectNameList,bKdd,j技能表_Skill_A.csv,1436,Skill,EffectNameList,诞妄·墨菲,"护盾,降生仪式层数,伤害,触腕伤害加成","방어막,강생 의식 부여량,촉수 피해 계수"
-Skill_119764_PropertyNameList,bKdg,j技能表_Skill_A.csv,1436,Skill,PropertyNameList,诞妄·墨菲,"防御力*GrowValue1,$GrowValue2,攻击力*GrowValue3,$GrowValue4％","방어력*GrowValue1,$GrowValue2,공격력*GrowValue3,$GrowValue4%"
-Skill_119766_Name,bKdn,j技能表_Skill_A.csv,1437,Skill,Name,诞妄·墨菲,海祭典仪,바다의 성례
-Skill_119766_Desc,bKdl,j技能表_Skill_A.csv,1437,Skill,Desc,诞妄·墨菲,诞妄·墨菲获得 <Energy:[Energy:Arg1]> 点狂气。<ExaltIconKeywords:灵知觉醒>：诞妄·墨菲造成的伤害附加 [Arg2]％ <SacrificeKeyWord:献祭>。回合开始时，获得 1 层<MingqiKeywords:命契>。,"<Energy:[Energy:Arg1]> 광기를 획득합니다. \n<ExaltIconKeywords:영지 각성>: 탄망·머피가 입히는 피해의 [Arg2]%만큼 대상에게 <SacrificeKeyWord:희생>을 부여합니다. 턴 시작 시, <MingqiKeywords:운명의 계약> 1스택을 획득합니다."
-Skill_119766_EffectNameList,bKdm,j技能表_Skill_A.csv,1437,Skill,EffectNameList,诞妄·墨菲,"狂气,献祭比例","광기,희생 비율"
-Skill_119766_PropertyNameList,bKdo,j技能表_Skill_A.csv,1437,Skill,PropertyNameList,诞妄·墨菲,"$GrowValue1,$GrowValue2%","$GrowValue1,$GrowValue2%"
-Skill_119765_Name,bKdj,j技能表_Skill_A.csv,1438,Skill,Name,诞妄·墨菲,螺湮圆舞,나선원무
-Skill_119765_Desc,bKdh,j技能表_Skill_A.csv,1438,Skill,Desc,诞妄·墨菲,获得 [Arg6]％ 银钥充能的银钥能量。根据触腕姿态获得不同效果：「潮涌」：<TentacleInjurieIconKeywords:触腕伤害> +[TentaclePower:Arg8]，生成 1 条触腕。「静海」：获得 <Block:[Block:Arg9]> 点护盾，护盾保留 50％ 到下回合。「怒涛」：对生命最高敌方造成 [Arg3] 次 <Damage:[Damage:Arg4]> 点伤害，享受 [Arg5]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"은열쇠 충전 속성 [Arg6]％만큼의 은열쇠 에너지를 획득합니다. 촉수 태세에 따라 다른 효과를 얻습니다. \n「밀려드는 물결」: <TentacleInjurieIconKeywords:촉수 피해> [TentaclePower:Arg8] 증가, 촉수 1개 생성. \n「고요한 바다」: <Block:[Block:Arg9]>의 방어막 획득, 다음 턴 남은 방어막의 50% 보존. \n「몰아치는 파도」: HP가 가장 높은 적에게 [Arg3]회 <Damage:[Damage:Arg4]>의 피해, [Arg5]％의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 추가로 적용."
-Skill_119765_BattleDesc,bKHP,j技能表_Skill_A.csv,1438,Skill,BattleDesc,诞妄·墨菲,获得 <Posse:[Arg7]> 点银钥能量。根据触腕姿态获得不同效果：「潮涌」：<TentacleInjurieIconKeywords:触腕伤害> +[TentaclePower:Arg1]，生成 1 条触腕。「静海」：获得 <Block:[Block:Arg2]> 点护盾，护盾保留 50％ 到下回合。「怒涛」：对生命最高敌方造成 [Arg3] 次 <Damage:[Damage:Arg4]> 点伤害，享受 [Arg5]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"은열쇠 에너지 [Arg7] 획득. 촉수 태세에 따라 추가 효과. \n「밀려드는 물결」: <TentacleInjurieIconKeywords:촉수 피해> [TentaclePower:Arg1] 증가, 촉수 1개 생성. \n「고요한 바다」: <Block:[Block:Arg2]>의 방어막 획득, 다음 턴 남은 방어막의 50% 보존. \n「몰아치는 파도」: HP가 가장 높은 적에게 [Arg3]회 <Damage:[Damage:Arg4]>의 피해, [Arg5]％의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 추가로 적용."
-Skill_119765_EffectNameList,bKdi,j技能表_Skill_A.csv,1438,Skill,EffectNameList,诞妄·墨菲,"触腕伤害,护盾,伤害,触腕伤害加成,银钥充能效率","촉수 피해,방어막,피해,촉수 피해 계수,은열쇠 충전량"
-Skill_119765_PropertyNameList,bKdk,j技能表_Skill_A.csv,1438,Skill,PropertyNameList,诞妄·墨菲,"攻击力*GrowValue1,防御力*GrowValue2,攻击力*GrowValue3,$GrowValue4％,$GrowValue5％","공격력*GrowValue1,방어력*GrowValue2,공격력*GrowValue3,$GrowValue4%,$GrowValue5%"
-Skill_119763_Name,bKda,j技能表_Skill_A.csv,1439,Skill,Name,诞妄·墨菲,深海圣咏,심해의 성가
-Skill_119763_Desc,bKcY,j技能表_Skill_A.csv,1439,Skill,Desc,诞妄·墨菲,获得 2 点算力，抽 2 张牌。下回合开始时受到最大生命 [Arg1]% 的<SacrificeKeyWord:献祭>。<RippleKeywords:余波>：移除最大生命 [Arg2]％ 的<SacrificeKeyWord:献祭>。,산출력을 2 획득하고 카드를 2장 뽑습니다. 다음 턴 시작 시 최대 HP [Arg1]%의 <SacrificeKeyWord:희생>을 획득합니다. <RippleKeywords:여파>: 최대 HP [Arg2]%의 <SacrificeKeyWord:희생>을 제거합니다.
-Skill_119763_BattleDesc,bKcX,j技能表_Skill_A.csv,1439,Skill,BattleDesc,诞妄·墨菲,获得 2 点算力，抽 2 张牌。下回合开始时受到 [Arg3] 点<SacrificeKeyWord:献祭>。<RippleKeywords:余波>：移除 [Arg4] 点<SacrificeKeyWord:献祭>。,산출력을 2 획득하고 카드를 2장 뽑습니다. 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg3] 획득합니다. <RippleKeywords:여파>: <SacrificeKeyWord:희생>을 [Arg4] 제거합니다.
-Skill_119763_EffectNameList,bKcZ,j技能表_Skill_A.csv,1439,Skill,EffectNameList,诞妄·墨菲,移除献祭比例,헌신 제거 비율
-Skill_119763_PropertyNameList,bKdb,j技能表_Skill_A.csv,1439,Skill,PropertyNameList,诞妄·墨菲,$GrowValue1％,$GrowValue1％
-Skill_61120_Name,aPSx,j技能表_Skill_A.csv,1441,Skill,Name,血链·希洛,打击,타격
-Skill_66354_Name,aQbt,j技能表_Skill_A.csv,1450,Skill,Name,塔薇,打击,타격
-Skill_4327_EffectNameList,aMSK,j技能表_Skill_A.csv,1461,Skill,EffectNameList,本源汀克特,"伤害,狂气","피해,광기"
-Skill_4327_PropertyNameList,aMSN,j技能表_Skill_A.csv,1461,Skill,PropertyNameList,本源汀克特,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
-Skill_4370_EffectNameList,aMYm,j技能表_Skill_A.csv,1462,Skill,EffectNameList,本源汀克特,"护盾,狂气","방어막,광기"
-Skill_4370_PropertyNameList,aMYp,j技能表_Skill_A.csv,1462,Skill,PropertyNameList,本源汀克特,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
-Skill_4623_EffectNameList,aOfW,j技能表_Skill_A.csv,1464,Skill,EffectNameList,本源汀克特,狂气,광기
-Skill_4623_PropertyNameList,aOfZ,j技能表_Skill_A.csv,1464,Skill,PropertyNameList,本源汀克特,$GrowValue1,$GrowValue1
-Skill_4446_EffectNameList_0,aNkb,j技能表_Skill_A.csv,1466,Skill,EffectNameList,本源汀克特,伤害,피해
-Skill_83782_Name,bsIt,j技能表_Skill_A.csv,1468,Skill,Name,克珀珊特,打击,타격
-Skill_89777_Name,bxzJ,j技能表_Skill_A.csv,1476,Skill,Name,卡斯托尔,打击,타격
-Skill_95813_Name,bzWE,j技能表_Skill_A.csv,1484,Skill,Name,杜勒赛因,打击,타격
-Skill_97911_Name,bBdV,j技能表_Skill_A.csv,1494,Skill,Name,凯蒂古拉,打击,타격
-Skill_98988_Name,bCnx,j技能表_Skill_A.csv,1502,Skill,Name,皮克曼,打击,타격
-Skill_98986_AwakerSkillBackgroundStory,bCnl,j技能表_Skill_A.csv,1503,Skill,AwakerSkillBackgroundStory,皮克曼,这是对艺术的亵渎！休想以狭隘的偏见玷污我的艺术。,이건 예술에 대한 모독이야! 그런 편협한 편견으로 내 예술을 더럽힐 생각 마.
-Skill_117313_Name,bIlH,j技能表_Skill_A.csv,1527,Skill,Name,波吕克斯,打击,타격
-Skill_117313_Desc_0,bIlF,j技能表_Skill_A.csv,1527,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害。波吕克斯获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_117313_BattleDesc_0,bIlE,j技能表_Skill_A.csv,1527,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
-Skill_117313_EffectNameList,bIlG,j技能表_Skill_A.csv,1527,Skill,EffectNameList,波吕克斯,"伤害,狂气","피해,광기"
-Skill_117313_PropertyNameList,bIlI,j技能表_Skill_A.csv,1527,Skill,PropertyNameList,波吕克斯,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
-Skill_117316_Name,bIlY,j技能表_Skill_A.csv,1528,Skill,Name,波吕克斯,防御,방어
-Skill_117316_Desc_0,bIlW,j技能表_Skill_A.csv,1528,Skill,Desc,波吕克斯,获得 <Block:[Block:Arg1]> 点护盾。波吕克斯获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
-Skill_117316_BattleDesc_0,bIlV,j技能表_Skill_A.csv,1528,Skill,BattleDesc,波吕克斯,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
-Skill_117316_EffectNameList,bIlX,j技能表_Skill_A.csv,1528,Skill,EffectNameList,波吕克斯,"护盾,狂气","방어막,광기"
-Skill_117316_PropertyNameList,bIlZ,j技能表_Skill_A.csv,1528,Skill,PropertyNameList,波吕克斯,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
-Skill_117317_Name,bImd,j技能表_Skill_A.csv,1529,Skill,Name,波吕克斯,无罪的圣裁,무죄의 성재
-Skill_117317_Desc,bImb,j技能表_Skill_A.csv,1529,Skill,Desc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，使自身本回合下张指令卡享受「苦痛救赎」效果。将 1 张<DerivativeCardKeywords_118:「圣心」>置入手中。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 이번 턴 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다. <DerivativeCardKeywords_118:「성심」> 1장을 손패에 추가합니다."
-Skill_117317_OverLimitUtlSkillDesc,bIme,j技能表_Skill_A.csv,1529,Skill,OverLimitUtlSkillDesc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，使自身本回合下张指令卡享受「苦痛救赎」效果。将 2 张<DerivativeCardKeywords_118:「圣心」>置入手中。本回合内波吕克斯每张指令卡额外享受 50% 「苦痛救赎」效果，自身下一张指令卡额外生效 1 次。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 이번 턴 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 카드의 효과가 1번 더 발동합니다. <DerivativeCardKeywords_118:「성심」> 2장을 손패에 추가합니다. 이번 턴 동안, 폴룩스의 모든 명령 카드에 추가로 50%의 「고통 구원」 효과가 적용됩니다."
-Skill_117317_EffectNameList,bImc,j技能表_Skill_A.csv,1529,Skill,EffectNameList,波吕克斯,伤害,피해
-Skill_117317_PropertyNameList,bImf,j技能表_Skill_A.csv,1529,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
-Skill_117318_Name,bImj,j技能表_Skill_A.csv,1530,Skill,Name,波吕克斯,净世之路,정화의 길
-Skill_117318_Desc,bImh,j技能表_Skill_A.csv,1530,Skill,Desc,波吕克斯,波吕克斯获得 <Energy:[Energy:Arg1]> 点狂气。<ExaltIconKeywords:灵知觉醒>：打出时和弃牌阶段后获得 3 层<ZuiyinKeywords:罪印>，每有 1 张手牌额外获得 1 层<ZuiyinKeywords:罪印>。,"<Energy:[Energy:Arg1]> 광기를 획득합니다. \n<ExaltIconKeywords:영지 각성>: 해당 카드 사용 시 및 매 턴 종료 시 카드를 버린 후, <ZuiyinKeywords:죄의 낙인> 3스택을 획득합니다. 손패에 남은 카드 1장마다 추가로 <ZuiyinKeywords:죄의 낙인> 1스택을 획득합니다."
-Skill_117318_EffectNameList,bImi,j技能表_Skill_A.csv,1530,Skill,EffectNameList,波吕克斯,狂气,광기
-Skill_117318_PropertyNameList,bImk,j技能表_Skill_A.csv,1530,Skill,PropertyNameList,波吕克斯,$GrowValue1,$GrowValue1
-Skill_117312_Name,bIlB,j技能表_Skill_A.csv,1531,Skill,Name,波吕克斯,明灯灼魂,영혼을 태우는 명등
-Skill_117312_Desc,bIlz,j技能表_Skill_A.csv,1531,Skill,Desc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，抽 2 张算力消耗最低的指令卡。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 산출력 소비가 가장 낮은 명령 카드 2장을 뽑습니다."
-Skill_117312_EffectNameList,bIlA,j技能表_Skill_A.csv,1531,Skill,EffectNameList,波吕克斯,伤害,피해
-Skill_117312_PropertyNameList,bIlC,j技能表_Skill_A.csv,1531,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
-Skill_117314_Name,bIlN,j技能表_Skill_A.csv,1532,Skill,Name,波吕克斯,离垢的审判,부정의 심판
-Skill_117314_Desc_0,bIlK,j技能表_Skill_A.csv,1532,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害 [Arg2] 次，进入超维回合时会自动被抽出。,<Damage:[Damage:Arg1]>의 피해를 [Arg2]회 입힙니다. 초차원 턴에 진입할 경우 자동으로 이 카드를 뽑습니다.
-Skill_117314_Desc_2,bIlL,j技能表_Skill_A.csv,1532,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害 [Arg2] 次，每打出 1 张「圣心」下次打出时算力消耗-1，进入超维回合时会自动被抽出。,<Damage:[Damage:Arg1]>의 피해를 [Arg2]회 입힙니다. 「성심」 카드를 1장 사용할 때마다 이 카드의 산출력 소비가 사용하기 전까지 1 감소합니다. 초차원 턴에 진입할 경우 자동으로 이 카드를 뽑습니다.
-Skill_117314_EffectNameList,bIlM,j技能表_Skill_A.csv,1532,Skill,EffectNameList,波吕克斯,伤害,피해
-Skill_117314_PropertyNameList,bIlO,j技能表_Skill_A.csv,1532,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
-Skill_117315_Name,bIlT,j技能表_Skill_A.csv,1533,Skill,Name,波吕克斯,圣心,성심
-Skill_117315_Desc_0,bIlR,j技能表_Skill_A.csv,1533,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다."
-Skill_117315_Desc_3,bIlS,j技能表_Skill_A.csv,1533,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果且生效 2 次。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 해당 카드의 효과가 2번 발동합니다."
-Skill_117315_BattleDesc_0,bIlP,j技能表_Skill_A.csv,1533,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果 ([Arg2]/3)。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다. ([Arg2]/3)"
-Skill_117315_BattleDesc_3,bIlQ,j技能表_Skill_A.csv,1533,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果且生效 2 次([Arg2]/3)。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 해당 카드의 효과가 2번 발동합니다. ([Arg2]/3)"
-Skill_60137_Name,aPHl,j技能表_Skill_A.csv,1948,Skill,Name,艾瑞卡,打击,타격
-Skill_67183_Name,aQhQ,j技能表_Skill_A.csv,2249,Skill,Name,朵尔,打击,타격
-Skill_91741_Name,byAx,j技能表_Skill_A.csv,2518,Skill,Name,,打击,타격
-Skill_98705_Name,bCfu,j技能表_Skill_A.csv,2614,Skill,Name,,打击,타격
-Skill_118072_Name,bJAH,j技能表_Skill_A.csv,2693,Skill,Name,,打击,타격
-Skill_118091_Name,bJBf,j技能表_Skill_A.csv,2699,Skill,Name,,深海圣咏,심해의 성가
-Skill_118105_Name,bJBF,j技能表_Skill_A.csv,2701,Skill,Name,,螺湮圆舞,나선원무
-State_119052_Name,bKaL,zPVP状态表_State_A.csv,234,State,Name,,降生仪式,강생 의식
-State_119052_Desc,bKaK,zPVP状态表_State_A.csv,234,State,Desc,,受到主动伤害后获得伤害 [Layer]% 的献祭。,받은 능동 피해의 [Layer]%만큼 희생이 부여됩니다.
-State_120321_Name,bKpx,z状态表_State_A.csv,119,State,Name,,<DwmofeiKeywords:降生仪式>,<DwmofeiKeywords:강생 의식>
-State_120321_Desc,bKpw,z状态表_State_A.csv,119,State,Desc,,每层使承受攻击时附加 1% 伤害的献祭，回合结束时移除，上限 75 层。,스택마다 받은 피해량의 1%만큼 희생이 부여됩니다. 턴 종료시 제거됩니다. 최대 75스택.
-State_121231_Name,bKHc,z状态表_State_A.csv,120,State,Name,,<MingqiKeywords:命契>,<MingqiKeywords:운명의 계약>
-State_121231_Desc,bKHb,z状态表_State_A.csv,120,State,Desc,,每层使下次「虚妄王女」施加的「降生仪式」提高 20%，最多叠加 5 层，叠满 5 层后下次「虚妄王女」伤害次数翻倍。,"스택마다 다음으로 사용하는 「허망의 왕녀」로 부여하는 「강생 의식」 수치가 20% 증가합니다. 최대 5스택까지 중첩되며, 최대 중첩 도달 시 다음으로 사용하는 「허망의 왕녀」의 피해 횟수가 2배로 증가합니다."
-State_117358_Name,bImB,z状态表_State_A.csv,5311,State,Name,,<ZuiyinKeywords:罪印>,<ZuiyinKeywords:죄의 낙인>
-State_117358_Desc,bImA,z状态表_State_A.csv,5311,State,Desc,,每层使波吕克斯造成的伤害附加 1% 出血。,1스택마다 폴룩스가 주는 피해량의 1%만큼 출혈을 추가로 부여합니다.
-State_117355_Name,bIFs,z状态表_State_A.csv,5313,State,Name,,神启新约,계시의 신약
-State_117355_Desc,bIFr,z状态表_State_A.csv,5313,State,Desc,,波吕克斯打出的下一张指令卡生效 2 次。,다음으로 사용하는 폴룩스의 명령 카드 효과가 2회 발동합니다.
-State_119105_Name,bJFh,z状态表_State_A.csv,5387,State,Name,,命契,운명의 계약
-State_119108_Name,bJFl,z状态表_State_A.csv,5388,State,Name,,降生仪式,강생 의식
-State_119108_Desc,bJFk,z状态表_State_A.csv,5388,State,Desc,,失去生命时，每有 1 层获得失去生命 1% 的<SacrificeKeyWord:献祭>。,"HP를 잃을 때마다, 1스택당 잃은 HP의 1%만큼 <SacrificeKeyWord:희생>을 획득합니다."
-State_119104_Name,bJFf,z状态表_State_A.csv,5389,State,Name,,海祭典仪,바다의 성례
-State_119104_Desc,bJFe,z状态表_State_A.csv,5389,State,Desc,,回合开始时获得 [DescArg1] 层「命契」。,턴 시작 시 「운명의 계약」 [DescArg1]스택을 획득한다.
-State_120324_Name,bKpA,z状态表_State_A.csv,5470,State,Name,,降生仪式,강생 의식
-State_120324_Desc,bKpz,z状态表_State_A.csv,5470,State,Desc,,承受攻击时附加 [Layer]% 伤害的献祭，回合结束时移除，至多叠加 75 层。,"공격을 받을 때 받은 피해량 [Layer]%의 희생을 획득. 턴 종료 시 제거, 최대 75스택."
-State_120320_Name,bKpv,z状态表_State_A.csv,5471,State,Name,,命契,운명의 계약
-State_120320_Desc,bKpu,z状态表_State_A.csv,5471,State,Desc,,每层使下次「虚妄王女」施加的「降生仪式」提高 20％，最多叠加 5 层，叠加满 5 层后下次「虚妄王女」伤害次数翻倍。,"스택마다 다음으로 사용하는 「허망의 왕녀」로 부여하는 「강생 의식」 수치가 20% 증가합니다. 최대 5스택까지 중첩되며, 최대 중첩 도달 시 다음으로 사용하는 「허망의 왕녀」의 피해 횟수가 2배로 증가합니다."
-Voice_6143_AwakerVoiceTitle,bpor,y语音_Voice_A.csv,24,Voice,AwakerVoiceTitle,拉蒙娜,技能·二,스킬·2
-Voice_5370_AwakerVoiceTitle,bnWv,y语音_Voice_A.csv,25,Voice,AwakerVoiceTitle,拉蒙娜,技能·三,스킬·3
-Voice_6548_AwakerVoiceTitle,bpTv,y语音_Voice_A.csv,26,Voice,AwakerVoiceTitle,拉蒙娜,技能·四,스킬·4
-Voice_54601_AwakerVoiceTitle,bodr,y语音_Voice_A.csv,31,Voice,AwakerVoiceTitle,拉蒙娜,超限狂气爆发·二,초월 폭발·2
-Voice_5714_AwakerVoiceTitle,boBf,y语音_Voice_A.csv,68,Voice,AwakerVoiceTitle,萝坦,技能·二,스킬·2
-Voice_5324_AwakerVoiceTitle,bnST,y语音_Voice_A.csv,70,Voice,AwakerVoiceTitle,萝坦,技能·四,스킬·4
-Voice_54620_AwakerVoiceTitle,boeP,y语音_Voice_A.csv,75,Voice,AwakerVoiceTitle,萝坦,超限狂气爆发·二,초월 폭발·2
-Voice_4989_AwakerVoiceTitle,bnsf,y语音_Voice_A.csv,112,Voice,AwakerVoiceTitle,朵尔,技能·二,스킬·2
-Voice_5134_AwakerVoiceTitle,bnEv,y语音_Voice_A.csv,114,Voice,AwakerVoiceTitle,朵尔,技能·四,스킬·4
-Voice_54607_AwakerVoiceTitle,bodH,y语音_Voice_A.csv,119,Voice,AwakerVoiceTitle,朵尔,超限狂气爆发·二,초월 폭발·2
-Voice_5165_AwakerVoiceTitle,bnGL,y语音_Voice_A.csv,156,Voice,AwakerVoiceTitle,奥吉尔,技能·二,스킬·2
-Voice_5328_AwakerVoiceTitle,bnTj,y语音_Voice_A.csv,158,Voice,AwakerVoiceTitle,奥吉尔,技能·四,스킬·4
-Voice_54619_AwakerVoiceTitle,boeH,y语音_Voice_A.csv,163,Voice,AwakerVoiceTitle,奥吉尔,超限狂气爆发·二,초월 폭발·2
-Voice_6240_AwakerVoiceTitle,bpvL,y语音_Voice_A.csv,200,Voice,AwakerVoiceTitle,宁菲亚,技能·二,스킬·2
-Voice_6410_AwakerVoiceTitle,bpIP,y语音_Voice_A.csv,202,Voice,AwakerVoiceTitle,宁菲亚,技能·四,스킬·4
-Voice_54617_AwakerVoiceTitle,boez,y语音_Voice_A.csv,207,Voice,AwakerVoiceTitle,宁菲亚,超限狂气爆发·二,초월 폭발·2
-Voice_5720_AwakerVoiceTitle,boBD,y语音_Voice_A.csv,244,Voice,AwakerVoiceTitle,詹金,技能·二,스킬·2
-Voice_5845_AwakerVoiceTitle,boNP,y语音_Voice_A.csv,246,Voice,AwakerVoiceTitle,詹金,技能·四,스킬·4
-Voice_56393_AwakerVoiceTitle,bovn,y语音_Voice_A.csv,254,Voice,AwakerVoiceTitle,詹金,超限狂气爆发·二,초월 폭발·2
-Voice_6014_AwakerVoiceTitle,bpaX,y语音_Voice_A.csv,291,Voice,AwakerVoiceTitle,艾继丝,技能·二,스킬·2
-Voice_6446_AwakerVoiceTitle,bpLD,y语音_Voice_A.csv,293,Voice,AwakerVoiceTitle,艾继丝,技能·四,스킬·4
-Voice_57845_AwakerVoiceTitle,boID,y语音_Voice_A.csv,298,Voice,AwakerVoiceTitle,艾继丝,超限狂气爆发·二,초월 폭발·2
-Voice_5872_AwakerVoiceTitle,boPT,y语音_Voice_A.csv,335,Voice,AwakerVoiceTitle,墨菲,技能·二,스킬·2
-Voice_4948_AwakerVoiceTitle,bnpb,y语音_Voice_A.csv,337,Voice,AwakerVoiceTitle,墨菲,技能·四,스킬·4
-Voice_57824_AwakerVoiceTitle,boGP,y语音_Voice_A.csv,342,Voice,AwakerVoiceTitle,墨菲,超限狂气爆发·二,초월 폭발·2
-Voice_36686_AwakerVoiceContent,bnle,y语音_Voice_A.csv,364,Voice,AwakerVoiceContent,墨菲,"我曾以为，我和她之间是有亲情的……
-但在那一切都发生后我才意识到，或许，那些片刻温情从一开始就是我的一厢情愿。
-你要怎么对她，是你们间的事，只要别再让她靠近我就好。","나와 그 여자 사이에 가족의 정이 있다고 생각했어... 하지만 이런저런 일을 겪고 나니, 그저 내 착각이었다는 걸, 겨우 깨달았어.  그 여자를 어떻게 할지는, 너희들이 알아서 해. 더 이상 나에게 가까이 오지 못하게만 해줘."
-Voice_5535_AwakerVoiceTitle,boln,y语音_Voice_A.csv,397,Voice,AwakerVoiceTitle,珊,技能·二,스킬·2
-Voice_5395_AwakerVoiceTitle,bnYr,y语音_Voice_A.csv,399,Voice,AwakerVoiceTitle,珊,技能·四,스킬·4
-Voice_57831_AwakerVoiceTitle,boHv,y语音_Voice_A.csv,404,Voice,AwakerVoiceTitle,珊,超限狂气爆发·二,초월 폭발·2
-Voice_6009_AwakerVoiceTitle,bpaD,y语音_Voice_A.csv,441,Voice,AwakerVoiceTitle,雷娅,技能·二,스킬·2
-Voice_5257_AwakerVoiceTitle,bnNP,y语音_Voice_A.csv,443,Voice,AwakerVoiceTitle,雷娅,技能·四,스킬·4
-Voice_57836_AwakerVoiceTitle,boHP,y语音_Voice_A.csv,448,Voice,AwakerVoiceTitle,雷娅,超限狂气爆发·二,초월 폭발·2
-Voice_5806_AwakerVoiceTitle,boKP,y语音_Voice_A.csv,485,Voice,AwakerVoiceTitle,尤乌哈希,技能·二,스킬·2
-Voice_5917_AwakerVoiceTitle,boTr,y语音_Voice_A.csv,487,Voice,AwakerVoiceTitle,尤乌哈希,技能·四,스킬·4
-Voice_57825_AwakerVoiceTitle,boGT,y语音_Voice_A.csv,492,Voice,AwakerVoiceTitle,尤乌哈希,超限狂气爆发·二,초월 폭발·2
-Voice_6036_AwakerVoiceTitle,bpcD,y语音_Voice_A.csv,532,Voice,AwakerVoiceTitle,凯刻斯,技能·二,스킬·2
-Voice_6692_AwakerVoiceTitle,bqev,y语音_Voice_A.csv,534,Voice,AwakerVoiceTitle,凯刻斯,技能·四,스킬·4
-Voice_57819_AwakerVoiceTitle,boGr,y语音_Voice_A.csv,539,Voice,AwakerVoiceTitle,凯刻斯,超限狂气爆发·二,초월 폭발·2
-Voice_6508_AwakerVoiceTitle,bpQr,y语音_Voice_A.csv,576,Voice,AwakerVoiceTitle,戈利亚,技能·二,스킬·2
-Voice_6069_AwakerVoiceTitle,bpff,y语音_Voice_A.csv,578,Voice,AwakerVoiceTitle,戈利亚,技能·四,스킬·4
-Voice_57850_AwakerVoiceTitle,boJb,y语音_Voice_A.csv,586,Voice,AwakerVoiceTitle,戈利亚,超限狂气爆发·二,초월 폭발·2
-Voice_6407_AwakerVoiceTitle,bpID,y语音_Voice_A.csv,623,Voice,AwakerVoiceTitle,希莱斯特,技能·二,스킬·2
-Voice_6239_AwakerVoiceTitle,bpvH,y语音_Voice_A.csv,625,Voice,AwakerVoiceTitle,希莱斯特,技能·四,스킬·4
-Voice_57843_AwakerVoiceTitle,boIv,y语音_Voice_A.csv,630,Voice,AwakerVoiceTitle,希莱斯特,超限狂气爆发·二,초월 폭발·2
-Voice_6328_AwakerVoiceTitle,bpCz,y语音_Voice_A.csv,667,Voice,AwakerVoiceTitle,希洛,技能·二,스킬·2
-Voice_5140_AwakerVoiceTitle,bnET,y语音_Voice_A.csv,669,Voice,AwakerVoiceTitle,希洛,技能·四,스킬·4
-Voice_57827_AwakerVoiceTitle,boHb,y语音_Voice_A.csv,674,Voice,AwakerVoiceTitle,希洛,超限狂气爆发·二,초월 폭발·2
-Voice_5941_AwakerVoiceTitle,boVj,y语音_Voice_A.csv,713,Voice,AwakerVoiceTitle,法洛思,技能·二,스킬·2
-Voice_6075_AwakerVoiceTitle,bpfz,y语音_Voice_A.csv,715,Voice,AwakerVoiceTitle,法洛思,技能·四,스킬·4
-Voice_57822_AwakerVoiceTitle,boGH,y语音_Voice_A.csv,720,Voice,AwakerVoiceTitle,法洛思,超限狂气爆发·二,초월 폭발·2
-Voice_5190_AwakerVoiceTitle,bnIH,y语音_Voice_A.csv,757,Voice,AwakerVoiceTitle,奥瑞塔,技能·二,스킬·2
-Voice_5348_AwakerVoiceTitle,bnUL,y语音_Voice_A.csv,759,Voice,AwakerVoiceTitle,奥瑞塔,技能·四,스킬·4
-Voice_57840_AwakerVoiceTitle,boIj,y语音_Voice_A.csv,764,Voice,AwakerVoiceTitle,奥瑞塔,超限狂气爆发·二,초월 폭발·2
-Voice_5436_AwakerVoiceTitle,bobz,y语音_Voice_A.csv,801,Voice,AwakerVoiceTitle,阿格里帕,技能·二,스킬·2
-Voice_5593_AwakerVoiceTitle,bopT,y语音_Voice_A.csv,803,Voice,AwakerVoiceTitle,阿格里帕,技能·四,스킬·4
-Voice_57842_AwakerVoiceTitle,boIr,y语音_Voice_A.csv,808,Voice,AwakerVoiceTitle,阿格里帕,超限狂气爆发·二,초월 폭발·2
-Voice_5025_AwakerVoiceTitle,bnuT,y语音_Voice_A.csv,845,Voice,AwakerVoiceTitle,萨尔瓦多,技能·二,스킬·2
-Voice_5481_AwakerVoiceTitle,bohf,y语音_Voice_A.csv,847,Voice,AwakerVoiceTitle,萨尔瓦多,技能·四,스킬·4
-Voice_57834_AwakerVoiceTitle,boHH,y语音_Voice_A.csv,852,Voice,AwakerVoiceTitle,萨尔瓦多,超限狂气爆发·二,초월 폭발·2
-Voice_6129_AwakerVoiceTitle,bpnn,y语音_Voice_A.csv,898,Voice,AwakerVoiceTitle,弥利亚姆,技能·二,스킬·2
-Voice_5636_AwakerVoiceTitle,bouz,y语音_Voice_A.csv,900,Voice,AwakerVoiceTitle,弥利亚姆,技能·四,스킬·4
-Voice_54609_AwakerVoiceTitle,bodP,y语音_Voice_A.csv,907,Voice,AwakerVoiceTitle,弥利亚姆,超限狂气爆发·二,초월 폭발·2
-Voice_6486_AwakerVoiceTitle,bpOH,y语音_Voice_A.csv,944,Voice,AwakerVoiceTitle,图鲁,技能·二,스킬·2
-Voice_6322_AwakerVoiceTitle,bpCb,y语音_Voice_A.csv,946,Voice,AwakerVoiceTitle,图鲁,技能·四,스킬·4
-Voice_57833_AwakerVoiceTitle,boHD,y语音_Voice_A.csv,951,Voice,AwakerVoiceTitle,图鲁,超限狂气爆发·二,초월 폭발·2
-Voice_5053_AwakerVoiceTitle,bnxb,y语音_Voice_A.csv,988,Voice,AwakerVoiceTitle,泰旖丝,技能·二,스킬·2
-Voice_5473_AwakerVoiceTitle,bogz,y语音_Voice_A.csv,990,Voice,AwakerVoiceTitle,泰旖丝,技能·四,스킬·4
-Voice_57829_AwakerVoiceTitle,boHj,y语音_Voice_A.csv,996,Voice,AwakerVoiceTitle,泰旖丝,超限狂气爆发·二,초월 폭발·2
-Voice_5972_AwakerVoiceTitle,boXL,y语音_Voice_A.csv,1048,Voice,AwakerVoiceTitle,索蕾尔,技能·二,스킬·2
-Voice_6114_AwakerVoiceTitle,bpmf,y语音_Voice_A.csv,1050,Voice,AwakerVoiceTitle,索蕾尔,技能·四,스킬·4
-Voice_54627_AwakerVoiceTitle,bofr,y语音_Voice_A.csv,1055,Voice,AwakerVoiceTitle,索蕾尔,超限狂气爆发·二,초월 폭발·2
-Voice_5983_AwakerVoiceTitle,boYD,y语音_Voice_A.csv,1092,Voice,AwakerVoiceTitle,诺缔拉,技能·二,스킬·2
-Voice_5624_AwakerVoiceTitle,bosn,y语音_Voice_A.csv,1094,Voice,AwakerVoiceTitle,诺缔拉,技能·四,스킬·4
-Voice_54628_AwakerVoiceTitle,bofv,y语音_Voice_A.csv,1099,Voice,AwakerVoiceTitle,诺缔拉,超限狂气爆发·二,초월 폭발·2
-Voice_6103_AwakerVoiceTitle,bplj,y语音_Voice_A.csv,1143,Voice,AwakerVoiceTitle,血链·希洛,技能·二,스킬·2
-Voice_5729_AwakerVoiceTitle,boCn,y语音_Voice_A.csv,1145,Voice,AwakerVoiceTitle,血链·希洛,技能·四,스킬·4
-Voice_57847_AwakerVoiceTitle,boIL,y语音_Voice_A.csv,1150,Voice,AwakerVoiceTitle,血链·希洛,超限狂气爆发·二,초월 폭발·2
-Voice_5768_AwakerVoiceTitle,boFn,y语音_Voice_A.csv,1188,Voice,AwakerVoiceTitle,菲茵特,技能·二,스킬·2
-Voice_5761_AwakerVoiceTitle,boEL,y语音_Voice_A.csv,1190,Voice,AwakerVoiceTitle,菲茵特,技能·四,스킬·4
-Voice_57838_AwakerVoiceTitle,boHX,y语音_Voice_A.csv,1195,Voice,AwakerVoiceTitle,菲茵特,超限狂气爆发·二,초월 폭발·2
-Voice_5962_AwakerVoiceTitle,boWX,y语音_Voice_A.csv,1234,Voice,AwakerVoiceTitle,诞妄·墨菲,技能·二,스킬·2
-Voice_6690_AwakerVoiceContent,bqem,y语音_Voice_A.csv,1236,Voice,AwakerVoiceContent,诞妄·墨菲,将它们……都交予我！,나에게... 모든 걸 바쳐라!
-Voice_6689_AwakerVoiceContent,bqei,y语音_Voice_A.csv,1237,Voice,AwakerVoiceContent,诞妄·墨菲,将它们……都交予我！,나에게... 모든 걸 바쳐라!
-Voice_122115_AwakerVoiceContent,bLdC,y语音_Voice_A.csv,1238,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망, 뒤틀림, 모든 건 운명이 이끄는 대로!"
-Voice_122117_AwakerVoiceTitle,bLdF,y语音_Voice_A.csv,1239,Voice,AwakerVoiceTitle,诞妄·墨菲,超限狂气爆发·二,초월 폭발·2
-Voice_122117_AwakerVoiceContent,bLdE,y语音_Voice_A.csv,1239,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망, 뒤틀림, 모든 건 운명이 이끄는 대로!"
-Voice_5000_AwakerVoiceTitle,bnsX,y语音_Voice_A.csv,1276,Voice,AwakerVoiceTitle,莱克,技能·二,스킬·2
-Voice_5743_AwakerVoiceTitle,boDr,y语音_Voice_A.csv,1278,Voice,AwakerVoiceTitle,莱克,技能·四,스킬·4
-Voice_59463_AwakerVoiceTitle,boVD,y语音_Voice_A.csv,1283,Voice,AwakerVoiceTitle,莱克,超限狂气爆发·二,초월 폭발·2
-Voice_54611_AwakerVoiceTitle,boeb,y语音_Voice_A.csv,1327,Voice,AwakerVoiceTitle,「24」,超限狂气爆发·二,초월 폭발·2
-Voice_5775_AwakerVoiceTitle,boFP,y语音_Voice_A.csv,1364,Voice,AwakerVoiceTitle,莉莉,技能·二,스킬·2
-Voice_6449_AwakerVoiceTitle,bpLP,y语音_Voice_A.csv,1366,Voice,AwakerVoiceTitle,莉莉,技能·四,스킬·4
-Voice_54624_AwakerVoiceTitle,boff,y语音_Voice_A.csv,1371,Voice,AwakerVoiceTitle,莉莉,超限狂气爆发·二,초월 폭발·2
-Voice_6141_AwakerVoiceTitle,bpoj,y语音_Voice_A.csv,1408,Voice,AwakerVoiceTitle,珈伦,技能·二,스킬·2
-Voice_5995_AwakerVoiceTitle,boZz,y语音_Voice_A.csv,1410,Voice,AwakerVoiceTitle,珈伦,技能·四,스킬·4
-Voice_54606_AwakerVoiceTitle,bodD,y语音_Voice_A.csv,1415,Voice,AwakerVoiceTitle,珈伦,超限狂气爆发·二,초월 폭발·2
-Voice_5243_AwakerVoiceTitle,bnML,y语音_Voice_A.csv,1452,Voice,AwakerVoiceTitle,艾尔瓦,技能·二,스킬·2
-Voice_5388_AwakerVoiceTitle,bnXP,y语音_Voice_A.csv,1454,Voice,AwakerVoiceTitle,艾尔瓦,技能·四,스킬·4
-Voice_54612_AwakerVoiceTitle,boef,y语音_Voice_A.csv,1459,Voice,AwakerVoiceTitle,艾尔瓦,超限狂气爆发·二,초월 폭발·2
-Voice_5114_AwakerVoiceTitle,bnCT,y语音_Voice_A.csv,1496,Voice,AwakerVoiceTitle,潘狄娅,技能·二,스킬·2
-Voice_5526_AwakerVoiceTitle,bokD,y语音_Voice_A.csv,1498,Voice,AwakerVoiceTitle,潘狄娅,技能·四,스킬·4
-Voice_54615_AwakerVoiceTitle,boer,y语音_Voice_A.csv,1503,Voice,AwakerVoiceTitle,潘狄娅,超限狂气爆发·二,초월 폭발·2
-Voice_4967_AwakerVoiceTitle,bnqv,y语音_Voice_A.csv,1540,Voice,AwakerVoiceTitle,熔毁·朵尔,技能·二,스킬·2
-Voice_5102_AwakerVoiceTitle,bnBX,y语音_Voice_A.csv,1542,Voice,AwakerVoiceTitle,熔毁·朵尔,技能·四,스킬·4
-Voice_67754_AwakerVoiceTitle,bqnz,y语音_Voice_A.csv,1547,Voice,AwakerVoiceTitle,熔毁·朵尔,超限狂气爆发·二,초월 폭발·2
-Voice_6598_AwakerVoiceTitle,bpXn,y语音_Voice_A.csv,1584,Voice,AwakerVoiceTitle,环行·拉蒙娜,技能·二,스킬·2
-Voice_5110_AwakerVoiceTitle,bnCD,y语音_Voice_A.csv,1586,Voice,AwakerVoiceTitle,环行·拉蒙娜,技能·四,스킬·4
-Voice_54626_AwakerVoiceTitle,bofn,y语音_Voice_A.csv,1591,Voice,AwakerVoiceTitle,环行·拉蒙娜,超限狂气爆发·二,초월 폭발·2
-Voice_5154_AwakerVoiceTitle,bnFX,y语音_Voice_A.csv,1712,Voice,AwakerVoiceTitle,莉兹,技能·二,스킬·2
-Voice_6635_AwakerVoiceTitle,bqaf,y语音_Voice_A.csv,1714,Voice,AwakerVoiceTitle,莉兹,技能·四,스킬·4
-Voice_6228_AwakerVoiceTitle,bpuT,y语音_Voice_A.csv,1755,Voice,AwakerVoiceTitle,旺达,技能·二,스킬·2
-Voice_5923_AwakerVoiceTitle,boTP,y语音_Voice_A.csv,1757,Voice,AwakerVoiceTitle,旺达,技能·四,스킬·4
-Voice_5882_AwakerVoiceTitle,boQH,y语音_Voice_A.csv,1798,Voice,AwakerVoiceTitle,达芙黛尔,技能·二,스킬·2
-Voice_5781_AwakerVoiceTitle,boGv,y语音_Voice_A.csv,1800,Voice,AwakerVoiceTitle,达芙黛尔,技能·四,스킬·4
-Voice_5595_AwakerVoiceTitle,boqb,y语音_Voice_A.csv,1841,Voice,AwakerVoiceTitle,艾瑞卡,技能·二,스킬·2
-Voice_5403_AwakerVoiceTitle,bnYX,y语音_Voice_A.csv,1843,Voice,AwakerVoiceTitle,艾瑞卡,技能·四,스킬·4
-Voice_5992_AwakerVoiceTitle,boZn,y语音_Voice_A.csv,1884,Voice,AwakerVoiceTitle,温柯尔,技能·二,스킬·2
-Voice_6684_AwakerVoiceTitle,bqdP,y语音_Voice_A.csv,1886,Voice,AwakerVoiceTitle,温柯尔,技能·四,스킬·4
-Voice_6699_AwakerVoiceContent,bqeW,y语音_Voice_A.csv,1891,Voice,AwakerVoiceContent,温柯尔,和弥萨格大学达成合作时，明明说好了不让我去战斗的……,"대학과 협력 관계를 맺을 때, 나한테 싸움은 시키지 않겠다고 약속했었는데..."
-Voice_6618_AwakerVoiceTitle,bpYP,y语音_Voice_A.csv,1927,Voice,AwakerVoiceTitle,卡茜亚,技能·二,스킬·2
-Voice_5231_AwakerVoiceTitle,bnLP,y语音_Voice_A.csv,1929,Voice,AwakerVoiceTitle,卡茜亚,技能·四,스킬·4
-Voice_5008_AwakerVoiceTitle,bntD,y语音_Voice_A.csv,1970,Voice,AwakerVoiceTitle,奥尔拉,技能·二,스킬·2
-Voice_6517_AwakerVoiceTitle,bpRb,y语音_Voice_A.csv,1972,Voice,AwakerVoiceTitle,奥尔拉,技能·四,스킬·4
-Voice_61005_AwakerVoiceTitle,bpiX,y语音_Voice_A.csv,2023,Voice,AwakerVoiceTitle,哈姆林,技能·二,스킬·2
-Voice_61013_AwakerVoiceTitle,bpjH,y语音_Voice_A.csv,2025,Voice,AwakerVoiceTitle,哈姆林,技能·四,스킬·4
-Voice_61049_AwakerVoiceTitle,bpln,y语音_Voice_A.csv,2030,Voice,AwakerVoiceTitle,哈姆林,超限狂气爆发·二,초월 폭발·2
-Voice_67310_AwakerVoiceTitle,bqkb,y语音_Voice_A.csv,2081,Voice,AwakerVoiceTitle,塔薇,超限狂气爆发·二,초월 폭발·2
-Voice_81169_AwakerVoiceTitle,btCI,y语音_Voice_A.csv,2133,Voice,AwakerVoiceTitle,克莱门汀,超限狂气爆发·二,초월 폭발·2
-Voice_84216_AwakerVoiceTitle,btFI,y语音_Voice_A.csv,2180,Voice,AwakerVoiceTitle,克珀珊特,超限狂气爆发·二,초월 폭발·2
-Voice_90335_AwakerVoiceTitle,bxWm,y语音_Voice_A.csv,2225,Voice,AwakerVoiceTitle,卡斯托尔,超限狂气爆发·二,초월 폭발·2
-Voice_96402_AwakerVoiceTitle,bAqR,y语音_Voice_A.csv,2265,Voice,AwakerVoiceTitle,杜勒赛因,技能·二,스킬·2
-Voice_96381_AwakerVoiceTitle,bApT,y语音_Voice_A.csv,2267,Voice,AwakerVoiceTitle,杜勒赛因,技能·四,스킬·4
-Voice_96401_AwakerVoiceTitle,bAqP,y语音_Voice_A.csv,2272,Voice,AwakerVoiceTitle,杜勒赛因,超限狂气爆发·二,초월 폭발·2
-Voice_95402_AwakerVoiceTitle,bzxG,y语音_Voice_A.csv,2308,Voice,AwakerVoiceTitle,凯蒂古拉,技能·二,스킬·2
-Voice_95400_AwakerVoiceTitle,bzxC,y语音_Voice_A.csv,2310,Voice,AwakerVoiceTitle,凯蒂古拉,技能·四,스킬·4
-Voice_95428_AwakerVoiceTitle,bzyI,y语音_Voice_A.csv,2316,Voice,AwakerVoiceTitle,凯蒂古拉,超限狂气爆发·二,초월 폭발·2
-Voice_95058_AwakerVoiceTitle,bzvz,y语音_Voice_A.csv,2362,Voice,AwakerVoiceTitle,波吕克斯,超限狂气爆发·二,초월 폭발·2
-Voice_100364_AwakerVoiceTitle,bCyu,y语音_Voice_A.csv,2407,Voice,AwakerVoiceTitle,皮克曼,超限狂气爆发·二,초월 폭발·2
-Voice_117795_AwakerVoiceTitle,bIBU,y语音_Voice_A.csv,2445,Voice,AwakerVoiceTitle,墨菲,技能·二,스킬·2
-Voice_117829_AwakerVoiceTitle,bIDs,y语音_Voice_A.csv,2447,Voice,AwakerVoiceTitle,墨菲,技能·四,스킬·4
-Voice_117793_AwakerVoiceTitle,bIBQ,y语音_Voice_A.csv,2452,Voice,AwakerVoiceTitle,墨菲,超限狂气爆发·二,초월 폭발·2
 Activity_61371_ActivityName,aaIu,h活动_Activity_A.csv,8,Activity,ActivityName,,六翼满开之愿,여섯 날개의 기도
 Activity_61371_BannerText,aaIy,h活动_Activity_A.csv,8,Activity,BannerText,,签到领取超多银芯,출석을 통해 은심 획득
 Activity_61370_ActivityName,aaIo,h活动_Activity_A.csv,9,Activity,ActivityName,,纯银的初心,순은의 초심
@@ -387,7 +28,6 @@ Activity_99296_ActivityPlot,bIbi,h活动_Activity_A.csv,20,Activity,ActivityPlot
 Activity_99296_BannerText,bIbk,h活动_Activity_A.csv,20,Activity,BannerText,,限定SSR命轮免费领取,무료 한정 SSR 명륜 획득
 Activity_116818_ActivityName,bHAY,h活动_Activity_A.csv,21,Activity,ActivityName,,再战原初,원초와의 재전
 Activity_116818_BannerText,bHBa,h活动_Activity_A.csv,21,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
-Activity_116818_ActivityStageEndContent,bLfP,h活动_Activity_A.csv,21,Activity,ActivityStageEndContent,,活动已结束,이벤트가 종료되었습니다.
 Activity_120954_ActivityName,bKwG,h活动_Activity_A.csv,22,Activity,ActivityName,,群星咏叹调,별빛의 찬가
 Activity_122827_ActivityName,bLmu,h活动_Activity_A.csv,23,Activity,ActivityName,,繁育的恩宠,번영의 은총
 Activity_122827_BannerText,bLmw,h活动_Activity_A.csv,23,Activity,BannerText,,免费领取幻衣!,무료 스킨 획득
@@ -404,7 +44,6 @@ Activity_97190_BannerText,bARK,h活动_Activity_A.csv,35,Activity,BannerText,,�
 Activity_66375_BannerText,aaZC,h活动_Activity_A.csv,38,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
 Activity_70438_BannerText,abdQ,h活动_Activity_A.csv,39,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
 Activity_81771_BannerText,brMn,h活动_Activity_A.csv,40,Activity,BannerText,,特别活动限时开启！,기간 한정 이벤트!
-Activity_81771_ActivityStageEndContent,brMl,h活动_Activity_A.csv,40,Activity,ActivityStageEndContent,,活动已结束,이벤트가 종료되었습니다.
 Activity_46609_BannerText,aaAi,h活动_Activity_A.csv,47,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
 Activity_48719_BannerText,aaAu,h活动_Activity_A.csv,49,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
 Activity_51127_BannerText,aaBk,h活动_Activity_A.csv,52,Activity,BannerText,,玩法活动限时开启！,기간 한정 이벤트 개최 중!
@@ -1024,7 +663,6 @@ CollectionHall_51536_Title,avyZ,t图鉴_CollectionHall_A.csv,1081,CollectionHall
 CommonID_HeadType_1_Desc,bCbR,t通用中文ID_CommonID_A.csv,685,CommonID,Desc,,以银钥之名,은열쇠의 이름으로
 EnchantConfig_18191_Desc,awgD,f附魔_EnchantConfig_A.csv,19,EnchantConfig,Desc,,打出后 <EmbryoFusionIconKeywords:胚胎融合>  +[Arg1]%。,사용 후 <EmbryoFusionIconKeywords:배아 융합>이 [Arg1]% 증가합니다.
 EnchantConfig_18173_Desc,awfT,f附魔_EnchantConfig_A.csv,38,EnchantConfig,Desc,,打出后 <EmbryoFusionIconKeywords:胚胎融合>  +[Arg1]%。,사용 후 <EmbryoFusionIconKeywords:배아 융합>이 [Arg1]% 증가합니다.
-ErrCode_ERR_ACTIVITY_FINISH_Desc,awhy,c错误码提示_ErrCode_A.csv,252,ErrCode,Desc,,活动已结束,이벤트가 종료되었습니다.
 Event_7101_Name,azGp,s事件_Event_A.csv,8,Event,Name,,联络点,연락 지점
 Event_7101_Desc,azGo,s事件_Event_A.csv,8,Event,Desc,,你在迷雾中探索，突然，胸前的校徽放出微弱的银光。是谁在通讯器的那头呼唤你？,"안개 속을 탐색하던 중, 갑자기 가슴에 달린 배지가 희미한 은빛을 뿜어냈다. 통신기 너머에서, 누가 당신을 부르고 있는 걸까?"
 Event_7101_ChoiceDesc1,azGj,s事件_Event_A.csv,8,Event,ChoiceDesc1,,【接通】回复 Arg2 点生命。[ExDesc1],【연결】HP를 Arg2 회복합니다. [ExDesc1]
@@ -2091,8 +1729,6 @@ PanelText_UI_Recharge_Panel_Main_Text_C_Refresh_Content,aIVK,j界面文字表_Pa
 PanelText_UI_Passport_Money_Item_Text_C_Name_Content,aIQd,j界面文字表_PanelText_C.csv,315,PanelText,Content,,课题礼匣,과제 선물상자
 PanelText_UI_Passport_Praising_Item_Text_C_Title_Content,aIQx,j界面文字表_PanelText_C.csv,323,PanelText,Content,,课题礼匣,과제 선물상자
 PanelText_UI_Recharge_Panel_Extract_Text_C_Refresh_Content,aIVb,j界面文字表_PanelText_C.csv,748,PanelText,Content,,联系客服,고객 지원
-PanelText_UI_Event_Activity_DonationBox_Text_C_Finish_Content,aIDM,j界面文字表_PanelText_C.csv,1725,PanelText,Content,,活动已结束,이벤트가 종료되었습니다.
-PanelText_UI_Event_Activity_Horla_Text_C_Finish_Content,aIDS,j界面文字表_PanelText_C.csv,2004,PanelText,Content,,活动已结束,이벤트가 종료되었습니다.
 PanelText_UI_Recharge_Panel_Main_Optimized_Text_C_Refresh_Content,aIVn,j界面文字表_PanelText_C.csv,2011,PanelText,Content,,联系客服,고객 지원
 PanelText_UI_Events_Panel_Tawil_Text_C_Shop_Content,aILm,j界面文字表_PanelText_C.csv,2253,PanelText,Content,,回声,메아리
 PanelText_UI_Dungeons_Panel_Daily_Challenge_New_Text_C_Store_Content,bKwe,j界面文字表_PanelText_C.csv,3041,PanelText,Content,,兑换商店,교환 상점
@@ -3044,7 +2680,6 @@ Skill_19402_Desc,aLaO,jPVP技能表_Skill_A.csv,428,Skill,Desc,,<PVPWeaponKeywor
 Skill_19379_Desc,aKZO,jPVP技能表_Skill_A.csv,429,Skill,Desc,,<PVPWeaponKeywords:命轮>：回合结束时，使狂气最低友方获得 <Energy:[Energy:Arg1]> 狂气，并回复损失生命最多的友方 <Heal:[Heal:Arg2]> 生命。,"<PVPWeaponKeywords:명륜>: 턴 종료 시, 광기가 가장 낮은 아군이 <Energy:[Energy:Arg1]> 광기를 획득하고, HP 손실이 가장 높은 아군이 <Heal:[Heal:Arg2]> HP를 회복합니다."
 Skill_19455_Desc,aLdi,jPVP技能表_Skill_A.csv,432,Skill,Desc,,<PVPWeaponKeywords:命轮>：装备者每回合第一次打出「技能」后，将其一张算力消耗 - [Arg1] 的复制洗入抽牌堆。,"<PVPWeaponKeywords:명륜>: 장비자가 매 턴 처음으로 「스킬」을 사용한 후, 비용이 [Arg1] 감소한 해당 카드의 복제를 드로우 덱에 섞습니다."
 Skill_19409_Desc,aLba,jPVP技能表_Skill_A.csv,433,Skill,Desc,,<PVPWeaponKeywords:命轮>：「打击」每攻击一个目标获得 [Arg1] 算力。,<PVPWeaponKeywords:명륜>: 「타격」으로 공격할 때마다 [Arg1] 산출력을 획득합니다.
-Skill_19350_Desc,aKYK,jPVP技能表_Skill_A.csv,435,Skill,Desc,,<PVPWeaponKeywords:命轮>：回合开始时，<PVPSeriousInjuryKeywords:重创>自身并减少 <Heal:[Heal:Arg1]> <MaxHPKeywords:最大生命>，回合结束时，<ReinforceKeywords:加固>自身。,"<PVPWeaponKeywords:명륜>: 턴 시작 시, 자신에게 <PVPSeriousInjuryKeywords:중상>을 부여하고, <MaxHPKeywords:최대 HP>가 <Heal:[Heal:Arg1]> 감소합니다. 턴 종료 시, 자신에게 <ReinforceKeywords:요새화>를 부여합니다."
 Skill_50300_Name,aPbq,jPVP技能表_Skill_A.csv,436,Skill,Name,,极夜与破晓,극야와 새벽
 Skill_50300_Desc,aPbp,jPVP技能表_Skill_A.csv,436,Skill,Desc,,<PVPWeaponKeywords:命轮>：抵抗 1 次死亡并摧毁此「命轮」，获得 [Arg1] 层<PVPProtectiveKeywords:屏障>，生效时若为唯一生存友方，使下回合开始时获得 [Arg2] 张随机「钥令」。,"<PVPWeaponKeywords:명륜>: 사망을 1회 저항하고, 이 「명륜」은 파괴됩니다. <PVPProtectiveKeywords:장벽> [Arg1]스택을 획득합니다. 이 효과가 발동되었을 때 장비자가 생존한 유일한 아군이라면, 다음 턴 시작 시 무작위 「은열쇠」 [Arg2]장을 획득합니다."
 Skill_66891_Name,aQfC,jPVP技能表_Skill_A.csv,440,Skill,Name,,纯银的初心,순은의 초심
@@ -3052,7 +2687,6 @@ Skill_119574_Name,bKaH,jPVP技能表_Skill_A.csv,444,Skill,Name,,你我终将重
 Skill_45367_Desc,aNCO,jPVP技能表_Skill_A.csv,528,Skill,Desc,,<DelayKeywords:延迟>：给予一名友方 [Arg1] 张「打击」。,<DelayKeywords:지연>: 아군 한 명에게 「타격」을 [Arg1]장 부여합니다.
 Skill_49834_Desc,aPbe,jPVP技能表_Skill_A.csv,529,Skill,Desc,,查看 [Arg1] 张友方随机「技能」 ，选择 1 张，将其 [Arg2] 张费用 - [Arg3] 的复制洗入抽牌堆。,"아군의 무작위 「스킬」 [Arg1]장을 확인하고, 1장을 선택하여 비용이 [Arg3] 감소한 복제본 [Arg2]장을 드로우 덱에 섞습니다."
 Skill_19343_Desc,aKYy,jPVP技能表_Skill_A.csv,531,Skill,Desc,,查看 [Arg1] 张其他随机「钥令」，选择 1 张置入手中。,"무작위 「은열쇠」 [Arg1]장을 확인하고, 1장을 선택하여 손패에 추가합니다."
-Skill_45257_Desc,aNzP,jPVP技能表_Skill_A.csv,532,Skill,Desc,,<ReinforceKeywords:加固>一名友方，抽 [Arg1] 张牌。,"아군 한 명을 <ReinforceKeywords:강화>시키고, 카드를 [Arg1]장 뽑습니다."
 Skill_80193_Desc,bsBR,jPVP技能表_Skill_A.csv,556,Skill,Desc,,双方抽 2 张牌。,양쪽 모두 카드를 2장 뽑습니다.
 Skill_21783_Desc,aLji,jPVP技能表_Skill_A.csv,576,Skill,Desc,,击杀一名目标。,목표를 죽입니다.
 Skill_22212_Desc,aLlF,jPVP技能表_Skill_A.csv,578,Skill,Desc,,使一名目标获得 [Arg1] <EnergyStorageColour:死斗>。,목표에게 <EnergyStorageColour:사투> [Arg1]스택을 부여합니다.
@@ -3676,7 +3310,6 @@ Skill_44786_Desc,aNsz,j技能表_Skill_A.csv,1867,Skill,Desc,,造成 <Damage:[Da
 Skill_44676_Desc,aNnV,j技能表_Skill_A.csv,1868,Skill,Desc,,获得 [Arg2] 点<PowerIconKeywords:力量>和 [Arg1] 点护盾，将 3 张随机症状洗入抽牌堆。,"<PowerIconKeywords:힘> [Arg2]과 [Arg1]의 방어막을 획득하고, 무작위 증상 카드 3장을 드로우 덱에 섞어 넣습니다."
 Skill_44674_Desc,aNnH,j技能表_Skill_A.csv,1869,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次并施加 2 回合的「撕裂」、「创伤」、<BlindingKeywords:致盲> 。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 2턴 동안 「열상」, 「상처」, 그리고 <BlindingKeywords:실명>을 부여합니다."
 Skill_60399_Desc,aPMb,j技能表_Skill_A.csv,1871,Skill,Desc,,获得 [Block:Arg1] 点护盾，[Arg2] 点<PowerIconKeywords:力量>，[Arg3] 点<RetaliateIconKeywords:反击>，解除自身负面状态。,"[Block:Arg1]의 방어막과 <PowerIconKeywords:힘> [Arg2], <RetaliateIconKeywords:반격>을 [Arg3] 획득하고 자신의 부정적인 상태를 제거합니다."
-Skill_60397_Desc,aPLN,j技能表_Skill_A.csv,1872,Skill,Desc,,获得 20 层<ReinforcePVEKeywords:加固>和 [Arg1] 点<PowerIconKeywords:力量>。后续每受到 1 次伤害就获得 2 层临时<ReinforcePVEKeywords:加固>。,<ReinforcePVEKeywords:요새화> 20스택과 <PowerIconKeywords:힘>을 [Arg1] 획득합니다. 이후 피해를 1회 받을 때마다 일시적으로 <ReinforcePVEKeywords:요새화> 2스택을 획득합니다.
 Skill_60398_Desc,aPLU,j技能表_Skill_A.csv,1873,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，施加 2 回合的<BlindingKeywords:致盲> 和 <HeavyInjuryKeywords:重创>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 2턴 동안 <BlindingKeywords:실명>과 <HeavyInjuryKeywords:중상>을 부여합니다."
 Skill_50704_Desc,aPeD,j技能表_Skill_A.csv,1875,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，未被完全格挡的部分会造成等量<BleedingIconKeywords:出血>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 방어되지 않은 피해량과 동일한 <BleedingIconKeywords:출혈>을 부여합니다."
 Skill_50700_Desc,aPeb,j技能表_Skill_A.csv,1876,Skill,Desc,,获得 [Arg1] 点护盾和 [Arg2] 点<PowerIconKeywords:力量>。玩家每打出 1 张牌都会切换该意图的追加效果。追加效果会在反击、净化、植入之间按序切换。,"[Arg1]의 방어막과 <PowerIconKeywords:힘>을 [Arg2] 획득합니다. 플레이어가 카드를 낼 때마다 해당 의도의 추가 효과가 전환됩니다. 추가 효과는 반격, 정화, 이식 순서로 변경됩니다."
@@ -3728,13 +3361,11 @@ Skill_60076_Desc,aPFw,j技能表_Skill_A.csv,1936,Skill,Desc,,召唤 [Arg1] 只�
 Skill_60080_Desc,aPFY,j技能表_Skill_A.csv,1937,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，获得 [Arg3] 点<PowerIconKeywords:力量>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, <PowerIconKeywords:힘>을 [Arg3] 획득합니다."
 Skill_60424_Desc,aPMi,j技能表_Skill_A.csv,1939,Skill,Desc,哈姆林,"获得 [Arg1] 点<PowerIconKeywords:力量>。将 1 张<DerivativeCardKeywords_4:「灵感」>置入手中。本回合触发「音符律令」时,将 1 张<DerivativeCardKeywords_4:「灵感」>置入手中。","<PowerIconKeywords:힘>을 [Arg1] 획득하고, <DerivativeCardKeywords_4:「영감」> 1장을 손패에 넣습니다. 이번 턴에 “음표 규율”이 발동했을 때, <DerivativeCardKeywords_4:「영감」> 1장을 손에 넣습니다."
 Skill_60428_Desc,aPMK,j技能表_Skill_A.csv,1941,Skill,Desc,哈姆林,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，每次未被格挡的伤害都会附加 1 个随机负面效果。之后的「灵魂序曲」伤害次数 +1。,<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. 방어되지 않은 피해를 가할 때마다 무작위의 부정적인 효과 1개를 부여합니다. 이후 「영혼의 서곡」의 공격 횟수가 1 증가합니다.
-Skill_60427_Desc,aPMD,j技能表_Skill_A.csv,1942,Skill,Desc,哈姆林,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次并获得 [Arg3] 层永久<ReinforcePVEKeywords:加固>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 영구적인 <ReinforcePVEKeywords:요새화>를 [Arg3]스택 획득합니다."
 Skill_60425_Desc,aPMp,j技能表_Skill_A.csv,1943,Skill,Desc,哈姆林,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，获得等同于未被格挡伤害的临时<PowerIconKeywords:力量>，回复等同于未被格挡伤害 10 倍的生命。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. 방어되지 않은 피해와 동일한 임시 <PowerIconKeywords:힘>을 획득하고, 피해량의 10배에 해당하는 HP를 회복합니다."
 Skill_60047_Desc,aPEs,j技能表_Skill_A.csv,1945,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，获得 [Arg3] 层<ParcloseIconKeywords:屏障>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, <ParcloseIconKeywords:장벽> [Arg3]스택을 획득합니다."
 Skill_60048_Desc,aPEz,j技能表_Skill_A.csv,1946,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，狂气最高的唤醒体失去 50% 狂气。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 가장 광기가 높은 각성체의 현재 광기가 절반으로 감소합니다."
 Skill_60136_Desc,aPHc,j技能表_Skill_A.csv,1949,Skill,Desc,艾瑞卡,获得 [Arg1] 点护盾和 [Arg2] 点临时<RetaliateIconKeywords:反击>。,"[Arg1]의 방어막을 획득하고, 임시 <RetaliateIconKeywords:반격>을 [Arg2] 획득합니다."
 Skill_60134_Desc,aPGO,j技能表_Skill_A.csv,1950,Skill,Desc,艾瑞卡,施加 2 回合<WeaknessIconKeywords:虚弱>和<FragileIconKeywords:脆弱>。造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次并获得 [Arg3] 点护盾。,"2턴 동안 <WeaknessIconKeywords:허약>과 <FragileIconKeywords:취약>을 부여합니다. <Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, [Arg3]의 방어막을 획득합니다."
-Skill_60132_Desc,aPGA,j技能表_Skill_A.csv,1951,Skill,Desc,艾瑞卡,回合结束时根据不同状态获得不同强化：放-获得 1 层临时<MadnessIconKeywords:疯狂>。敛-获得 50 层临时<ReinforcePVEKeywords:加固>。,턴 종료 시 현재 상태에 따라 다른 강화 효과를 얻습니다. 전개: 임시 <MadnessIconKeywords:광란> 1스택을 얻습니다. 회수: 임시 <ReinforcePVEKeywords:요새화> 50스택를 얻습니다.
 Skill_60135_Desc,aPGV,j技能表_Skill_A.csv,1954,Skill,Desc,艾瑞卡,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，获得 [Arg2] 层屏障。每次「形态切换」会使伤害次数和屏障数提高 1。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 장벽 [Arg2]스택을 획득합니다. “형태 전환”을 사용할 때마다 공격횟수와 장벽의 수가 1씩 증가합니다."
 Skill_45692_Desc,aNXE,j技能表_Skill_A.csv,1957,Skill,Desc,,随机冻结抽牌堆中的 1 张指令卡，获得 1 层<MadnessIconKeywords:疯狂>。,"드로우 덱의 무작위 명령 카드 1장을 동결하고, <MadnessIconKeywords:광란> 1스택을 획득합니다."
 Skill_65549_Desc,aPXr,j技能表_Skill_A.csv,1958,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，每造成一次未被完全格挡的伤害，随机冻结牌库中 1 张未被冻结的指令卡。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 완전히 방어되지 않은 피해를 입힐 때마다 동결되지 않은 무작위 명령 카드 1장을 동결합니다."
@@ -3831,7 +3462,6 @@ Skill_61535_Desc,aPTv,j技能表_Skill_A.csv,2199,Skill,Desc,,造成 <Damage:[Da
 Skill_66303_Desc,aQap,j技能表_Skill_A.csv,2203,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。施加 [Arg3] 层<IntoxicationIconKeywords:中毒>和 [Arg4] 层<BleedingIconKeywords:出血>。,<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. [Arg3]의 <IntoxicationIconKeywords:중독>과 [Arg4]의 <BleedingIconKeywords:출혈>을 부여합니다.
 Skill_66282_Desc,aPYh,j技能表_Skill_A.csv,2204,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。施加 [Arg3] 层<VulnerabilityIconKeywords:易伤>、<WeaknessIconKeywords:虚弱>和<FragileIconKeywords:脆弱>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. <VulnerabilityIconKeywords:취약>, <WeaknessIconKeywords:허약> 과 <FragileIconKeywords:손상> [Arg3]스택을 부여합니다."
 Skill_68844_Desc,aQvA,j技能表_Skill_A.csv,2205,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。施加 [Arg3] 层<VulnerabilityIconKeywords:易伤>、<WeaknessIconKeywords:虚弱>和<FragileIconKeywords:脆弱>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. <VulnerabilityIconKeywords:취약>, <WeaknessIconKeywords:허약> 과 <FragileIconKeywords:손상> [Arg3]스택을 부여합니다."
-Skill_62217_Desc,aPTX,j技能表_Skill_A.csv,2206,Skill,Desc,,获得 [Arg1] 层<ReinforcePVEKeywords:加固>。,<ReinforcePVEKeywords:요새화> [Arg1]스택을 획득합니다.
 Skill_66292_Desc,aPZz,j技能表_Skill_A.csv,2211,Skill,Desc,,获得「亘古穿今之锁」：每回合结束时获得 1 层「怨恨锁链」。,“영원을 꿰뚫는 자물쇠”를 획득합니다: 매 턴 종료 시 “원한의 사슬” 1스택 획득.
 Skill_68951_Desc,aQwc,j技能表_Skill_A.csv,2214,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。施加 [Arg3] 层<IntoxicationIconKeywords:中毒>和 [Arg4] 层<BleedingIconKeywords:出血>。,<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. [Arg3]의 <IntoxicationIconKeywords:중독>과 [Arg4]의 <BleedingIconKeywords:출혈>을 부여합니다.
 Skill_68952_Desc,aQwj,j技能表_Skill_A.csv,2215,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。施加 [Arg3] 层<VulnerabilityIconKeywords:易伤>、<WeaknessIconKeywords:虚弱>和<FragileIconKeywords:脆弱>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입힙니다. <VulnerabilityIconKeywords:취약>, <WeaknessIconKeywords:허약> 과 <FragileIconKeywords:손상> [Arg3]스택을 부여합니다."
@@ -4076,4 +3706,861 @@ Summon_14144_Name,barX,c抽卡_Summon_A.csv,203,Summon,Name,,常驻角色唤醒,
 TipsType_20075_Desc,bmUo,t提示信息_TipsType_C.csv,98,TipsType,Desc,,是否启动{s1}研究？\n生产效率: {s2}蔷薇金券/每6小时\n      ——>{s3}蔷薇金券/每6小时,{s1} 연구를 시작하시겠습니까?\n생산 효율: {s2} 장미 금권/6시간 -> {s3} 장미 금권/6시간
 TipsType_20076_Desc,bmUs,t提示信息_TipsType_C.csv,99,TipsType,Desc,,是否启动{s1}的研究？\n生产效率: {s2}灵知制剂/每6小时\n      ——>{s3}灵知制剂/每6小时,{s1} 연구를 시작하시겠습니까?\n생산 효율: {s2} 영지 비약/6시간 -> {s3} 영지 비약/6시간
 TipsType_20077_Desc,bmUw,t提示信息_TipsType_C.csv,100,TipsType,Desc,,是否启动{s1}的研究？\n生产效率: {s2}密契回痕/每6小时\n      ——>{s3}密契回痕/每6小时,{s1} 연구를 시작하시겠습니까?\n생산 효율: {s2} 비밀 계약 잔본/6시간 -> {s3} 비밀 계약 잔본/6시간
-TipsType_10822_Desc,bmLk,t提示信息_TipsType_C.csv,934,TipsType,Desc,,活动已结束,이벤트가 종료되었습니다.
+Activity_116818_ActivityStageEndContent,bLfP,h活动_Activity_A.csv,21,Activity,ActivityStageEndContent,,活动已结束,이벤트 종료
+Activity_81771_ActivityStageEndContent,brMl,h活动_Activity_A.csv,40,Activity,ActivityStageEndContent,,活动已结束,이벤트 종료
+Activity_78791_ActivityName,abkU,h活动_Activity_A.csv,97,Activity,ActivityName,,雪山消融之时·复刻,설산이 녹을 때까지·복각
+Activity_97853_ActivityName,bBcn,h活动_Activity_A.csv,120,Activity,ActivityName,,如果一切如常,모든 것이 평소대로였다면
+Activity_67745_ActivityName,abca,h活动_Activity_A.csv,122,Activity,ActivityName,,雪山消融之时·复刻,설산이 녹을 때까지·복각
+Activity_97672_ActivityName,bAVD,h活动_Activity_A.csv,134,Activity,ActivityName,,神诞的祭礼,신의 탄생제
+Activity_97672_ActivityStageEndContent,bAVF,h活动_Activity_A.csv,134,Activity,ActivityStageEndContent,,活动已结束，当前仅可参与「创生七日」,"이벤트가 종료되어, 현재 「7일간의 창조」에만 참여할 수 있습니다."
+AwakerPotency_79151_PotencyName,atwZ,h唤醒体启灵_AwakerPotency_A.csv,805,AwakerPotency,PotencyName,波吕克斯,神启新约,계시의 신약
+CollectionHall_116868_Title,bIaA,t图鉴_CollectionHall_A.csv,336,CollectionHall,Title,,再见，永无乡,"안녕, 영원한 고향"
+CollectionHall_97896_Title,bBcw,t图鉴_CollectionHall_A.csv,553,CollectionHall,Title,,如果一切如常,모든 것이 평소대로였다면
+CollectionHall_97736_Title,bBbZ,t图鉴_CollectionHall_A.csv,555,CollectionHall,Title,,神诞的祭礼,신의 탄생제
+CollectionHall_97736_LockTip,bBbY,t图鉴_CollectionHall_A.csv,555,CollectionHall,LockTip,,需要通关限时活动「神诞的祭礼：创生七日」任一关卡,기간 한정 이벤트 「신의 탄생제: 7일간의 창조」의 스테이지를 하나 이상 클리어해야 합니다
+ErrCode_ERR_ACTIVITY_FINISH_Desc,awhy,c错误码提示_ErrCode_A.csv,252,ErrCode,Desc,,活动已结束,이벤트 종료
+ErrCode_ERR_PVP_DRAFT_LOCK_Desc,bHCU,c错误码提示_ErrCode_A.csv,312,ErrCode,Desc,,未达到轮选模式开启条件,순차 선택 모드 개방 조건 미충족
+Item_119012_Desc,bJxf,d道具_Item_A.csv,19,Item,Desc,,预组经验达到一定值时，预组等级提升。可在相位对弈预组模式中获得。,"사전 편성 모드 경험치가 일정 값에 도달하면, 사전 편성 모드 레벨이 상승합니다. 페이즈 체스 사전 편성 모드에서 획득할 수 있습니다."
+Item_119011_Desc,bJxd,d道具_Item_A.csv,20,Item,Desc,,轮选经验达到一定值时，轮选等级提升。可在相位对弈轮选模式中获得。,순차 선택 모드 경험치가 일정 값에 도달 시 순차 선택 모드 레벨이 상승합니다. 페이즈 체스 모드에서 획득 가능합니다.
+Item_91157_Name,bymG,d道具_Item_A.csv,183,Item,Name,,银钥辉光,은열쇠의 반짝임
+LanguageConfig_ShopName_ActivityShop15_CN,bzVJ,d多语言_LanguageConfig_C.csv,2211,LanguageConfig,CN,,学生会办公楼,학생회관
+LanguageConfig_Monster_Chapter8_17_CN,aGTN,d多语言_LanguageConfig_C.csv,2329,LanguageConfig,CN,,敌人获得了超高额的加固…配合血污灯芯找到机会来终结对手吧！,적이 견고 상태에 진입했습니다! 핏빛 심지를 활용하여 기회를 찾아 적을 처치하세요!
+LanguageConfig_TextFightBoss_CN,aHlO,d多语言_LanguageConfig_C.csv,2729,LanguageConfig,CN,,辰星安魂曲,별들의 진혼곡
+LanguageConfig_ComsumeSet_CN,bCcb,d多语言_LanguageConfig_C.csv,3027,LanguageConfig,CN,,置换设置,치환 설정
+LanguageConfig_ConductPasswordBattle1_CN,bCRI,d多语言_LanguageConfig_C.csv,3043,LanguageConfig,CN,,正在进行密码对战-预组模式…,비밀번호 대전 - 사전 편성 모드 진행 중...
+LanguageConfig_ConductPasswordBattle2_CN,bCRJ,d多语言_LanguageConfig_C.csv,3044,LanguageConfig,CN,,正在进行密码对战-轮选模式…,비밀번호 대전 - 순차 선택 모드 진행 중...
+LanguageConfig_PasswordBattle1_CN,bCRR,d多语言_LanguageConfig_C.csv,3050,LanguageConfig,CN,,预组模式,사전 편성 모드
+LanguageConfig_PasswordBattle2_CN,bCRT,d多语言_LanguageConfig_C.csv,3051,LanguageConfig,CN,,轮选模式,순차 선택 모드
+LanguageConfig_FriendGameInviteTipsDraft_CN,bHEW,d多语言_LanguageConfig_C.csv,3067,LanguageConfig,CN,,正在邀请你参与 轮选模式…,당신을 순차 선택 모드에 초대하고 있습니다...
+LanguageConfig_Monster_Agrippa_bubble_tips_02_CN,bCgs,d多语言_LanguageConfig_C.csv,3086,LanguageConfig,CN,,敌人受到一定伤害后会获得加固并转换为防御姿态。,적은 일정 피해를 받으면 견고 상태에 진입하고 방어 태세로 전환됩니다.
+LanguageConfig_MaxLevelWeaponShopTips_CN,bKrx,d多语言_LanguageConfig_C.csv,3185,LanguageConfig,CN,,叠位已满,최대 중첩
+LanguageConfig_PvPReplayModeDisp1_CN,bKsG,d多语言_LanguageConfig_C.csv,3197,LanguageConfig,CN,,预组模式,사전 편성 모드
+LanguageConfig_PvPReplayModeDisp2_CN,bKsH,d多语言_LanguageConfig_C.csv,3198,LanguageConfig,CN,,轮选模式,순차 선택 모드
+MonsterIntent_怪物意图攻击_Name,aHVJ,g怪物意图_MonsterIntent_A.csv,8,MonsterIntent,Name,,打击,타격
+MonsterIntent_怪物意图重攻击_Name,aHWd,g怪物意图_MonsterIntent_A.csv,9,MonsterIntent,Name,,打击,타격
+MonsterIntent_怪物意图人面犬重攻击_Name,aHVv,g怪物意图_MonsterIntent_A.csv,10,MonsterIntent,Name,,打击,타격
+PanelText_UI_Battle_Popup_Open_Tips_Text_C_Hang_Content,aItT,j界面文字表_PanelText_C.csv,67,PanelText,Content,,Battle  Begin,Battle Start
+PanelText_UI_Battle_Popup_Elite_Tips_Text_C_Hang_Content,aItC,j界面文字表_PanelText_C.csv,68,PanelText,Content,,Battle  Begin,Battle Start
+PanelText_UI_Passport_Money_Item_Text_C_Introduce_Content,aIQc,j界面文字表_PanelText_C.csv,318,PanelText,Content,,封装着珍贵命轮的精制礼匣，纯手工打造。\n解锁高阶课题并提升到40级，可在课题礼匣中挑选一个命轮或「流明之芯」×5作为奖励。,"귀중한 명륜이 들어 있는 수제 선물 상자.\n고급 과제를 해금하여 40레벨에 도달하면, 과제 선물 상자에서 명륜 혹은 광휘의 은핵 5개를 보상으로 선택할 수 있습니다."
+PanelText_UI_Passport_Praising_Item_Text_C_Content_Content,aIQw,j界面文字表_PanelText_C.csv,324,PanelText,Content,,封装着珍贵命轮的精制礼匣，纯手工打造。\n解锁高阶课题并提升到40级，可在课题礼匣中挑选一个命轮或「流明之芯」×5作为奖励。,"귀중한 명륜이 들어 있는 수제 선물 상자.\n고급 과제를 해금하여 40레벨에 도달하면, 과제 선물 상자에서 명륜 혹은 광휘의 은핵 5개를 보상으로 선택할 수 있습니다."
+PanelText_UI_Passport_Show_Item_Text_C_Introduce_Content,aIQS,j界面文字表_PanelText_C.csv,327,PanelText,Content,,解锁高阶课题并提升到40级，可在课题礼匣中选一个命轮或「流明之芯」×5作为奖励,"고급 과제를 해금하여 40레벨에 도달하면, 과제 선물 상자에서 명륜 혹은 광휘의 은핵 5개를 보상으로 선택할 수 있습니다."
+PanelText_UI_Dungeons_Panel_Try_Text_C_Activity_Awaker_Content,aIAx,j界面文字表_PanelText_C.csv,388,PanelText,Content,,忘却篇·限定,망각편·한정
+PanelText_UI_Dungeons_Panel_Try_Text_C_Normal_Awaker_Content,aIAD,j界面文字表_PanelText_C.csv,389,PanelText,Content,,常驻,상시
+PanelText_UI_Dungeons_Popup_List_Tip_Text_C_Prompt_Content,aIBe,j界面文字表_PanelText_C.csv,502,PanelText,Content,,每周一9:00根据调查头衔发送奖励邮件,매주 월요일 9:00에 조사 칭호에 따라 보상을 우편으로 발송합니다.
+PanelText_UI_Dungeons_Popup_List_Tip_Text_C_Information_5_Content,aIBb,j界面文字表_PanelText_C.csv,507,PanelText,Content,,编队,편성
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Special2_Content,aIWt,j界面文字表_PanelText_C.csv,905,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,파견 팀의 총 레벨이 20레벨 초과할 때마다 추가 보상을 받을 수 있습니다.
+PanelText_UI_Research_Popup_Recall_Text_C_Special2_Content,aIWM,j界面文字表_PanelText_C.csv,908,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,파견 팀의 총 레벨이 20레벨 초과할 때마다 추가 보상을 받을 수 있습니다.
+PanelText_UI_Pvp_Team_Main_Text_C_Title_Content,aIUz,j界面文字表_PanelText_C.csv,1036,PanelText,Content,,预组编队,편성 프리셋
+PanelText_UI_Pvp_Panel_Collection_Detail_Text_C_Role_Wins_Content,aIRI,j界面文字表_PanelText_C.csv,1039,PanelText,Content,,本赛季胜场,이번 시즌 승리
+PanelText_UI_Pvp_Panel_Collection_Detail_Text_C_Wins_Content,aIRL,j界面文字表_PanelText_C.csv,1042,PanelText,Content,,本赛季胜场,이번 시즌 승리
+PanelText_UI_Social_Panel_Main_Text_C_Concern_Content,aIZo,j界面文字表_PanelText_C.csv,1108,PanelText,Content,,新增,신규
+PanelText_UI_Events_Item_Optional_Text_C_Full_Content,aIFz,j界面文字表_PanelText_C.csv,1129,PanelText,Content,,叠位已满,최대 중첩
+PanelText_UI_Dungeons_Panel_Daily_Challenge_Text_C_Record2_Content,aIzn,j界面文字表_PanelText_C.csv,1202,PanelText,Content,,本周成绩,이번 주 성적
+PanelText_UI_Summon_Item_Probability_Text_C_Role_Content,aJav,j界面文字表_PanelText_C.csv,1215,PanelText,Content,,综合概率,종합 확률
+PanelText_UI_Pvp_Team_Main_Text_C_Name_2_Content,aIUp,j界面文字表_PanelText_C.csv,1248,PanelText,Content,,4号位唤醒体,각성체 슬롯 4
+PanelText_UI_Pvp_Team_Main_Text_C_Name_3_Content,aIUq,j界面文字表_PanelText_C.csv,1249,PanelText,Content,,3号位唤醒体,각성체 슬롯 3
+PanelText_UI_Pvp_Team_Main_Text_C_Name_4_Content,aIUr,j界面文字表_PanelText_C.csv,1250,PanelText,Content,,2号位唤醒体,각성체 슬롯 2
+PanelText_UI_Pvp_Team_Main_Text_C_Name_5_Content,aIUs,j界面文字表_PanelText_C.csv,1251,PanelText,Content,,1号位唤醒体,각성체 슬롯 1
+PanelText_UI_Dungeous_Item_Ranking_Text_C_Null_Content,aIBy,j界面文字表_PanelText_C.csv,1335,PanelText,Content,,暂无编队,편성 없음
+PanelText_UI_Dungeous_Panel_Molten_Text_C_LineUp_Content,aICv,j界面文字表_PanelText_C.csv,1390,PanelText,Content,,通关编队,클리어 편성
+PanelText_UI_Social_Panel_HelpList_Text_C_NoTask_Content,aIZa,j界面文字表_PanelText_C.csv,1441,PanelText,Content,,暂无契合的助战唤醒体，建议调整「筛选唤醒体」,일치하는 조력 각성체가 없습니다. 「각성체 필터」를 조정하는 것을 추천합니다.
+PanelText_UI_Passport_Money_Item_New_Text_C_Condition_Content,aIPH,j界面文字表_PanelText_C.csv,1584,PanelText,Content,,完成所有课题可累计获得,모든 과제를 완료하여 누적 보상 획득 가능
+PanelText_UI_Passport_Money_Item_New_Text_C_ThisIssue_Content,aIPW,j界面文字表_PanelText_C.csv,1590,PanelText,Content,,完成所有课题可累计获得,모든 과제를 완료하여 누적 보상 획득 가능
+PanelText_UI_Passport_Money_Item_New_Text_C_Introduce_Content,aIPM,j界面文字表_PanelText_C.csv,1595,PanelText,Content,,解锁高阶课题并提升到40级，可在课题礼匣中选一个命轮或「流明之芯」×5作为奖励,"고급 과제를 해금하여 40레벨에 도달하면, 과제 선물 상자에서 명륜 혹은 광휘의 은핵 5개를 보상으로 선택할 수 있습니다."
+PanelText_UI_Pvp_Popup_Expression_Manage_Text_C_Use_Content,aITw,j界面文字表_PanelText_C.csv,1663,PanelText,Content,,对战表情,감정 표현
+PanelText_UI_Pvp_Popup_Tips_Text_C_Game1_Content,aITW,j界面文字表_PanelText_C.csv,1678,PanelText,Content,,本周排行,주간 랭킹
+PanelText_UI_Pvp_Popup_Tips_Text_C_Game2_Content,aITX,j界面文字表_PanelText_C.csv,1679,PanelText,Content,,本周排行,주간 랭킹
+PanelText_UI_Pvp_Popup_Tips_Text_C_Hint_Content,aITZ,j界面文字表_PanelText_C.csv,1702,PanelText,Content,,本周获胜一场即可在下周一9点(GMT+8)获得结算奖励。,"이번 주에 1번 승리하면, 다음 주 월요일 오전 9시(GMT+8)에 정산 보상을 받을 수 있습니다."
+PanelText_UI_Event_Activity_DonationBox_Text_C_Finish_Content,aIDM,j界面文字表_PanelText_C.csv,1725,PanelText,Content,,活动已结束,이벤트 종료
+PanelText_UI_Pvp_Popup_Tips_Text_C_RankTip_Content,aIUb,j界面文字表_PanelText_C.csv,1733,PanelText,Content,,今日参与一场即可进入「本周排行」。,오늘 1번만 참여하면 「주간 랭킹」에 들어갈 수 있습니다.
+PanelText_UI_Alchemy_Popup_Break_Down_Text_C_Add_Content,aIlg,j界面文字表_PanelText_C.csv,1888,PanelText,Content,,+,+
+PanelText_UI_Alchemy_Popup_Break_Down_Text_C_Wait_Content,aIlh,j界面文字表_PanelText_C.csv,1889,PanelText,Content,,=,=
+PanelText_UI_Event_Activity_Horla_Text_C_Finish_Content,aIDS,j界面文字表_PanelText_C.csv,2004,PanelText,Content,,活动已结束,이벤트 종료
+PanelText_UI_Pvp_Popup_PlaybackAngle_Text_Title_Content,aITG,j界面文字表_PanelText_C.csv,2169,PanelText,Content,,选择视角,시점 선택
+PanelText_UI_Pvp_Popup_PlaybackAngle_Text_Name_Content,aITF,j界面文字表_PanelText_C.csv,2170,PanelText,Content,,观看回放,리플레이 보기
+PanelText_UI_Events_Panel_OriHelot_Text_C_Topic_Content,aIKc,j界面文字表_PanelText_C.csv,2216,PanelText,Content,,雪山消融之时·复刻,설산이 녹을 때까지·복각
+PanelText_UI_Events_Panel_WorldBoss_Text_C_Challenge_Content,aIMN,j界面文字表_PanelText_C.csv,2270,PanelText,Content,,辰星安魂曲,별들의 진혼곡
+PanelText_UI_Events_Panel_WorldBoss_Text_C_ProgressTitle_Content,aIMO,j界面文字表_PanelText_C.csv,2271,PanelText,Content,,再战原初进度,원초와의 재전 진행도
+PanelText_UI_Events_WorldBoss_StageGroup_Text_C_Title_Content,aINc,j界面文字表_PanelText_C.csv,2276,PanelText,Content,,辰星安魂曲,별들의 진혼곡
+PanelText_UI_Events_Panel_OriDoll_StageGroup_Text_C_Resonance_Content,aIJv,j界面文字表_PanelText_C.csv,2342,PanelText,Content,,共鸣,공명
+PanelText_UI_Passport_Money_Item_New_Text_C_TempUnlock_Content,aIPV,j界面文字表_PanelText_C.csv,2366,PanelText,Content,,立即获得核心课题限定奖励,핵심 과제의 모든 한정 보상 즉시 획득
+PanelText_UI_Event_Activity_SevenDaySign_Text_Receive_2_Content,bqVP,j界面文字表_PanelText_C.csv,2458,PanelText,Content,,已领取,수령함
+PanelText_UI_Pvp_Popup_Expression_Manage_Text_C_Emoji_Overview_Content,bykM,j界面文字表_PanelText_C.csv,2615,PanelText,Content,,表情故事,모든 감정 표현
+PanelText_UI_Pvp_Popup_Expression_Manage_Text_C_Emoji_Overview_Sel_Content,bykN,j界面文字表_PanelText_C.csv,2616,PanelText,Content,,表情故事,모든 감정 표현
+PanelText_UI_Events_Panel_Doresain_StageGroup_Text_C_Introduction_Content,byks,j界面文字表_PanelText_C.csv,2634,PanelText,Content,,"弦乐已升上中天，第十三道钟声已然奏响。
+今夜，诗人的餐刀将为我们吟诵。
+今夜，母亲的喉管将拥我们入怀。","오케스트라는 이미 하늘 높이 울려 퍼지고, 13번째 종은 이미 울렸다.\n오늘 밤, 시인의 칼이 우리를 위해 시를 새기리라.\n오늘 밤, 어머니의 목소리가 우리를 통째로 품으리라."
+PanelText_UI_Awaker_Item_Potency_Detail_Text_C_WillSolved_Content,bxYY,j界面文字表_PanelText_C.csv,2642,PanelText,Content,,此次解锁,다음 개방
+PanelText_UI_Awaker_Popup_Topped_Tip3_Text_C_WillSolved_Content,bxYZ,j界面文字表_PanelText_C.csv,2643,PanelText,Content,,此次解锁,다음 개방
+PanelText_UI_Dungeous_Panel_Molten_Optimized_Text_C_Extra_Content,byWs,j界面文字表_PanelText_C.csv,2646,PanelText,Content,,额外通关编队,추가 클리어 편성
+PanelText_UI_Chapter_Spur_View_Text_C_Review_Content,bzqe,j界面文字表_PanelText_C.csv,2700,PanelText,Content,,序幕,프롤로그
+PanelText_UI_Community_ThanksLetter_Text_Prefix_Content,bAif,j界面文字表_PanelText_C.csv,2708,PanelText,Content,,"您以敏锐的语感和对游戏的热爱，将生硬的机译文本转化为鲜活的语言。正是这份无私的热忱，让全球守密人都能享受到原汁原味的《忘却前夜》。
+       弥萨格大学衷心感谢以下守密人们作出的卓越贡献：","여러분은 예리한 언어 감각과 게임에 대한 열정을 바탕으로, 딱딱한 기계 번역 문장을 생동감 넘치는 언어로 바꾸어 놓았습니다. 그 헌신적인 열정 덕분에 전 세계의 모든 수호자들이 더 나은 《망각전야(Morimens)》 경험을 즐길 수 있게 되었습니다.
+ 미사그 대학은 다음 수호자분들의 뛰어난 공헌에 진심으로 감사드립니다:"
+PanelText_UI_PVP_Panel_Rotation_Adjust_Text_C_Adjust_Content,bAip,j界面文字表_PanelText_C.csv,2717,PanelText,Content,,点击更改唤醒体站位,클릭하여 각성체 위치 변경
+PanelText_UI_Events_Panel_Summer2_Text_C_Shop_Content,bAAY,j界面文字表_PanelText_C.csv,2727,PanelText,Content,,学生会办公楼,학생회관
+PanelText_UI_Events_Panel_Summer2_Text_C_Record_Content,bAAV,j界面文字表_PanelText_C.csv,2731,PanelText,Content,,再见，永无乡,"안녕, 영원한 고향"
+PanelText_UI_Events_Panel_Summer2_Text_C_Challenge_Content,bAAS,j界面文字表_PanelText_C.csv,2733,PanelText,Content,,日光下新事,햇빛 아래에서의 새로운 일
+PanelText_UI_Events_Panel_Summer2_Text_C_Topic_Content,bAAZ,j界面文字表_PanelText_C.csv,2735,PanelText,Content,,如果一切如常,모든 것이 평소대로였다면
+PanelText_UI_Events_Panel_Summer2_StageGroup_Text_C_Title_Content,bAAQ,j界面文字表_PanelText_C.csv,2736,PanelText,Content,,日光下新事,햇빛 아래에서의 새로운 일
+PanelText_UI_Events_Panel_Summer2_StageGroup_Text_C_Introduction_Content,bAAO,j界面文字表_PanelText_C.csv,2737,PanelText,Content,,"暖和的阳光下，一切都如此温馨幸福。
+你望着像童话书中一样湛蓝的天空，决定亲手撕开画布，从虚假的世界破膛而出。","따스한 햇빛 아래, 모든 것이 너무나 아늑하고 행복하다.\n당신은 동화책에 나올 듯한 파란 하늘을 보며, 캔버스를 찢고 이 거짓된 세계에서 나갈 것을 다짐한다."
+PanelText_UI_Events_Panel_Summer2_StageGroup_Text_C_Progress_Content,bAAP,j界面文字表_PanelText_C.csv,2742,PanelText,Content,,星级进度,성급 진행도
+PanelText_UI_Events_Item_Summer2_Text_C_NormalTip_Content,bAAN,j界面文字表_PanelText_C.csv,2743,PanelText,Content,,普通难度待通关,보통 난이도 클리어 필요
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_FristCreation_Content,bAAI,j界面文字表_PanelText_C.csv,2744,PanelText,Content,,初始造物,초기 유물
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_Title_Content,bAAM,j界面文字表_PanelText_C.csv,2745,PanelText,Content,,剧本迷思,각본의 수수께끼
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_Record_Content,bAAK,j界面文字表_PanelText_C.csv,2746,PanelText,Content,,挑战,도전
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_Leader_Content,bAAJ,j界面文字表_PanelText_C.csv,2747,PanelText,Content,,首领预览,보스 미리보기
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_Awaker_Content,bAAH,j界面文字表_PanelText_C.csv,2748,PanelText,Content,,试用唤醒体,체험 각성체
+PanelText_UI_Event_Panel_ChallengeDifficulty_Text_C_StarTitle_Content,bAAL,j界面文字表_PanelText_C.csv,2749,PanelText,Content,,星级目标,성급 목표
+PanelText_UI_Bag_Panel_AppearancePreview_Text_C_BtnName_Content,bHPG,j界面文字表_PanelText_C.csv,2750,PanelText,Content,,领取,수령
+PanelText_UI_Events_Panel_KathiguRa_StageGroup_Text_C_Introduction_Content,bBvY,j界面文字表_PanelText_C.csv,2771,PanelText,Content,,"她再次屹立于大地之上，烬灭一切的复仇便如约而至。
+\n那是永不停息的追猎，那是爆燃之主的炙火。
+\n她将行过每一个角落，猎杀所有与死神签订契约之徒。
+\n逃吧，逃吧，逃到更深的黑暗中去吧，逃到自以为不会被找到的地方去吧。
+\n尽管这毫无意义，因为祂终将踏过每一个世界。
+\n祂会猎尽所有，直至一切烬灭如灰。","그녀가 다시 대지 위에 서자, 모든 것을 재로 만들어버릴 복수가 약속대로 찾아왔다. 
+ 그것은 멈추지 않는 추격, 폭염의 주인인 살아 있는 불꽃이었다. 그녀는 모든 길을 걸으며, 죽음과 계약한 자들을 사냥할 것이다.
+ 도망쳐라, 도망쳐라, 가장 깊은 어둠 속으로, 자신이 결코 찾아내지 못할 것이라 믿는 곳으로 도망쳐라. 
+ 하지만 소용없다. 그녀는 모든 세계를 짓밟을 것이며, 모든 이를 사냥하여, 결국 모든 것을 재로 만들 때까지 끝없이 추적할 것이다."
+PanelText_UI_Events_Panel_KathiguRa_StageGroup_Text_C_Resonance_Content,bBvZ,j界面文字表_PanelText_C.csv,2772,PanelText,Content,,共鸣,공명
+PanelText_UI_Events_Item_KathiguRa_Text_C_Diagonal_Content,bBvV,j界面文字表_PanelText_C.csv,2773,PanelText,Content,,/,/
+PanelText_UI_Events_Item_KathiguRa_Text_C_Fall_Content,bBvW,j界面文字表_PanelText_C.csv,2774,PanelText,Content,,掉落预览,드롭 미리보기
+PanelText_UI_Events_Item_KathiguRa_Text_C_LockTips_Content,bBvX,j界面文字表_PanelText_C.csv,2775,PanelText,Content,,关卡解锁提示,레벨 해금 안내
+PanelText_UI_Event_Activity_KathiguRa_Text_C_Reward_Content,bBvS,j界面文字表_PanelText_C.csv,2776,PanelText,Content,,获得物资,물자 획득
+PanelText_UI_Event_Activity_KathiguRa_Text_C_Full_Content,bBvQ,j界面文字表_PanelText_C.csv,2777,PanelText,Content,,当前已达存储上限,최대 저장 한도 도달
+PanelText_UI_Event_Activity_KathiguRa_Text_C_Finish_Content,bBvP,j界面文字表_PanelText_C.csv,2778,PanelText,Content,,活动已结束，已停止获取,이벤트가 종료되어 획득 불가
+PanelText_UI_Event_Activity_KathiguRa_Text_C_Max_Content,bBvR,j界面文字表_PanelText_C.csv,2779,PanelText,Content,,Max,Max
+PanelText_UI_Event_Activity_KathiguRa_Text_C_SpeedTitle_Content,bBvT,j界面文字表_PanelText_C.csv,2780,PanelText,Content,,存储速度:,누적 속도:
+PanelText_UI_Event_Activity_KathiguRa_Text_None_Content,bBvU,j界面文字表_PanelText_C.csv,2781,PanelText,Content,,暂无物资,물자 없음
+PanelText_UI_InvitationCode_Item_Player_Text_Name_Content,byng,j界面文字表_PanelText_C.csv,2782,PanelText,Content,,领取,수령
+PanelText_UI_InvitationCode_Popup_PlayerList_Text_C_Title_Content,bynD,j界面文字表_PanelText_C.csv,2783,PanelText,Content,,邀请列表,초대 목록
+PanelText_UI_InvitationCode_Popup_PlayerList_Text_C_OneKey_Content,bynB,j界面文字表_PanelText_C.csv,2784,PanelText,Content,,一键领取,일괄 수령
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Invite_Nor_Content,bynr,j界面文字表_PanelText_C.csv,2785,PanelText,Content,,邀请活动,초대 이벤트
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Invite_High_Content,bynq,j界面文字表_PanelText_C.csv,2786,PanelText,Content,,邀请活动,초대 이벤트
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Binding_Nor_Content,bynj,j界面文字表_PanelText_C.csv,2787,PanelText,Content,,绑定邀请,초대 결속
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Binding_High_Content,byni,j界面文字表_PanelText_C.csv,2788,PanelText,Content,,绑定邀请,초대 결속
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Share_Content,bynv,j界面文字表_PanelText_C.csv,2789,PanelText,Content,,分享,공유
+PanelText_UI_InvitationCode_Popup_Main_Text_C_illustrate_Content,byny,j界面文字表_PanelText_C.csv,2790,PanelText,Content,,活动说明,이벤트 설명
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Desc_Content,bynn,j界面文字表_PanelText_C.csv,2791,PanelText,Content,,复制邀请码，引领无限宇宙中的灵魂共赴融蚀之旅。,"초대 코드를 복사하여, 무한한 우주 속의 영혼들을 융식의 여정으로 안내하세요."
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Condition_Content,bynl,j界面文字表_PanelText_C.csv,2792,PanelText,Content,,被邀的守密人在等级达到5/10/15/20级后，可获得银钥辉光奖励。,"초대된 수호자가 레벨 5/10/15/20에 도달하면, 「은열쇠의 반짝임」을 획득할 수 있습니다."
+PanelText_UI_InvitationCode_Popup_Main_Text_C_MyCode_Content,bynt,j界面文字表_PanelText_C.csv,2793,PanelText,Content,,我的邀请码,내 초대 코드
+PanelText_UI_InvitationCode_Popup_Main_Text_C_InviteCount_Content,bynp,j界面文字表_PanelText_C.csv,2794,PanelText,Content,,已邀请人数,초대한 인원 수
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Copy_Content,bynm,j界面文字表_PanelText_C.csv,2795,PanelText,Content,,复制,복사
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Value_Content,bynx,j界面文字表_PanelText_C.csv,2796,PanelText,Content,,银钥辉光,은열쇠의 반짝임
+PanelText_UI_InvitationCode_Popup_Main_Text_C_BindingTip_Content,bynh,j界面文字表_PanelText_C.csv,2797,PanelText,Content,,绑定引路守密人，在无数银钥闪烁的宇宙中，你并不寂寞。,"안내하는 수호자와 결속하라. 무수한 은열쇠가 반짝이는 우주에서, 너는 외롭지 않다."
+PanelText_UI_InvitationCode_Popup_Main_Text_C_InputTip_Content,byno,j界面文字表_PanelText_C.csv,2798,PanelText,Content,,填写好友专属邀请码，即可立即领取,친구 전용 초대 코드를 입력하여 즉시 수령
+PanelText_UI_InvitationCode_Popup_Main_Text_C_InvitedCount_Content,byns,j界面文字表_PanelText_C.csv,2799,PanelText,Content,,300！,300!
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Tips_Content,bynw,j界面文字表_PanelText_C.csv,2800,PanelText,Content,,输入邀请码,초대 코드 입력
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Paste_Content,bynu,j界面文字表_PanelText_C.csv,2801,PanelText,Content,,粘贴,붙여넣기
+PanelText_UI_InvitationCode_Popup_Main_Text_C_Clean_Content,bynk,j界面文字表_PanelText_C.csv,2802,PanelText,Content,,清除,지우기
+PanelText_UI_InvitationCode_Popup_Main_Text_Title_Content,bynz,j界面文字表_PanelText_C.csv,2803,PanelText,Content,,邀请活动,초대 이벤트
+PanelText_UI_InvitationCode_Popup_PlayerList_Text_C_Title2_Content,bynC,j界面文字表_PanelText_C.csv,2804,PanelText,Content,,去其他地方看看吧,다른 곳을 둘러보세요
+PanelText_UI_InvitationCode_Popup_PlayerList_Text_C_Null_Content,bynA,j界面文字表_PanelText_C.csv,2805,PanelText,Content,,暂无达到Lv.5的受邀守密人,Lv.5에 도달한 수호자가 없습니다
+PanelText_UI_Awaker_Popup_Exchange_Tip_Text_C_Need_Content,bHPx,j界面文字表_PanelText_C.csv,2806,PanelText,Content,,需要,필요
+PanelText_UI_Awaker_Popup_Exchange_Tip_Text_Title_Content,bHPB,j界面文字表_PanelText_C.csv,2807,PanelText,Content,,补全提示,보충 안내
+PanelText_UI_Awaker_Popup_Exchange_Tip_Text_Cancel_Name_Content,bHPy,j界面文字表_PanelText_C.csv,2808,PanelText,Content,,取消,취소
+PanelText_UI_Awaker_Popup_Exchange_Tip_Text_Confirm_Name_Content,bHPz,j界面文字表_PanelText_C.csv,2809,PanelText,Content,,确定,확인
+PanelText_UI_Awaker_Popup_Trinket_Upgrade_Text_C_Exchange_Content,bHPF,j界面文字表_PanelText_C.csv,2810,PanelText,Content,,置换设置,치환 설정
+PanelText_UI_Awaker_Popup_Trinket_Conversion_Text_C_Exchange_Content,bHPE,j界面文字表_PanelText_C.csv,2811,PanelText,Content,,置换设置,치환 설정
+PanelText_UI_Alchemy_Popup_MyTeam_Awaker_List_Optimize_Text_Btn_Save_Content,bHPp,j界面文字表_PanelText_C.csv,2812,PanelText,Content,,保存,저장
+PanelText_UI_Dungeons_Panel_Try_Text_C_Star_Awaker_Content,bHPO,j界面文字表_PanelText_C.csv,2813,PanelText,Content,,星辰篇·限定,성신편·한정
+PanelText_UI_Awaker_Popup_Backtrace_Tip_Text_Time_Content,bCoD,j界面文字表_PanelText_C.csv,2814,PanelText,Content,,去其他地方看看吧,다른 곳을 둘러보세요
+PanelText_UI_Collection_Item_Music_Alone_Text_C_Normal_Content,bCoQ,j界面文字表_PanelText_C.csv,2815,PanelText,Content,,设为背景音乐,배경 음악으로 설정
+PanelText_UI_Collection_Item_Music_Alone_Text_C_High_Content,bCoP,j界面文字表_PanelText_C.csv,2816,PanelText,Content,,当前背景音乐,현재 배경 음악
+PanelText_UI_Awaker_Popup_Exchange_Tip_Text_Tip_Content,bHPA,j界面文字表_PanelText_C.csv,2817,PanelText,Content,,当前所需材料不足，是否消耗以下材料进行补全？,재료가 부족합니다. 다음 재료를 소모하여 보충하시겠습니까?
+PanelText_UI_Recharge_Courtesy_Item_Text_C_DiscountMultipleTitle_Content,bxBc,j界面文字表_PanelText_C.csv,2818,PanelText,Content,,超值,초특가
+PanelText_UI_Recharge_Courtesy_Item_Text_C_Haved_Content,bBXW,j界面文字表_PanelText_C.csv,2819,PanelText,Content,,已拥有,보유 중
+PanelText_UI_Pvp_Panel_Main_1_Text_C_Pvp_Content,bHQx,j界面文字表_PanelText_C.csv,2820,PanelText,Content,,预组模式,사전 편성 모드
+PanelText_UI_Pvp_Panel_Main_1_Text_C_Pvp_Score_Content,bHQy,j界面文字表_PanelText_C.csv,2821,PanelText,Content,,积分,포인트
+PanelText_UI_Pvp_Panel_Main_1_Text_C_RotationMode_Content,bHQA,j界面文字表_PanelText_C.csv,2822,PanelText,Content,,轮选模式,순차 선택 모드
+PanelText_UI_Pvp_Panel_Main_1_Text_C_RotationMode_Score_Content,bHQB,j界面文字表_PanelText_C.csv,2823,PanelText,Content,,积分,포인트
+PanelText_UI_Pvp_Panel_Main_1_Text_C_CardEdit_Content,bHQr,j界面文字表_PanelText_C.csv,2830,PanelText,Content,,预组编队,편성 프리셋
+PanelText_UI_Social_Popup_MatchMode_Text_C_FriendlyMatch_Name_Content,bHRg,j界面文字表_PanelText_C.csv,2835,PanelText,Content,,预组模式,사전 편성 모드
+PanelText_UI_Social_Popup_MatchMode_Text_C_RotationMode_Name_Content,bHRj,j界面文字表_PanelText_C.csv,2838,PanelText,Content,,轮选模式,순차 선택 모드
+PanelText_UI_Pvp_Popup_Tips_Text_C_Rank_Pvp_Content,bHQU,j界面文字表_PanelText_C.csv,2842,PanelText,Content,,预组模式,사전 편성 모드
+PanelText_UI_Pvp_Popup_Tips_Text_C_Rank_RotationMode_Content,bHQV,j界面文字表_PanelText_C.csv,2843,PanelText,Content,,轮选模式,순차 선택 모드
+PanelText_UI_Social_Panel_Main_SubPanel_1_Text_C_Concern_Content,aIZj,j界面文字表_PanelText_C.csv,2846,PanelText,Content,,新增,신규
+PanelText_UI_Pvp_Popup_PasswordMatch_Text_C_Cancel_Content,bHQK,j界面文字表_PanelText_C.csv,2858,PanelText,Content,,取消,취소
+PanelText_UI_Pvp_Popup_PasswordReady_Text_C_Cancel_Content,bHQO,j界面文字表_PanelText_C.csv,2864,PanelText,Content,,取消,취소
+PanelText_UI_Pvp_Popup_PasswordCode_Text_C_Cancel_Content,bHQH,j界面文字表_PanelText_C.csv,2868,PanelText,Content,,取消,취소
+PanelText_UI_Pvp_Popup_PasswordCode_Text_C_Confirm_Content,bHQI,j界面文字表_PanelText_C.csv,2869,PanelText,Content,,确定,확인
+PanelText_UI_Events_Panel_Pickman_StageGroup_Text_C_Resonance_Content,bCfd,j界面文字表_PanelText_C.csv,2893,PanelText,Content,,共鸣,공명
+PanelText_UI_Events_Item_Pickman_Text_C_Diagonal_Content,bCeZ,j界面文字表_PanelText_C.csv,2894,PanelText,Content,,/,/
+PanelText_UI_Events_Item_Pickman_Text_C_Fall_Content,bCfa,j界面文字表_PanelText_C.csv,2895,PanelText,Content,,掉落预览,드롭 미리보기
+PanelText_UI_Events_Item_Pickman_Text_C_LockTips_Content,bCfb,j界面文字表_PanelText_C.csv,2896,PanelText,Content,,关卡解锁提示,레벨 해금 안내
+PanelText_UI_Events_Panel_Pickman_Text_C_Diagonal_Content,bCfh,j界面文字表_PanelText_C.csv,2899,PanelText,Content,,/,/
+PanelText_UI_Main_Popup_ActiveTasks_Text_C_OneKey_Content,bHQe,j界面文字表_PanelText_C.csv,2920,PanelText,Content,,一键领取,일괄 수령
+PanelText_UI_Dungeons_Panel_SurveyData_Text_C_Resonance_Content,bHPN,j界面文字表_PanelText_C.csv,2922,PanelText,Content,,共鸣,공명
+PanelText_UI_Dbgcopy_Popup_ReplaceAwaker_Text_C_Confirm_Content,bHPI,j界面文字表_PanelText_C.csv,2929,PanelText,Content,,确定,확인
+PanelText_UI_Dungeons_RogueStage_View_Text_C_Resonance_Content,bHPW,j界面文字表_PanelText_C.csv,2932,PanelText,Content,,共鸣,공명
+PanelText_UI_Dungeons_RogueStage_View_Text_C_Resonance_2_Content,bHPV,j界面文字表_PanelText_C.csv,2933,PanelText,Content,,共鸣,공명
+PanelText_UI_Dungeons_Panel_Daily_Challenge_Text_C_Record_Content,aIzo,j界面文字表_PanelText_C.csv,2940,PanelText,Content,,本周成绩,이번 주 성적
+PanelText_UI_Event_Activity_Pollux_Text_None_Content,bIjO,j界面文字表_PanelText_C.csv,2946,PanelText,Content,,暂无物资,물자 없음
+PanelText_UI_Events_Item_Pollux_Text_C_Diagonal_Content,bIjP,j界面文字表_PanelText_C.csv,2947,PanelText,Content,,/,/
+PanelText_UI_Events_Item_Pollux_Text_C_Fall_Content,bIjQ,j界面文字表_PanelText_C.csv,2948,PanelText,Content,,掉落预览,드롭 미리보기
+PanelText_UI_Events_Item_Pollux_Text_C_LockTips_Content,bIjR,j界面文字表_PanelText_C.csv,2949,PanelText,Content,,关卡解锁提示,레벨 해금 안내
+PanelText_UI_Events_Panel_Pollux_Text_C_Diagonal_Content,bIjY,j界面文字表_PanelText_C.csv,2953,PanelText,Content,,/,/
+PanelText_UI_Events_Panel_Pollux_Text_C_Max_Content,bIkb,j界面文字表_PanelText_C.csv,2956,PanelText,Content,,Max,Max
+PanelText_UI_Events_Panel_Pollux_StageGroup_Text_C_Resonance_Content,bIjT,j界面文字表_PanelText_C.csv,2968,PanelText,Content,,共鸣,공명
+PanelText_UI_Dungeous_Panel_Difficulty_Optimized_Text_C_Award_Content,bJzL,j界面文字表_PanelText_C.csv,2972,PanelText,Content,,首领预览,보스 미리보기
+PanelText_UI_Dungeous_Panel_Difficulty_Optimized_Text_C_Special_Content,bJzQ,j界面文字表_PanelText_C.csv,2974,PanelText,Content,,初始造物,초기 유물
+PanelText_UI_Pvp_Tip_Comment_Text_C_Copy_Content,bJzR,j界面文字表_PanelText_C.csv,2976,PanelText,Content,,复制,복사
+PanelText_UI_Battle_Tip_Backtrack_Text_C_Cancel_Content,bJzG,j界面文字表_PanelText_C.csv,2978,PanelText,Content,,取消,취소
+PanelText_UI_Battle_Tip_Backtrack_Text_C_Sure_Content,bJzI,j界面文字表_PanelText_C.csv,2979,PanelText,Content,,确定,확인
+PanelText_UI_Pvp_Popup_ImportTeam_Text_C_Cancel_Content,bJKl,j界面文字表_PanelText_C.csv,2991,PanelText,Content,,取消,취소
+PanelText_UI_Pvp_Popup_ImportTeam_Text_C_Confirm_Content,bJKm,j界面文字表_PanelText_C.csv,2992,PanelText,Content,,确定,확인
+PanelText_UI_Recharge_Panel_Main_Text_C_Stamina_Need_Content,bAcm,j界面文字表_PanelText_C.csv,3001,PanelText,Content,,需要,필요
+PanelText_UI_Events_Panel_2ndAnnivWorldBoss_Text_C_Challenge_Content,bKon,j界面文字表_PanelText_C.csv,3004,PanelText,Content,,辰星安魂曲,별들의 진혼곡
+PanelText_UI_Events_2ndAnnivWB_StageGroup_Text_C_Title_Content,bKom,j界面文字表_PanelText_C.csv,3005,PanelText,Content,,辰星安魂曲,별들의 진혼곡
+PanelText_UI_Social_Item_Pvp_Text_C_Search_Content,bCDs,j界面文字表_PanelText_C.csv,3020,PanelText,Content,,观看回放,리플레이 보기
+PanelText_UI_Dungeous_Panel_Realms_New_Text_C_Special_Content,bCDh,j界面文字表_PanelText_C.csv,3025,PanelText,Content,,初始造物,초기 유물
+PanelText_UI_Dungeous_Panel_Realms_New_Text_C_Progressline2_Content,bCDe,j界面文字表_PanelText_C.csv,3033,PanelText,Content,,/,/
+PanelText_UI_Dungeons_Panel_Daily_Challenge_New_Text_C_Record_Content,bKwd,j界面文字表_PanelText_C.csv,3044,PanelText,Content,,本周成绩,이번 주 성적
+PanelText_UI_Events_Panel_OriMurphy_Text_C_Topic_Content,bKzb,j界面文字表_PanelText_C.csv,3051,PanelText,Content,,神诞的祭礼,신의 탄생제
+PanelText_UI_Events_Panel_OriMurphy_Text_C_Challenge_Content,bKyQ,j界面文字表_PanelText_C.csv,3054,PanelText,Content,,创生七日,7일간의 창조
+PanelText_UI_Events_Panel_OriMurphy_Text_C_Max_Content,bKyT,j界面文字表_PanelText_C.csv,3057,PanelText,Content,,Max,Max
+PanelText_UI_Events_Activity_StageGroup_Text_C_Title_Content,bKyK,j界面文字表_PanelText_C.csv,3063,PanelText,Content,,创生七日,7일간의 창조
+PanelText_UI_Events_Item_OriMurphy_Text_C_Diagonal_Content,bKyL,j界面文字表_PanelText_C.csv,3065,PanelText,Content,,/,/
+PanelText_UI_Events_Item_OriMurphy_Text_C_Fall_Content,bKyM,j界面文字表_PanelText_C.csv,3066,PanelText,Content,,掉落预览,드롭 미리보기
+PanelText_UI_Events_Item_OriMurphy_Text_C_LockTips_Content,bKyN,j界面文字表_PanelText_C.csv,3067,PanelText,Content,,关卡解锁提示,레벨 해금 안내
+PanelText_UI_Event_Activity_OriMurphy_Text_C_Reward_Content,bKyG,j界面文字表_PanelText_C.csv,3068,PanelText,Content,,获得物资,물자 획득
+PanelText_UI_Event_Activity_OriMurphy_Text_C_Max_Content,bKyF,j界面文字表_PanelText_C.csv,3069,PanelText,Content,,Max,Max
+PanelText_UI_Event_Activity_OriMurphy_Text_C_Full_Content,bKyE,j界面文字表_PanelText_C.csv,3070,PanelText,Content,,当前已达存储上限,최대 저장 한도 도달
+PanelText_UI_Event_Activity_OriMurphy_Text_C_Finish_Content,bKyD,j界面文字表_PanelText_C.csv,3071,PanelText,Content,,活动已结束，已停止获取,이벤트가 종료되어 획득 불가
+PanelText_UI_Event_Activity_OriMurphy_Text_C_SpeedTitle_Content,bKyH,j界面文字表_PanelText_C.csv,3072,PanelText,Content,,存储速度:,누적 속도:
+PanelText_UI_Event_Activity_OriMurphy_Text_None_Content,bKyI,j界面文字表_PanelText_C.csv,3073,PanelText,Content,,暂无物资,물자 없음
+PanelText_UI_Social_Popup_CommonlyAssist_Text_Time_Content,bKEv,j界面文字表_PanelText_C.csv,3080,PanelText,Content,,去其他地方看看吧,다른 곳을 둘러보세요
+PanelText_UI_Events_Panel_OriMurphy_StageGroup_Text_C_Title_Content,bKHt,j界面文字表_PanelText_C.csv,3083,PanelText,Content,,创生七日,7일간의 창조
+PanelText_UI_Main_Item_ActiveTasks_Text_C_Receive_Content,bKSt,j界面文字表_PanelText_C.csv,3091,PanelText,Content,,领取,수령
+PanelText_UI_Keeper_Skill_Panel_Text_Time_Content,bLju,j界面文字表_PanelText_C.csv,3116,PanelText,Content,,去其他地方看看吧,다른 곳을 둘러보세요
+Skill_19322_Name,aKXz,jPVP技能表_Skill_A.csv,9,Skill,Name,拉蒙娜,打击,타격
+Skill_19449_Name,aLcT,jPVP技能表_Skill_A.csv,15,Skill,Name,环行·拉蒙娜,打击,타격
+Skill_19331_Name,aKXX,jPVP技能表_Skill_A.csv,21,Skill,Name,奥吉尔,打击,타격
+Skill_19463_Name,aLdD,jPVP技能表_Skill_A.csv,27,Skill,Name,萝坦,打击,타격
+Skill_19452_Name,aLdb,jPVP技能表_Skill_A.csv,33,Skill,Name,朵尔,打击,타격
+Skill_45498_Name,aNIr,jPVP技能表_Skill_A.csv,39,Skill,Name,雷娅,打击,타격
+Skill_45478_Name,aNGB,jPVP技能表_Skill_A.csv,45,Skill,Name,尤乌哈希,打击,타격
+Skill_45600_Name,aNRJ,jPVP技能表_Skill_A.csv,52,Skill,Name,希洛,打击,타격
+Skill_45553_Name,aNNt,jPVP技能表_Skill_A.csv,58,Skill,Name,血链·希洛,打击,타격
+Skill_45571_Name,aNPb,jPVP技能表_Skill_A.csv,64,Skill,Name,泰旖丝,打击,타격
+Skill_45532_Name,aNLz,jPVP技能表_Skill_A.csv,70,Skill,Name,萨尔瓦多,打击,타격
+Skill_45634_Name,aNUK,jPVP技能表_Skill_A.csv,76,Skill,Name,索蕾尔,打击,타격
+Skill_45598_Name,aNRu,jPVP技能表_Skill_A.csv,82,Skill,Name,阿格里帕,打击,타격
+Skill_45497_Name,aNIn,jPVP技能表_Skill_A.csv,88,Skill,Name,艾继丝,打击,타격
+Skill_45570_Name,aNOX,jPVP技能表_Skill_A.csv,94,Skill,Name,菲茵特,打击,타격
+Skill_19432_Name,aLcn,jPVP技能表_Skill_A.csv,100,Skill,Name,希莱斯特,打击,타격
+Skill_45564_Desc,aNOr,jPVP技能表_Skill_A.csv,102,Skill,Desc,希莱斯特,<ReinforceKeywords:加固>一名友方，并回复其 <Heal:[Heal:Arg1]> 生命。,"아군 한 명에게 <ReinforceKeywords:견고> 상태를 부여하고, 해당 아군의 HP를 <Heal:[Heal:Arg1]> 회복합니다."
+Skill_19337_Name,aKYf,jPVP技能表_Skill_A.csv,106,Skill,Name,凯刻斯,打击,타격
+Skill_19391_Name,aLav,jPVP技能表_Skill_A.csv,112,Skill,Name,奥瑞塔,打击,타격
+Skill_19346_Name,aKYD,jPVP技能表_Skill_A.csv,118,Skill,Name,法洛思,打击,타격
+Skill_19424_Name,aLbT,jPVP技能表_Skill_A.csv,124,Skill,Name,珊,打击,타격
+Skill_19425_Name,aLbX,jPVP技能表_Skill_A.csv,130,Skill,Name,弥利亚姆,打击,타격
+Skill_19378_Name,aKZL,jPVP技能表_Skill_A.csv,136,Skill,Name,墨菲,打击,타격
+Skill_45475_Name,aNGp,jPVP技能表_Skill_A.csv,141,Skill,Name,诞妄·墨菲,虚妄王女,허망의 왕녀
+Skill_45459_Name,aNEK,jPVP技能表_Skill_A.csv,142,Skill,Name,诞妄·墨菲,打击,타격
+Skill_19328_Name,aKXP,jPVP技能表_Skill_A.csv,148,Skill,Name,戈利亚,打击,타격
+Skill_19380_Name,aKZT,jPVP技能表_Skill_A.csv,154,Skill,Name,图鲁,打击,타격
+Skill_19439_Name,aLcD,jPVP技能表_Skill_A.csv,160,Skill,Name,宁菲亚,打击,타격
+Skill_19358_Name,aKZf,jPVP技能表_Skill_A.csv,166,Skill,Name,诺缔拉,打击,타격
+Skill_19314_Name,aKXf,jPVP技能表_Skill_A.csv,172,Skill,Name,「24」,打击,타격
+Skill_19465_Name,aLdH,jPVP技能表_Skill_A.csv,178,Skill,Name,潘狄娅,打击,타격
+Skill_19360_Name,aKZj,jPVP技能表_Skill_A.csv,184,Skill,Name,艾尔瓦,打击,타격
+Skill_19422_Name,aLbP,jPVP技能表_Skill_A.csv,191,Skill,Name,珈伦,打击,타격
+Skill_19413_Name,aLbn,jPVP技能表_Skill_A.csv,197,Skill,Name,莉莉,打击,타격
+Skill_19339_Name,aKYj,jPVP技能表_Skill_A.csv,203,Skill,Name,莱克,打击,타격
+Skill_45530_Name,aNLr,jPVP技能表_Skill_A.csv,209,Skill,Name,莉兹,打击,타격
+Skill_45519_Name,aNKl,jPVP技能表_Skill_A.csv,215,Skill,Name,旺达,打击,타격
+Skill_45603_Name,aNRV,jPVP技能表_Skill_A.csv,221,Skill,Name,达芙黛尔,打击,타격
+Skill_45561_Name,aNOg,jPVP技能表_Skill_A.csv,227,Skill,Name,汀克特,打击,타격
+Skill_45628_Name,aNUf,jPVP技能表_Skill_A.csv,233,Skill,Name,本源汀克特,打击,타격
+Skill_45484_Name,aNHg,jPVP技能表_Skill_A.csv,239,Skill,Name,温柯尔,打击,타격
+Skill_45483_Name,aNHc,jPVP技能表_Skill_A.csv,245,Skill,Name,奥尔拉,打击,타격
+Skill_45573_Name,aNPj,jPVP技能表_Skill_A.csv,251,Skill,Name,詹金,打击,타격
+Skill_45511_Name,aNJF,jPVP技能表_Skill_A.csv,260,Skill,Name,艾瑞卡,打击,타격
+Skill_45644_Desc,aNVE,jPVP技能表_Skill_A.csv,262,Skill,Desc,艾瑞卡,<TauntKeywords:嘲讽>，<ReinforceKeywords:加固>。,"<TauntKeywords:도발>, <ReinforceKeywords:견고>."
+Skill_45471_Name,aNFZ,jPVP技能表_Skill_A.csv,266,Skill,Name,卡茜亚,打击,타격
+Skill_45632_Desc,aNUB,jPVP技能表_Skill_A.csv,269,Skill,Desc,卡茜亚,<StrengthenKeywords:强化>并<ReinforceKeywords:加固>一名友方。,한 명의 아군에게 <StrengthenKeywords:강화>와 <ReinforceKeywords:견고>를 부여합니다.
+Skill_60884_Name,aPQE,jPVP技能表_Skill_A.csv,277,Skill,Name,哈姆林,打击,타격
+Skill_66445_Name,aQcP,jPVP技能表_Skill_A.csv,283,Skill,Name,塔薇,打击,타격
+Skill_45633_Name,aNUG,jPVP技能表_Skill_A.csv,289,Skill,Name,熔毁·朵尔,打击,타격
+Skill_71904_Name,aQHo,jPVP技能表_Skill_A.csv,308,Skill,Name,克莱门汀,打击,타격
+Skill_84231_Name,btSH,jPVP技能表_Skill_A.csv,315,Skill,Name,克珀珊特,打击,타격
+Skill_89427_Name,bxpn,jPVP技能表_Skill_A.csv,322,Skill,Name,卡斯托尔,打击,타격
+Skill_91220_Name,bynZ,jPVP技能表_Skill_A.csv,330,Skill,Name,杜勒赛因,打击,타격
+Skill_96737_Name,bABE,jPVP技能表_Skill_A.csv,337,Skill,Name,凯蒂古拉,打击,타격
+Skill_99042_Name,bCmS,jPVP技能表_Skill_A.csv,344,Skill,Name,皮克曼,打击,타격
+Skill_117172_Name,bIkN,jPVP技能表_Skill_A.csv,350,Skill,Name,波吕克斯,无罪的圣裁,무죄의 성재
+Skill_117176_Name,bIkV,jPVP技能表_Skill_A.csv,351,Skill,Name,波吕克斯,打击,타격
+Skill_119116_Name,bKaA,jPVP技能表_Skill_A.csv,364,Skill,Name,茉夏,打击,타격
+Skill_121784_Name,bKTg,jPVP技能表_Skill_A.csv,374,Skill,Name,茉夏,打击,타격
+Skill_19393_Desc,aLay,jPVP技能表_Skill_A.csv,397,Skill,Desc,,<PVPWeaponKeywords:命轮>：「打击」伤害提高 [Arg1]% ，并使自身获得<ReinforceKeywords:加固>。,"<PVPWeaponKeywords:명륜>: 「타격」 피해량 [Arg1]% 증가, 자신에게 <ReinforceKeywords:견고>를 부여합니다."
+Skill_19412_Desc,aLbi,jPVP技能表_Skill_A.csv,398,Skill,Desc,,<PVPWeaponKeywords:命轮>：「技能」使自身获得<ReinforceKeywords:加固>。,<PVPWeaponKeywords:명륜>: 「스킬」을 사용할 때 자신에게 <ReinforceKeywords:견고>를 부여합니다.
+Skill_19421_Desc,aLbK,jPVP技能表_Skill_A.csv,421,Skill,Desc,,<PVPWeaponKeywords:命轮>：「狂气爆发」前使自身获得<StrengthenKeywords:强化>和<ReinforceKeywords:加固>。,"<PVPWeaponKeywords:명륜>: 광기 폭발 사용 전, 자신에게 <StrengthenKeywords:강화>와 <ReinforceKeywords:견고>를 부여합니다."
+Skill_19350_Desc,aKYK,jPVP技能表_Skill_A.csv,435,Skill,Desc,,<PVPWeaponKeywords:命轮>：回合开始时，<PVPSeriousInjuryKeywords:重创>自身并减少 <Heal:[Heal:Arg1]> <MaxHPKeywords:最大生命>，回合结束时，<ReinforceKeywords:加固>自身。,"<PVPWeaponKeywords:명륜>: 턴 시작 시, 자신에게 <PVPSeriousInjuryKeywords:중상>을 부여하고, <MaxHPKeywords:최대 HP>가 <Heal:[Heal:Arg1]> 감소합니다. 턴 종료 시, 자신에게 <ReinforceKeywords:견고>를 부여합니다."
+Skill_45257_Desc,aNzP,jPVP技能表_Skill_A.csv,532,Skill,Desc,,<ReinforceKeywords:加固>一名友方，抽 [Arg1] 张牌。,"아군 한 명에게 <ReinforceKeywords:견고> 상태를 부여하고, 카드를 [Arg1]장 뽑습니다."
+Skill_21316_Name,aLgC,jPVP技能表_Skill_A.csv,592,Skill,Name,,加固,견고
+Skill_21316_Desc,aLgB,jPVP技能表_Skill_A.csv,592,Skill,Desc,,使一名目标获得 <ReinforceKeywords:加固>。,목표에게 <ReinforceKeywords:견고>를 부여합니다.
+Skill_4337_Name,aMTV,j技能表_Skill_A.csv,1040,Skill,Name,拉蒙娜,打击,타격
+Skill_4587_Name,aOaL,j技能表_Skill_A.csv,1047,Skill,Name,环行·拉蒙娜,打击,타격
+Skill_4323_Name,aMSj,j技能表_Skill_A.csv,1058,Skill,Name,奥吉尔,打击,타격
+Skill_4646_Name,aOjq,j技能表_Skill_A.csv,1065,Skill,Name,萝坦,打击,타격
+Skill_4036_Name,aMfu,j技能表_Skill_A.csv,1072,Skill,Name,朵尔,打击,타격
+Skill_70301_Name,aQAr,j技能表_Skill_A.csv,1079,Skill,Name,熔毁·朵尔,打击,타격
+Skill_4297_Name,aMOX,j技能表_Skill_A.csv,1091,Skill,Name,雷娅,打击,타격
+Skill_4678_Name,aOnI,j技能表_Skill_A.csv,1098,Skill,Name,尤乌哈希,打击,타격
+Skill_4163_Name,aMxd,j技能表_Skill_A.csv,1105,Skill,Name,希洛,打击,타격
+Skill_4429_Name,aNgP,j技能表_Skill_A.csv,1113,Skill,Name,泰旖丝,打击,타격
+Skill_4686_Name,aOoA,j技能表_Skill_A.csv,1123,Skill,Name,萨尔瓦多,打击,타격
+Skill_4178_Name,aMzm,j技能表_Skill_A.csv,1134,Skill,Name,索蕾尔,打击,타격
+Skill_4061_Name,aMiE,j技能表_Skill_A.csv,1141,Skill,Name,阿格里帕,打击,타격
+Skill_4376_Name,aMZf,j技能表_Skill_A.csv,1148,Skill,Name,艾继丝,打击,타격
+Skill_4778_Name,aOBo,j技能表_Skill_A.csv,1155,Skill,Name,菲茵特,打击,타격
+Skill_4197_Name,aMBL,j技能表_Skill_A.csv,1162,Skill,Name,希莱斯特,打击,타격
+Skill_4753_Name,aOxR,j技能表_Skill_A.csv,1170,Skill,Name,凯刻斯,打击,타격
+Skill_4203_Name,aMCB,j技能表_Skill_A.csv,1177,Skill,Name,奥瑞塔,打击,타격
+Skill_4377_Name,aMZo,j技能表_Skill_A.csv,1184,Skill,Name,法洛思,打击,타격
+Skill_4121_Name,aMqN,j技能表_Skill_A.csv,1191,Skill,Name,珊,打击,타격
+Skill_4400_BattleDesc,aNcu,j技能表_Skill_A.csv,1192,Skill,BattleDesc,珊,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
+Skill_4721_Name,aOtm,j技能表_Skill_A.csv,1198,Skill,Name,弥利亚姆,打击,타격
+Skill_4666_Name,aOmi,j技能表_Skill_A.csv,1211,Skill,Name,墨菲,打击,타격
+Skill_4325_Name,aMSx,j技能表_Skill_A.csv,1218,Skill,Name,戈利亚,打击,타격
+Skill_4714_Name,aOsl,j技能表_Skill_A.csv,1231,Skill,Name,图鲁,打击,타격
+Skill_4541_Name,aNDM,j技能表_Skill_A.csv,1238,Skill,Name,宁菲亚,打击,타격
+Skill_4233_EffectNameList,bIFp,j技能表_Skill_A.csv,1242,Skill,EffectNameList,宁菲亚,伤害,피해
+Skill_4233_PropertyNameList,bIFq,j技能表_Skill_A.csv,1242,Skill,PropertyNameList,宁菲亚,攻击力*GrowValue1,공격력*GrowValue1
+Skill_4234_Name,aMGL,j技能表_Skill_A.csv,1245,Skill,Name,诺缔拉,打击,타격
+Skill_4172_Name,aMys,j技能表_Skill_A.csv,1252,Skill,Name,「24」,打击,타격
+Skill_4525_Name,aNAg,j技能表_Skill_A.csv,1259,Skill,Name,潘狄娅,打击,타격
+Skill_3971_Name,aLWT,j技能表_Skill_A.csv,1266,Skill,Name,艾尔瓦,打击,타격
+Skill_4427_Name,aNgd,j技能表_Skill_A.csv,1273,Skill,Name,珈伦,打击,타격
+Skill_4046_Name,aMgy,j技能表_Skill_A.csv,1282,Skill,Name,莉莉,打击,타격
+Skill_3961_Name,aLVB,j技能表_Skill_A.csv,1289,Skill,Name,莱克,打击,타격
+Skill_4603_Name,aOcA,j技能表_Skill_A.csv,1300,Skill,Name,莉兹,打击,타격
+Skill_4291_Name,aMOh,j技能表_Skill_A.csv,1314,Skill,Name,旺达,打击,타격
+Skill_4111_Name,aMps,j技能表_Skill_A.csv,1321,Skill,Name,达芙黛尔,打击,타격
+Skill_4366_Name,aMXS,j技能表_Skill_A.csv,1360,Skill,Name,汀克特,打击,타격
+Skill_4777_Name,aOBf,j技能表_Skill_A.csv,1367,Skill,Name,温柯尔,打击,타격
+Skill_4275_Name,aMMc,j技能表_Skill_A.csv,1381,Skill,Name,詹金,打击,타격
+Skill_3997_Name,aMak,j技能表_Skill_A.csv,1390,Skill,Name,詹金,打击,타격
+Skill_4422_Name,aNfu,j技能表_Skill_A.csv,1392,Skill,Name,詹金,打击,타격
+Skill_4165_Name,aMxr,j技能表_Skill_A.csv,1400,Skill,Name,艾瑞卡,打击,타격
+Skill_4130_Name,aMrY,j技能表_Skill_A.csv,1408,Skill,Name,卡茜亚,打击,타격
+Skill_78783_Name,aQUE,j技能表_Skill_A.csv,1415,Skill,Name,克莱门汀,打击,타격
+Skill_58939_Name,aPAD,j技能表_Skill_A.csv,1424,Skill,Name,哈姆林,打击,타격
+Skill_119762_Name,bKcV,j技能表_Skill_A.csv,1434,Skill,Name,诞妄·墨菲,打击,타격
+Skill_119762_Desc_0,bKcS,j技能表_Skill_A.csv,1434,Skill,Desc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_119762_Desc_3,bKLG,j技能表_Skill_A.csv,1434,Skill,Desc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다."
+Skill_119762_BattleDesc_0,bKcQ,j技能表_Skill_A.csv,1434,Skill,BattleDesc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_119762_BattleDesc_3,bKLF,j技能表_Skill_A.csv,1434,Skill,BattleDesc,诞妄·墨菲,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次( [Arg3]/1 )。," <Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다. ([Arg3]/1)"
+Skill_119762_EffectNameList,bKcU,j技能表_Skill_A.csv,1434,Skill,EffectNameList,诞妄·墨菲,"伤害,狂气","피해,광기"
+Skill_119762_PropertyNameList,bKcW,j技能表_Skill_A.csv,1434,Skill,PropertyNameList,诞妄·墨菲,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
+Skill_119767_Name,bKdu,j技能表_Skill_A.csv,1435,Skill,Name,诞妄·墨菲,防御,방어
+Skill_119767_Desc_0,bKdr,j技能表_Skill_A.csv,1435,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_119767_Desc_3,bKLI,j技能表_Skill_A.csv,1435,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。诞妄·墨菲获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다."
+Skill_119767_BattleDesc_0,bKdp,j技能表_Skill_A.csv,1435,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_119767_BattleDesc_3,bKLH,j技能表_Skill_A.csv,1435,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。抽 1 张「深海圣咏」，每回合最多生效 1 次( [Arg3]/1 )。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다. 「심해의 성가」 1장을 뽑습니다. 턴마다 1번만 발동합니다. ([Arg3]/1)"
+Skill_119767_EffectNameList,bKdt,j技能表_Skill_A.csv,1435,Skill,EffectNameList,诞妄·墨菲,"护盾,狂气","방어막,광기"
+Skill_119767_PropertyNameList_0,bKdv,j技能表_Skill_A.csv,1435,Skill,PropertyNameList,诞妄·墨菲,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
+Skill_119764_Name,bKde,j技能表_Skill_A.csv,1436,Skill,Name,诞妄·墨菲,虚妄王女,허망의 왕녀
+Skill_119764_Desc,bKHO,j技能表_Skill_A.csv,1436,Skill,Desc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到最大生命 [Arg2]% 的<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg3] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 최대 HP [Arg2]%의 <SacrificeKeyWord:희생>을 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg3]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다."
+Skill_119764_BattleDesc,bKHN,j技能表_Skill_A.csv,1436,Skill,BattleDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到 [Arg7] 点<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg3] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg7] 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg3]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다."
+Skill_119764_OverLimitUtlSkillDesc,bKdf,j技能表_Skill_A.csv,1436,Skill,OverLimitUtlSkillDesc,诞妄·墨菲,获得 <Block:[Block:Arg1]> 点护盾，下回合开始时受到 [Arg7] 点<SacrificeKeyWord:献祭>。对所有敌人施加 [Arg8] 层<DwmofeiKeywords:降生仪式>，对生命最高敌方造成 [Arg4] 次 <Damage:[Damage:Arg5]> 点伤害，享受 [Arg6]％ <TentacleInjurieIconKeywords:触腕伤害>加成。将 3 张算力消耗为 2 的「螺湮圆舞」置入手中并使其获得<DepleteIconKeywords:消耗>和<PrepareKeypvewords1:预备1>。,"<Block:[Block:Arg1]>의 방어막을 획득하고, 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg7] 획득합니다. 모든 적에게 <DwmofeiKeywords:강생 의식>을 [Arg8]스택 부여하고, HP가 가장 높은 적에게 [Arg4]회 <Damage:[Damage:Arg5]>의 피해를 입힙니다. 추가로 [Arg6]%의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 적용됩니다. 산출력 소비가 2인 「나선원무」 3장을 손패에 추가하고, <DepleteIconKeywords:소모>와 <PrepareKeypvewords1:준비 1>을 부여합니다."
+Skill_119764_EffectNameList,bKdd,j技能表_Skill_A.csv,1436,Skill,EffectNameList,诞妄·墨菲,"护盾,降生仪式层数,伤害,触腕伤害加成","방어막,강생 의식 부여량,촉수 피해 계수"
+Skill_119764_PropertyNameList,bKdg,j技能表_Skill_A.csv,1436,Skill,PropertyNameList,诞妄·墨菲,"防御力*GrowValue1,$GrowValue2,攻击力*GrowValue3,$GrowValue4％","방어력*GrowValue1,$GrowValue2,공격력*GrowValue3,$GrowValue4%"
+Skill_119766_Name,bKdn,j技能表_Skill_A.csv,1437,Skill,Name,诞妄·墨菲,海祭典仪,바다의 성례
+Skill_119766_Desc,bKdl,j技能表_Skill_A.csv,1437,Skill,Desc,诞妄·墨菲,诞妄·墨菲获得 <Energy:[Energy:Arg1]> 点狂气。<ExaltIconKeywords:灵知觉醒>：诞妄·墨菲造成的伤害附加 [Arg2]％ <SacrificeKeyWord:献祭>。回合开始时，获得 1 层<MingqiKeywords:命契>。,"<Energy:[Energy:Arg1]> 광기를 획득합니다. \n<ExaltIconKeywords:영지 각성>: 탄망·머피가 입히는 피해의 [Arg2]%만큼 대상에게 <SacrificeKeyWord:희생>을 부여합니다. 턴 시작 시, <MingqiKeywords:운명의 계약> 1스택을 획득합니다."
+Skill_119766_EffectNameList,bKdm,j技能表_Skill_A.csv,1437,Skill,EffectNameList,诞妄·墨菲,"狂气,献祭比例","광기,희생 비율"
+Skill_119766_PropertyNameList,bKdo,j技能表_Skill_A.csv,1437,Skill,PropertyNameList,诞妄·墨菲,"$GrowValue1,$GrowValue2%","$GrowValue1,$GrowValue2%"
+Skill_119765_Name,bKdj,j技能表_Skill_A.csv,1438,Skill,Name,诞妄·墨菲,螺湮圆舞,나선원무
+Skill_119765_Desc,bKdh,j技能表_Skill_A.csv,1438,Skill,Desc,诞妄·墨菲,获得 [Arg6]％ 银钥充能的银钥能量。根据触腕姿态获得不同效果：「潮涌」：<TentacleInjurieIconKeywords:触腕伤害> +[TentaclePower:Arg8]，生成 1 条触腕。「静海」：获得 <Block:[Block:Arg9]> 点护盾，护盾保留 50％ 到下回合。「怒涛」：对生命最高敌方造成 [Arg3] 次 <Damage:[Damage:Arg4]> 点伤害，享受 [Arg5]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"은열쇠 충전 속성 [Arg6]％만큼의 은열쇠 에너지를 획득합니다. 촉수 태세에 따라 다른 효과를 얻습니다. \n「밀려드는 물결」: <TentacleInjurieIconKeywords:촉수 피해> [TentaclePower:Arg8] 증가, 촉수 1개 생성. \n「고요한 바다」: <Block:[Block:Arg9]>의 방어막 획득, 다음 턴 남은 방어막의 50% 보존. \n「몰아치는 파도」: HP가 가장 높은 적에게 [Arg3]회 <Damage:[Damage:Arg4]>의 피해, [Arg5]％의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 추가로 적용."
+Skill_119765_BattleDesc,bKHP,j技能表_Skill_A.csv,1438,Skill,BattleDesc,诞妄·墨菲,获得 <Posse:[Arg7]> 点银钥能量。根据触腕姿态获得不同效果：「潮涌」：<TentacleInjurieIconKeywords:触腕伤害> +[TentaclePower:Arg1]，生成 1 条触腕。「静海」：获得 <Block:[Block:Arg2]> 点护盾，护盾保留 50％ 到下回合。「怒涛」：对生命最高敌方造成 [Arg3] 次 <Damage:[Damage:Arg4]> 点伤害，享受 [Arg5]％ <TentacleInjurieIconKeywords:触腕伤害>加成。,"은열쇠 에너지 [Arg7] 획득. 촉수 태세에 따라 추가 효과. \n「밀려드는 물결」: <TentacleInjurieIconKeywords:촉수 피해> [TentaclePower:Arg1] 증가, 촉수 1개 생성. \n「고요한 바다」: <Block:[Block:Arg2]>의 방어막 획득, 다음 턴 남은 방어막의 50% 보존. \n「몰아치는 파도」: HP가 가장 높은 적에게 [Arg3]회 <Damage:[Damage:Arg4]>의 피해, [Arg5]％의 <TentacleInjurieIconKeywords:촉수 피해> 계수가 추가로 적용."
+Skill_119765_EffectNameList,bKdi,j技能表_Skill_A.csv,1438,Skill,EffectNameList,诞妄·墨菲,"触腕伤害,护盾,伤害,触腕伤害加成,银钥充能效率","촉수 피해,방어막,피해,촉수 피해 계수,은열쇠 충전량"
+Skill_119765_PropertyNameList,bKdk,j技能表_Skill_A.csv,1438,Skill,PropertyNameList,诞妄·墨菲,"攻击力*GrowValue1,防御力*GrowValue2,攻击力*GrowValue3,$GrowValue4％,$GrowValue5％","공격력*GrowValue1,방어력*GrowValue2,공격력*GrowValue3,$GrowValue4%,$GrowValue5%"
+Skill_119763_Name,bKda,j技能表_Skill_A.csv,1439,Skill,Name,诞妄·墨菲,深海圣咏,심해의 성가
+Skill_119763_Desc,bKcY,j技能表_Skill_A.csv,1439,Skill,Desc,诞妄·墨菲,获得 2 点算力，抽 2 张牌。下回合开始时受到最大生命 [Arg1]% 的<SacrificeKeyWord:献祭>。<RippleKeywords:余波>：移除最大生命 [Arg2]％ 的<SacrificeKeyWord:献祭>。,산출력을 2 획득하고 카드를 2장 뽑습니다. 다음 턴 시작 시 최대 HP [Arg1]%의 <SacrificeKeyWord:희생>을 획득합니다. <RippleKeywords:여파>: 최대 HP [Arg2]%의 <SacrificeKeyWord:희생>을 제거합니다.
+Skill_119763_BattleDesc,bKcX,j技能表_Skill_A.csv,1439,Skill,BattleDesc,诞妄·墨菲,获得 2 点算力，抽 2 张牌。下回合开始时受到 [Arg3] 点<SacrificeKeyWord:献祭>。<RippleKeywords:余波>：移除 [Arg4] 点<SacrificeKeyWord:献祭>。,산출력을 2 획득하고 카드를 2장 뽑습니다. 다음 턴 시작 시 <SacrificeKeyWord:희생>을 [Arg3] 획득합니다. <RippleKeywords:여파>: <SacrificeKeyWord:희생>을 [Arg4] 제거합니다.
+Skill_119763_EffectNameList,bKcZ,j技能表_Skill_A.csv,1439,Skill,EffectNameList,诞妄·墨菲,移除献祭比例,헌신 제거 비율
+Skill_119763_PropertyNameList,bKdb,j技能表_Skill_A.csv,1439,Skill,PropertyNameList,诞妄·墨菲,$GrowValue1％,$GrowValue1％
+Skill_61120_Name,aPSx,j技能表_Skill_A.csv,1441,Skill,Name,血链·希洛,打击,타격
+Skill_66354_Name,aQbt,j技能表_Skill_A.csv,1450,Skill,Name,塔薇,打击,타격
+Skill_4327_EffectNameList,aMSK,j技能表_Skill_A.csv,1461,Skill,EffectNameList,本源汀克特,"伤害,狂气","피해,광기"
+Skill_4327_PropertyNameList,aMSN,j技能表_Skill_A.csv,1461,Skill,PropertyNameList,本源汀克特,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
+Skill_4370_EffectNameList,aMYm,j技能表_Skill_A.csv,1462,Skill,EffectNameList,本源汀克特,"护盾,狂气","방어막,광기"
+Skill_4370_PropertyNameList,aMYp,j技能表_Skill_A.csv,1462,Skill,PropertyNameList,本源汀克特,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
+Skill_4623_EffectNameList,aOfW,j技能表_Skill_A.csv,1464,Skill,EffectNameList,本源汀克特,狂气,광기
+Skill_4623_PropertyNameList,aOfZ,j技能表_Skill_A.csv,1464,Skill,PropertyNameList,本源汀克特,$GrowValue1,$GrowValue1
+Skill_4446_EffectNameList_0,aNkb,j技能表_Skill_A.csv,1466,Skill,EffectNameList,本源汀克特,伤害,피해
+Skill_83782_Name,bsIt,j技能表_Skill_A.csv,1468,Skill,Name,克珀珊特,打击,타격
+Skill_89777_Name,bxzJ,j技能表_Skill_A.csv,1476,Skill,Name,卡斯托尔,打击,타격
+Skill_95813_Name,bzWE,j技能表_Skill_A.csv,1484,Skill,Name,杜勒赛因,打击,타격
+Skill_97911_Name,bBdV,j技能表_Skill_A.csv,1494,Skill,Name,凯蒂古拉,打击,타격
+Skill_98988_Name,bCnx,j技能表_Skill_A.csv,1502,Skill,Name,皮克曼,打击,타격
+Skill_98986_AwakerSkillBackgroundStory,bCnl,j技能表_Skill_A.csv,1503,Skill,AwakerSkillBackgroundStory,皮克曼,这是对艺术的亵渎！休想以狭隘的偏见玷污我的艺术。,이건 예술에 대한 모독이야! 그런 편협한 편견으로 내 예술을 더럽힐 생각 마.
+Skill_117313_Name,bIlH,j技能表_Skill_A.csv,1527,Skill,Name,波吕克斯,打击,타격
+Skill_117313_Desc_0,bIlF,j技能表_Skill_A.csv,1527,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害。波吕克斯获得 <Energy:[Energy:Arg2]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_117313_BattleDesc_0,bIlE,j技能表_Skill_A.csv,1527,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
+Skill_117313_EffectNameList,bIlG,j技能表_Skill_A.csv,1527,Skill,EffectNameList,波吕克斯,"伤害,狂气","피해,광기"
+Skill_117313_PropertyNameList,bIlI,j技能表_Skill_A.csv,1527,Skill,PropertyNameList,波吕克斯,"攻击力*GrowValue1,$GrowValue2","공격력*GrowValue1,$GrowValue2"
+Skill_117316_Name,bIlY,j技能表_Skill_A.csv,1528,Skill,Name,波吕克斯,防御,방어
+Skill_117316_Desc_0,bIlW,j技能表_Skill_A.csv,1528,Skill,Desc,波吕克斯,获得 <Block:[Block:Arg1]> 点护盾。波吕克斯获得 <Energy:[Energy:Arg2]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg2]> 광기를 획득합니다."
+Skill_117316_BattleDesc_0,bIlV,j技能表_Skill_A.csv,1528,Skill,BattleDesc,波吕克斯,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg3]> 点狂气。,"<Block:[Block:Arg1]>의 방어막을 획득하고, <Energy:[Energy:Arg3]> 광기를 획득합니다."
+Skill_117316_EffectNameList,bIlX,j技能表_Skill_A.csv,1528,Skill,EffectNameList,波吕克斯,"护盾,狂气","방어막,광기"
+Skill_117316_PropertyNameList,bIlZ,j技能表_Skill_A.csv,1528,Skill,PropertyNameList,波吕克斯,"防御力*GrowValue1,$GrowValue2","방어력*GrowValue1,$GrowValue2"
+Skill_117317_Name,bImd,j技能表_Skill_A.csv,1529,Skill,Name,波吕克斯,无罪的圣裁,무죄의 성재
+Skill_117317_Desc,bImb,j技能表_Skill_A.csv,1529,Skill,Desc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，使自身本回合下张指令卡享受「苦痛救赎」效果。将 1 张<DerivativeCardKeywords_118:「圣心」>置入手中。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 이번 턴 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다. <DerivativeCardKeywords_118:「성심」> 1장을 손패에 추가합니다."
+Skill_117317_OverLimitUtlSkillDesc,bIme,j技能表_Skill_A.csv,1529,Skill,OverLimitUtlSkillDesc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，使自身本回合下张指令卡享受「苦痛救赎」效果。将 2 张<DerivativeCardKeywords_118:「圣心」>置入手中。本回合内波吕克斯每张指令卡额外享受 50% 「苦痛救赎」效果，自身下一张指令卡额外生效 1 次。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 이번 턴 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 카드의 효과가 1번 더 발동합니다. <DerivativeCardKeywords_118:「성심」> 2장을 손패에 추가합니다. 이번 턴 동안, 폴룩스의 모든 명령 카드에 추가로 50%의 「고통 구원」 효과가 적용됩니다."
+Skill_117317_EffectNameList,bImc,j技能表_Skill_A.csv,1529,Skill,EffectNameList,波吕克斯,伤害,피해
+Skill_117317_PropertyNameList,bImf,j技能表_Skill_A.csv,1529,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
+Skill_117318_Name,bImj,j技能表_Skill_A.csv,1530,Skill,Name,波吕克斯,净世之路,정화의 길
+Skill_117318_Desc,bImh,j技能表_Skill_A.csv,1530,Skill,Desc,波吕克斯,波吕克斯获得 <Energy:[Energy:Arg1]> 点狂气。<ExaltIconKeywords:灵知觉醒>：打出时和弃牌阶段后获得 3 层<ZuiyinKeywords:罪印>，每有 1 张手牌额外获得 1 层<ZuiyinKeywords:罪印>。,"<Energy:[Energy:Arg1]> 광기를 획득합니다. \n<ExaltIconKeywords:영지 각성>: 해당 카드 사용 시 및 매 턴 종료 시 카드를 버린 후, <ZuiyinKeywords:죄의 낙인> 3스택을 획득합니다. 손패에 남은 카드 1장마다 추가로 <ZuiyinKeywords:죄의 낙인> 1스택을 획득합니다."
+Skill_117318_EffectNameList,bImi,j技能表_Skill_A.csv,1530,Skill,EffectNameList,波吕克斯,狂气,광기
+Skill_117318_PropertyNameList,bImk,j技能表_Skill_A.csv,1530,Skill,PropertyNameList,波吕克斯,$GrowValue1,$GrowValue1
+Skill_117312_Name,bIlB,j技能表_Skill_A.csv,1531,Skill,Name,波吕克斯,明灯灼魂,영혼을 태우는 명등
+Skill_117312_Desc,bIlz,j技能表_Skill_A.csv,1531,Skill,Desc,波吕克斯,对所有敌人造成 <Damage:[Damage:Arg1]> 点伤害，抽 2 张算力消耗最低的指令卡。,"모든 적에게 <Damage:[Damage:Arg1]>의 피해를 입히고, 산출력 소비가 가장 낮은 명령 카드 2장을 뽑습니다."
+Skill_117312_EffectNameList,bIlA,j技能表_Skill_A.csv,1531,Skill,EffectNameList,波吕克斯,伤害,피해
+Skill_117312_PropertyNameList,bIlC,j技能表_Skill_A.csv,1531,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
+Skill_117314_Name,bIlN,j技能表_Skill_A.csv,1532,Skill,Name,波吕克斯,离垢的审判,부정의 심판
+Skill_117314_Desc_0,bIlK,j技能表_Skill_A.csv,1532,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害 [Arg2] 次，进入超维回合时会自动被抽出。,<Damage:[Damage:Arg1]>의 피해를 [Arg2]회 입힙니다. 초차원 턴에 진입할 경우 자동으로 이 카드를 뽑습니다.
+Skill_117314_Desc_2,bIlL,j技能表_Skill_A.csv,1532,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害 [Arg2] 次，每打出 1 张「圣心」下次打出时算力消耗-1，进入超维回合时会自动被抽出。,<Damage:[Damage:Arg1]>의 피해를 [Arg2]회 입힙니다. 「성심」 카드를 1장 사용할 때마다 이 카드의 산출력 소비가 사용하기 전까지 1 감소합니다. 초차원 턴에 진입할 경우 자동으로 이 카드를 뽑습니다.
+Skill_117314_EffectNameList,bIlM,j技能表_Skill_A.csv,1532,Skill,EffectNameList,波吕克斯,伤害,피해
+Skill_117314_PropertyNameList,bIlO,j技能表_Skill_A.csv,1532,Skill,PropertyNameList,波吕克斯,攻击力*GrowValue1,공격력*GrowValue1
+Skill_117315_Name,bIlT,j技能表_Skill_A.csv,1533,Skill,Name,波吕克斯,圣心,성심
+Skill_117315_Desc_0,bIlR,j技能表_Skill_A.csv,1533,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다."
+Skill_117315_Desc_3,bIlS,j技能表_Skill_A.csv,1533,Skill,Desc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果且生效 2 次。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 해당 카드의 효과가 2번 발동합니다."
+Skill_117315_BattleDesc_0,bIlP,j技能表_Skill_A.csv,1533,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果 ([Arg2]/3)。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용됩니다. ([Arg2]/3)"
+Skill_117315_BattleDesc_3,bIlQ,j技能表_Skill_A.csv,1533,Skill,BattleDesc,波吕克斯,造成 <Damage:[Damage:Arg1]> 点伤害，获得 3 层<ZuiyinKeywords:罪印>。打出后将此卡牌洗入抽牌堆顶部。第 3 次打出时<DepleteIconKeywords:消耗>并使自身下张指令卡享受「苦痛救赎」效果且生效 2 次([Arg2]/3)。,"<Damage:[Damage:Arg1]>의 피해를 입히고, <ZuiyinKeywords:죄의 인장> 3스택을 획득합니다. 사용 후 이 카드를 드로우 덱의 맨 위에 놓습니다. 3번째로 사용할 때 <DepleteIconKeywords:소모>되고, 다음으로 사용하는 폴룩스의 명령 카드에 「고통 구원」 효과가 적용되고, 해당 카드의 효과가 2번 발동합니다. ([Arg2]/3)"
+Skill_60397_Desc,aPLN,j技能表_Skill_A.csv,1872,Skill,Desc,,获得 20 层<ReinforcePVEKeywords:加固>和 [Arg1] 点<PowerIconKeywords:力量>。后续每受到 1 次伤害就获得 2 层临时<ReinforcePVEKeywords:加固>。,<ReinforcePVEKeywords:견고> 20스택과 [Arg1]의 <PowerIconKeywords:힘> 획득합니다. 이후 피해를 1회 받을 때마다 일시적으로 <ReinforcePVEKeywords:견고> 2스택을 획득합니다.
+Skill_60427_Desc,aPMD,j技能表_Skill_A.csv,1942,Skill,Desc,哈姆林,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次并获得 [Arg3] 层永久<ReinforcePVEKeywords:加固>。,"<Damage:[Damage:Arg1]>의 피해를 [AttackTimes:Arg2]회 입히고, 영구적인 <ReinforcePVEKeywords:견고>를 [Arg3]스택 획득합니다."
+Skill_60137_Name,aPHl,j技能表_Skill_A.csv,1948,Skill,Name,艾瑞卡,打击,타격
+Skill_60132_Desc,aPGA,j技能表_Skill_A.csv,1951,Skill,Desc,艾瑞卡,回合结束时根据不同状态获得不同强化：放-获得 1 层临时<MadnessIconKeywords:疯狂>。敛-获得 50 层临时<ReinforcePVEKeywords:加固>。,턴 종료 시 현재 상태에 따라 다른 강화 효과를 얻습니다. 전개: 임시 <MadnessIconKeywords:광란> 1스택을 획득합니다. 회수: 임시 <ReinforcePVEKeywords:견고> 50스택을 획득합니다.
+Skill_65545_Desc,aPWP,j技能表_Skill_A.csv,1963,Skill,Desc,,提高 15% 最大生命，并获得 [Arg1] 层<ReinforcePVEKeywords:加固> 和 [Arg2] 点<PowerIconKeywords:力量>。,"최대 HP를 15% 증가시키고, <ReinforcePVEKeywords:견고> [Arg1]스택과 [Arg2]의 <PowerIconKeywords:힘>을 획득합니다."
+Skill_60539_Desc,aPPu,j技能表_Skill_A.csv,2181,Skill,Desc,,获得加固至 80 层，回合结束时获得 10 层<BloodOath:血誓>。,"견고 80스택을 획득하고, 턴 종료 시 <BloodOath:피의 서약> 10스택을 획득합니다."
+Skill_62217_Desc,aPTX,j技能表_Skill_A.csv,2206,Skill,Desc,,获得 [Arg1] 层<ReinforcePVEKeywords:加固>。,<ReinforcePVEKeywords:견고> [Arg1]스택을 획득합니다.
+Skill_66300_Desc,aPZU,j技能表_Skill_A.csv,2207,Skill,Desc,,获得 [Arg1] 层<ReinforcePVEKeywords:加固>，驱散所有敌人正面状态，驱散自身所有负面状态。,"<ReinforcePVEKeywords:견고> [Arg1]스택을 획득합니다. 적들의 모든 긍정적인 상태를 해제하고, 자신의 모든 부정적인 상태를 해제합니다."
+Skill_67171_Desc,aQgp,j技能表_Skill_A.csv,2247,Skill,Desc,奥吉尔,获得 <Block:[Block:Arg1]> 点护盾和 [Power:Arg2] 点<PowerIconKeywords:力量> ，获得状态「不定壁垒」：消耗算力后获得 <Block:[Block:Arg3]> 点护盾和 3 层临时加固。,"<Block:[Block:Arg1]>의 방어막과 [Power:Arg2]의 <PowerIconKeywords:힘>을 획득하며, 「부정형 장벽」 상태를 획득합니다. (부정형 장벽: 산출력을 소비할 때마다 <Block:[Block:Arg3]>의 방어막과 3스택의 임시 견고를 획득합니다.)"
+Skill_67174_Desc,aQgK,j技能表_Skill_A.csv,2248,Skill,Desc,奥吉尔,回合结束时，获得 [Power:Arg1] 点<PowerIconKeywords:力量>。护盾被击破时，获得的临时<ReinforcePVEKeywords:加固>由 35 层提高至 75 层。,"턴 종료 시 <PowerIconKeywords:힘>을 [Power:Arg1] 획득합니다. 방어막이 파괴되었을 경우, 획득하는 임시 <ReinforcePVEKeywords:견고>가 35스택에서 75스택으로 증가합니다."
+Skill_67183_Name,aQhQ,j技能表_Skill_A.csv,2249,Skill,Name,朵尔,打击,타격
+Skill_67190_Desc,aQiL,j技能表_Skill_A.csv,2258,Skill,Desc,熔毁·朵尔,施加 2 回合<WeaknessIconKeywords:虚弱>，获得 [Arg2] 层<ReinforcePVEKeywords:加固>。,"2턴 동안 <WeaknessIconKeywords:허약>을 부여하고, <ReinforcePVEKeywords:견고> [Arg2]스택을 획득합니다."
+Skill_67191_Desc,aQiS,j技能表_Skill_A.csv,2260,Skill,Desc,熔毁·朵尔,回合开始时，获得 1 层「终末」。每当玩家打出卡牌后，获得 [Arg1] 层<ReinforcePVEKeywords:加固>。受到致死伤害后移除该状态并免疫 1 回合伤害，回复 15% 生命并将意图切换为「虚无终结」。,"턴 시작 시마다 「종말」 1스택을 획득합니다. 플레이어가 카드를 사용할 때마다, <ReinforcePVEKeywords:견고> [Arg1]스택을 획득합니다. 치명적인 피해를 받았을 경우, 해당 상태를 제거하고, 1턴 동안 피해 면역 상태가 되며 HP를 15% 회복한 후, 의도를 「허무의 종언」으로 전환합니다."
+Skill_81433_Desc,btSj,j技能表_Skill_A.csv,2410,Skill,Desc,,驱散所有唤醒体的<CardKeyWord:封印>状态和暴击率下降效果，移除敌方「加固」状态。将上回合最后打出的 5 张不同非衍生指令卡原始复制置入手中，使它们算力消耗变为 0 并获得<DepleteIconKeywords:消耗>和<NothingnessIconKeywords:虚无>。,"모든 각성체의 <CardKeyWord:봉인> 상태와 크리티컬 확률 감소 효과를 제거하고, 적의 「견고」 상태를 제거합니다. 이전 턴 마지막으로 사용한 5장의 서로 다른 비파생 명령 카드의 원본 복사본을 손패에 추가하고, 해당 카드들의 산출력 소비를 0으로 만든 후, <DepleteIconKeywords:소모>와 <NothingnessIconKeywords:공허>를 부여합니다."
+Skill_77851_Desc,aQUa,j技能表_Skill_A.csv,2453,Skill,Desc,,施加 2 回合<WeaknessIconKeywords:虚弱>，获得 [Arg2] 层<ReinforcePVEKeywords:加固>。,"2턴 동안 <WeaknessIconKeywords:허약>을 부여하고, <ReinforcePVEKeywords:견고> [Arg2]스택을 획득합니다."
+Skill_80752_Desc,bsEs,j技能表_Skill_A.csv,2486,Skill,Desc,,造成 <Damage:[Damage:Arg1]> 点<PunctureDamagewords:穿刺>伤害 [AttackTimes:Arg2] 次。 回复 [Arg3]％ 已损失生命，每层「宇宙幽能」使最大生命提高 [Arg5]%。获得 [Arg4] 层「宇宙轮回」：受到致命伤害后，回复所有生命并获得 30 层临时加固。,"<Damage:[Damage:Arg1]>의 <PunctureDamagewords:관통> 피해를 [AttackTimes:Arg2]회 입힙니다. 잃은 HP의 [Arg3]%를 회복하고, 「코스믹 에테르」 1스택마다 최대 HP를 [Arg5]% 증가시킵니다. 「우주의 윤회」 [Arg4]스택을 획득합니다. (우주의 윤회: 치명적인 피해를 받을 경우, 모든 HP를 회복하고 임시 견고를 30스택 획득합니다.)"
+Skill_84384_Desc,btTx,j技能表_Skill_A.csv,2501,Skill,Desc,,照彻渊海的引航：自身力量提高 0.05*ATK，获得 8 层屏障。下回合开始时每层屏障转化为 1 点加固。,"심해를 비추는 인도: 자신의 힘이 0.05*공격력만큼 증가하고, 장벽 8스택을 획득합니다. 다음 턴 시작 시 각 장벽이 견고 1스택으로 전환됩니다."
+Skill_84384_BattleDesc,btTw,j技能表_Skill_A.csv,2501,Skill,BattleDesc,,自身力量提高 [Arg1] ，获得 [Arg2] 层<ParcloseIconKeywords:屏障>，获得 5 层<ReinforcePVEKeywords:加固>。下回合开始时每层屏障转化为 1 层<ReinforcePVEKeywords:加固>。,"힘이 [Arg1] 증가하고, <ReinforcePVEKeywords:견고> 5스택을 획득하며, <ParcloseIconKeywords:장벽> [Arg2]스택을 획득합니다. 다음 턴 시작 시, 각 장벽이 <ReinforcePVEKeywords:견고> 스택으로 전환됩니다."
+Skill_91741_Name,byAx,j技能表_Skill_A.csv,2518,Skill,Name,,打击,타격
+Skill_98705_Name,bCfu,j技能表_Skill_A.csv,2614,Skill,Name,,打击,타격
+Skill_118095_Desc,bJBm,j技能表_Skill_A.csv,2692,Skill,Desc,,切换至该意图时，获得等同于当前触腕条数的临时触腕。获得 <Block:[Block:Arg1]> 点护盾，造成 <Damage:[Damage:Arg2]> 点伤害 [AttackTimes:Arg3] 次。,"해당 의도로 전환될 때, 현재 촉수 수량만큼의 임시 촉수를 획득합니다. <Block:[Block:Arg1]>의 방어막을 획득하고, <Damage:[Damage:Arg2]>의 피해를 [AttackTimes:Arg3]회 입힙니다."
+Skill_118072_Name,bJAH,j技能表_Skill_A.csv,2693,Skill,Name,,打击,타격
+Skill_118065_Desc,bJAw,j技能表_Skill_A.csv,2697,Skill,Desc,,切换至该意图时，获得等同于当前触腕条数的临时触腕。获得 <Block:[Block:Arg1]> 点护盾，造成 <Damage:[Damage:Arg2]> 点伤害 [AttackTimes:Arg3] 次。,"해당 의도로 전환될 때, 현재 촉수 수량만큼의 임시 촉수를 획득합니다. <Block:[Block:Arg1]>의 방어막을 획득하고, <Damage:[Damage:Arg2]>의 피해를 [AttackTimes:Arg3]회 입힙니다."
+Skill_118091_Name,bJBf,j技能表_Skill_A.csv,2699,Skill,Name,,深海圣咏,심해의 성가
+Skill_118105_Name,bJBF,j技能表_Skill_A.csv,2701,Skill,Name,,螺湮圆舞,나선원무
+Stage_120970_Name,bKzo,g关卡_Stage_A.csv,1962,Stage,Name,,失谐序曲,어긋난 서곡
+Stage_120970_Desc,bKzn,g关卡_Stage_A.csv,1962,Stage,Desc,,群星在聚焦它们的视线，而你，也在校准自己的仪器。\n一首关于死亡与杀戮的音乐，即将奏起。,"별들이 시선을 모으고, 당신 또한 악기를 조율하고 있다.\n죽음과 살육에 관한 음악이, 곧 시작되려 한다."
+Stage_120984_Name,bKzQ,g关卡_Stage_A.csv,1963,Stage,Name,,无序前奏,무질서한 전주
+Stage_120984_Desc,bKzP,g关卡_Stage_A.csv,1963,Stage,Desc,,无形的混沌里，你握紧了银钥匙。\n那是这错乱世界里，你唯一武器与伙伴。,"무형의 혼돈 속에서, 당신은 은열쇠를 단단히 쥐었다.\n그것은 이 혼란한 세계 속에서, 당신의 유일한 무기이자 동료이다."
+Stage_120972_Name,bKzs,g关卡_Stage_A.csv,1965,Stage,Name,,死寂韵律,침묵하는 음률
+Stage_120972_Desc,bKzr,g关卡_Stage_A.csv,1965,Stage,Desc,,你听到了群星的歌谣，在这无垠的宇宙里。\n但真空无法传声，因此无论是你的呐喊，还是他们的狂啸，都寂静无音。,"이 무한한 우주 속에서, 당신은 별들의 노래를 들었다.\n하지만, 진공에서는 소리가 전달되지 않기에, 당신의 외침도, 그들의 광기어린 포효도, 완전한 침묵을 이룰 뿐이었다."
+Stage_120985_Name,bKzS,g关卡_Stage_A.csv,1966,Stage,Name,,倒错和声,뒤틀린 공명
+Stage_120985_Desc,bKzR,g关卡_Stage_A.csv,1966,Stage,Desc,,群星并不孤独，而你，也是如此。\n那些守护在你身边众多身影，就是你的「群星」。,"별들은 고독하지 않고, 당신 역시 그러하다.\n당신의 곁을 지키고 있는 무수한 형체들이야말로, 당신의 「별들」이다."
+Stage_120973_Name,bKzu,g关卡_Stage_A.csv,1968,Stage,Name,,邪信奏音,모독의 악곡
+Stage_120973_Desc,bKzt,g关卡_Stage_A.csv,1968,Stage,Desc,,在这深空的死亡乐章里，你的理智与信念，是唯一能够压制恐怖与混乱的声部。,"이 심연과 죽음의 악장 속에서, 당신의 이성과 신념은 공포와 혼란을 억누를 수 있는 유일한 기관이다."
+Stage_120981_Name,bKzK,g关卡_Stage_A.csv,1969,Stage,Name,,癫狂尾章,광란의 대단원
+Stage_120981_Desc,bKzJ,g关卡_Stage_A.csv,1969,Stage,Desc,,群星终于闭上了它们的眼睛。\n你安全了，你逃脱了他们的追捕。\n当然，只是这一次。,"별들은 마침내 눈을 감았다.\n당신은 그들의 추적으로부터 도망쳤고, 안전해졌다.\n물론, 이번 한 번 뿐이다."
+Stage_120986_Name,bKzU,g关卡_Stage_A.csv,1970,Stage,Name,,永恒沉眠,영원한 잠
+Stage_120986_Desc,bKzT,g关卡_Stage_A.csv,1970,Stage,Desc,,那痴愚混沌的至高存在，再次陷入沉睡。\n一如过去数千、数万年。 \n永恒沉眠。,"그 우둔한 혼돈의 절대적 존재는 다시 잠에 빠져들었다.\n과거 수천, 수만년동안 그래온 것처럼.\n영원한 잠에."
+Stage_120988_Name,bKzY,g关卡_Stage_A.csv,1972,Stage,Name,,失谐序曲,어긋난 서곡
+Stage_120988_Desc,bKzX,g关卡_Stage_A.csv,1972,Stage,Desc,,群星在聚焦它们的视线，而你，也在校准自己的仪器。\n一首关于死亡与杀戮的音乐，即将奏起。,"별들이 시선을 모으고, 당신 또한 악기를 조율하고 있다.\n죽음과 살육에 관한 음악이, 곧 시작되려 한다."
+Stage_120975_Name,bKzy,g关卡_Stage_A.csv,1973,Stage,Name,,无序前奏,무질서한 전주
+Stage_120975_Desc,bKzx,g关卡_Stage_A.csv,1973,Stage,Desc,,无形的混沌里，你握紧了银钥匙。\n那是这错乱世界里，你唯一武器与伙伴。,"무형의 혼돈 속에서, 당신은 은열쇠를 단단히 쥐었다.\n그것은 이 혼란한 세계 속에서, 당신의 유일한 무기이자 동료이다."
+Stage_120977_Name,bKzC,g关卡_Stage_A.csv,1974,Stage,Name,,死寂韵律,침묵하는 음률
+Stage_120977_Desc,bKzB,g关卡_Stage_A.csv,1974,Stage,Desc,,你听到了群星的歌谣，在这无垠的宇宙里。\n但真空无法传声，因此无论是你的呐喊，还是他们的狂啸，都寂静无音。,"이 무한한 우주 속에서, 당신은 별들의 노래를 들었다.\n하지만, 진공에서는 소리가 전달되지 않기에, 당신의 외침도, 그들의 광기어린 포효도, 완전한 침묵을 이룰 뿐이었다."
+Stage_120987_Name,bKzW,g关卡_Stage_A.csv,1975,Stage,Name,,倒错和声,뒤틀린 공명
+Stage_120987_Desc,bKzV,g关卡_Stage_A.csv,1975,Stage,Desc,,群星并不孤独，而你，也是如此。\n那些守护在你身边众多身影，就是你的「群星」。,"별들은 고독하지 않고, 당신 역시 그러하다.\n당신의 곁을 지키고 있는 무수한 형체들이야말로, 당신의 「별들」이다."
+Stage_120980_Name,bKzI,g关卡_Stage_A.csv,1976,Stage,Name,,邪信奏音,모독의 악곡
+Stage_120980_Desc,bKzH,g关卡_Stage_A.csv,1976,Stage,Desc,,在这深空的死亡乐章里，你的理智与信念，是唯一能够压制恐怖与混乱的声部。,"이 심연과 죽음의 악장 속에서, 당신의 이성과 신념은 공포와 혼란을 억누를 수 있는 유일한 기관이다."
+Stage_120971_Name,bKzq,g关卡_Stage_A.csv,1977,Stage,Name,,癫狂尾章,광란의 대단원
+Stage_120971_Desc,bKzp,g关卡_Stage_A.csv,1977,Stage,Desc,,群星终于闭上了它们的眼睛。\n你安全了，你逃脱了他们的追捕。\n当然，只是这一次。,"별들은 마침내 눈을 감았다.\n당신은 그들의 추적으로부터 도망쳤고, 안전해졌다.\n물론, 이번 한 번 뿐이다."
+Stage_120979_Name,bKzG,g关卡_Stage_A.csv,1978,Stage,Name,,永恒沉眠,영원한 잠
+Stage_120979_Desc,bKzF,g关卡_Stage_A.csv,1978,Stage,Desc,,那痴愚混沌的至高存在，再次陷入沉睡。\n一如过去数千、数万年。 \n永恒沉眠。,"그 우둔한 혼돈의 절대적 존재는 다시 잠에 빠져들었다.\n과거 수천, 수만년동안 그래온 것처럼.\n영원한 잠에."
+Stage_97654_Name,bBaL,g关卡_Stage_A.csv,3336,Stage,Name,,第一日·之一,첫째 날·1
+Stage_97654_Desc,bBaK,g关卡_Stage_A.csv,3336,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97642_Name,bBan,g关卡_Stage_A.csv,3337,Stage,Name,,第一日·之二,첫째 날·2
+Stage_97642_Desc,bBam,g关卡_Stage_A.csv,3337,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97655_Name,bBaN,g关卡_Stage_A.csv,3338,Stage,Name,,第一日·之三,첫째 날·3
+Stage_97655_Desc,bBaM,g关卡_Stage_A.csv,3338,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97629_Name,bAZN,g关卡_Stage_A.csv,3339,Stage,Name,,第一日·之四,첫째 날·4
+Stage_97629_Desc,bAZM,g关卡_Stage_A.csv,3339,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97653_Name,bBaJ,g关卡_Stage_A.csv,3340,Stage,Name,,第一日·之五,첫째 날·5
+Stage_97653_Desc,bBaI,g关卡_Stage_A.csv,3340,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97640_Name,bBaj,g关卡_Stage_A.csv,3341,Stage,Name,,第一日·之六,첫째 날·6
+Stage_97640_Desc,bBai,g关卡_Stage_A.csv,3341,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97632_Name,bAZT,g关卡_Stage_A.csv,3342,Stage,Name,,第一日·癫狂,첫째 날·광란
+Stage_97632_Desc,bAZS,g关卡_Stage_A.csv,3342,Stage,Desc,,神于混沌中以光分别昼夜。\n蠕动光斑将永暗撕裂，祂的子民不必再担心黑暗的威胁。\n祂赐予众人在夜晚安睡的权利。,"신께서는 혼돈 속에서 빛으로 낮과 밤을 구분지으셨다.\n꿈틀거리는 빛의 얼룩이 영원한 어둠을 몰아내었고, 그분의 백성은 더 이상 어둠의 위협을 걱정할 필요가 없게 되었다.\n그분은 모든 이들에게 밤에 안심하고 잠들 수 있는 권리를 주셨다."
+Stage_97641_Name,bBal,g关卡_Stage_A.csv,3343,Stage,Name,,第二日·之一,둘째 날·1
+Stage_97641_Desc,bBak,g关卡_Stage_A.csv,3343,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97651_Name,bBaF,g关卡_Stage_A.csv,3344,Stage,Name,,第二日·之二,둘째 날·2
+Stage_97651_Desc,bBaE,g关卡_Stage_A.csv,3344,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97619_Name,bAZt,g关卡_Stage_A.csv,3345,Stage,Name,,第二日·之三,둘째 날·3
+Stage_97619_Desc,bAZs,g关卡_Stage_A.csv,3345,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97622_Name,bAZz,g关卡_Stage_A.csv,3346,Stage,Name,,第二日·之四,둘째 날·4
+Stage_97622_Desc,bAZy,g关卡_Stage_A.csv,3346,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97626_Name,bAZH,g关卡_Stage_A.csv,3347,Stage,Name,,第二日·之五,둘째 날·5
+Stage_97626_Desc,bAZG,g关卡_Stage_A.csv,3347,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97662_Name,bBbb,g关卡_Stage_A.csv,3348,Stage,Name,,第二日·之六,둘째 날·6
+Stage_97662_Desc,bBba,g关卡_Stage_A.csv,3348,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97628_Name,bAZL,g关卡_Stage_A.csv,3349,Stage,Name,,第二日·癫狂,둘째 날·광란
+Stage_97628_Desc,bAZK,g关卡_Stage_A.csv,3349,Stage,Desc,,神让天与地，地与海分离。\n苍穹悬垂下黏稠而搏动的帷幕，硫磺与海盐的气息在深渊中蒸腾升起。\n祂赐予海的子民行于各处的权利。,"신께서는 하늘과 땅, 땅과 바다를 구분지으셨다.\n푸른 하늘에는 끈적하고 맥동하는 장막이 드리워지고, 유황과 소금의 냄새가 심연 깊은 곳에서 피어올랐다.\n그분은 바다의 백성들에게 어디든지 걸을 수 있는 권리를 주셨다."
+Stage_97663_Name,bBbd,g关卡_Stage_A.csv,3350,Stage,Name,,第三日·之一,셋째 날·1
+Stage_97663_Desc,bBbc,g关卡_Stage_A.csv,3350,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97647_Name,bBax,g关卡_Stage_A.csv,3351,Stage,Name,,第三日·之二,셋째 날·2
+Stage_97647_Desc,bBaw,g关卡_Stage_A.csv,3351,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97660_Name,bBaX,g关卡_Stage_A.csv,3352,Stage,Name,,第三日·之三,셋째 날·3
+Stage_97660_Desc,bBaW,g关卡_Stage_A.csv,3352,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97646_Name,bBav,g关卡_Stage_A.csv,3353,Stage,Name,,第三日·之四,셋째 날·4
+Stage_97646_Desc,bBau,g关卡_Stage_A.csv,3353,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97643_Name,bBap,g关卡_Stage_A.csv,3354,Stage,Name,,第三日·之五,셋째 날·5
+Stage_97643_Desc,bBao,g关卡_Stage_A.csv,3354,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97630_Name,bAZP,g关卡_Stage_A.csv,3355,Stage,Name,,第三日·之六,셋째 날·6
+Stage_97630_Desc,bAZO,g关卡_Stage_A.csv,3355,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97616_Name,bAZn,g关卡_Stage_A.csv,3356,Stage,Name,,第三日·癫狂,셋째 날·광란
+Stage_97616_Desc,bAZm,g关卡_Stage_A.csv,3356,Stage,Desc,,神将群星归于正位，使日月各司其职。\n光与暗的残骸以癫狂轨迹行路，指引给千万年迷茫的灵魂归途。\n祂赐予虔信者复得的权利。,"신께서는 별들을 바른 자리에 두고, 태양과 달로 하여금 제 역할을 행하게 하셨다.\n광기 서린 궤도에 흩어진 광명과 암흔은, 아득한 세월 방황하던 혼백들에게 귀환의 길을 밝혀 주었다.\n그분은 신앙을 가진 자들에게 잃었던 권리를 돌려주셨다."
+Stage_97661_Name,bBaZ,g关卡_Stage_A.csv,3357,Stage,Name,,第四日·之一,넷째 날·1
+Stage_97661_Desc,bBaY,g关卡_Stage_A.csv,3357,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97637_Name,bBad,g关卡_Stage_A.csv,3358,Stage,Name,,第四日·之二,넷째 날·2
+Stage_97637_Desc,bBac,g关卡_Stage_A.csv,3358,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97618_Name,bAZr,g关卡_Stage_A.csv,3359,Stage,Name,,第四日·之三,넷째 날·3
+Stage_97618_Desc,bAZq,g关卡_Stage_A.csv,3359,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97617_Name,bAZp,g关卡_Stage_A.csv,3360,Stage,Name,,第四日·之四,넷째 날·4
+Stage_97617_Desc,bAZo,g关卡_Stage_A.csv,3360,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97652_Name,bBaH,g关卡_Stage_A.csv,3361,Stage,Name,,第四日·之五,넷째 날·5
+Stage_97652_Desc,bBaG,g关卡_Stage_A.csv,3361,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97624_Name,bAZD,g关卡_Stage_A.csv,3362,Stage,Name,,第四日·之六,넷째 날·6
+Stage_97624_Desc,bAZC,g关卡_Stage_A.csv,3362,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97639_Name,bBah,g关卡_Stage_A.csv,3363,Stage,Name,,第四日·癫狂,넷째 날·광란
+Stage_97639_Desc,bBag,g关卡_Stage_A.csv,3363,Stage,Desc,,神使无形的胚种生长在世间。\n有鳍者洄游在海，有翼者翱翔于天。\n祂赐予喃喃絮语伴祂们在深海呼吸，癫乱狂吟伴祂们在云层穿行。,"신께서는 형체 없는 씨앗을 세상에 틔우셨다.\n지느러미를 지닌 자들은 바다를 거슬러 헤엄치고, 날개를 지닌 자들은 하늘을 가르며 날았다.\n그분은 은밀한 속삭임을 내려 그들이 깊은 바다 속에서 숨을 쉬게 하였고, 광기 어린 찬가를 내려 그들이 구름을 가로지를 수 있게 하셨다."
+Stage_97644_Name,bBar,g关卡_Stage_A.csv,3364,Stage,Name,,第五日·之一,다섯째 날·1
+Stage_97644_Desc,bBaq,g关卡_Stage_A.csv,3364,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97645_Name,bBat,g关卡_Stage_A.csv,3365,Stage,Name,,第五日·之二,다섯째 날·2
+Stage_97645_Desc,bBas,g关卡_Stage_A.csv,3365,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97659_Name,bBaV,g关卡_Stage_A.csv,3366,Stage,Name,,第五日·之三,다섯째 날·3
+Stage_97659_Desc,bBaU,g关卡_Stage_A.csv,3366,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97621_Name,bAZx,g关卡_Stage_A.csv,3367,Stage,Name,,第五日·之四,다섯째 날·4
+Stage_97621_Desc,bAZw,g关卡_Stage_A.csv,3367,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97657_Name,bBaR,g关卡_Stage_A.csv,3368,Stage,Name,,第五日·之五,다섯째 날·5
+Stage_97657_Desc,bBaQ,g关卡_Stage_A.csv,3368,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97620_Name,bAZv,g关卡_Stage_A.csv,3369,Stage,Name,,第五日·之六,다섯째 날·6
+Stage_97620_Desc,bAZu,g关卡_Stage_A.csv,3369,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97615_Name,bAZl,g关卡_Stage_A.csv,3370,Stage,Name,,第五日·癫狂,다섯째 날·광란
+Stage_97615_Desc,bAZk,g关卡_Stage_A.csv,3370,Stage,Desc,,神唤万物万事各行其道。\n虬结根茎埋入腐土，爪牙鳞羽撕咬爬行。繁花生于枯骨之上，羸弱吞于强大腹中。\n祂赐予众生相互纠缠厮杀的权利。,"신께서는 만물이 각자의 길로 흩어지게 하셨다.\n굽이친 뿌리들은 썩은 흙을 파고들었고, 발톱과 송곳니, 비늘과 깃은 서로를 물어뜯으며 기어올랐다. 꽃은 백골 위에 피어났고, 약한 존재는 강한 이의 배 속으로 삼켜졌다.\n그분은 생명에게 서로 얽히고 싸울 권리를 주셨다."
+Stage_97634_Name,bAZX,g关卡_Stage_A.csv,3371,Stage,Name,,第六日·之一,여섯째 날·1
+Stage_97634_Desc,bAZW,g关卡_Stage_A.csv,3371,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97638_Name,bBaf,g关卡_Stage_A.csv,3372,Stage,Name,,第六日·之二,여섯째 날·2
+Stage_97638_Desc,bBae,g关卡_Stage_A.csv,3372,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97633_Name,bAZV,g关卡_Stage_A.csv,3373,Stage,Name,,第六日·之三,여섯째 날·3
+Stage_97633_Desc,bAZU,g关卡_Stage_A.csv,3373,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97648_Name,bBaz,g关卡_Stage_A.csv,3374,Stage,Name,,第六日·之四,여섯째 날·4
+Stage_97648_Desc,bBay,g关卡_Stage_A.csv,3374,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97656_Name,bBaP,g关卡_Stage_A.csv,3375,Stage,Name,,第六日·之五,여섯째 날·5
+Stage_97656_Desc,bBaO,g关卡_Stage_A.csv,3375,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97625_Name,bAZF,g关卡_Stage_A.csv,3376,Stage,Name,,第六日·之六,여섯째 날·6
+Stage_97625_Desc,bAZE,g关卡_Stage_A.csv,3376,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97649_Name,bBaB,g关卡_Stage_A.csv,3377,Stage,Name,,第六日·癫狂,여섯째 날·광란
+Stage_97649_Desc,bBaA,g关卡_Stage_A.csv,3377,Stage,Desc,,神塑出无智无识的伪形。\n被裹挟来一同沉沦的祭品无法逃脱命运，神没有予以启示，神没有回应，无目无口的婴孩带来虚假的教义。\n祂赐清醒者以迷醉的权利。,"신은 지혜도 지각도 없는 가짜를 창조하셨다.\n어둠 속으로 함께 가라앉은 제물들은 정해진 운명에서 벗어날 수 없었고, 그분은 아무런 계시도, 아무런 답도 주지 않았다. 눈도 입도 갖지 못한 유아는 거짓된 교리를 가져왔다.\n그분은 깨어 있는 자들에게 미혹될 권리를 주셨다."
+Stage_97627_Name,bAZJ,g关卡_Stage_A.csv,3378,Stage,Name,,第七日·之一,일곱째 날·1
+Stage_97627_Desc,bAZI,g关卡_Stage_A.csv,3378,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97636_Name,bBab,g关卡_Stage_A.csv,3379,Stage,Name,,第七日·之二,일곱째 날·2
+Stage_97636_Desc,bBaa,g关卡_Stage_A.csv,3379,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97658_Name,bBaT,g关卡_Stage_A.csv,3380,Stage,Name,,第七日·之三,일곱째 날·3
+Stage_97658_Desc,bBaS,g关卡_Stage_A.csv,3380,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97635_Name,bAZZ,g关卡_Stage_A.csv,3381,Stage,Name,,第七日·之四,일곱째 날·4
+Stage_97635_Desc,bAZY,g关卡_Stage_A.csv,3381,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97631_Name,bAZR,g关卡_Stage_A.csv,3382,Stage,Name,,第七日·之五,일곱째 날·5
+Stage_97631_Desc,bAZQ,g关卡_Stage_A.csv,3382,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97623_Name,bAZB,g关卡_Stage_A.csv,3383,Stage,Name,,第七日·之六,일곱째 날·6
+Stage_97623_Desc,bAZA,g关卡_Stage_A.csv,3383,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_97650_Name,bBaD,g关卡_Stage_A.csv,3384,Stage,Name,,第七日·癫狂,일곱째 날·광란
+Stage_97650_Desc,bBaC,g关卡_Stage_A.csv,3384,Stage,Desc,,神为什么在腐烂，神为什么滴下脓血。\n神明，请指引我，请醒来，救救我啊——无论什么都好！\n哦，神啊，神啊……\n不过是荒谬的错误与虚假的谎言。,"신께서는 왜 썩어가고, 신께서는 왜 고름과 피를 흘리시는가.\n신이시여, 제게 길을 보여 주십시오, 깨어나 주십시오. 저를 구해 주십시오!\n아아, 신이시여, 신이시여...\n그러나 모든 것은 우스운 착각과 허망한 거짓일 뿐이었다."
+Stage_119839_Name,bKdV,g关卡_Stage_A.csv,3428,Stage,Name,,失谐序曲,어긋난 서곡
+Stage_119839_Desc,bKdU,g关卡_Stage_A.csv,3428,Stage,Desc,,群星在聚焦它们的视线，而你，也在校准自己的仪器。\n一首关于死亡与杀戮的音乐，即将奏起。,"별들이 시선을 모으고, 당신 또한 악기를 조율하고 있다.\n죽음과 살육에 관한 음악이, 곧 시작되려 한다."
+Stage_119840_Name,bKdX,g关卡_Stage_A.csv,3429,Stage,Name,,无序前奏,무질서한 전주
+Stage_119840_Desc,bKdW,g关卡_Stage_A.csv,3429,Stage,Desc,,无形的混沌里，你握紧了银钥匙。\n那是这错乱世界里，你唯一武器与伙伴。,"무형의 혼돈 속에서, 당신은 은열쇠를 단단히 쥐었다.\n그것은 이 혼란한 세계 속에서, 당신의 유일한 무기이자 동료이다."
+Stage_119838_Name,bKdT,g关卡_Stage_A.csv,3430,Stage,Name,,死寂韵律,침묵하는 음률
+Stage_119838_Desc,bKdS,g关卡_Stage_A.csv,3430,Stage,Desc,,你听到了群星的歌谣，在这无垠的宇宙里。\n但真空无法传声，因此无论是你的呐喊，还是他们的狂啸，都寂静无音。,"이 무한한 우주 속에서, 당신은 별들의 노래를 들었다.\n하지만, 진공에서는 소리가 전달되지 않기에, 당신의 외침도, 그들의 광기어린 포효도, 완전한 침묵을 이룰 뿐이었다."
+Stage_119844_Name,bKef,g关卡_Stage_A.csv,3431,Stage,Name,,倒错和声,뒤틀린 공명
+Stage_119844_Desc,bKee,g关卡_Stage_A.csv,3431,Stage,Desc,,群星并不孤独，而你，也是如此。\n那些守护在你身边众多身影，就是你的「群星」。,"별들은 고독하지 않고, 당신 역시 그러하다.\n당신의 곁을 지키고 있는 무수한 형체들이야말로, 당신의 「별들」이다."
+Stage_119842_Name,bKeb,g关卡_Stage_A.csv,3432,Stage,Name,,邪信奏音,모독의 악곡
+Stage_119842_Desc,bKea,g关卡_Stage_A.csv,3432,Stage,Desc,,在这深空的死亡乐章里，你的理智与信念，是唯一能够压制恐怖与混乱的声部。,"이 심연과 죽음의 악장 속에서, 당신의 이성과 신념은 공포와 혼란을 억누를 수 있는 유일한 기관이다."
+Stage_119841_Name,bKdZ,g关卡_Stage_A.csv,3433,Stage,Name,,癫狂尾章,광란의 대단원
+Stage_119841_Desc,bKdY,g关卡_Stage_A.csv,3433,Stage,Desc,,群星终于闭上了它们的眼睛。\n你安全了，你逃脱了他们的追捕。\n当然，只是这一次。,"별들은 마침내 눈을 감았다.\n당신은 그들의 추적으로부터 도망쳤고, 안전해졌다.\n물론, 이번 한 번 뿐이다."
+Stage_119843_Name,bKed,g关卡_Stage_A.csv,3434,Stage,Name,,永恒沉眠,영원한 잠
+Stage_119843_Desc,bKec,g关卡_Stage_A.csv,3434,Stage,Desc,,那痴愚混沌的至高存在，再次陷入沉睡。\n一如过去数千、数万年。 \n永恒沉眠。,"그 우둔한 혼돈의 절대적 존재는 다시 잠에 빠져들었다.\n과거 수천, 수만년동안 그래온 것처럼.\n영원한 잠에."
+StageGroup_97852_Name,bBeW,g关卡组_StageGroup_A.csv,188,StageGroup,Name,,再见，永无乡,"안녕, 영원한 고향"
+StageGroup_116228_Name,bCEF,g关卡组_StageGroup_A.csv,189,StageGroup,Name,,再见，永无乡,"안녕, 영원한 고향"
+StageGroup_97664_TypeText,bAYX,g关卡组_StageGroup_A.csv,523,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97669_TypeText,bAZh,g关卡组_StageGroup_A.csv,524,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97665_TypeText,bAYZ,g关卡组_StageGroup_A.csv,525,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97668_TypeText,bAZf,g关卡组_StageGroup_A.csv,526,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97670_TypeText,bAZj,g关卡组_StageGroup_A.csv,527,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97667_TypeText,bAZd,g关卡组_StageGroup_A.csv,528,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97666_TypeText,bAZb,g关卡组_StageGroup_A.csv,529,StageGroup,TypeText,,创生七日,7일간의 창조
+StageGroup_97848_TypeText,bBeN,g关卡组_StageGroup_A.csv,537,StageGroup,TypeText,,日光下新事,햇빛 아래에서의 새로운 일
+StageGroup_97850_TypeText,bBeS,g关卡组_StageGroup_A.csv,538,StageGroup,TypeText,,日光下新事,햇빛 아래에서의 새로운 일
+StageGroup_97846_TypeText,bBeJ,g关卡组_StageGroup_A.csv,539,StageGroup,TypeText,,日光下新事,햇빛 아래에서의 새로운 일
+StageGroup_97851_TypeText,bBeU,g关卡组_StageGroup_A.csv,540,StageGroup,TypeText,,日光下新事,햇빛 아래에서의 새로운 일
+StageGroup_97847_TypeText,bBeL,g关卡组_StageGroup_A.csv,541,StageGroup,TypeText,,日光下新事,햇빛 아래에서의 새로운 일
+StageGroup_116813_Name,bHSg,g关卡组_StageGroup_A.csv,573,StageGroup,Name,,失谐序曲,어긋난 서곡
+StageGroup_116814_Name,bHSi,g关卡组_StageGroup_A.csv,574,StageGroup,Name,,无序前奏,무질서한 전주
+StageGroup_116816_Name,bHSm,g关卡组_StageGroup_A.csv,575,StageGroup,Name,,死寂韵律,침묵하는 음률
+StageGroup_116812_Name,bHSe,g关卡组_StageGroup_A.csv,576,StageGroup,Name,,倒错和声,뒤틀린 공명
+StageGroup_116811_Name,bHSc,g关卡组_StageGroup_A.csv,577,StageGroup,Name,,邪信奏音,모독의 악곡
+StageGroup_116817_Name,bHSo,g关卡组_StageGroup_A.csv,578,StageGroup,Name,,癫狂尾章,광란의 대단원
+StageGroup_116815_Name,bHSk,g关卡组_StageGroup_A.csv,579,StageGroup,Name,,永恒沉眠,영원한 잠
+State_19507_Desc,aVyl,zPVP状态表_State_A.csv,48,State,Desc,,下回合开始之前承受的主动攻击伤害和出血层数提高 25 %，施加时与加固抵消。,"다음 턴 시작 전까지 받는 능동 피해량과 출혈량이 25% 증가하며, 견고 효과와 상쇄됩니다."
+State_19549_Name,aVAb,zPVP状态表_State_A.csv,63,State,Name,,<ReinforceColour:加固>,<ReinforceColour:견고>
+State_19557_Name,aVAw,zPVP状态表_State_A.csv,163,State,Name,,加固,견고
+State_19534_Desc,aVzt,zPVP状态表_State_A.csv,164,State,Desc,,下回合开始之前承受的主动攻击伤害和出血层数提高 [DescArg1] %，施加时与加固抵消。,"다음 턴 시작 전까지 받는 능동 피해량과 출혈량이 [DescArg1]% 증가하며, 견고 효과와 상쇄됩니다."
+State_120924_Name,bKwy,zPVP状态表_State_A.csv,224,State,Name,,延迟加固,지연 견고
+State_120924_Desc,bKwx,zPVP状态表_State_A.csv,224,State,Desc,,下回合开始时，获得加固。,"다음 턴 시작 시, 견고 상태를 획득합니다."
+State_119052_Name,bKaL,zPVP状态表_State_A.csv,234,State,Name,,降生仪式,강생 의식
+State_119052_Desc,bKaK,zPVP状态表_State_A.csv,234,State,Desc,,受到主动伤害后获得伤害 [Layer]% 的献祭。,받은 능동 피해의 [Layer]%만큼 희생이 부여됩니다.
+State_20626_Desc,aVEP,zPVP状态表_State_A.csv,312,State,Desc,,<PVPWeaponKeywords:命轮>：「打击」伤害提高 [StateArg1]% ，并使自身获得<ReinforceKeywords:加固>。,"<PVPWeaponKeywords:명륜>: 「타격」 피해량이 [StateArg1]% 증가하고, 자신에게 <ReinforceKeywords:견고>를 부여합니다."
+State_20664_Desc,aVGT,zPVP状态表_State_A.csv,313,State,Desc,,<PVPWeaponKeywords:命轮>：「技能」使自身获得<ReinforceKeywords:加固>。,<PVPWeaponKeywords:명륜>: 「스킬」을 사용할 때 자신에게 <ReinforceKeywords:견고>를 부여합니다.
+State_20621_Desc,aVEA,zPVP状态表_State_A.csv,336,State,Desc,,<PVPWeaponKeywords:命轮>：「狂气爆发」前使自身获得<StrengthenKeywords:强化>和<ReinforceKeywords:加固>。,"<PVPWeaponKeywords:명륜>: 광기 폭발 사용 전, 자신에게 <StrengthenKeywords:강화>와 <ReinforceKeywords:견고>를 부여합니다."
+State_20654_Desc,aVGp,zPVP状态表_State_A.csv,350,State,Desc,,<PVPWeaponKeywords:命轮>：回合开始时，<PVPSeriousInjuryKeywords:重创>自身并减少 <Heal:[Heal:StateArg1]> <MaxHPKeywords:最大生命>，回合结束时，<ReinforceKeywords:加固>自身。,"<PVPWeaponKeywords:명륜>: 턴 시작 시, 자신에게 <PVPSeriousInjuryKeywords:중상>을 부여하고, <MaxHPKeywords:최대 HP>가 <Heal:[Heal:StateArg1]> 감소합니다. 턴 종료 시, 자신에게 <ReinforceKeywords:견고>를 부여합니다."
+State_62309_Desc,aZdL,zPVP状态表_State_A.csv,354,State,Desc,,<PVPWeaponKeywords:命轮>：装备时获得 [StateArg1] <StrongEffectKeywords:强效>。每当失去生命后，若当前生命低于 [StateArg2]%，获得<ReinforceKeywords:加固>和<StrengthenKeywords:强化>。,"<PVPWeaponKeywords:명륜>：장비 시 [StateArg1]의 <StrongEffectKeywords:증폭>을 획득합니다. HP를 잃을 때마다, 현재 HP가 [StateArg2]% 미만일 경우 <ReinforceKeywords:견고>와 <StrengthenKeywords:강화>를 획득합니다."
+State_57753_Desc,aYIL,zPVP状态表_State_A.csv,396,State,Desc,,<PVPWeaponKeywords:命轮>：装备时获得<ReinforceKeywords:加固>和 [StateArg1] 层<PVPSleepKeywords:精致睡眠>。每拥有一层<PVPFierceFightingKeywords:死斗><PVPPowerIconKeywords:力量> + [StateArg2]。,<PVPWeaponKeywords:명륜>：장비 시 <ReinforceKeywords:견고>와 [StateArg1]스택의 <PVPSleepKeywords:숙면>을 획득합니다. <PVPFierceFightingKeywords:사투> 1스택마다 <PVPPowerIconKeywords:힘>이 [StateArg2] 증가합니다.
+State_60088_Name,aYRr,z状态表_State_A.csv,44,State,Name,,<ReinforcePVEKeywords:加固>,<ReinforcePVEKeywords:견고>
+State_120321_Name,bKpx,z状态表_State_A.csv,119,State,Name,,<DwmofeiKeywords:降生仪式>,<DwmofeiKeywords:강생 의식>
+State_120321_Desc,bKpw,z状态表_State_A.csv,119,State,Desc,,每层使承受攻击时附加 1% 伤害的献祭，回合结束时移除，上限 75 层。,스택마다 받은 피해량의 1%만큼 희생이 부여됩니다. 턴 종료시 제거됩니다. 최대 75스택.
+State_121231_Name,bKHc,z状态表_State_A.csv,120,State,Name,,<MingqiKeywords:命契>,<MingqiKeywords:운명의 계약>
+State_121231_Desc,bKHb,z状态表_State_A.csv,120,State,Desc,,每层使下次「虚妄王女」施加的「降生仪式」提高 20%，最多叠加 5 层，叠满 5 层后下次「虚妄王女」伤害次数翻倍。,"스택마다 다음으로 사용하는 「허망의 왕녀」로 부여하는 「강생 의식」 수치가 20% 증가합니다. 최대 5스택까지 중첩되며, 최대 중첩 도달 시 다음으로 사용하는 「허망의 왕녀」의 피해 횟수가 2배로 증가합니다."
+State_60312_Desc,aYUb,z状态表_State_A.csv,138,State,Desc,,每回合累计受到 10% 生命的伤害时，获得 [Layer] 层临时「加固」。,"매 턴 HP의 10%만큼 피해를 입을 때마다, 임시 「견고」 10스택을 획득합니다."
+State_60083_Name,aYRf,z状态表_State_A.csv,292,State,Name,,<ReinforceColour:加固>,<ReinforceColour:견고>
+State_97744_Name,bBcl,z状态表_State_A.csv,293,State,Name,,<ReinforceColour:加固>,<ReinforceColour:견고>
+State_60089_Name,aYRu,z状态表_State_A.csv,294,State,Name,,<ReinforceColour:加固>,<ReinforceColour:견고>
+State_60564_Desc,aYXI,z状态表_State_A.csv,2901,State,Desc,,当第一次即将被击败时，回复生命并转变意图为 「终焉进化」，获得力量和加固。当第二次即将被击败时，回复生命并转变意图为 「鬼面撕咬」，造成超高额单次伤害。,"처음 처치되기 직전에 HP를 회복하고, 의도를 「종언 진화」로 전환하며 힘과 견고를 획득합니다. 2번째로 처치되기 직전에 HP를 회복하고, 의도를 「귀면 물어뜯기」로 전환하여 매우 높은 단일 피해를 입힙니다."
+State_60404_Desc,aYVm,z状态表_State_A.csv,2923,State,Desc,,每受到 1 次伤害，获得 2 层临时加固。,"피해를 1회 받을 때마다, 임시 견고를 2스택 획득합니다."
+State_60284_Desc,aYTP,z状态表_State_A.csv,3308,State,Desc,,战斗开始和回合开始时获得临时加固，玩家生命越低获得越多层数，最大为 50 层。,전투 시작 시 및 턴 시작 시 임시 보강을 획득합니다. 플레이어의 HP가 낮을수록 더 많은 스택을 획득합니다. 최대 50스택.
+State_60086_Desc,aYRk,z状态表_State_A.csv,3309,State,Desc,,战斗开始和回合开始时获得临时加固，玩家生命越高获得越多层数，最大为 25 层。,전투 시작 시 및 턴 시작 시 임시 보강을 획득합니다. 플레이어의 HP가 높을수록 더 많은 스택을 획득합니다. 최대 25스택.
+State_60085_Desc,aYRh,z状态表_State_A.csv,3310,State,Desc,,战斗开始和回合开始时获得临时加固，玩家生命越高获得越多层数，最大为 50 层。,전투 시작 시 및 턴 시작 시 임시 보강을 획득합니다. 플레이어의 HP가 높을수록 더 많은 스택을 획득합니다. 최대 50스택.
+State_60148_Desc,aYSd,z状态表_State_A.csv,3324,State,Desc,,回合结束时根据状态获得不同效果：放-获得 1 层临时<MadnessIconKeywords:疯狂>。敛-获得 50 层临时<ReinforcePVEKeywords:加固>。,"턴 종료 시, 상태에 따라 다른 효과를 획득합니다. 「전개」: 임시 <MadnessIconKeywords:광란> 1스택을 획득합니다. 「회수」: 임시 <ReinforcePVEKeywords:견고> 50스택을 획득합니다."
+State_60524_Desc,aYWY,z状态表_State_A.csv,3492,State,Desc,,战斗开始和回合开始时获得 [Layer] 层加固，最大为 50 层。,전투 시작 시 및 턴 시작 시 견고 [Layer]스택을 획득합니다. 최대 50스택.
+State_65558_Desc,aZgF,z状态表_State_A.csv,3541,State,Desc,,受到致命伤害后意图转化为「深空注目」并获得 80 层临时加固，回复所有生命，可触发 [DescArg1] 次。触发次数用尽后受到致命伤害后会保留 1 点生命，将意图变为「万千世界之眼」。回合结束时，自身移除 20 层加固。,"치명적인 피해를 입은 후, 의도를 「깊은 우주의 주목」으로 전환하고, 임시 견고 80스택을 획득하며 모든 HP를 회복합니다. 이 효과는 [DescArg1]번 발동할 수 있습니다. 발동 횟수가 소진된 후 치명적인 피해를 받으면 HP 1을 보존하고 의도를 「무한한 세계의 눈」으로 변경합니다. 턴 종료 시, 견고 20스택을 제거합니다."
+State_68298_Desc,aZwy,z状态表_State_A.csv,3542,State,Desc,,受到致命伤害后意图转化为「深空注目」并获得 80 层临时加固，回复所有生命，可触发 [DescArg1] 次。回合结束时，自身移除 20 层加固。,"치명적인 피해를 입은 후, 의도를 「깊은 우주의 주목」으로 전환하고, 임시 견고 80스택을 획득하며 모든 HP를 회복합니다. 이 효과는 [DescArg1]번 발동할 수 있습니다. 턴 종료 시, 견고 20스택을 제거합니다."
+State_65557_Desc,aZgC,z状态表_State_A.csv,3545,State,Desc,,受到致命伤害后将回复所有生命，意图转化为「真·深空注目」，获得 80 层临时加固并移除自身负面状态和玩家正面状态。回合结束时，自身移除 20 层加固。,"치명적인 피해를 입은 후, 의도를 「진·깊은 우주의 주목」으로 전환하고, 임시 견고 80스택을 획득하며 모든 HP를 회복함과 동시에 자신에게 적용된 모든 부정적인 효과와 플레이어의 모든 긍정적인 효과를 제거합니다. 턴 종료 시, 견고 20스택을 제거합니다."
+State_67240_Desc,aZns,z状态表_State_A.csv,3648,State,Desc,,「知者」获得 25 层临时<ReinforcePVEKeywords:加固>和 [Power:StateArg1] 点临时<PowerIconKeywords:力量> ，移除该状态。,"「지혜로운 자」가 임시 <ReinforcePVEKeywords:견고> 25스택과 [Power:StateArg1]의 임시 <PowerIconKeywords:힘>을 획득하고, 해당 상태를 제거합니다."
+State_67246_Desc,aZnK,z状态表_State_A.csv,3663,State,Desc,,每回合首次被击破护盾时，失去 25％最大生命，获得 [Power:DescArg1] 点<PowerIconKeywords:临时力量>和 [Layer] 层临时加固。下回合开始时，重新获得 <Block:[Block:DescArg2]> 层护盾，每触发一次「骑士的信仰」额外获得 1 次护盾。,"매 턴 처음으로 방어막이 파괴되었을 때, 최대 HP의 25%를 잃고, [Power:DescArg1]의 힘과 [Layer]스택의 임시 견고를 획득합니다. 다음 턴 시작 시, <Block:[Block:DescArg2]>의 방어막을 다시 획득합니다. 「기사의 신념」이 1회 발동할 때마다, 방어막을 1회 추가로 획득합니다."
+State_67358_Desc,aZpt,z状态表_State_A.csv,3686,State,Desc,,每当玩家消耗 1 点算力，立刻获得 <Block:[Block:StateArg1]> 点护盾和 3 层临时加固。,플레이어가 산출력을 1 소비할 때마다 즉시 <Block:[Block:StateArg1]>의 방어막과 3스택의 임시 견고를 획득합니다.
+State_68637_Desc,aZxJ,z状态表_State_A.csv,3822,State,Desc,,失去生命时，减少对应层数。层数为 0 时，使玩家获得 2 层临时屏障，自身获得 [DescArg1] 层护盾和 [DescArg2] 层临时加固，并重新获得 [DescArg3] 层维度壁障。,"HP를 잃을 때마다 잃은 HP만큼 스택이 감소합니다. 스택이 0이 되면 플레이어는 임시 장벽 2스택을 획득하고, 자신에게 [DescArg1]의 방어막과 [DescArg2]의 임시 견고를 획득하고, [DescArg3]스택의 차원 장벽을 다시 획득합니다."
+State_68622_Desc,aZwT,z状态表_State_A.csv,3823,State,Desc,,唤醒体施加的力量效果降低 75%。每当失去生命，获得 [DescArg1] 点护盾和 1 层临时加固。,각성체의 힘 획득 효과가 75% 감소합니다. HP를 잃을 때마다 [DescArg1]의 방어막과 1스택의 임시 견고를 획득합니다.
+State_71650_Desc,aZPP,z状态表_State_A.csv,3892,State,Desc,,死亡后复活并召唤不同数量的分身，但它复活后居然不会获得任何加固和免疫。还能生效 [Layer] 次。,"사망 시, 부활하여 다른 수량의 분신을 소환합니다. 부활 후에는 어떠한 강화나 면역도 획득하지 않습니다. 앞으로 [Layer]번 더 발동 가능합니다."
+State_80774_Desc,btcV,z状态表_State_A.csv,4537,State,Desc,,承受主动伤害或触腕伤害后，移除等量的「旧日余烬」并失去 300％ 移除量的生命，承受其它伤害时移除一半。「旧日余烬」层数每回合重置。「旧日余烬」被全部移除后，获得 50 层「加固」。,"능동 피해나 촉수 피해를 입은 후, 동일한 수치의 「고대의 재」를 제거하고, 제거된 수치의 300%만큼 HP를 잃습니다. 다른 피해를 입을 경우 절반만 제거됩니다. 「고대의 재」 스택은 턴마다 초기화됩니다. 「고대의 재」가 모두 제거되면 「견고」 50스택을 획득합니다."
+State_81312_Desc,btgX,z状态表_State_A.csv,4540,State,Desc,,受到致命伤害后，回复所有生命并获得 50 层临时加固。还能够触发 [Layer] 次。,"치명적인 피해를 받은 후, HP를 전부 회복하고 임시 견고 50스택을 획득합니다. [Layer]회 더 발동 가능."
+State_81073_Desc,btge,z状态表_State_A.csv,4560,State,Desc,,受到致命伤害后立刻回复所有生命并获得 80％ 临时加固，召唤一名「初变者」在后方，可触发 2 次。,"치명적인 피해를 받은 후, HP를 전부 회복하고 임시 견고 80스택을 획득하며, 「최초 변이자」 1체를 후방에 소환합니다. 2회 더 발동 가능."
+State_84400_Desc,bvRO,z状态表_State_A.csv,4671,State,Desc,,下回合开始时每层屏障转化为 1 层<ReinforcePVEKeywords:加固>。,"다음 턴 시작 시, 각 장벽 스택이 <ReinforcePVEKeywords:견고> 스택으로 전환됩니다."
+State_96356_Desc,bAoI,z状态表_State_A.csv,4856,State,Desc,,每失去 [DescArg1] 点生命，获得 [DescArg2] 层<ReinforcePVEKeywords:加固>，最大为 [DescArg3]  层。触发「<Guaiwusiwangdikang:死亡抵抗>」后自身最大生命提高 [DescArg4] %。,"HP를 [DescArg1] 잃을 때마다, <ReinforcePVEKeywords:견고> [DescArg2]스택을 획득하며, 최대 [DescArg3]스택까지 획득할 수 있습니다. 「<Guaiwusiwangdikang:죽음 저항>」이 발동된 후, 자신의 최대 HP가 [DescArg4]% 증가합니다."
+State_96808_Desc,bACW,z状态表_State_A.csv,4888,State,Desc,,每失去 [DescArg1] 生命就获得 15 层「<ReinforcePVEKeywords:加固>」，上限为 75 层，被击破后清空并获得 1 层「<Chaos:混乱>」。 若未释放过「骨血重组」，受到致命伤害后将意图切换为「骨血重组」并免疫一切伤害。,"HP를 [DescArg1] 잃을 때마다 「<ReinforcePVEKeywords:견고>」 15스택을 획득하며, 최대 75스택까지 획득할 수 있습니다. 격파당할 경우 스택을 초기화하고, 「<Chaos:혼란>」 1스택을 획득합니다. 만약 「피와 뼈의 재구축」을 발동하지 않았을 경우, 치명적인 피해를 받은 후 의도를 「피와 뼈의 재구축」으로 전환하고 모든 피해에 대해 면역 상태가 됩니다."
+State_98743_Desc,bCfW,z状态表_State_A.csv,5012,State,Desc,,在回合内受到 [DescArg1] 点伤害后，获得 75 层临时加固，将意图转换为「不耐的施舍」并会解除石化效果，获得 1 层「蜘蛛女之吻」。,"단일 턴 동안 [DescArg1]의 피해를 입은 후, 임시 견고 75스택을 획득하고 의도를 「마지못한 자비」로 전환하며 석화 효과를 해제합니다. 그 후 「거미 여왕의 키스」 1스택을 획득합니다."
+State_117358_Name,bImB,z状态表_State_A.csv,5311,State,Name,,<ZuiyinKeywords:罪印>,<ZuiyinKeywords:죄의 낙인>
+State_117358_Desc,bImA,z状态表_State_A.csv,5311,State,Desc,,每层使波吕克斯造成的伤害附加 1% 出血。,1스택마다 폴룩스가 주는 피해량의 1%만큼 출혈을 추가로 부여합니다.
+State_117355_Name,bIFs,z状态表_State_A.csv,5313,State,Name,,神启新约,계시의 신약
+State_117355_Desc,bIFr,z状态表_State_A.csv,5313,State,Desc,,波吕克斯打出的下一张指令卡生效 2 次。,다음으로 사용하는 폴룩스의 명령 카드 효과가 2회 발동합니다.
+State_121015_Desc,bKBo,z状态表_State_A.csv,5380,State,Desc,,回合开始时护盾不会清除。拥有护盾时拥有 50 层<ReinforcePVEKeywords:加固>，护盾被破除时移除<ReinforcePVEKeywords:加固>。,턴 시작 시 방어막이 제거되지 않습니다. 방어막이 있을 때 <ReinforcePVEKeywords:견고> 50스택을 획득합니다. 방어막이 파괴될 시 <ReinforcePVEKeywords:견고>가 제거됩니다.
+State_119105_Name,bJFh,z状态表_State_A.csv,5387,State,Name,,命契,운명의 계약
+State_119108_Name,bJFl,z状态表_State_A.csv,5388,State,Name,,降生仪式,강생 의식
+State_119108_Desc,bJFk,z状态表_State_A.csv,5388,State,Desc,,失去生命时，每有 1 层获得失去生命 1% 的<SacrificeKeyWord:献祭>。,"HP를 잃을 때마다, 1스택당 잃은 HP의 1%만큼 <SacrificeKeyWord:희생>을 획득합니다."
+State_119104_Name,bJFf,z状态表_State_A.csv,5389,State,Name,,海祭典仪,바다의 성례
+State_119104_Desc,bJFe,z状态表_State_A.csv,5389,State,Desc,,回合开始时获得 [DescArg1] 层「命契」。,턴 시작 시 「운명의 계약」 [DescArg1]스택을 획득한다.
+State_120324_Name,bKpA,z状态表_State_A.csv,5470,State,Name,,降生仪式,강생 의식
+State_120324_Desc,bKpz,z状态表_State_A.csv,5470,State,Desc,,承受攻击时附加 [Layer]% 伤害的献祭，回合结束时移除，至多叠加 75 层。,"공격을 받을 때 받은 피해량 [Layer]%의 희생을 획득. 턴 종료 시 제거, 최대 75스택."
+State_120320_Name,bKpv,z状态表_State_A.csv,5471,State,Name,,命契,운명의 계약
+State_120320_Desc,bKpu,z状态表_State_A.csv,5471,State,Desc,,每层使下次「虚妄王女」施加的「降生仪式」提高 20％，最多叠加 5 层，叠加满 5 层后下次「虚妄王女」伤害次数翻倍。,"스택마다 다음으로 사용하는 「허망의 왕녀」로 부여하는 「강생 의식」 수치가 20% 증가합니다. 최대 5스택까지 중첩되며, 최대 중첩 도달 시 다음으로 사용하는 「허망의 왕녀」의 피해 횟수가 2배로 증가합니다."
+State_121738_Desc,bKPC,z状态表_State_A.csv,5508,State,Desc,,唤醒体施加的力量效果降低 75%。每当失去生命，获得 [DescArg1] 点护盾和 1 层临时加固。,각성체의 힘 획득 효과가 75% 감소합니다. HP를 잃을 때마다 [DescArg1]의 방어막과 1스택의 임시 견고를 획득합니다.
+Task_97676_Desc,bBbh,r任务_Task_A.csv,3731,Task,Desc,,创生七日·通关,7일간의 창조·클리어
+Task_97700_Desc,bBbF,r任务_Task_A.csv,3732,Task,Desc,,创生七日·界域,7일간의 창조·영역
+Task_97698_Desc,bBbD,r任务_Task_A.csv,3733,Task,Desc,,创生七日·癫狂,7일간의 창조·광란
+Task_97679_Desc,bBbk,r任务_Task_A.csv,3741,Task,Desc,,完成「创生七日·通关」所有成就,「7일간의 창조·클리어」의 모든 업적 완료
+Task_97678_Desc,bBbj,r任务_Task_A.csv,3742,Task,Desc,,使用混沌界域唤醒体在「创生七日」中获胜1次,혼돈 영역 각성체로 「7일간의 창조」에서 1회 승리
+Task_97694_Desc,bBbz,r任务_Task_A.csv,3743,Task,Desc,,使用混沌界域唤醒体在「创生七日」中获胜2次,혼돈 영역 각성체로 「7일간의 창조」에서 2회 승리
+Task_97692_Desc,bBbx,r任务_Task_A.csv,3744,Task,Desc,,使用深海界域唤醒体在「创生七日」中获胜1次,심해 영역 각성체로 「7일간의 창조」에서 1회 승리
+Task_97701_Desc,bBbG,r任务_Task_A.csv,3745,Task,Desc,,使用深海界域唤醒体在「创生七日」中获胜2次,심해 영역 각성체로 「7일간의 창조」에서 2회 승리
+Task_97687_Desc,bBbs,r任务_Task_A.csv,3746,Task,Desc,,使用血肉界域唤醒体在「创生七日」中获胜1次,혈육 영역 각성체로 「7일간의 창조」에서 1회 승리
+Task_97696_Desc,bBbB,r任务_Task_A.csv,3747,Task,Desc,,使用血肉界域唤醒体在「创生七日」中获胜2次,혈육 영역 각성체로 「7일간의 창조」에서 2회 승리
+Task_97686_Desc,bBbr,r任务_Task_A.csv,3748,Task,Desc,,使用超维界域唤醒体在「创生七日」中获胜1次,초차원 영역 각성체로 「7일간의 창조」에서 1회 승리
+Task_97690_Desc,bBbv,r任务_Task_A.csv,3749,Task,Desc,,使用超维界域唤醒体在「创生七日」中获胜2次,초차원 영역 각성체로 「7일간의 창조」에서 2회 승리
+Task_119001_Desc,bJIs,r任务_Task_A.csv,6348,Task,Desc,,参与 1 次「预组模式」,「사전 편성 모드」 1회 참여
+Task_118991_Desc,bJIi,r任务_Task_A.csv,6349,Task,Desc,,参与 1 次「轮选模式」,「순차 선택 모드」에 1회 참여
+Task_118982_Desc,bJHZ,r任务_Task_A.csv,6353,Task,Desc,,在预组模式中曾达到 500 积分,사전 편성 모드에서 500포인트에 도달
+Task_118996_Desc,bJIn,r任务_Task_A.csv,6354,Task,Desc,,在预组模式中曾达到 1000 积分,사전 편성 모드에서 1000포인트에 도달
+Task_119002_Desc,bJIt,r任务_Task_A.csv,6355,Task,Desc,,在预组模式中曾达到 1500 积分,사전 편성 모드에서 1500포인트에 도달
+Task_118992_Desc,bJIj,r任务_Task_A.csv,6356,Task,Desc,,在预组模式中曾达到 2000 积分,사전 편성 모드에서 2000포인트에 도달
+Task_119008_Desc,bJIz,r任务_Task_A.csv,6357,Task,Desc,,在预组模式中曾达到 2500 积分,사전 편성 모드에서 2500포인트에 도달
+Task_119000_Desc,bJIr,r任务_Task_A.csv,6358,Task,Desc,,在预组模式中曾达到 3000 积分,사전 편성 모드에서 3000포인트에 도달
+Task_118994_Desc,bJIl,r任务_Task_A.csv,6359,Task,Desc,,在轮选模式中曾达到 500 积分,순차 선택 모드에서 500포인트에 도달
+Task_118984_Desc,bJIb,r任务_Task_A.csv,6360,Task,Desc,,在轮选模式中曾达到 1000 积分,순차 선택 모드에서 1000포인트에 도달
+Task_119004_Desc,bJIv,r任务_Task_A.csv,6361,Task,Desc,,在轮选模式中曾达到 1500 积分,순차 선택 모드에서 1500포인트에 도달
+Task_118993_Desc,bJIk,r任务_Task_A.csv,6362,Task,Desc,,在轮选模式中曾达到 2000 积分,순차 선택 모드에서 2000포인트에 도달
+Task_118985_Desc,bJIc,r任务_Task_A.csv,6363,Task,Desc,,在轮选模式中曾达到 2500 积分,순차 선택 모드에서 2500포인트에 도달
+Task_119003_Desc,bJIu,r任务_Task_A.csv,6364,Task,Desc,,在轮选模式中曾达到 3000 积分,순차 선택 모드에서 3000포인트에 도달
+TipsType_10822_Desc,bmLk,t提示信息_TipsType_C.csv,934,TipsType,Desc,,活动已结束,이벤트 종료
+TipsType_20229_LeftBtnDesc,bAbV,t提示信息_TipsType_C.csv,1092,TipsType,LeftBtnDesc,,取消,취소
+TipsType_20241_LeftBtnDesc,bAcc,t提示信息_TipsType_C.csv,1105,TipsType,LeftBtnDesc,,取消,취소
+TipsType_20359_LeftBtnDesc,bHZg,t提示信息_TipsType_C.csv,1106,TipsType,LeftBtnDesc,,取消,취소
+TipsType_20233_Desc,bCcc,t提示信息_TipsType_C.csv,1107,TipsType,Desc,,当前所需材料不足，是否消耗以下材料进行补全？,재료가 부족합니다. 다음 재료를 소모하여 보충하시겠습니까?
+TipsType_20233_LeftBtnDesc,bCcd,t提示信息_TipsType_C.csv,1107,TipsType,LeftBtnDesc,,取消,취소
+TipsType_20357_LeftBtnDesc,bHYY,t提示信息_TipsType_C.csv,1118,TipsType,LeftBtnDesc,,取消,취소
+TipsType_20358_LeftBtnDesc,bHZc,t提示信息_TipsType_C.csv,1119,TipsType,LeftBtnDesc,,取消,취소
+TipsType_WaitOthersEnter_LeftBtnDesc,bHZN,t提示信息_TipsType_C.csv,1125,TipsType,LeftBtnDesc,,取消,취소
+TipsType_WaitOppositeSideAccept_LeftBtnDesc,bHZK,t提示信息_TipsType_C.csv,1128,TipsType,LeftBtnDesc,,取消,취소
+TipsType_PVP_PasswordBattle_QuitTips_LeftBtnDesc,bHZE,t提示信息_TipsType_C.csv,1139,TipsType,LeftBtnDesc,,取消,취소
+TipsType_PvpCollectionCommentDeleteTips_LeftBtnDesc,bIdx,t提示信息_TipsType_C.csv,1148,TipsType,LeftBtnDesc,,取消,취소
+TipsType_PVETeamShareCodeSaveTips_LeftBtnDesc,bKsA,t提示信息_TipsType_C.csv,1151,TipsType,LeftBtnDesc,,取消,취소
+TipsType_MainResetBG_LeftBtnDesc,bKsx,t提示信息_TipsType_C.csv,1154,TipsType,LeftBtnDesc,,取消,취소
+TipsType_LimitAwakerEnlightenmentOverflowTips_LeftBtnDesc,bKCR,t提示信息_TipsType_C.csv,1169,TipsType,LeftBtnDesc,,取消,취소
+TipsType_DiskSpaceNotEnough_LeftBtnDesc,bLdA,t提示信息_TipsType_C.csv,1172,TipsType,LeftBtnDesc,,取消,취소
+TipsType_PVPSurrenderConfirm_RightBtnDesc,bLfL,t提示信息_TipsType_C.csv,1174,TipsType,RightBtnDesc,,取消,취소
+Tutorial_54390_Desc_2,bnit,j教程_Tutorial_A_M.csv,86,Tutorial,Desc,,属于<TutorialHighlight:正面状态>的如下（点击查看详情）：<TauntKeywords:嘲讽>、<PowerColourKeywords:力量>、<EnergyStorageKeywords:蓄力>、<PVPProtectiveKeywords:屏障>、<StrengthenKeywords:反击>、<ReinforceKeywords:加固>、<StrengthenKeywords:强化>。,"<TutorialHighlight:긍정적 상태>는 다음과 같습니다 (클릭하여 자세히 보기): <TauntKeywords:도발>, <PowerColourKeywords:힘>, <EnergyStorageKeywords:차지>, <PVPProtectiveKeywords:장벽>, <StrengthenKeywords:반격>, <ReinforceKeywords:견고>, <StrengthenKeywords:강화>."
+Voice_6143_AwakerVoiceTitle,bpor,y语音_Voice_A.csv,24,Voice,AwakerVoiceTitle,拉蒙娜,技能·二,스킬·2
+Voice_5370_AwakerVoiceTitle,bnWv,y语音_Voice_A.csv,25,Voice,AwakerVoiceTitle,拉蒙娜,技能·三,스킬·3
+Voice_6548_AwakerVoiceTitle,bpTv,y语音_Voice_A.csv,26,Voice,AwakerVoiceTitle,拉蒙娜,技能·四,스킬·4
+Voice_54601_AwakerVoiceTitle,bodr,y语音_Voice_A.csv,31,Voice,AwakerVoiceTitle,拉蒙娜,超限狂气爆发·二,초월 폭발·2
+Voice_5714_AwakerVoiceTitle,boBf,y语音_Voice_A.csv,68,Voice,AwakerVoiceTitle,萝坦,技能·二,스킬·2
+Voice_5324_AwakerVoiceTitle,bnST,y语音_Voice_A.csv,70,Voice,AwakerVoiceTitle,萝坦,技能·四,스킬·4
+Voice_54620_AwakerVoiceTitle,boeP,y语音_Voice_A.csv,75,Voice,AwakerVoiceTitle,萝坦,超限狂气爆发·二,초월 폭발·2
+Voice_4989_AwakerVoiceTitle,bnsf,y语音_Voice_A.csv,112,Voice,AwakerVoiceTitle,朵尔,技能·二,스킬·2
+Voice_5134_AwakerVoiceTitle,bnEv,y语音_Voice_A.csv,114,Voice,AwakerVoiceTitle,朵尔,技能·四,스킬·4
+Voice_54607_AwakerVoiceTitle,bodH,y语音_Voice_A.csv,119,Voice,AwakerVoiceTitle,朵尔,超限狂气爆发·二,초월 폭발·2
+Voice_5165_AwakerVoiceTitle,bnGL,y语音_Voice_A.csv,156,Voice,AwakerVoiceTitle,奥吉尔,技能·二,스킬·2
+Voice_5328_AwakerVoiceTitle,bnTj,y语音_Voice_A.csv,158,Voice,AwakerVoiceTitle,奥吉尔,技能·四,스킬·4
+Voice_54619_AwakerVoiceTitle,boeH,y语音_Voice_A.csv,163,Voice,AwakerVoiceTitle,奥吉尔,超限狂气爆发·二,초월 폭발·2
+Voice_6240_AwakerVoiceTitle,bpvL,y语音_Voice_A.csv,200,Voice,AwakerVoiceTitle,宁菲亚,技能·二,스킬·2
+Voice_6410_AwakerVoiceTitle,bpIP,y语音_Voice_A.csv,202,Voice,AwakerVoiceTitle,宁菲亚,技能·四,스킬·4
+Voice_54617_AwakerVoiceTitle,boez,y语音_Voice_A.csv,207,Voice,AwakerVoiceTitle,宁菲亚,超限狂气爆发·二,초월 폭발·2
+Voice_5720_AwakerVoiceTitle,boBD,y语音_Voice_A.csv,244,Voice,AwakerVoiceTitle,詹金,技能·二,스킬·2
+Voice_5845_AwakerVoiceTitle,boNP,y语音_Voice_A.csv,246,Voice,AwakerVoiceTitle,詹金,技能·四,스킬·4
+Voice_56393_AwakerVoiceTitle,bovn,y语音_Voice_A.csv,254,Voice,AwakerVoiceTitle,詹金,超限狂气爆发·二,초월 폭발·2
+Voice_6014_AwakerVoiceTitle,bpaX,y语音_Voice_A.csv,291,Voice,AwakerVoiceTitle,艾继丝,技能·二,스킬·2
+Voice_6446_AwakerVoiceTitle,bpLD,y语音_Voice_A.csv,293,Voice,AwakerVoiceTitle,艾继丝,技能·四,스킬·4
+Voice_57845_AwakerVoiceTitle,boID,y语音_Voice_A.csv,298,Voice,AwakerVoiceTitle,艾继丝,超限狂气爆发·二,초월 폭발·2
+Voice_5872_AwakerVoiceTitle,boPT,y语音_Voice_A.csv,335,Voice,AwakerVoiceTitle,墨菲,技能·二,스킬·2
+Voice_4948_AwakerVoiceTitle,bnpb,y语音_Voice_A.csv,337,Voice,AwakerVoiceTitle,墨菲,技能·四,스킬·4
+Voice_57824_AwakerVoiceTitle,boGP,y语音_Voice_A.csv,342,Voice,AwakerVoiceTitle,墨菲,超限狂气爆发·二,초월 폭발·2
+Voice_36686_AwakerVoiceContent,bnle,y语音_Voice_A.csv,364,Voice,AwakerVoiceContent,墨菲,"我曾以为，我和她之间是有亲情的……
+但在那一切都发生后我才意识到，或许，那些片刻温情从一开始就是我的一厢情愿。
+你要怎么对她，是你们间的事，只要别再让她靠近我就好。","나와 그 여자 사이에 가족의 정이 있다고 생각했어... 하지만 이런저런 일을 겪고 나니, 그저 내 착각이었다는 걸, 겨우 깨달았어.  그 여자를 어떻게 할지는, 너희들이 알아서 해. 더 이상 나에게 가까이 오지 못하게만 해줘."
+Voice_5535_AwakerVoiceTitle,boln,y语音_Voice_A.csv,397,Voice,AwakerVoiceTitle,珊,技能·二,스킬·2
+Voice_5395_AwakerVoiceTitle,bnYr,y语音_Voice_A.csv,399,Voice,AwakerVoiceTitle,珊,技能·四,스킬·4
+Voice_57831_AwakerVoiceTitle,boHv,y语音_Voice_A.csv,404,Voice,AwakerVoiceTitle,珊,超限狂气爆发·二,초월 폭발·2
+Voice_6009_AwakerVoiceTitle,bpaD,y语音_Voice_A.csv,441,Voice,AwakerVoiceTitle,雷娅,技能·二,스킬·2
+Voice_5257_AwakerVoiceTitle,bnNP,y语音_Voice_A.csv,443,Voice,AwakerVoiceTitle,雷娅,技能·四,스킬·4
+Voice_57836_AwakerVoiceTitle,boHP,y语音_Voice_A.csv,448,Voice,AwakerVoiceTitle,雷娅,超限狂气爆发·二,초월 폭발·2
+Voice_5806_AwakerVoiceTitle,boKP,y语音_Voice_A.csv,485,Voice,AwakerVoiceTitle,尤乌哈希,技能·二,스킬·2
+Voice_5917_AwakerVoiceTitle,boTr,y语音_Voice_A.csv,487,Voice,AwakerVoiceTitle,尤乌哈希,技能·四,스킬·4
+Voice_57825_AwakerVoiceTitle,boGT,y语音_Voice_A.csv,492,Voice,AwakerVoiceTitle,尤乌哈希,超限狂气爆发·二,초월 폭발·2
+Voice_6036_AwakerVoiceTitle,bpcD,y语音_Voice_A.csv,532,Voice,AwakerVoiceTitle,凯刻斯,技能·二,스킬·2
+Voice_6692_AwakerVoiceTitle,bqev,y语音_Voice_A.csv,534,Voice,AwakerVoiceTitle,凯刻斯,技能·四,스킬·4
+Voice_57819_AwakerVoiceTitle,boGr,y语音_Voice_A.csv,539,Voice,AwakerVoiceTitle,凯刻斯,超限狂气爆发·二,초월 폭발·2
+Voice_6508_AwakerVoiceTitle,bpQr,y语音_Voice_A.csv,576,Voice,AwakerVoiceTitle,戈利亚,技能·二,스킬·2
+Voice_6069_AwakerVoiceTitle,bpff,y语音_Voice_A.csv,578,Voice,AwakerVoiceTitle,戈利亚,技能·四,스킬·4
+Voice_57850_AwakerVoiceTitle,boJb,y语音_Voice_A.csv,586,Voice,AwakerVoiceTitle,戈利亚,超限狂气爆发·二,초월 폭발·2
+Voice_6407_AwakerVoiceTitle,bpID,y语音_Voice_A.csv,623,Voice,AwakerVoiceTitle,希莱斯特,技能·二,스킬·2
+Voice_6239_AwakerVoiceTitle,bpvH,y语音_Voice_A.csv,625,Voice,AwakerVoiceTitle,希莱斯特,技能·四,스킬·4
+Voice_57843_AwakerVoiceTitle,boIv,y语音_Voice_A.csv,630,Voice,AwakerVoiceTitle,希莱斯特,超限狂气爆发·二,초월 폭발·2
+Voice_6328_AwakerVoiceTitle,bpCz,y语音_Voice_A.csv,667,Voice,AwakerVoiceTitle,希洛,技能·二,스킬·2
+Voice_5140_AwakerVoiceTitle,bnET,y语音_Voice_A.csv,669,Voice,AwakerVoiceTitle,希洛,技能·四,스킬·4
+Voice_57827_AwakerVoiceTitle,boHb,y语音_Voice_A.csv,674,Voice,AwakerVoiceTitle,希洛,超限狂气爆发·二,초월 폭발·2
+Voice_5941_AwakerVoiceTitle,boVj,y语音_Voice_A.csv,713,Voice,AwakerVoiceTitle,法洛思,技能·二,스킬·2
+Voice_6075_AwakerVoiceTitle,bpfz,y语音_Voice_A.csv,715,Voice,AwakerVoiceTitle,法洛思,技能·四,스킬·4
+Voice_57822_AwakerVoiceTitle,boGH,y语音_Voice_A.csv,720,Voice,AwakerVoiceTitle,法洛思,超限狂气爆发·二,초월 폭발·2
+Voice_5190_AwakerVoiceTitle,bnIH,y语音_Voice_A.csv,757,Voice,AwakerVoiceTitle,奥瑞塔,技能·二,스킬·2
+Voice_5348_AwakerVoiceTitle,bnUL,y语音_Voice_A.csv,759,Voice,AwakerVoiceTitle,奥瑞塔,技能·四,스킬·4
+Voice_57840_AwakerVoiceTitle,boIj,y语音_Voice_A.csv,764,Voice,AwakerVoiceTitle,奥瑞塔,超限狂气爆发·二,초월 폭발·2
+Voice_5436_AwakerVoiceTitle,bobz,y语音_Voice_A.csv,801,Voice,AwakerVoiceTitle,阿格里帕,技能·二,스킬·2
+Voice_5593_AwakerVoiceTitle,bopT,y语音_Voice_A.csv,803,Voice,AwakerVoiceTitle,阿格里帕,技能·四,스킬·4
+Voice_57842_AwakerVoiceTitle,boIr,y语音_Voice_A.csv,808,Voice,AwakerVoiceTitle,阿格里帕,超限狂气爆发·二,초월 폭발·2
+Voice_5025_AwakerVoiceTitle,bnuT,y语音_Voice_A.csv,845,Voice,AwakerVoiceTitle,萨尔瓦多,技能·二,스킬·2
+Voice_5481_AwakerVoiceTitle,bohf,y语音_Voice_A.csv,847,Voice,AwakerVoiceTitle,萨尔瓦多,技能·四,스킬·4
+Voice_57834_AwakerVoiceTitle,boHH,y语音_Voice_A.csv,852,Voice,AwakerVoiceTitle,萨尔瓦多,超限狂气爆发·二,초월 폭발·2
+Voice_6129_AwakerVoiceTitle,bpnn,y语音_Voice_A.csv,898,Voice,AwakerVoiceTitle,弥利亚姆,技能·二,스킬·2
+Voice_5636_AwakerVoiceTitle,bouz,y语音_Voice_A.csv,900,Voice,AwakerVoiceTitle,弥利亚姆,技能·四,스킬·4
+Voice_54609_AwakerVoiceTitle,bodP,y语音_Voice_A.csv,907,Voice,AwakerVoiceTitle,弥利亚姆,超限狂气爆发·二,초월 폭발·2
+Voice_6486_AwakerVoiceTitle,bpOH,y语音_Voice_A.csv,944,Voice,AwakerVoiceTitle,图鲁,技能·二,스킬·2
+Voice_6322_AwakerVoiceTitle,bpCb,y语音_Voice_A.csv,946,Voice,AwakerVoiceTitle,图鲁,技能·四,스킬·4
+Voice_57833_AwakerVoiceTitle,boHD,y语音_Voice_A.csv,951,Voice,AwakerVoiceTitle,图鲁,超限狂气爆发·二,초월 폭발·2
+Voice_5053_AwakerVoiceTitle,bnxb,y语音_Voice_A.csv,988,Voice,AwakerVoiceTitle,泰旖丝,技能·二,스킬·2
+Voice_5473_AwakerVoiceTitle,bogz,y语音_Voice_A.csv,990,Voice,AwakerVoiceTitle,泰旖丝,技能·四,스킬·4
+Voice_57829_AwakerVoiceTitle,boHj,y语音_Voice_A.csv,996,Voice,AwakerVoiceTitle,泰旖丝,超限狂气爆发·二,초월 폭발·2
+Voice_5972_AwakerVoiceTitle,boXL,y语音_Voice_A.csv,1048,Voice,AwakerVoiceTitle,索蕾尔,技能·二,스킬·2
+Voice_6114_AwakerVoiceTitle,bpmf,y语音_Voice_A.csv,1050,Voice,AwakerVoiceTitle,索蕾尔,技能·四,스킬·4
+Voice_54627_AwakerVoiceTitle,bofr,y语音_Voice_A.csv,1055,Voice,AwakerVoiceTitle,索蕾尔,超限狂气爆发·二,초월 폭발·2
+Voice_5983_AwakerVoiceTitle,boYD,y语音_Voice_A.csv,1092,Voice,AwakerVoiceTitle,诺缔拉,技能·二,스킬·2
+Voice_5624_AwakerVoiceTitle,bosn,y语音_Voice_A.csv,1094,Voice,AwakerVoiceTitle,诺缔拉,技能·四,스킬·4
+Voice_54628_AwakerVoiceTitle,bofv,y语音_Voice_A.csv,1099,Voice,AwakerVoiceTitle,诺缔拉,超限狂气爆发·二,초월 폭발·2
+Voice_6103_AwakerVoiceTitle,bplj,y语音_Voice_A.csv,1143,Voice,AwakerVoiceTitle,血链·希洛,技能·二,스킬·2
+Voice_5729_AwakerVoiceTitle,boCn,y语音_Voice_A.csv,1145,Voice,AwakerVoiceTitle,血链·希洛,技能·四,스킬·4
+Voice_57847_AwakerVoiceTitle,boIL,y语音_Voice_A.csv,1150,Voice,AwakerVoiceTitle,血链·希洛,超限狂气爆发·二,초월 폭발·2
+Voice_5768_AwakerVoiceTitle,boFn,y语音_Voice_A.csv,1188,Voice,AwakerVoiceTitle,菲茵特,技能·二,스킬·2
+Voice_5761_AwakerVoiceTitle,boEL,y语音_Voice_A.csv,1190,Voice,AwakerVoiceTitle,菲茵特,技能·四,스킬·4
+Voice_57838_AwakerVoiceTitle,boHX,y语音_Voice_A.csv,1195,Voice,AwakerVoiceTitle,菲茵特,超限狂气爆发·二,초월 폭발·2
+Voice_5962_AwakerVoiceTitle,boWX,y语音_Voice_A.csv,1234,Voice,AwakerVoiceTitle,诞妄·墨菲,技能·二,스킬·2
+Voice_6690_AwakerVoiceContent,bqem,y语音_Voice_A.csv,1236,Voice,AwakerVoiceContent,诞妄·墨菲,将它们……都交予我！,나에게... 모든 걸 바쳐라!
+Voice_6689_AwakerVoiceContent,bqei,y语音_Voice_A.csv,1237,Voice,AwakerVoiceContent,诞妄·墨菲,将它们……都交予我！,나에게... 모든 걸 바쳐라!
+Voice_122115_AwakerVoiceContent,bLdC,y语音_Voice_A.csv,1238,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망, 뒤틀림, 모든 건 운명이 이끄는 대로!"
+Voice_122117_AwakerVoiceTitle,bLdF,y语音_Voice_A.csv,1239,Voice,AwakerVoiceTitle,诞妄·墨菲,超限狂气爆发·二,초월 폭발·2
+Voice_122117_AwakerVoiceContent,bLdE,y语音_Voice_A.csv,1239,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망, 뒤틀림, 모든 건 운명이 이끄는 대로!"
+Voice_5000_AwakerVoiceTitle,bnsX,y语音_Voice_A.csv,1276,Voice,AwakerVoiceTitle,莱克,技能·二,스킬·2
+Voice_5743_AwakerVoiceTitle,boDr,y语音_Voice_A.csv,1278,Voice,AwakerVoiceTitle,莱克,技能·四,스킬·4
+Voice_59463_AwakerVoiceTitle,boVD,y语音_Voice_A.csv,1283,Voice,AwakerVoiceTitle,莱克,超限狂气爆发·二,초월 폭발·2
+Voice_54611_AwakerVoiceTitle,boeb,y语音_Voice_A.csv,1327,Voice,AwakerVoiceTitle,「24」,超限狂气爆发·二,초월 폭발·2
+Voice_5775_AwakerVoiceTitle,boFP,y语音_Voice_A.csv,1364,Voice,AwakerVoiceTitle,莉莉,技能·二,스킬·2
+Voice_6449_AwakerVoiceTitle,bpLP,y语音_Voice_A.csv,1366,Voice,AwakerVoiceTitle,莉莉,技能·四,스킬·4
+Voice_54624_AwakerVoiceTitle,boff,y语音_Voice_A.csv,1371,Voice,AwakerVoiceTitle,莉莉,超限狂气爆发·二,초월 폭발·2
+Voice_6141_AwakerVoiceTitle,bpoj,y语音_Voice_A.csv,1408,Voice,AwakerVoiceTitle,珈伦,技能·二,스킬·2
+Voice_5995_AwakerVoiceTitle,boZz,y语音_Voice_A.csv,1410,Voice,AwakerVoiceTitle,珈伦,技能·四,스킬·4
+Voice_54606_AwakerVoiceTitle,bodD,y语音_Voice_A.csv,1415,Voice,AwakerVoiceTitle,珈伦,超限狂气爆发·二,초월 폭발·2
+Voice_5243_AwakerVoiceTitle,bnML,y语音_Voice_A.csv,1452,Voice,AwakerVoiceTitle,艾尔瓦,技能·二,스킬·2
+Voice_5388_AwakerVoiceTitle,bnXP,y语音_Voice_A.csv,1454,Voice,AwakerVoiceTitle,艾尔瓦,技能·四,스킬·4
+Voice_54612_AwakerVoiceTitle,boef,y语音_Voice_A.csv,1459,Voice,AwakerVoiceTitle,艾尔瓦,超限狂气爆发·二,초월 폭발·2
+Voice_5114_AwakerVoiceTitle,bnCT,y语音_Voice_A.csv,1496,Voice,AwakerVoiceTitle,潘狄娅,技能·二,스킬·2
+Voice_5526_AwakerVoiceTitle,bokD,y语音_Voice_A.csv,1498,Voice,AwakerVoiceTitle,潘狄娅,技能·四,스킬·4
+Voice_54615_AwakerVoiceTitle,boer,y语音_Voice_A.csv,1503,Voice,AwakerVoiceTitle,潘狄娅,超限狂气爆发·二,초월 폭발·2
+Voice_4967_AwakerVoiceTitle,bnqv,y语音_Voice_A.csv,1540,Voice,AwakerVoiceTitle,熔毁·朵尔,技能·二,스킬·2
+Voice_5102_AwakerVoiceTitle,bnBX,y语音_Voice_A.csv,1542,Voice,AwakerVoiceTitle,熔毁·朵尔,技能·四,스킬·4
+Voice_67754_AwakerVoiceTitle,bqnz,y语音_Voice_A.csv,1547,Voice,AwakerVoiceTitle,熔毁·朵尔,超限狂气爆发·二,초월 폭발·2
+Voice_6598_AwakerVoiceTitle,bpXn,y语音_Voice_A.csv,1584,Voice,AwakerVoiceTitle,环行·拉蒙娜,技能·二,스킬·2
+Voice_5110_AwakerVoiceTitle,bnCD,y语音_Voice_A.csv,1586,Voice,AwakerVoiceTitle,环行·拉蒙娜,技能·四,스킬·4
+Voice_54626_AwakerVoiceTitle,bofn,y语音_Voice_A.csv,1591,Voice,AwakerVoiceTitle,环行·拉蒙娜,超限狂气爆发·二,초월 폭발·2
+Voice_5154_AwakerVoiceTitle,bnFX,y语音_Voice_A.csv,1712,Voice,AwakerVoiceTitle,莉兹,技能·二,스킬·2
+Voice_6635_AwakerVoiceTitle,bqaf,y语音_Voice_A.csv,1714,Voice,AwakerVoiceTitle,莉兹,技能·四,스킬·4
+Voice_6228_AwakerVoiceTitle,bpuT,y语音_Voice_A.csv,1755,Voice,AwakerVoiceTitle,旺达,技能·二,스킬·2
+Voice_5923_AwakerVoiceTitle,boTP,y语音_Voice_A.csv,1757,Voice,AwakerVoiceTitle,旺达,技能·四,스킬·4
+Voice_5882_AwakerVoiceTitle,boQH,y语音_Voice_A.csv,1798,Voice,AwakerVoiceTitle,达芙黛尔,技能·二,스킬·2
+Voice_5781_AwakerVoiceTitle,boGv,y语音_Voice_A.csv,1800,Voice,AwakerVoiceTitle,达芙黛尔,技能·四,스킬·4
+Voice_5595_AwakerVoiceTitle,boqb,y语音_Voice_A.csv,1841,Voice,AwakerVoiceTitle,艾瑞卡,技能·二,스킬·2
+Voice_5403_AwakerVoiceTitle,bnYX,y语音_Voice_A.csv,1843,Voice,AwakerVoiceTitle,艾瑞卡,技能·四,스킬·4
+Voice_5992_AwakerVoiceTitle,boZn,y语音_Voice_A.csv,1884,Voice,AwakerVoiceTitle,温柯尔,技能·二,스킬·2
+Voice_6684_AwakerVoiceTitle,bqdP,y语音_Voice_A.csv,1886,Voice,AwakerVoiceTitle,温柯尔,技能·四,스킬·4
+Voice_6699_AwakerVoiceContent,bqeW,y语音_Voice_A.csv,1891,Voice,AwakerVoiceContent,温柯尔,和弥萨格大学达成合作时，明明说好了不让我去战斗的……,"대학과 협력 관계를 맺을 때, 나한테 싸움은 시키지 않겠다고 약속했었는데..."
+Voice_6618_AwakerVoiceTitle,bpYP,y语音_Voice_A.csv,1927,Voice,AwakerVoiceTitle,卡茜亚,技能·二,스킬·2
+Voice_5231_AwakerVoiceTitle,bnLP,y语音_Voice_A.csv,1929,Voice,AwakerVoiceTitle,卡茜亚,技能·四,스킬·4
+Voice_5008_AwakerVoiceTitle,bntD,y语音_Voice_A.csv,1970,Voice,AwakerVoiceTitle,奥尔拉,技能·二,스킬·2
+Voice_6517_AwakerVoiceTitle,bpRb,y语音_Voice_A.csv,1972,Voice,AwakerVoiceTitle,奥尔拉,技能·四,스킬·4
+Voice_61005_AwakerVoiceTitle,bpiX,y语音_Voice_A.csv,2023,Voice,AwakerVoiceTitle,哈姆林,技能·二,스킬·2
+Voice_61013_AwakerVoiceTitle,bpjH,y语音_Voice_A.csv,2025,Voice,AwakerVoiceTitle,哈姆林,技能·四,스킬·4
+Voice_61049_AwakerVoiceTitle,bpln,y语音_Voice_A.csv,2030,Voice,AwakerVoiceTitle,哈姆林,超限狂气爆发·二,초월 폭발·2
+Voice_67310_AwakerVoiceTitle,bqkb,y语音_Voice_A.csv,2081,Voice,AwakerVoiceTitle,塔薇,超限狂气爆发·二,초월 폭발·2
+Voice_81169_AwakerVoiceTitle,btCI,y语音_Voice_A.csv,2133,Voice,AwakerVoiceTitle,克莱门汀,超限狂气爆发·二,초월 폭발·2
+Voice_84216_AwakerVoiceTitle,btFI,y语音_Voice_A.csv,2180,Voice,AwakerVoiceTitle,克珀珊特,超限狂气爆发·二,초월 폭발·2
+Voice_90335_AwakerVoiceTitle,bxWm,y语音_Voice_A.csv,2225,Voice,AwakerVoiceTitle,卡斯托尔,超限狂气爆发·二,초월 폭발·2
+Voice_96402_AwakerVoiceTitle,bAqR,y语音_Voice_A.csv,2265,Voice,AwakerVoiceTitle,杜勒赛因,技能·二,스킬·2
+Voice_96381_AwakerVoiceTitle,bApT,y语音_Voice_A.csv,2267,Voice,AwakerVoiceTitle,杜勒赛因,技能·四,스킬·4
+Voice_96401_AwakerVoiceTitle,bAqP,y语音_Voice_A.csv,2272,Voice,AwakerVoiceTitle,杜勒赛因,超限狂气爆发·二,초월 폭발·2
+Voice_95402_AwakerVoiceTitle,bzxG,y语音_Voice_A.csv,2308,Voice,AwakerVoiceTitle,凯蒂古拉,技能·二,스킬·2
+Voice_95400_AwakerVoiceTitle,bzxC,y语音_Voice_A.csv,2310,Voice,AwakerVoiceTitle,凯蒂古拉,技能·四,스킬·4
+Voice_95428_AwakerVoiceTitle,bzyI,y语音_Voice_A.csv,2316,Voice,AwakerVoiceTitle,凯蒂古拉,超限狂气爆发·二,초월 폭발·2
+Voice_95058_AwakerVoiceTitle,bzvz,y语音_Voice_A.csv,2362,Voice,AwakerVoiceTitle,波吕克斯,超限狂气爆发·二,초월 폭발·2
+Voice_100364_AwakerVoiceTitle,bCyu,y语音_Voice_A.csv,2407,Voice,AwakerVoiceTitle,皮克曼,超限狂气爆发·二,초월 폭발·2
+Voice_117795_AwakerVoiceTitle,bIBU,y语音_Voice_A.csv,2445,Voice,AwakerVoiceTitle,墨菲,技能·二,스킬·2
+Voice_117829_AwakerVoiceTitle,bIDs,y语音_Voice_A.csv,2447,Voice,AwakerVoiceTitle,墨菲,技能·四,스킬·4
+Voice_117793_AwakerVoiceTitle,bIBQ,y语音_Voice_A.csv,2452,Voice,AwakerVoiceTitle,墨菲,超限狂气爆发·二,초월 폭발·2
