@@ -463,7 +463,6 @@ AvgDialog_65470_Content_59,aoxA,avgV1.7塔薇小型支线_AvgDialog_C_M.csv,66,A
 AvgDialog_65470_Content_60,aoxC,avgV1.7塔薇小型支线_AvgDialog_C_M.csv,67,AvgDialog,Content,玩家,看着吧，托乎瓦波。我们是你的碎片，我们是弥萨格的守密人……,"지켜봐, 토후-와-보후. 우리는 너의 파편이자, 미사그의 수호자야..."
 AvgDialog_65470_Content_61,aoxD,avgV1.7塔薇小型支线_AvgDialog_C_M.csv,68,AvgDialog,Content,玩家,无论付出怎样的代价，我们都会将你留在这里！,"어떤 대가를 치르더라도, 우리는 널 이곳에 붙잡아 둘 거야!"
 AvgDialog_22708_Content_51,aikK,avg测试剧情_AvgDialog_C_M.csv,639,AvgDialog,Content,旁白（卡茜亚）,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
-AvgDialog_18912_Content_27,afAq,avg章1新_AvgDialog_C_M.csv,1055,AvgDialog,Content,,落日金黄的余晖穿透钟楼的巨大透明钟面，洒落到女孩的身上。,"노을의 금빛 잔광이 시계탑의 유리 면을 꿰뚫고, 소녀의 몸에 부드럽게 쏟아진다."
 AvgDialog_60342_Content_9,anYr,avg章8_AvgDialog_C_M.csv,1145,AvgDialog,Content,,触碰塔薇,타비와 접촉한다
 AvgDialog_65482_Content_21,aoFT,avg章9_AvgDialog_C_M.csv,299,AvgDialog,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
 AvgDialog_65482_Content_22,aoFU,avg章9_AvgDialog_C_M.csv,300,AvgDialog,Content,,终于迎来了绽放的时刻。,"마침내, 만개할 때가 찾아왔다."
@@ -5785,6 +5784,1414 @@ Voice_100364_AwakerVoiceTitle,bCyu,y语音_Voice_A.csv,2407,Voice,AwakerVoiceTit
 Voice_117795_AwakerVoiceTitle,bIBU,y语音_Voice_A.csv,2445,Voice,AwakerVoiceTitle,墨菲,技能·二,스킬·2
 Voice_117829_AwakerVoiceTitle,bIDs,y语音_Voice_A.csv,2447,Voice,AwakerVoiceTitle,墨菲,技能·四,스킬·4
 Voice_117793_AwakerVoiceTitle,bIBQ,y语音_Voice_A.csv,2452,Voice,AwakerVoiceTitle,墨菲,超限狂气爆发·二,초월 폭발·2
+AvgDialog_18861_Content_1,aeVU,avg章1_AvgDialog_C_M.csv,8,AvgDialog,Content,,人不可貌相,겉모습에 속지 말라
+AvgDialog_18875_Content_1,afcN,avg章1_AvgDialog_C_M.csv,214,AvgDialog,Content,,小小侦探,작은 탐정
+AvgDialog_18877_Content_1,affJ,avg章1_AvgDialog_C_M.csv,546,AvgDialog,Content,,谁杀死了知更鸟,누가 참새를 죽였나?
+AvgDialog_18831_Content_1,aeHc,avg章1_AvgDialog_C_M.csv,613,AvgDialog,Content,,内在的危险,내부의 위험
+AvgDialog_18870_Content_1,aeYR,avg章1_AvgDialog_C_M.csv,717,AvgDialog,Content,,我们的秘密,우리의 비밀
+AvgDialog_18872_Content_1,afac,avg章1_AvgDialog_C_M.csv,944,AvgDialog,Content,,彩色的梦魇,형형색색의 악몽
+AvgDialog_18856_Content_1,aeSo,avg章1_AvgDialog_C_M.csv,1103,AvgDialog,Content,,良心之重,양심의 무게
+AvgDialog_18857_Content_1,aeTz,avg章1_AvgDialog_C_M.csv,1230,AvgDialog,Content,,飞鸟不在的夜,새들이 없는 밤
+AvgDialog_18824_Content_1,aeDv,avg章1_AvgDialog_C_M.csv,1451,AvgDialog,Content,,波提切利之春,보티첼리의 봄
+AvgDialog_18899_Content_1,afpE,avg章1新_AvgDialog_C_M.csv,8,AvgDialog,Content,,漆黑之梦,검은 꿈
+AvgDialog_18899_Content_2,afpP,avg章1新_AvgDialog_C_M.csv,9,AvgDialog,Content,,你在一片漆黑中醒来。,당신은 깊은 어둠 속에서 깨어났다.
+AvgDialog_18899_Content_3,afqa,avg章1新_AvgDialog_C_M.csv,10,AvgDialog,Content,,这里似乎是某个密闭空间，狭小、黑暗、死寂、冰冷、无光、空气稀薄，像是棺材的内部。,"이곳은 밀폐된 공간인 것 같다. 좁고, 어둡고, 고요하며, 차갑다. 빛이라고는 찾아볼 수 없으며, 공기도 희박하다. 마치 관 속에 갇힌 것처럼."
+AvgDialog_18899_Content_4,afql,avg章1新_AvgDialog_C_M.csv,11,AvgDialog,Content,,恐惧感将你淹没，你挣扎，敲击，呼喊，却无法挣脱无尽的黑暗。,"공포가 당신을 압도한다. 당신은 필사적으로 몸부림치고, 두드리고, 소리쳐 보지만, 빠져나갈 수 없다."
+AvgDialog_18899_Content_5,afqu,avg章1新_AvgDialog_C_M.csv,12,AvgDialog,Content,,渐渐地，歌声响了起来。,점점 노랫소리가 들려온다.
+AvgDialog_18899_Content_6,afqv,avg章1新_AvgDialog_C_M.csv,13,AvgDialog,Content,？？？,<Italic:老查理有一只他很爱很爱的虎斑猫。>,<Italic:찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...>
+AvgDialog_18899_Content_7,afqw,avg章1新_AvgDialog_C_M.csv,14,AvgDialog,Content,玩家,喂——有人——有人在外面吗——,저기요— 누구— 누구 없나요?
+AvgDialog_18899_Content_8,afqx,avg章1新_AvgDialog_C_M.csv,15,AvgDialog,Content,？？？,<Italic:有一天她不见了，他到处寻找。>,"<Italic:어느 날 고양이가 사라져서, 할아버지는 샅샅이 찾았네>"
+AvgDialog_18899_Content_9,afqy,avg章1新_AvgDialog_C_M.csv,16,AvgDialog,Content,,这种感觉似曾相识，是的，你在某时某刻，也曾陷入过这样深沉而令人窒息的黑暗。,"익숙한 감각이다. 그렇다. 당신은 과거에, 지금처럼 깊고, 목을 조여오는 듯한 어둠에 빠져본 적이 있다."
+AvgDialog_18899_Content_10,afpF,avg章1新_AvgDialog_C_M.csv,17,AvgDialog,Content,？？？,<Italic:他翻了翻衣柜。他看了看床底。>,"<Italic:옷장 안을 뒤지고, 침대 밑을 살폈지>"
+AvgDialog_18899_Content_11,afpG,avg章1新_AvgDialog_C_M.csv,18,AvgDialog,Content,,空间似乎越来越狭小，窒息的压迫感侵蚀你的呼吸感官，身体逐渐僵硬，逐渐动弹不得。,"공간은 점점 좁아지고, 짓누르는 압박감이 호흡을 앗아가며, 몸은 서서히 굳어져 움직일 수 없다."
+AvgDialog_18899_Content_12,afpH,avg章1新_AvgDialog_C_M.csv,19,AvgDialog,Content,？？？,<Italic:他在烧着锅炉的地下室转了转。>,<Italic:보일러 웅웅대는 지하실도 갔지만>
+AvgDialog_18899_Content_13,afpI,avg章1新_AvgDialog_C_M.csv,20,AvgDialog,Content,,"只剩下眼球和喉咙勉强运转。
+周身如同被虫蚁噬咬，传来细碎的疼痛。",제대로 기능하는 곳은 눈과 목구멍뿐이다.
+AvgDialog_18899_Content_14,afpJ,avg章1新_AvgDialog_C_M.csv,21,AvgDialog,Content,？？？,<Italic:老查理在哪里都找不到他的虎斑猫。>,<Italic:고양이는 어디에도 없었네>
+AvgDialog_18899_Content_15,afpK,avg章1新_AvgDialog_C_M.csv,22,AvgDialog,Content,玩家,<Shake:谁来……救救……我……>,<Shake:아무나……제발……구해줘……>
+AvgDialog_18899_Content_16,afpL,avg章1新_AvgDialog_C_M.csv,23,AvgDialog,Content,？？？,<Italic:所以他哭啊哭啊——>,"<Italic:찰리 할아버지는, 울고 또 울다가—>"
+AvgDialog_18899_Content_17,afpM,avg章1新_AvgDialog_C_M.csv,24,AvgDialog,Content,玩家,<Shake:……@1……我……拉@1……>,<Shake:……@1……나……라모@……>
+AvgDialog_18899_Content_18,afpN,avg章1新_AvgDialog_C_M.csv,25,AvgDialog,Content,？？？,<Italic:——直到自己也消失掉。>,<Italic:——할아버지도 사라졌다네.>
+AvgDialog_18899_Content_19,afpO,avg章1新_AvgDialog_C_M.csv,26,AvgDialog,Content,,甜腥味涌入喉管，连声带都停止震动，世界陷入绝对的静止。,달콤한 피비린내가 목구멍으로 쏟아져 들어오면서 성대까지 진동을 멈췄다. 그렇게 세계가 완전히 정지했다.
+AvgDialog_18899_Content_20,afpQ,avg章1新_AvgDialog_C_M.csv,27,AvgDialog,Content,,……,...
+AvgDialog_18899_Content_21,afpR,avg章1新_AvgDialog_C_M.csv,28,AvgDialog,Content,,在某个时间，某个地点，你曾经经历过和这一模一样的事情。,"언젠가, 어디선가, 당신은 지금과 같은 일을 겪은 적이 있다."
+AvgDialog_18899_Content_22,afpS,avg章1新_AvgDialog_C_M.csv,29,AvgDialog,Content,,那时，将你从黑暗中拉起的人是——,그때 당신을 어둠 속에서 끌어올렸던 사람은—
+AvgDialog_18899_Content_23,afpT,avg章1新_AvgDialog_C_M.csv,30,AvgDialog,Content,？？？,醒醒，醒醒！%player%！,"%player%, %player%! 일어나!"
+AvgDialog_18899_Content_24,afpU,avg章1新_AvgDialog_C_M.csv,31,AvgDialog,Content,,光突如其来，某人拉住了你的手，你大汗淋漓地惊醒。,갑자기 빛이 솟구치며 누군가 당신의 손을 잡는다. 당신은 식은땀을 흘리며 깨어났다.
+AvgDialog_18899_Content_25,afpV,avg章1新_AvgDialog_C_M.csv,32,AvgDialog,Content,拉蒙娜,你又做怪梦了吗？,또 이상한 꿈을 꾼 거야?
+AvgDialog_18899_Content_26,afpW,avg章1新_AvgDialog_C_M.csv,33,AvgDialog,Content,玩家,……我不知道。,...모르겠어.
+AvgDialog_18899_Content_27,afpX,avg章1新_AvgDialog_C_M.csv,34,AvgDialog,Content,,"从<Yellow:阿库特>回来之后，你就频繁地做梦。
+梦见自己的梦，梦见他人的梦，梦见过去，甚至有时候……梦见未来。","<Yellow:아쿠트>에서 돌아온 후로, 당신은 꿈을 자주 꾼다—자신, 타인, 과거에 관한 꿈, 심지어는... 미래에 관한 꿈까지."
+AvgDialog_18899_Content_28,afpY,avg章1新_AvgDialog_C_M.csv,35,AvgDialog,Content,玩家,拉蒙娜，能不能陪我去钥冢一趟？,"라모나, 같이 열쇠 무덤으로 가줄 수 있어?"
+AvgDialog_18899_Content_29,afpZ,avg章1新_AvgDialog_C_M.csv,36,AvgDialog,Content,,拉蒙娜和你在钥冢中无言地前行，直到在林立的墓碑中找到那平凡又独特的一个。,"당신과 라모나는 말없이 열쇠 무덤을 걷다가, 끝없이 늘어선 묘비들 사이에서 평범하면서도 독특한 묘비 앞에 멈춰섰다."
+AvgDialog_18899_Content_30,afqb,avg章1新_AvgDialog_C_M.csv,37,AvgDialog,Content,拉蒙娜,这就是你的墓碑。,이게 네 묘비야.
+AvgDialog_18899_Content_31,afqc,avg章1新_AvgDialog_C_M.csv,38,AvgDialog,Content,玩家,拉蒙娜……,라모나...
+AvgDialog_18899_Content_32,afqd,avg章1新_AvgDialog_C_M.csv,39,AvgDialog,Content,玩家,我梦见了阿库特大爆炸……梦见了我被埋在瓦砾堆里，被你挖出来的时候。,"꿈에 아쿠트 대폭발이 나왔어... 내가 잔해 속에 묻히고, 네가 나를 파내서 구해주었던 때."
+AvgDialog_18899_Content_33,afqe,avg章1新_AvgDialog_C_M.csv,40,AvgDialog,Content,玩家,你和弥萨格，给了我第二次生命。,"너와 미사그 덕분에, 나는 두 번째 삶을 얻었어."
+AvgDialog_18899_Content_34,afqf,avg章1新_AvgDialog_C_M.csv,41,AvgDialog,Content,拉蒙娜,"发现你是我和弥萨格的幸运。
+如果不是你，在场所有人都会被阿库特的<Yellow:融蚀灾厄>湮没。",널 발견한 건 나와 미사그 모두에게 행운이었어. 네가 없었다면 여기 있는 모두가 아쿠트의 <Yellow:융식 재앙>으로 소멸되었을 거야.
+AvgDialog_18899_Content_35,afqg,avg章1新_AvgDialog_C_M.csv,42,AvgDialog,Content,拉蒙娜,在那之前的事情，还是没有记起来吗？,그 전에 있던 일은 아직도 기억이 안 나?
+AvgDialog_18899_Content_36,afqh,avg章1新_AvgDialog_C_M.csv,43,AvgDialog,Content,,你摇了摇头。,당신은 고개를 저었다.
+AvgDialog_18899_Content_37,afqi,avg章1新_AvgDialog_C_M.csv,44,AvgDialog,Content,,阿库特的漫天尘灰和拉蒙娜焦急的脸，这就是你记忆的起点。你之前的人生，似乎随着大爆炸一同逝去在了无边的荒原。,"아쿠트의 하늘을 뒤덮은 먼지와, 라모나의 초조한 얼굴. 이것이 당신의 첫 기억이다. 이전의 삶은 마치 그 사건과 함께 황야로 사라져버린 것만 같다."
+AvgDialog_18899_Content_38,afqj,avg章1新_AvgDialog_C_M.csv,45,AvgDialog,Content,拉蒙娜,茜尔维娅校医说过，记忆的恢复不是一蹴而就的事。多接触些人和事，说不定过程中就能慢慢回想起什么了。,"실비아 선생님의 말씀에 의하면, 기억은 한 번에 회복되지 않는대. 여러 사람과 여러 일을 접하다 보면 서서히 기억날지도 몰라."
+AvgDialog_18899_Content_39,afqk,avg章1新_AvgDialog_C_M.csv,46,AvgDialog,Content,拉蒙娜,情绪缓和些了吗？<Blue:威廉>可还在等着我们去向他报道呢。,기분은 좀 나아졌어? <Blue:윌리엄> 선배가 우리 보고를 기다리고 있어.
+AvgDialog_18899_Content_40,afqm,avg章1新_AvgDialog_C_M.csv,47,AvgDialog,Content,威廉,简单回顾一下任务目标：隐秘进入莉莉安济贫院，寻找失踪的调查员<Blue:肖恩·安德森>。,"이번 임무 목표를 다시 설명하지. 우리의 임무는 릴리안 빈민원에 잠입해서, 실종된 조사원 <Blue:숀 앤더슨>을 찾는 거다."
+AvgDialog_18899_Content_41,afqn,avg章1新_AvgDialog_C_M.csv,48,AvgDialog,Content,威廉,先遣队的调查员未在济贫院外监测到高危<Yellow:灾厄>信号，但你们仍需保持谨慎。除了拉蒙娜外，这次会有其他唤醒体与你同行。,"선발대의 조사 결과에 따르면, 빈민원 외부에서 고위험 <Yellow:재앙> 신호는 감지되지 않았지만, 그래도 신중해야 해.\n이번에는 라모나 외에도 다른 각성체가 동행할 거야."
+AvgDialog_18899_Content_42,afqo,avg章1新_AvgDialog_C_M.csv,49,AvgDialog,Content,威廉,虽然你拥有能够同时链接多名唤醒体的天赋，但考虑到链接可能带来的身体负担，本次行动会由已经完成链接的奥吉尔随行。,"여러 각성체와 동시에 링크할 수 있는 재능이 있다고 해도, 신체적인 부담을 고려해서 이번 작전에는 이미 너와 링크한 오지에가 합류할 예정이다."
+AvgDialog_18899_Content_43,afqp,avg章1新_AvgDialog_C_M.csv,50,AvgDialog,Content,奥吉尔,是！奥吉尔将竭诚辅助主君完成调查！,"네! 오지에, 주군의 조사 완수를 위해 성심성의껏 보조하겠습니다!"
+AvgDialog_18899_Content_44,afqq,avg章1新_AvgDialog_C_M.csv,51,AvgDialog,Content,玩家,有关安德森调查员的失踪，还有什么我们需要知道的情报吗？,앤더슨 조사원의 실종에 관해 저희가 더 알아야 할 정보가 있을까요?
+AvgDialog_18899_Content_45,afqr,avg章1新_AvgDialog_C_M.csv,52,AvgDialog,Content,威廉,济贫院周边是东区失踪案的高发地，最早一起失踪报告能追溯至半年以前。安德森调查员出生东区，他很可能被牵扯进了连环失踪案中。,"빈민원 주변은 동부 지구에서 실종 사건이 가장 빈번하게 일어난 지역이고, 첫 실종 신고는 반년 전에 보고되었다. 앤더슨 조사원은 동부 지구 출신이니, 그 연쇄 실종 사건에 휘말렸을 가능성이 커."
+AvgDialog_18899_Content_46,afqs,avg章1新_AvgDialog_C_M.csv,53,AvgDialog,Content,威廉,如果能一举破获失踪案自然更好，但别忘了，你们的首要任务是寻找失踪的调查员。,"실종 사건 자체를 해결할 수 있다면 당연히 더 좋겠지만, 최우선 목표는 실종된 조사원의 수색이라는 점을 잊지 말도록."
+AvgDialog_18899_Content_47,afqt,avg章1新_AvgDialog_C_M.csv,54,AvgDialog,Content,威廉,"事不宜迟，肖恩还在等待你们的救援，赶紧出发吧。
+愿银钥指引前路。",지체해선 안 돼. 숀은 아직도 구조를 기다리고 있을 테니 최대한 빨리 출발하도록 해.\n은빛 열쇠가 우리를 인도하길.
+AvgDialog_18906_Content_1,afuN,avg章1新_AvgDialog_C_M.csv,55,AvgDialog,Content,,人不可貌相,겉모습에 속지 말라
+AvgDialog_18906_Content_2,afuY,avg章1新_AvgDialog_C_M.csv,56,AvgDialog,Content,,你刚刚下车，就被浓重的湿气和腐朽的臭味压得透不过气。,차에서 내리자마자 짙은 습기와 썩은 냄새가 숨을 조여온다.
+AvgDialog_18906_Content_3,afvg,avg章1新_AvgDialog_C_M.csv,57,AvgDialog,Content,,"一股强烈的眩晕感伴随着剧烈的耳鸣突然向你袭来。
+模糊的画面在你脑中一闪而过，似乎某个时候，你看过类似的场景。","강한 어지럼증과 이명이 갑작스럽게 밀려 들어오고, 흐릿한 장면들이 당신의 머릿속을 스쳐 지나간다. 언젠가 비슷한 장면을 본 적이 있는 것 같다."
+AvgDialog_18906_Content_4,afvh,avg章1新_AvgDialog_C_M.csv,58,AvgDialog,Content,,是错觉吗，还是说，那是你丢失的记忆的一部分？,"착각일까, 아니면 잃어버린 기억의 일부일까?"
+AvgDialog_18906_Content_5,afvi,avg章1新_AvgDialog_C_M.csv,59,AvgDialog,Content,奥吉尔,这里既没有路标，也没有路牌……和地图也对不上……,여기는 표지판도 안내판도 없고... 지도와도 맞지 않네요...
+AvgDialog_18906_Content_6,afvj,avg章1新_AvgDialog_C_M.csv,60,AvgDialog,Content,拉蒙娜,伦蒂尼恩常识之一：东区让你迷失的方式，除了不散的浓雾，还有迂回曲折的窄路。,론디니움 상식 첫 번째: 짙게 깔린 안개뿐만 아니라 동부 지구의 복잡한 골목길 역시 사람을 혼란에 빠뜨리기 십상이다.
+AvgDialog_18906_Content_7,afvk,avg章1新_AvgDialog_C_M.csv,61,AvgDialog,Content,奥吉尔,我去问问路吧。,제가 길을 물어보겠습니다.
+AvgDialog_18906_Content_8,afvl,avg章1新_AvgDialog_C_M.csv,62,AvgDialog,Content,,路边慵懒地躺着一个戴破旧兜帽的孩子，斗篷极不合身，衬得身量分外矮小。,"길가에 낡은 후드를 쓴 아이가 나른하게 누워있었고, 헐렁한 망토 때문인지 더욱 왜소해 보였다."
+AvgDialog_18906_Content_9,afvm,avg章1新_AvgDialog_C_M.csv,63,AvgDialog,Content,,奥吉尔走向那个孩子，轻鞠一躬。,오지에는 아이에게 다가가 가볍게 인사했다.
+AvgDialog_18906_Content_10,afuO,avg章1新_AvgDialog_C_M.csv,64,AvgDialog,Content,奥吉尔,那个……,저기...
+AvgDialog_18906_Content_11,afuP,avg章1新_AvgDialog_C_M.csv,65,AvgDialog,Content,？？？（詹金）,都说了，今天不开张了，我得去里面找姐姐。,이미 말했잖아. 오늘은 영업 안 해. 안에 들어가서 언니를 찾아야 해.
+AvgDialog_18906_Content_12,afuQ,avg章1新_AvgDialog_C_M.csv,66,AvgDialog,Content,,孩子懒洋洋的，甚至没抬眼看他。,"아이는 못마땅한 눈치로, 고개를 들지도 않는다."
+AvgDialog_18906_Content_13,afuR,avg章1新_AvgDialog_C_M.csv,67,AvgDialog,Content,奥吉尔,"不是的，我是想请教一下……
+请问你知不知道莉莉安济贫院怎么走？","아니, 물어보고 싶은 게 있어서...\n혹시 릴리안 빈민원으로 가는 길 아니?"
+AvgDialog_18906_Content_14,afuS,avg章1新_AvgDialog_C_M.csv,68,AvgDialog,Content,？？？（詹金）,……,...
+AvgDialog_18906_Content_15,afuT,avg章1新_AvgDialog_C_M.csv,69,AvgDialog,Content,？？？（詹金）,<Small:哪儿来的肥羊……>,<Small: 어디서 이런 호구가...>
+AvgDialog_18906_Content_16,afuU,avg章1新_AvgDialog_C_M.csv,70,AvgDialog,Content,奥吉尔,……？,...?
+AvgDialog_18906_Content_17,afuV,avg章1新_AvgDialog_C_M.csv,71,AvgDialog,Content,奥吉尔,抱歉，我刚刚走神了，没能听清。能再说一遍吗？,"미안, 제대로 못 들었어. 다시 한번 말해줄래?"
+AvgDialog_18906_Content_18,afuW,avg章1新_AvgDialog_C_M.csv,72,AvgDialog,Content,？？？（詹金）,你凑过来点，我指给你看。,이쪽으로 와 봐. 내가 알려줄게.
+AvgDialog_18906_Content_19,afuX,avg章1新_AvgDialog_C_M.csv,73,AvgDialog,Content,？？？（詹金）,看，就那边的转角，近得很。,"봐봐, 저기 모퉁이를 돌면 나와. 바로 앞이야."
+AvgDialog_18906_Content_20,afuZ,avg章1新_AvgDialog_C_M.csv,74,AvgDialog,Content,奥吉尔,啊！非常感谢。,아! 정말 고마워.
+AvgDialog_18906_Content_21,afva,avg章1新_AvgDialog_C_M.csv,75,AvgDialog,Content,？？？（詹金）,不，我得谢谢你才是。,"아냐, 내가 더 고맙지."
+AvgDialog_18906_Content_22,afvb,avg章1新_AvgDialog_C_M.csv,76,AvgDialog,Content,奥吉尔,谢谢我？,응?
+AvgDialog_18906_Content_23,afvc,avg章1新_AvgDialog_C_M.csv,77,AvgDialog,Content,,"奥吉尔转头看向刚才孩子所在的阶梯，那里空空如也。
+不知何时，兜帽已经溜到了街道的尽头，手中还抓着奥吉尔的钱包。","오지에가 뒤를 돌아보자, 방금까지 아이가 있었던 계단은 텅 비어 있었다.
+후드를 쓴 아이는 어느새 거리 끝까지 도망쳤고, 손에는 오지에의 지갑을 들고 있었다."
+AvgDialog_18906_Content_24,afvd,avg章1新_AvgDialog_C_M.csv,78,AvgDialog,Content,奥吉尔,啊，我的钱包——,"앗, 내 지갑—"
+AvgDialog_18906_Content_25,afve,avg章1新_AvgDialog_C_M.csv,79,AvgDialog,Content,拉蒙娜,伦蒂尼恩常识之二：东区最臭名昭著的欢迎仪式，就是让你的钱包在不知不觉中消失。,"론디니움 상식 두 번째: 지갑이 어느새 사라졌다면, 당신은 동부 지구에서 가장 악명 높은 신고식에 당한 것이다."
+AvgDialog_18906_Content_26,afvf,avg章1新_AvgDialog_C_M.csv,80,AvgDialog,Content,拉蒙娜,"看来，我们得帮帮奥吉尔了。
+走吧，守密人。","아무래도 오지에를 도와줘야겠네. 가자, 수호자."
+AvgDialog_18882_Content_1,afiy,avg章1新_AvgDialog_C_M.csv,81,AvgDialog,Content,,你们还没追出多少，本来还在玩闹的孩子迅速聚在你们身前，拦住了你们的去路。,"얼마 가지 못해서, 놀고 있던 아이들이 순식간에 몰려와 앞을 가로막았다."
+AvgDialog_18882_Content_2,afiz,avg章1新_AvgDialog_C_M.csv,82,AvgDialog,Content,孩子,好心的老爷，赏我点零钱吧，没有缅的话，片什也可以……,"착한 숙녀분, 한 푼만 주세요. 메인이 없다면 펜시도 괜찮아요..."
+AvgDialog_18882_Content_3,afiA,avg章1新_AvgDialog_C_M.csv,83,AvgDialog,Content,拉蒙娜,如果你把手从%player%的口袋里拿出来的话，我们还可以考虑一下。,%player%의 주머니에 넣은 그 손을 뺀다면 생각해 볼게.
+AvgDialog_18882_Content_4,afiB,avg章1新_AvgDialog_C_M.csv,84,AvgDialog,Content,孩子,哼！,흥!
+AvgDialog_18882_Content_5,afiC,avg章1新_AvgDialog_C_M.csv,85,AvgDialog,Content,,孩子拔腿而逃。,아이는 재빨리 도망쳤다.
+AvgDialog_18882_Content_6,afiD,avg章1新_AvgDialog_C_M.csv,86,AvgDialog,Content,拉蒙娜,有必要给这些不幸欠缺教育的孩子们一点小小的教训了，你觉得呢？,"교육이 부족한 이 불쌍한 아이들에게 작은 교훈을 줄 필요가 있을 것 같은데, 어떻게 생각해?"
+AvgDialog_18882_Content_7,afiE,avg章1新_AvgDialog_C_M.csv,87,AvgDialog,Content,,试试吧。,괜찮은 생각이네.
+AvgDialog_18882_Content_8,afiF,avg章1新_AvgDialog_C_M.csv,88,AvgDialog,Content,,他们和棕兜帽似乎是一伙的。,갈색 후드를 쓴 아이와 같은 무리인 것 같아.
+AvgDialog_18882_Content_9,afiG,avg章1新_AvgDialog_C_M.csv,89,AvgDialog,Content,拉蒙娜,那么出发，见义勇为也是一种公民义务呢。,그럼 출발하자. 도시의 안전을 위해 나서는 것도 시민의 의무니까.
+AvgDialog_18883_Content_1,afiH,avg章1新_AvgDialog_C_M.csv,90,AvgDialog,Content,,奥吉尔焦急地奔跑，经过一面又一面被伦蒂尼恩空气熏陶得发黑的红色砖墙。,"오지에는 초조하게 달려나가며, 론디니움의 공기에 그을려 검붉게 바랜 벽돌 담장을 잇달아 지나쳤다."
+AvgDialog_18883_Content_2,afiQ,avg章1新_AvgDialog_C_M.csv,91,AvgDialog,Content,奥吉尔,第一次和主君搭档外勤，可不能……,"처음으로 주군과 함께하는 현장 임무이니, 절대로-"
+AvgDialog_18883_Content_3,afiR,avg章1新_AvgDialog_C_M.csv,92,AvgDialog,Content,奥吉尔,唔啊！,윽!
+AvgDialog_18883_Content_4,afiS,avg章1新_AvgDialog_C_M.csv,93,AvgDialog,Content,,砖墙中镶嵌的铁门向内敞开，一个白衣的女性突然出现在视野中，与奥吉尔迎头撞上。,"벽돌 담장 사이의 철문이 안쪽으로 열리면서, 흰 옷을 입은 여성이 불현듯 나타나 오지에와 정면으로 부딪쳤다."
+AvgDialog_18883_Content_5,afiT,avg章1新_AvgDialog_C_M.csv,94,AvgDialog,Content,克莱门汀,<Small:啊……>,<Small:아……>
+AvgDialog_18883_Content_6,afiU,avg章1新_AvgDialog_C_M.csv,95,AvgDialog,Content,奥吉尔,不、不好意思！您没事儿吧？,"죄, 죄송합니다! 괜찮으신가요?"
+AvgDialog_18883_Content_7,afiV,avg章1新_AvgDialog_C_M.csv,96,AvgDialog,Content,,你和拉蒙娜终于追上了奥吉尔。,당신과 라모나는 마침내 오지에를 따라잡았다.
+AvgDialog_18883_Content_8,afiW,avg章1新_AvgDialog_C_M.csv,97,AvgDialog,Content,玩家,对不起，我们……咦，您是刚才在发问卷的心理医生小姐？,"죄송합니다, 저희는…… 어라, 조금 전에 설문지를 건넨 심리치료사분 아니신가요?"
+AvgDialog_18883_Content_9,afiX,avg章1新_AvgDialog_C_M.csv,98,AvgDialog,Content,克莱门汀,您记住了只有一面之缘的我，是我莫大的荣幸。,"단 한 번 만난 저를 기억해 주시다니, 영광이네요."
+AvgDialog_18883_Content_10,afiI,avg章1新_AvgDialog_C_M.csv,99,AvgDialog,Content,克莱门汀,我并无大碍，而这位小先生也是无意的，不是吗？,저는 괜찮답니다. 이 소년분도 당연히 고의는 아니었을 테고요. 그렇죠?
+AvgDialog_18883_Content_11,afiJ,avg章1新_AvgDialog_C_M.csv,100,AvgDialog,Content,奥吉尔,非常抱歉，是我没能及时注意到周围的情况。,정말 죄송합니다. 주변을 제대로 돌아보지 못한 제 불찰입니다.
+AvgDialog_18883_Content_12,afiK,avg章1新_AvgDialog_C_M.csv,101,AvgDialog,Content,,"克莱门汀露出了一个柔和的笑容，轻轻拂去衣摆上并不存在的尘灰。
+她点头致意，然后翩然离去。","클레멘타인은 부드러운 미소를 지으며, 보이지도 않는 먼지를 옷에서 가볍게 털어냈다. 그녀는 고개를 끄덕여 인사하고는 가볍게 떠나갔다."
+AvgDialog_18883_Content_13,afiL,avg章1新_AvgDialog_C_M.csv,102,AvgDialog,Content,,"你们抬头看去，巨大铁牌上赫然写着“莉莉安济贫院”几个锈蚀大字。
+大字下，一个保安百无聊赖地闲坐着。","고개를 들어보니, 커다랗고 녹슨 간판에는 ""릴리안 빈민원""이라는 글자가 뚜렷하게 쓰여 있다. 그 아래에는 경비원 한 명이 무료한 듯 앉아 있다."
+AvgDialog_18883_Content_14,afiM,avg章1新_AvgDialog_C_M.csv,103,AvgDialog,Content,拉蒙娜,"事已至此，我们先进去看看吧。
+还记得你们的伪装身份吗，艾什%lordorlady%，艾什小少爷？","이렇게 된 이상 들어가 봐야겠네.\n위장 신분은 잘 기억하고 계신가요? 애쉬 {Male=경,Female=아가씨}, 애쉬 도련님?"
+AvgDialog_18883_Content_15,afiN,avg章1新_AvgDialog_C_M.csv,104,AvgDialog,Content,玩家,放心吧，亲爱的玛丽管家。,"걱정 마시죠, 친애하는 메리 집사님."
+AvgDialog_18883_Content_16,afiO,avg章1新_AvgDialog_C_M.csv,105,AvgDialog,Content,奥吉尔,为您效劳，玛丽女士。,"맡겨주세요, 메리 아가씨."
+AvgDialog_18883_Content_17,afiP,avg章1新_AvgDialog_C_M.csv,106,AvgDialog,Content,拉蒙娜,……算了，偏差不大就行。,"...그래, 말이 크게 어긋나지만 않는다면 상관없겠지."
+AvgDialog_18879_Content_1,afhU,avg章1新_AvgDialog_C_M.csv,107,AvgDialog,Content,,你们走出小巷，来到济贫院的铁门前。,당신들은 골목에서 나와 빈민원의 철제 대문 앞에 도착했다.
+AvgDialog_18879_Content_2,afhV,avg章1新_AvgDialog_C_M.csv,108,AvgDialog,Content,,门边的木凳上坐着个脸上油乎乎的中年人，他腰间系着一根黑色的木棍，嘴里叼着一根黑漆漆的烟斗。,"문 옆의 나무 의자에는 얼굴에 기름때가 묻은 중년 남성이 앉아 있다. 그는 허리에 제압봉을 차고, 파이프를 입에 물고 있다."
+AvgDialog_18879_Content_3,afhW,avg章1新_AvgDialog_C_M.csv,109,AvgDialog,Content,,你们留意到，男人的手臂那里残留着一小点黑色的痕迹，三角形的伤口看上去就像个小型深渊，黏稠的液体正缓缓从中流出。,당신들은 남성의 팔에 작고 검은 자국이 남아 있다는 사실을 알아차린다. 마치 작은 심연같은 삼각형 상처에서 점성 있는 액체가 천천히 흘러나오고 있다.
+AvgDialog_18879_Content_4,afhX,avg章1新_AvgDialog_C_M.csv,110,AvgDialog,Content,,拉蒙娜轻声清了清嗓子，抬着下巴走上前，俨然一位高傲的贵族管家。,"라모나는 가볍게 목을 풀고, 거만한 귀족 집사처럼 앞으로 나섰다."
+AvgDialog_18879_Content_5,afhY,avg章1新_AvgDialog_C_M.csv,111,AvgDialog,Content,拉蒙娜,上午好，先生。还请你向内通报一下有客来访。,"좋은 아침입니다, 선생님. 손님이 도착했다고 전달해 주세요."
+AvgDialog_18879_Content_6,afhZ,avg章1新_AvgDialog_C_M.csv,112,AvgDialog,Content,,她话还没说完，保安的躯体骤然变形，胸口涌出的黏液凝聚成巨大的黑色怪物，朝你们蠕动而来。,"라모나의 말이 끝나기도 전에, 경비원의 몸이 갑자기 뒤틀린다. 가슴에서 흘러나온 점액이 거대한 검은 괴물의 형체로 변하며 당신들을 향해 기어온다."
+AvgDialog_18885_Content_1,afjb,avg章1新_AvgDialog_C_M.csv,113,AvgDialog,Content,,黑色的怪物啸叫一声，化作污泥瘫倒在地。,"검은 괴물은 크게 울부짖더니, 점액으로 변해 흩어졌다."
+AvgDialog_18885_Content_2,afjk,avg章1新_AvgDialog_C_M.csv,114,AvgDialog,Content,奥吉尔,这、这……他怎么突然变了！,"이, 이... 이렇게 갑자기 변하다니!"
+AvgDialog_18885_Content_3,afjl,avg章1新_AvgDialog_C_M.csv,115,AvgDialog,Content,拉蒙娜,"<Yellow:融蚀初期侵蚀>。
+不应该这么早发作……甚至不该发作。",<Yellow:융식 초기 침식>이야. 이렇게 빠르게 발현되다니... 뭔가 이상해.
+AvgDialog_18885_Content_4,afjm,avg章1新_AvgDialog_C_M.csv,116,AvgDialog,Content,,两个声音透过胸针，在你们的脑海中响起。,두 개의 목소리가 브로치를 통해 머릿속에서 울려 퍼진다.
+AvgDialog_18885_Content_5,afjn,avg章1新_AvgDialog_C_M.csv,117,AvgDialog,Content,朵尔,听起来像是人工催化的产物。,인공적으로 촉매 처리된 것 같네.
+AvgDialog_18885_Content_6,afjo,avg章1新_AvgDialog_C_M.csv,118,AvgDialog,Content,威廉,"融蚀的异常发展…恐怕与<Yellow:肖恩·安德森调查员的失踪>脱不了干系。
+只怕已经有人盯上济贫院……甚至盯上你们了。","비정상적인 융식의 진행…… 아무래도 <Yellow:조사원 숀 앤더슨의 실종>과 관련이 있을 것 같군. 이미 누군가가 그 빈민원을—아니, 너희까지도 노리고 있을지도 몰라."
+AvgDialog_18885_Content_7,afjp,avg章1新_AvgDialog_C_M.csv,119,AvgDialog,Content,拉蒙娜,我们会注意的。,주의가 필요하겠어.
+AvgDialog_18885_Content_8,afjq,avg章1新_AvgDialog_C_M.csv,120,AvgDialog,Content,拉蒙娜,保持警惕，守密人。,"경계를 늦추지 마, 수호자."
+AvgDialog_18885_Content_9,afjr,avg章1新_AvgDialog_C_M.csv,121,AvgDialog,Content,玩家,我会的。,알겠어.
+AvgDialog_18885_Content_10,afjc,avg章1新_AvgDialog_C_M.csv,122,AvgDialog,Content,,你们将保安的残躯扶靠在铁门旁，然后起身迈入莉莉安济贫院。,"당신들은 경비원의 유해를 철문 옆으로 치운 후, 릴리안 빈민원 안으로 들어갔다."
+AvgDialog_18885_Content_11,afjd,avg章1新_AvgDialog_C_M.csv,123,AvgDialog,Content,,在拐角的尽头，一个白色的身影一闪而过。,구석에 하얀 실루엣이 스쳐 지나간다.
+AvgDialog_18885_Content_12,afje,avg章1新_AvgDialog_C_M.csv,124,AvgDialog,Content,？？,他们是……得赶在他们和莎拉小姐见面前回去，我们从厨房窗户翻进去吧。,저 사람들은... 저 분들이 사라 선생님을 만나기 전에 돌아가야 해요. 부엌 창문으로 들어가야겠어요.
+AvgDialog_18885_Content_13,afjf,avg章1新_AvgDialog_C_M.csv,125,AvgDialog,Content,悠远的声音,那几人能帮上忙，不要抗拒他们的到来。,저 사람들이 도와줄 거야. 막지 않아도 돼.
+AvgDialog_18885_Content_14,afjg,avg章1新_AvgDialog_C_M.csv,126,AvgDialog,Content,？？,不要！,싫어요!
+AvgDialog_18885_Content_15,afjh,avg章1新_AvgDialog_C_M.csv,127,AvgDialog,Content,悠远的声音,那些人不会被这里所发生的一切吓破胆，我向你起誓。,여기서 무슨 일이 일어나도 저 사람들은 무서워하지 않을 거야. 맹세할게.
+AvgDialog_18885_Content_16,afji,avg章1新_AvgDialog_C_M.csv,128,AvgDialog,Content,？？,不…不能把更多人牵扯进来了……靠近这里的人都很危险，你明明知道的……,"안 돼요, 더 많은 사람을 끌어들일 수는 없어요... 가까이 있는 모두가 위험해져요..."
+AvgDialog_18885_Content_17,afjj,avg章1新_AvgDialog_C_M.csv,129,AvgDialog,Content,？？,<Red:安德森先生>。,<Red:앤더슨 선생님>.
+AvgDialog_18909_Content_1,afxD,avg章1新_AvgDialog_C_M.csv,130,AvgDialog,Content,,地下的幽灵,지하의 유령
+AvgDialog_18909_Content_2,afxO,avg章1新_AvgDialog_C_M.csv,131,AvgDialog,Content,,你们一行人进入济贫院，远远就看见一个修女打扮的女人领着几个孩子和工人排成一行等候你们。,"빈민원에 들어가자, 멀리서 한 수녀가 아이들과 일꾼들을 이끌고 당신들을 기다리는 모습이 보인다."
+AvgDialog_18909_Content_3,afxZ,avg章1新_AvgDialog_C_M.csv,132,AvgDialog,Content,莎拉,"济贫院事务繁杂，我们有失远迎了，尊敬的艾什%lordorlady%、玛丽小姐。
+我是这儿的管理人莎拉。","빈민원 일이 워낙 많다 보니, 제대로 마중해 드리지 못했네요. 존경하는 애쉬 {Male=경,Female=아가씨}, 그리고 메리 양. 저는 이곳의 관리인 사라입니다."
+AvgDialog_18909_Content_4,afyk,avg章1新_AvgDialog_C_M.csv,133,AvgDialog,Content,,"见身边人没接上话头，她眉头一皱，拍了拍女孩的背。
+女孩似乎在走神，这会儿像是被吓了一跳，赶紧向你们鞠了一躬。","대답이 없자, 사라는 쓴웃음을 지으며 한 소녀의 등을 톡톡 두드렸다. 소녀는 잠시 멍하니 있다가, 깜짝 놀란 표정으로 급히 당신들에게 허리를 숙였다."
+AvgDialog_18909_Content_5,afyv,avg章1新_AvgDialog_C_M.csv,134,AvgDialog,Content,艾继丝,欢、欢迎各位，我们在餐厅准备了点心……,"어, 어서오세요, 여러분. 식당에 조금이나마 간식을 준비해 두었어요..."
+AvgDialog_18909_Content_6,afyG,avg章1新_AvgDialog_C_M.csv,135,AvgDialog,Content,莎拉,咦，这位是……？,"음, 이분은...?"
+AvgDialog_18909_Content_7,afyR,avg章1新_AvgDialog_C_M.csv,136,AvgDialog,Content,,莎拉疑惑地看向队伍中的奥吉尔，又看了看你们。,"사라는 의심스러운 듯 오지에를 바라보다가, 이내 일행 전체를 쳐다봤다."
+AvgDialog_18909_Content_8,afzc,avg章1新_AvgDialog_C_M.csv,137,AvgDialog,Content,玩家,他是我的胞弟奥吉尔，也是艾什家族的未来继承人之一。,제 친동생 오지에입니다. 애쉬 가문의 차기 상속자 중 한 명이죠.
+AvgDialog_18909_Content_9,afzm,avg章1新_AvgDialog_C_M.csv,138,AvgDialog,Content,拉蒙娜,勋爵希望奥吉尔小少爷对东区现状能有深入的认知，有助于在未来接管家族产业后，他能更有针对性地改善东区环境。,"애쉬 경께서는 오지에 도련님이 동부 지구의 상황을 깊이있게 이해하기를 바라셨습니다. 훗날 가문의 사업을 이어받을 때, 이 경험이 동부 지구의 처우 개선에 큰 도움이 되리라 기대하고 계십니다."
+AvgDialog_18909_Content_10,afxE,avg章1新_AvgDialog_C_M.csv,139,AvgDialog,Content,,"拉蒙娜面不改色，语句流畅如背诵过千百遍台词的话剧演员。
+奥吉尔在一旁早已涨红了脸。","라모나는 얼굴빛 하나 변하지 않은 채, 마치 수백 번은 외워본 대사를 읊듯 매끄럽게 말을 이어갔다. 옆에 있던 오지에의 얼굴은 이미 새빨갛게 달아올라 있었다."
+AvgDialog_18909_Content_11,afxF,avg章1新_AvgDialog_C_M.csv,140,AvgDialog,Content,莎拉,"真不愧是艾什勋爵家的少爷，这么早就能承担重大的责任。
+济贫院里有不少和他差不多大的孩子，能帮忙盛粥擦地就不错了……","역시 애쉬 가의 도련님답군요. 이렇게 어린 나이에 벌써 중대한 책임을 맡으시다니. 빈민원에도 비슷한 또래의 아이들이 많지만, 그 애들은 죽을 끓이거나 바닥 닦는 일이나 도와주는 게 고작이랍니다..."
+AvgDialog_18909_Content_12,afxG,avg章1新_AvgDialog_C_M.csv,141,AvgDialog,Content,奥吉尔,您、您千万别这么说……,"제, 제발 그런 말씀 마세요..."
+AvgDialog_18909_Content_13,afxH,avg章1新_AvgDialog_C_M.csv,142,AvgDialog,Content,,拉蒙娜轻咳一声，及时转移了话锋。,"라모나는 가볍게 기침을 하면서, 바로 화제를 돌렸다."
+AvgDialog_18909_Content_14,afxI,avg章1新_AvgDialog_C_M.csv,143,AvgDialog,Content,拉蒙娜,"因此，我们会在东区进行一批实地考察，通过长期资助来掌握当地情况。
+莉莉安济贫院是我们的第一站，也希望院长能对我们坦诚相待……","그래서 우리는 동부 지구에서 현장 조사를 진행하고 있습니다. 릴리안 빈민원이 저희의 초기 수사 장소이며, 이 사건에 대해 완전하고 투명한 협조를 기대합니다..."
+AvgDialog_18909_Content_15,afxJ,avg章1新_AvgDialog_C_M.csv,144,AvgDialog,Content,,拉蒙娜简述了济贫院门口保安异变伤人的始末，当然，略去了融蚀相关的环节。,"라모나는 빈민원 입구에서 경비가 갑자기 괴물로 돌변한 사건의 경위를 간략히 설명했다. 물론, 융식과 관련된 부분은 의도적으로 생략했다."
+AvgDialog_18909_Content_16,afxK,avg章1新_AvgDialog_C_M.csv,145,AvgDialog,Content,拉蒙娜,请问您对此是否知情？,이 사실을 알고 계셨나요?
+AvgDialog_18909_Content_17,afxL,avg章1新_AvgDialog_C_M.csv,146,AvgDialog,Content,莎拉,"居然还有这种事！那个保、保安，肯定不是我们济贫院的人。
+我们这儿又没有什么值得偷啊抢啊的，请保安做什么呢？",세상에! 그런 일이 있었다구요? 하지만 그 경비분은 저희 빈민원 사람은 아니에요... 저희에겐 도둑질할만큼 값진 것도 없는데 뭐 하러 경비를 두겠어요?
+AvgDialog_18909_Content_18,afxM,avg章1新_AvgDialog_C_M.csv,147,AvgDialog,Content,,她表情讪讪，显然是在说谎。,분명히 거짓말을 하고 있는 듯한 어색한 표정이었다.
+AvgDialog_18909_Content_19,afxN,avg章1新_AvgDialog_C_M.csv,148,AvgDialog,Content,艾继丝,可是，莎拉小姐……,"하지만, 사라 선생님..."
+AvgDialog_18909_Content_20,afxP,avg章1新_AvgDialog_C_M.csv,149,AvgDialog,Content,,莎拉瞪了身侧的女孩一眼，女孩露出慌乱的表情。,사라가 곁에 있던 여자아이를 쏘아보자 아이는 당황한 표정을 지었다.
+AvgDialog_18909_Content_21,afxQ,avg章1新_AvgDialog_C_M.csv,150,AvgDialog,Content,莎拉,艾继丝，你还小，照顾好自己最重要。大人的事儿，你别插手。,"아이기스, 넌 아직 어리니까 우선 자기 자신부터 잘 챙겨야지. 어른들 일에 신경 쓰지 말고."
+AvgDialog_18909_Content_22,afxR,avg章1新_AvgDialog_C_M.csv,151,AvgDialog,Content,,女孩抿了抿嘴，眼神垂向手中的玩偶，不再说话。,여자아이는 손에 든 인형만 바라보며 입을 꼭 다물었다.
+AvgDialog_18909_Content_23,afxS,avg章1新_AvgDialog_C_M.csv,152,AvgDialog,Content,莎拉,……算了，你带个工人过去。给他罩块布，别让老鼠把人啃了。,...알겠어. 일꾼 한 명을 데려가렴. 천을 덮어 쥐가 시체를 갉아 먹지 못하게 해줘.
+AvgDialog_18909_Content_24,afxT,avg章1新_AvgDialog_C_M.csv,153,AvgDialog,Content,,说完，她又转向你们。,말을 마친 사라는 다시 당신들을 바라봤다.
+AvgDialog_18909_Content_25,afxU,avg章1新_AvgDialog_C_M.csv,154,AvgDialog,Content,莎拉,抱歉，医生来的时候，我会请他们帮忙收殓的。,죄송합니다. 의사 선생님이 오시면 장례를 도와주실 수 있는지 여쭤보겠습니다.
+AvgDialog_18909_Content_26,afxV,avg章1新_AvgDialog_C_M.csv,155,AvgDialog,Content,拉蒙娜,医生？,의사 선생님?
+AvgDialog_18909_Content_27,afxW,avg章1新_AvgDialog_C_M.csv,156,AvgDialog,Content,莎拉,啊…是、是这样的。咱们这儿有不少孩子 ，有其他资助人慷慨相助，请了医生定期来检查孩子们的情况。,"아... 네. 다른 후원자분들이 너그럽게 도와주신 덕분에, 의사를 불러서 정기적으로 아이들의 상태를 검사받고 있습니다."
+AvgDialog_18909_Content_28,afxX,avg章1新_AvgDialog_C_M.csv,157,AvgDialog,Content,莎拉,算算时间，下次身体检查就在这两天了。,"계산해 보니, 다음 신체검사가 이틀 정도 뒤에 있을 예정이네요."
+AvgDialog_18909_Content_29,afxY,avg章1新_AvgDialog_C_M.csv,158,AvgDialog,Content,玩家,不需要通知警局吗？,경찰에 알릴 필요는 없을까요?
+AvgDialog_18909_Content_30,afya,avg章1新_AvgDialog_C_M.csv,159,AvgDialog,Content,莎拉,唉，这您就有所不知了，东区有东区的法则。,"하아, 잘 모르시는군요. 동부 지구에는 동부 지구만의 법이 있답니다."
+AvgDialog_18909_Content_31,afyb,avg章1新_AvgDialog_C_M.csv,160,AvgDialog,Content,莎拉,即使是闹得人心惶惶的<Red:肢解者事件>，他们也不过是派人收走尸体，再没下文了。,"한동안 사람들을 공포로 몰아넣었던 <Red:토막살인 사건> 때에도, 경찰은 시신만 수습하고 아무런 후속 조치도 취하지 않았어요."
+AvgDialog_18909_Content_32,afyc,avg章1新_AvgDialog_C_M.csv,161,AvgDialog,Content,莎拉,对我们这些人来说，吃饱饭已经很不容易了，没有那么多余的精力浪费在这些事情上。,"저희 같은 사람들은 하루하루 목숨을 부지하는 것만으로도 힘들어서, 이런 일들에 시간을 낭비할 여유가 없고요."
+AvgDialog_18909_Content_33,afyd,avg章1新_AvgDialog_C_M.csv,162,AvgDialog,Content,,"说罢，莎拉引着你们，朝着济贫院内走去。
+在你们的身后，工人安静地排成两列，似是护卫，又仿佛看守。","사라는 말을 마친 후 당신들을 작업장으로 안내했다. 일꾼들은 일행 뒤에 조용히 두 줄로 섰는데, 그 모습은 호위, 아니면... 간수 같기도 했다."
+AvgDialog_18909_Content_34,afye,avg章1新_AvgDialog_C_M.csv,163,AvgDialog,Content,,你听见拉蒙娜轻声念出的话语。,라모나가 조용히 속삭인다.
+AvgDialog_18909_Content_35,afyf,avg章1新_AvgDialog_C_M.csv,164,AvgDialog,Content,拉蒙娜,伦蒂尼恩常识之三——,론디니움 상식 세 번째——
+AvgDialog_18909_Content_36,afyg,avg章1新_AvgDialog_C_M.csv,165,AvgDialog,Content,拉蒙娜,“在东区，人的价格是不可衡量的。因为他们没有价值。”,"""동부 지구에서 인간의 가격은 매길 수 없다. 애초에 가치가 없기 때문이다."""
+AvgDialog_18909_Content_37,afyh,avg章1新_AvgDialog_C_M.csv,166,AvgDialog,Content,,"静悄悄的走廊里，镶嵌了金属铭牌的门缓缓打开。
+一只老鼠从门缝间溜出来，它左右看看，朝走廊的阴影吱吱叫了两声。","고요한 복도, 금속 명패가 달린 문이 천천히 열렸다.\n문틈 사이로 한 마리 쥐가 쏙 빠져나와서 좌우를 살피고는 복도의 그림자를 향해 찍찍 두어 번 울었다."
+AvgDialog_18909_Content_38,afyi,avg章1新_AvgDialog_C_M.csv,167,AvgDialog,Content,布朗,吱！,찍!
+AvgDialog_18909_Content_39,afyj,avg章1新_AvgDialog_C_M.csv,168,AvgDialog,Content,詹金,上次你也说没人！要不是遇到的是艾继丝，我可就倒大霉了。,지난번에도 아무도 없다고 했잖아! 마주쳤던 게 아이기스가 아니었다면 진짜 큰일 날 뻔했다고.
+AvgDialog_18909_Content_40,afyl,avg章1新_AvgDialog_C_M.csv,169,AvgDialog,Content,,詹金从转角探出头，确认走廊上空无一人后才溜出了门缝，回身将门关上。,"젠킨은 모퉁이에서 머리를 내밀어 복도에 아무도 없는 것을 확인한 후, 문틈으로 빠져나와 등 뒤의 문을 닫았다."
+AvgDialog_18909_Content_41,afym,avg章1新_AvgDialog_C_M.csv,170,AvgDialog,Content,布朗,吱吱，吱吱吱吱！,"찍찍, 찍찍찍찍!"
+AvgDialog_18909_Content_42,afyn,avg章1新_AvgDialog_C_M.csv,171,AvgDialog,Content,詹金,对啦对啦，你说得都对。我们的布朗最厉害了！,"그래, 그래, 네 말 대로네. 역시 우리 브라운이 최고야!"
+AvgDialog_18909_Content_43,afyo,avg章1新_AvgDialog_C_M.csv,172,AvgDialog,Content,布朗,吱吱吱，吱吱。,"찍찍찍, 찍찍."
+AvgDialog_18909_Content_44,afyp,avg章1新_AvgDialog_C_M.csv,173,AvgDialog,Content,詹金,"让我看看这臭女人都藏了什么秘密。
+戒指，项链……这都是金的吧？","그 못된 여자가 뭘 숨겼는지 보자고.\n반지, 목걸이... 이거 다 진짜 금이야?"
+AvgDialog_18909_Content_45,afyq,avg章1新_AvgDialog_C_M.csv,174,AvgDialog,Content,詹金,这个臭女人，连糖果都不肯给艾继丝买，说什么“入不服出”，结果自己藏着这么多好东西！,"그 고약한 여자, '나가는 게 들어오는 것보다 많다' 면서 아이기스에게 사탕 하나 안 사주더니, 돈 되는 건 몰래 쌓아두고 있었네!"
+AvgDialog_18909_Content_46,afyr,avg章1新_AvgDialog_C_M.csv,175,AvgDialog,Content,詹金,"钥匙，好，看来出入其他地方也省事了。
+真得谢谢那什么<Yellow:“自助人”>，我们可以自助调查济贫院了。","열쇠다! 좋아, 돌아다니기 한결 편해지겠는데.\n그 <Yellow:""후원자""> 덕분에 이제 우리 힘으로 빈민원을 조사할 수 있겠어."
+AvgDialog_18909_Content_47,afys,avg章1新_AvgDialog_C_M.csv,176,AvgDialog,Content,布朗,吱吱吱，吱吱。,"찍찍찍, 찍찍."
+AvgDialog_18909_Content_48,afyt,avg章1新_AvgDialog_C_M.csv,177,AvgDialog,Content,詹金,别急，布朗，还有时间。,"괜찮아, 브라운. 아직 시간 많아."
+AvgDialog_18909_Content_49,afyu,avg章1新_AvgDialog_C_M.csv,178,AvgDialog,Content,詹金,"咦……这是……账本？
+麦克，男，5岁，10雷欧坊；戴安娜，女，23岁，5雷欧坊……","이건... 장부인가?\n맥, 남, 5세, 10 플로린. 다이애나, 여, 23세, 5 플로린..."
+AvgDialog_18909_Content_50,afyw,avg章1新_AvgDialog_C_M.csv,179,AvgDialog,Content,詹金,不会吧……难道这济贫院把人都卖了？！,말도 안 돼... 빈민원에서 사람들을 팔아넘기는 거야?!
+AvgDialog_18909_Content_51,afyx,avg章1新_AvgDialog_C_M.csv,180,AvgDialog,Content,,……,...
+AvgDialog_18909_Content_52,afyy,avg章1新_AvgDialog_C_M.csv,181,AvgDialog,Content,布朗,吱吱，吱吱吱吱！,"찍찍, 찍찍찍찍!"
+AvgDialog_18909_Content_53,afyz,avg章1新_AvgDialog_C_M.csv,182,AvgDialog,Content,,布朗突然发出尖锐的提醒，木门吱呀一声被推开。,"나무문이 삐걱 소리를 내며 열리자, 브라운이 갑작스레 경고하는 찍 소리를 냈다."
+AvgDialog_18909_Content_54,afyA,avg章1新_AvgDialog_C_M.csv,183,AvgDialog,Content,,出现在莎拉面前的，是空无一人的办公室。,사라가 텅 빈 사무실을 찾아왔다.
+AvgDialog_18909_Content_55,afyB,avg章1新_AvgDialog_C_M.csv,184,AvgDialog,Content,,她半拉开抽屉，塞入一个巴掌大小的薄片，然后重重推上了木质抽屉，迅速抽身离去。,"그녀는 서랍을 반쯤 열어 손바닥만 한 얇은 판 하나를 밀어 넣고는, 곧장 서랍을 세게 닫은 뒤 재빨리 자리를 떴다."
+AvgDialog_18909_Content_56,afyC,avg章1新_AvgDialog_C_M.csv,185,AvgDialog,Content,布朗,吱吱，吱吱。,"찍찍, 찍찍."
+AvgDialog_18909_Content_57,afyD,avg章1新_AvgDialog_C_M.csv,186,AvgDialog,Content,,莎拉离开后，布朗率先从角落盆栽的阴影中跑出。,사라가 떠나자 구석 화분의 그림자 속에서 브라운이 뛰쳐나왔다.
+AvgDialog_18909_Content_58,afyE,avg章1新_AvgDialog_C_M.csv,187,AvgDialog,Content,,詹金轻手轻脚地跟上，拉开抽屉。,젠킨은 조심스레 뒤를 따라가 서랍을 열었다.
+AvgDialog_18909_Content_59,afyF,avg章1新_AvgDialog_C_M.csv,188,AvgDialog,Content,詹金,"学生证？<Blue:肖恩……安德森>……
+这上面的符号，是不是跟早上那个冤大头金毛皮夹上的一样？",학생증? <Blue:숀... 앤더슨>...\n이건 오늘 아침에 본 비싼 지갑에 있던 문장이잖아?
+AvgDialog_18909_Content_60,afyH,avg章1新_AvgDialog_C_M.csv,189,AvgDialog,Content,布朗,吱吱，吱吱吱吱！,"찍찍, 찍찍찍찍!"
+AvgDialog_18909_Content_61,afyI,avg章1新_AvgDialog_C_M.csv,190,AvgDialog,Content,詹金,"别急，布朗。
+我必须冷静……冷静……","쉿, 브라운.\n침착해야 해... 침착..."
+AvgDialog_18909_Content_62,afyJ,avg章1新_AvgDialog_C_M.csv,191,AvgDialog,Content,詹金,我都看过了，账簿里面没有姐姐的名字。,전부 확인해도 장부에 언니 이름은 없네.
+AvgDialog_18909_Content_63,afyK,avg章1新_AvgDialog_C_M.csv,192,AvgDialog,Content,詹金,不过，我们还有这么多钥匙，我可以打开这鬼地方每一扇门！我就不信找不到证据。,그래도 아직 열쇠는 많아. 이 음침한 건물에 있는 문이란 문은 다 열어볼 수 있다고! 증거가 안 나올 리 없어.
+AvgDialog_18909_Content_64,afyL,avg章1新_AvgDialog_C_M.csv,193,AvgDialog,Content,詹金,姐姐，等我。,"조금만 더 기다려줘, 언니."
+AvgDialog_18909_Content_65,afyM,avg章1新_AvgDialog_C_M.csv,194,AvgDialog,Content,,……,…
+AvgDialog_18909_Content_66,afyN,avg章1新_AvgDialog_C_M.csv,195,AvgDialog,Content,,…………,…
+AvgDialog_18909_Content_67,afyO,avg章1新_AvgDialog_C_M.csv,196,AvgDialog,Content,詹金,见鬼，这是最后一个房间了。,"젠장, 이게 마지막 방인데."
+AvgDialog_18909_Content_68,afyP,avg章1新_AvgDialog_C_M.csv,197,AvgDialog,Content,詹金,"黑漆漆的，什么都没有。
+我们要无功而返了，布朗。","어둡기만 하고 아무것도 없어.\n결국 빈손으로 돌아가게 생겼네, 브라운."
+AvgDialog_18909_Content_69,afyQ,avg章1新_AvgDialog_C_M.csv,198,AvgDialog,Content,布朗,吱吱，吱吱吱吱！,"찍찍, 찍찍찍찍!"
+AvgDialog_18909_Content_70,afyS,avg章1新_AvgDialog_C_M.csv,199,AvgDialog,Content,詹金,什么？地板的下面？,뭐? 바닥 아래?
+AvgDialog_18909_Content_71,afyT,avg章1新_AvgDialog_C_M.csv,200,AvgDialog,Content,,詹金犹豫了一下，还是轻轻擦亮了提灯，她将火光拨到最小，凑近了地面。,"젠킨은 잠시 망설이다가 이내 조심스레 랜턴을 살짝 켜고, 불꽃을 최소한으로 줄인 채 바닥 가까이 들이댔다."
+AvgDialog_18909_Content_72,afyU,avg章1新_AvgDialog_C_M.csv,201,AvgDialog,Content,,那是一排蚂蚁，沿着整齐的队形，延伸入木板的缝隙之中。,"바닥 위, 나무판 틈새 속으로 개미 한 줄이 가지런한 대열을 이루며 들어가고 있었다."
+AvgDialog_18909_Content_73,afyV,avg章1新_AvgDialog_C_M.csv,202,AvgDialog,Content,,"詹金撬开两枚钉子，掀起木板。
+木板下是一个25英寸见方的铁质盖板。",젠킨은 못 두 개를 조심스레 뽑아내곤 나무판을 들어 올렸다.\n그 아래에는 한 변이 25인치쯤 되는 철제 덮개가 자리하고 있었다.
+AvgDialog_18909_Content_74,afyW,avg章1新_AvgDialog_C_M.csv,203,AvgDialog,Content,,詹金一一尝试了所有钥匙。,젠킨은 열쇠를 하나씩 넣어보았다.
+AvgDialog_18909_Content_75,afyX,avg章1新_AvgDialog_C_M.csv,204,AvgDialog,Content,詹金,"该死，全都打不开。
+这女人还藏了其他钥匙？",하나도 안 맞아.\n그 여자가 또다른 열쇠를 숨겨둔 건가?
+AvgDialog_18909_Content_76,afyY,avg章1新_AvgDialog_C_M.csv,205,AvgDialog,Content,,她将耳朵贴在了铁板上，试图聆听地下室内的声响。,"젠킨은 귀를 철 덮개에 대고, 지하실의 소리를 듣기 위해 집중했다."
+AvgDialog_18909_Content_77,afyZ,avg章1新_AvgDialog_C_M.csv,206,AvgDialog,Content,,<Italic:刮擦……刮擦……>,<Italic:끼익… 끼이익…>
+AvgDialog_18909_Content_78,afza,avg章1新_AvgDialog_C_M.csv,207,AvgDialog,Content,詹金,！！,!!
+AvgDialog_18909_Content_79,afzb,avg章1新_AvgDialog_C_M.csv,208,AvgDialog,Content,詹金,这、这难道是……艾继丝说的、<Yellow:济贫院的幽灵>……！,"이, 이게... 아이기스가 말했던, <Yellow:빈민원의 유령>…!"
+AvgDialog_18909_Content_80,afzd,avg章1新_AvgDialog_C_M.csv,209,AvgDialog,Content,布朗,吱吱，吱吱吱吱！,"찍찍, 찍찍찍찍!"
+AvgDialog_18909_Content_81,afze,avg章1新_AvgDialog_C_M.csv,210,AvgDialog,Content,,门外隐约传来了脚步声。,문밖에서 희미하게 발소리가 들려왔다.
+AvgDialog_18909_Content_82,afzf,avg章1新_AvgDialog_C_M.csv,211,AvgDialog,Content,詹金,"没办法了，布朗。
+如果那个臭女人还在济贫院里养了幽灵，光凭我们可打不过她。","어쩔 수 없겠어, 브라운. 저 썩어빠진 여자가 빈민원에 유령을 기르고 있다면, 우리 힘만으론 부족해."
+AvgDialog_18909_Content_83,afzg,avg章1新_AvgDialog_C_M.csv,212,AvgDialog,Content,詹金,我们需要<Yellow:她会害怕的人>……,<Yellow:그 여자가 두려워할 사람>이 필요해...
+AvgDialog_18909_Content_84,afzh,avg章1新_AvgDialog_C_M.csv,213,AvgDialog,Content,,詹金躲在阴影中，仗着盆栽的遮挡探出半个脑袋。,젠킨은 그림자 속에 몸을 숨기고 화분을 가림막 삼아 머리를 반쯤 내밀었다.
+AvgDialog_18909_Content_85,afzi,avg章1新_AvgDialog_C_M.csv,214,AvgDialog,Content,,走廊中，莎拉正侧着身向参观的一行人谄媚地介绍着济贫院的收支状况。,복도에서 사라는 몸을 옆으로 기울인 채 방문객들에게 빈민원의 수입과 지출 상황을 아부 섞인 목소리로 설명하고 있었다.
+AvgDialog_18909_Content_86,afzj,avg章1新_AvgDialog_C_M.csv,215,AvgDialog,Content,詹金,……那就是艾继丝说的，自助人？,...아이기스가 얘기했던 후원자들인가?
+AvgDialog_18909_Content_87,afzk,avg章1新_AvgDialog_C_M.csv,216,AvgDialog,Content,,詹金若有所思地点头，然后趁着一行人不备离开了黑暗的杂物间。,"젠킨은 생각에 잠긴 듯 고개를 끄덕이고, 일행이 눈치채지 못하도록 어두운 창고를 떠났다."
+AvgDialog_18909_Content_88,afzl,avg章1新_AvgDialog_C_M.csv,217,AvgDialog,Content,,在她的背后，未完全扣合的地板张开漆黑深邃的裂口，无声地等候着光临者的到来。,"그녀의 뒤에서, 정리되지 않은 바닥이 깊고 검은 틈을 벌린 채 방문자를 조용히 기다리고 있었다."
+AvgDialog_18891_Content_1,afks,avg章1新_AvgDialog_C_M.csv,218,AvgDialog,Content,,小小侦探,작은 탐정
+AvgDialog_18891_Content_2,afkD,avg章1新_AvgDialog_C_M.csv,219,AvgDialog,Content,莎拉,如你所见，尽管我们已经尽全力收容求助者，但需要帮助的人实在太多了！这样下去，济贫院也撑不了多久了…我……唉！,"보시다시피, 구호가 필요한 분들을 최대한 수용하려고 노력하고 있지만 사람이 너무 많아요! 이대로라면 오래 버티지 못할 거예요… 전…… 으흑!"
+AvgDialog_18891_Content_3,afkO,avg章1新_AvgDialog_C_M.csv,220,AvgDialog,Content,艾继丝,莎、莎拉小姐每天都好辛苦，还把自己最喜欢的东西都变卖了，就为了补贴济贫院。请、请你帮帮我们……,"사... 사라 선생님은 매일 고생하고 계세요. 선생님이 가장 아끼던 물건도 다 팔아서 빈민원을 위해 쓰셨어요. 제발, 제발 도와주세요..."
+AvgDialog_18891_Content_4,afkZ,avg章1新_AvgDialog_C_M.csv,221,AvgDialog,Content,,眼看着两人的戏——主要是莎拉——越演越浮夸，你颇有些无奈。,"두 사람의 연기——특히 사라——가 점점 더 과장되게 치닫는 모습을 보며, 당신은 어쩔 줄 몰라 했다."
+AvgDialog_18891_Content_5,aflk,avg章1新_AvgDialog_C_M.csv,222,AvgDialog,Content,,正在这时，一个小小的纸团砸中了你的脑袋。,"그 순간, 작은 종이 뭉치가 당신의 머리를 정확하게 가격한다."
+AvgDialog_18891_Content_6,aflv,avg章1新_AvgDialog_C_M.csv,223,AvgDialog,Content,莎拉,哪来的家伙——,대체 누가—
+AvgDialog_18891_Content_7,aflG,avg章1新_AvgDialog_C_M.csv,224,AvgDialog,Content,,你伸手止住了莎拉的怒火，展开纸团，上面歪歪扭扭地写着一行字。,당신은 손을 뻗어 사라를 제지하고 종이를 펼쳤다. 종이 위에는 삐뚤삐뚤한 글씨 한 줄이 적혀 있다.
+AvgDialog_18891_Content_8,aflH,avg章1新_AvgDialog_C_M.csv,225,AvgDialog,Content,,“要想拿回前包，就自己到后院来。”,"""지갑을 돼찻고 십다면 혼자 뒤뜰로 나와라."""
+AvgDialog_18891_Content_9,aflI,avg章1新_AvgDialog_C_M.csv,226,AvgDialog,Content,,……,...
+AvgDialog_18891_Content_10,afkt,avg章1新_AvgDialog_C_M.csv,227,AvgDialog,Content,,你按照纸团中的地点来到后院中，还没走近，就听见一个稚气的声音在墙根下嘀嘀咕咕。,당신은 종이에 적힌 대로 뒤뜰에 도착했다. 더 들어가기도 전에 벽 아래쪽에서 아이가 중얼거리는 소리가 들려왔다.
+AvgDialog_18891_Content_11,afku,avg章1新_AvgDialog_C_M.csv,228,AvgDialog,Content,詹金,"记住啦，要是那个什么资助人对我们不利，你就去报信儿。
+那臭女人一定会让艾继丝去<Yellow:病疯子>那边帮忙，你带她过来就好。","기억해. 만약 그 후원자인가 뭔가 하는 녀석이 우리에게 좋게 나오지 않는다면, 넌 바로 우리한테 소식을 전해. 저 더러운 여자는 분명 아이기스를 그 <Yellow:정신 나간 환자들> 쪽으로 보내 도와달라고 할 거야. 그때 데려오면 돼."
+AvgDialog_18891_Content_12,afkv,avg章1新_AvgDialog_C_M.csv,229,AvgDialog,Content,玩家,什么病疯子？,정신 나간 환자들?
+AvgDialog_18891_Content_13,afkw,avg章1新_AvgDialog_C_M.csv,230,AvgDialog,Content,詹金,哇！你怎么突然就出来了！还有，我不是说了让你自己来吗！,으앗! 갑자기 어디서 튀어나온 거야! 그리고 내가 분명 혼자 오라고 했잖아!
+AvgDialog_18891_Content_14,afkx,avg章1新_AvgDialog_C_M.csv,231,AvgDialog,Content,,小老鼠蹿上兜帽孩子的肩头，对你紧张地绷起胡须。,"작은 쥐가 잽싸게 후드를 쓴 아이의 어깨 위로 뛰어올라, 긴장한 듯 수염을 파르르 떨었다."
+AvgDialog_18891_Content_15,afky,avg章1新_AvgDialog_C_M.csv,232,AvgDialog,Content,玩家,那不是我的钱包，我做不了主。,그건 내 지갑이 아니라서 마음대로 결정할 수 없는걸.
+AvgDialog_18891_Content_16,afkz,avg章1新_AvgDialog_C_M.csv,233,AvgDialog,Content,詹金,别装了，什么都逃不过小老鼠的眼睛——白发姐姐装成管家，小金毛还要负责问路，只有你甩着手什么都不干。,"거짓말 집어치워. 우리 눈을 속일 생각 마. 흰머리는 집사인 척하고, 노랑머리는 길을 물어보는데 넌 아무것도 안 하네?"
+AvgDialog_18891_Content_17,afkA,avg章1新_AvgDialog_C_M.csv,234,AvgDialog,Content,詹金,别以为我看不出来，你才是说了算的那个。毕竟，这里面装的可不是少爷证书。,내가 그 정도도 모를 줄 알아? 그럼 당연히 네가 대장이지. 이 안에 있는 것도 도련님 증명서 같은 게 아닐 거고.
+AvgDialog_18891_Content_18,afkB,avg章1新_AvgDialog_C_M.csv,235,AvgDialog,Content,,詹金的手一晃，从不知何处摸出了一个皮夹。它有着熟悉的质感与形状，上面印着弥萨格大学的校徽，正是奥吉尔的钱包。,"젠킨이 손을 빠르게 움직이더니 순식간에 지갑을 꺼냈다. 위에 미사그 대학의 문장이 인쇄된, 익숙한 질감과 모양의 지갑. 오지에의 지갑이었다."
+AvgDialog_18891_Content_19,afkC,avg章1新_AvgDialog_C_M.csv,236,AvgDialog,Content,詹金,对吧，布朗？,"그치, 브라운?"
+AvgDialog_18891_Content_20,afkE,avg章1新_AvgDialog_C_M.csv,237,AvgDialog,Content,布朗,吱，吱吱！,"찍, 찍찍!"
+AvgDialog_18891_Content_21,afkF,avg章1新_AvgDialog_C_M.csv,238,AvgDialog,Content,奥吉尔,啊！我的钱包！,아! 내 지갑!
+AvgDialog_18891_Content_22,afkG,avg章1新_AvgDialog_C_M.csv,239,AvgDialog,Content,,奥吉尔着急地对着皮夹伸手，詹金侧身躲过，皮夹又像魔术般消失不见了。,"오지에가 다급하게 손을 뻗자, 젠킨은 지갑을 마법처럼 다시 숨기며 재빨리 옆으로 몸을 피했다."
+AvgDialog_18891_Content_23,afkH,avg章1新_AvgDialog_C_M.csv,240,AvgDialog,Content,詹金,"太没礼貌了，小金毛。
+你们弥萨格大学的人都是这么欺负流落街头的小女孩的吗？","너무 무례하네, 노랑머리.\n미사그 사람들은 다 길거리 소녀를 이렇게 괴롭히고 다녀?"
+AvgDialog_18891_Content_24,afkI,avg章1新_AvgDialog_C_M.csv,241,AvgDialog,Content,玩家,你是……女孩？,너... 여자아이라고?
+AvgDialog_18891_Content_25,afkJ,avg章1新_AvgDialog_C_M.csv,242,AvgDialog,Content,詹金,你眼睛是不是有问题啊！？我当然是女的，女的！,눈 삐었어? 당연히 여자지. 여자라고!
+AvgDialog_18891_Content_26,afkK,avg章1新_AvgDialog_C_M.csv,243,AvgDialog,Content,詹金,算了，不提这些，我劝你们老实听话，只要按我——,"됐어, 이런 얘기는 그만하자. 아무튼 순순히 내 말 들어. 내가 시키는 대로—"
+AvgDialog_18891_Content_27,afkL,avg章1新_AvgDialog_C_M.csv,244,AvgDialog,Content,拉蒙娜,行了，我们答应。作为交换条件，你带我们去看你说的那些<Yellow:病疯子>。,"좋아, 동의할게. 대신, 네가 말한 그 <Yellow:정신 나간 환자>들이 있는 곳으로 우릴 안내해줘."
+AvgDialog_18891_Content_28,afkM,avg章1新_AvgDialog_C_M.csv,245,AvgDialog,Content,詹金,……啊？,...뭐?
+AvgDialog_18891_Content_29,afkN,avg章1新_AvgDialog_C_M.csv,246,AvgDialog,Content,拉蒙娜,你不是要我们帮你在济贫院里找人吗？说吧，要找谁？,우리한테 빈민원 안에서 사람을 찾아달라고 하려는 거지? 말해줘. 누구를 찾으면 될까?
+AvgDialog_18891_Content_30,afkP,avg章1新_AvgDialog_C_M.csv,247,AvgDialog,Content,詹金,我还什么都没说！,아직 아무 말도 안 했어!
+AvgDialog_18891_Content_31,afkQ,avg章1新_AvgDialog_C_M.csv,248,AvgDialog,Content,拉蒙娜,你会说的。所以我建议我们跳过不必要的试探，直接坦诚相待。,"어차피 말할 거잖아. 그러니까 쓸데없이 떠 보지 말고, 서로 솔직히 이야기해 보는게 어때?"
+AvgDialog_18891_Content_32,afkR,avg章1新_AvgDialog_C_M.csv,249,AvgDialog,Content,拉蒙娜,"你应该是来调查济贫院附近的<Yellow:失踪案>的吧？
+我们也是，帮你一起调查不过是举手之劳。",너도 빈민원 근처에서 일어난 <Yellow:실종 사건>을 조사하러 온 거지? 우리도 마찬가지야. 협력하면 분명 서로에게 이득이 될 거야.
+AvgDialog_18891_Content_33,afkS,avg章1新_AvgDialog_C_M.csv,250,AvgDialog,Content,詹金,你……你是怎么知道的？,너... 어떻게 알았어?
+AvgDialog_18891_Content_34,afkT,avg章1新_AvgDialog_C_M.csv,251,AvgDialog,Content,拉蒙娜,很简单。你有一双灵巧的双手，和一批配合默契的固定伙伴，能够获得稳定但是非法的收入。,"간단해. 너에게는 솜씨 좋은 두 손과 호흡이 맞는 동료들이 있고, 덕분에 불법적이지만 안정적인 수입을 얻을 수 있지."
+AvgDialog_18891_Content_35,afkU,avg章1新_AvgDialog_C_M.csv,252,AvgDialog,Content,,拉蒙娜一边说着，一边习惯性地在院内踱步。,라모나는 그렇게 말하면서 습관처럼 빈민원 마당을 걸어다녔다.
+AvgDialog_18891_Content_36,afkV,avg章1新_AvgDialog_C_M.csv,253,AvgDialog,Content,拉蒙娜,你们有一个完整的模式：你负责主要工作，他们负责给你打掩护，确保你能顺利逃走。作为报酬，你会给他们分一杯羹。,네가 먼저 작업을 시작하면 나머지는 너를 적당히 보호하면서 안전하게 빠져나갈 수 있도록 도와주는 거고. 보답으로 너는 아이들에게 한몫을 나눠주는 거고. 그렇지?
+AvgDialog_18891_Content_37,afkW,avg章1新_AvgDialog_C_M.csv,254,AvgDialog,Content,拉蒙娜,你在街头可以过着更舒适且自由的生活，完全没有必要到济贫院讨生活。况且，你未经许可进入济贫院，被发现后很可能会摊上大麻烦。,거리에서는 훨씬 편하고 자유로운 생활을 할 수 있어. 굳이 빈민원에서 생계를 이어갈 필요는 없지. 게다가 허가 없이 빈민원에 들어갔다가 들키면 큰 곤란에 처할 가능성이 높아.
+AvgDialog_18891_Content_38,afkX,avg章1新_AvgDialog_C_M.csv,255,AvgDialog,Content,拉蒙娜,为什么呢？是什么东西驱使你，让你冒着被罚款甚至被收监的风险，也要留在济贫院？,그럼에도 왜일까? 무엇이 네가 벌금이나 구금이라는 위험을 감수하면서까지 빈민원에 남게 만드는 걸까?
+AvgDialog_18891_Content_39,afkY,avg章1新_AvgDialog_C_M.csv,256,AvgDialog,Content,拉蒙娜,"这，加上附近最近频发的失踪案，共同导向一个猜想：
+你的亲人或者朋友失踪了，而你怀疑他们的失踪与济贫院有关。","여기에다가 근처에서 최근 빈번하게 발생한 실종 사건까지 더해지면, 자연스레 한 가지 추측이 떠오르지. 너의 친척이나 친구가 실종되었고, 그게 빈민원과 관련이 있다고 넌 의심하고 있는 거야."
+AvgDialog_18891_Content_40,afla,avg章1新_AvgDialog_C_M.csv,257,AvgDialog,Content,,女孩愣愣地望着拉蒙娜，好一会儿才反应过来。,"소녀는 한동안 라모나를 멍하니 바라보다가, 마침내 입을 열었다."
+AvgDialog_18891_Content_41,aflb,avg章1新_AvgDialog_C_M.csv,258,AvgDialog,Content,詹金,我、我们之间可还没说够十句话，你却搞得像跟踪了我十天……,"아, 아직 열 마디도 안 했는데. 누가보면 날 열흘은 미행한 줄 알겠어."
+AvgDialog_18891_Content_42,aflc,avg章1新_AvgDialog_C_M.csv,259,AvgDialog,Content,拉蒙娜,"算上你借用奥吉尔钱包的那会儿，你一共和我们说了十六句话。
+加上对现实的观察，这些话已经足够分析、推理出你的生平了。","오지에의 지갑을 훔쳤을 때까지 포함하면, 넌 지금까지 우리에게 총 열여섯 문장을 말했어. 거기에 관찰까지 더하면,그 말들만으로도 네 인생사를 추론하기엔 이미 충분하지."
+AvgDialog_18891_Content_43,afld,avg章1新_AvgDialog_C_M.csv,260,AvgDialog,Content,詹金,……你们确实很厉害。既然如此，布朗。,"...그래, 대단하신 분 납셨네. 그럼—브라운."
+AvgDialog_18891_Content_44,afle,avg章1新_AvgDialog_C_M.csv,261,AvgDialog,Content,布朗,吱！,찍!
+AvgDialog_18891_Content_45,aflf,avg章1新_AvgDialog_C_M.csv,262,AvgDialog,Content,,被称作布朗的小老鼠吱吱叫着，衔着钱包从大树上跃下，将它抛在奥吉尔的怀中。,"브라운이라 불린 작은 생쥐가 찍찍 울며, 지갑을 물고 큰 나무 위에서 뛰어내렸다. 그리고 그것을 오지에의 품속으로 턱—하고 던져 넣었다."
+AvgDialog_18891_Content_46,aflg,avg章1新_AvgDialog_C_M.csv,263,AvgDialog,Content,詹金,我会带你们去见病疯子们，也会把知道的事儿都告诉你们，作为交换——,"너희를 그 정신 나간 사람들한테 데려가 줄게. 그리고 내가 알고 있는 것도 전부 얘기해줄게. 대신,"
+AvgDialog_18891_Content_47,aflh,avg章1新_AvgDialog_C_M.csv,264,AvgDialog,Content,詹金,你们要帮我打败济贫院的幽灵，救出我的姐姐，<Blue:梅森>。,"빈민원의 유령을 쓰러뜨리고, 내 언니, <Blue:메이슨>을 구해줘."
+AvgDialog_18891_Content_48,afli,avg章1新_AvgDialog_C_M.csv,265,AvgDialog,Content,,你们跟着詹金，在济贫院的走廊中穿行。,당신들은 젠킨을 따라 빈민원의 복도를 지나간다.
+AvgDialog_18891_Content_49,aflj,avg章1新_AvgDialog_C_M.csv,266,AvgDialog,Content,詹金,姐姐每周四都会来济贫院收衣服，带回家浆洗。可能是那些衣服也不干净，姐姐染上了近期流行的怪病，叫什么“<Yellow:歇斯底里症>”。,언니는 목요일마다 빈민원에 와서 빨랫감을 가져가. 집에 가져가 빨고 다려서 다시 돌려주는 거지. 아마 그 빨래도 깨끗하지 않았을 거야. 그래서 언니는 요즘 유행하는 이상한 병에 걸렸어. 뭐라고 했더라... 아마 <Yellow:히스테리>였을 거야.
+AvgDialog_18891_Content_50,afll,avg章1新_AvgDialog_C_M.csv,267,AvgDialog,Content,詹金,"正好济贫院请了医生，她就顺道过来检查。
+前段时间，她说要来接受治疗，然后再也没有回家。","마침 빈민원에 의사도 왔고, 그래서 검진 받으러 들른 김에 치료도 받겠다고 했어. 그런데——얼마 전, 치료받으러 간다던 그날 이후로... 집에 돌아오지 않았어."
+AvgDialog_18891_Content_51,aflm,avg章1新_AvgDialog_C_M.csv,268,AvgDialog,Content,,詹金显得很焦虑。,젠킨은 매우 불안해 보인다.
+AvgDialog_18891_Content_52,afln,avg章1新_AvgDialog_C_M.csv,269,AvgDialog,Content,詹金,不知道为什么，我最近渐渐想不起姐姐长什么样子了。,"이유는 모르겠지만, 요즘따라 언니의 얼굴이 기억이 안 나."
+AvgDialog_18891_Content_53,aflo,avg章1新_AvgDialog_C_M.csv,270,AvgDialog,Content,詹金,有时候，看到一点姐姐留下的东西，就能短暂地回想起来，但很快又忘记了。,"가끔 언니가 남긴 물건을 보면 잠시 기억이 돌아오지만, 금세 다시 잊어버려."
+AvgDialog_18891_Content_54,aflp,avg章1新_AvgDialog_C_M.csv,271,AvgDialog,Content,,拉蒙娜突然停步，朝你点了点头。,라모나는 갑자기 걸음을 멈추고 당신을 향해 고개를 끄덕인다.
+AvgDialog_18891_Content_55,aflq,avg章1新_AvgDialog_C_M.csv,272,AvgDialog,Content,詹金,怎么不走了？不去看病疯子了？,왜 멈췄어?
+AvgDialog_18891_Content_56,aflr,avg章1新_AvgDialog_C_M.csv,273,AvgDialog,Content,玩家,关于你姐姐生的病……我们可能有些眉目。,네 언니가 앓고 있는 병에 대해... 우리에게 단서가 조금 있을지도 몰라.
+AvgDialog_18891_Content_57,afls,avg章1新_AvgDialog_C_M.csv,274,AvgDialog,Content,,……,...
+AvgDialog_18891_Content_58,aflt,avg章1新_AvgDialog_C_M.csv,275,AvgDialog,Content,,通过通讯递交信息披露申请报告后，拉蒙娜缓缓转向詹金，开始解释融蚀相关的信息。,"통신을 통해 정보 공개 허가 신청을 제출한 후, 라모나가 천천히 젠킨을 향해 몸을 돌리며 융식과 관련된 정보를 설명하기 시작했다."
+AvgDialog_18891_Content_59,aflu,avg章1新_AvgDialog_C_M.csv,276,AvgDialog,Content,拉蒙娜,詹金，你的姐姐被一种名为融蚀特殊现象影响了。这种现象，会让人的存在渐渐被人遗忘。,"젠킨, 네 언니는 융식이라는 특별한 현상에 영향을 받았을 거야. 이 현상은 사람의 존재가 점차 잊히도록 만들어."
+AvgDialog_18891_Content_60,aflw,avg章1新_AvgDialog_C_M.csv,277,AvgDialog,Content,拉蒙娜,肉体、身份、履历、社会关系……都会在悄无声息中消失得一干二净。,"육체, 신분, 경력, 사회적 관계…… 모두 소리 없이 말끔히 사라져 버리지."
+AvgDialog_18891_Content_61,aflx,avg章1新_AvgDialog_C_M.csv,278,AvgDialog,Content,拉蒙娜,你说的那些病疯子的情况，很像是<Yellow:融蚀的早期症状>。你的姐姐更是发展到了存在开始被抹消的地步，只怕她……,"네가 말했던 그 미치광이들의 상태는 <Yellow:융식의 초기 증상>과 매우 비슷해. 그런데 네 언니는 이미 존재 자체가 지워지기 시작할 정도로 진행된 상태라고 했으니, 아마 그녀는……"
+AvgDialog_18891_Content_62,afly,avg章1新_AvgDialog_C_M.csv,279,AvgDialog,Content,拉蒙娜,詹金，梅森她……失踪多久了？,"젠킨, 메이슨 말이야... 실종된 지 얼마나 됐어?"
+AvgDialog_18891_Content_63,aflz,avg章1新_AvgDialog_C_M.csv,280,AvgDialog,Content,詹金,二十七天。从那之后，我每天数着日子。,27일. 그날 이후로 매일 셌어.
+AvgDialog_18891_Content_64,aflA,avg章1新_AvgDialog_C_M.csv,281,AvgDialog,Content,,见拉蒙娜面露为难之色，詹金吸了吸鼻子。,"라모나가 난처한 표정을 짓자, 젠킨은 코를 훌쩍인다."
+AvgDialog_18891_Content_65,aflB,avg章1新_AvgDialog_C_M.csv,282,AvgDialog,Content,詹金,"我知道，这么长时间了，你们肯定觉得没希望了。
+但我觉得姐姐肯定还活着……街头孩子的直觉很准的。",나도 알아. 이미 시간이 꽤 지났으니 희망이 없다고 생각하겠지.\n하지만 난 언니가 살아있을 거라 확신해... 길거리 아이들의 직감은 정확하다고.
+AvgDialog_18891_Content_66,aflC,avg章1新_AvgDialog_C_M.csv,283,AvgDialog,Content,詹金,所以…必须得快点找到姐姐。不然就会彻底忘掉她的脸，就连面对面也认不出来了。,"그래서... 빨리 언니를 찾아야 해. 안 그러면 언니의 얼굴을 완전히 잊어버려서, 만나더라도 못 알아볼 수 있어."
+AvgDialog_18891_Content_67,aflD,avg章1新_AvgDialog_C_M.csv,284,AvgDialog,Content,奥吉尔,别难过，我们会帮你找到姐姐的，只要能见她一面，你不就想起来了吗？,"슬퍼하지 마세요, 반드시 언니를 찾을 거예요. 한 번이라도 만날 수만 있다면, 기억이 돌아오지 않을까요?"
+AvgDialog_18891_Content_68,aflE,avg章1新_AvgDialog_C_M.csv,285,AvgDialog,Content,,"拉蒙娜没有接话。
+你在她略显忧郁的注视下，回忆起朵尔在课堂上讲述的内容。","——라모나는 아무 대답도 하지 않았다. 그녀의 우울한 시선을 느끼며, 당신은 교실에서 돌이 말했던 내용을 떠올렸다."
+AvgDialog_18891_Content_69,aflF,avg章1新_AvgDialog_C_M.csv,286,AvgDialog,Content,,<Yellow:“存在消除是融蚀的末期症状，而融蚀的历程是不可逆转的。”>,"<Yellow: ""존재 소거는 융식의 말기 증상이며, 이미 되돌릴 수 없는 단계이다."">"
+AvgDialog_18907_Content_1,afvn,avg章1新_AvgDialog_C_M.csv,287,AvgDialog,Content,,病,병
+AvgDialog_18907_Content_2,afvy,avg章1新_AvgDialog_C_M.csv,288,AvgDialog,Content,,詹金领着你们穿过后院，指向角落的一栋小破屋。,"젠킨이 당신들을 데리고 뒷마당을 지나, 구석에 있는 작고 허름한 오두막을 가리켰다."
+AvgDialog_18907_Content_3,afvJ,avg章1新_AvgDialog_C_M.csv,289,AvgDialog,Content,,"从窗外望去，就能看见艾继丝的奔忙身影。
+她抱着铁盆，匆匆忙忙地将满是脏污的绷带从病床边端去脏衣堆。","창문 너머로, 아이기스가 분주히 움직이는 모습이 보였다. 그녀는 철제 대야를 안고, 병상 옆에 쌓인 더러운 붕대를 서둘러 더러운 빨래 더미로 옮기고 있었다."
+AvgDialog_18907_Content_4,afvQ,avg章1新_AvgDialog_C_M.csv,290,AvgDialog,Content,艾继丝,嗯？怎么了？,음? 무슨 일이지?
+AvgDialog_18907_Content_5,afvR,avg章1新_AvgDialog_C_M.csv,291,AvgDialog,Content,,"似乎是听见了某人的呼唤，她放下铁盆，躬下腰凑在床边。
+从你们的角度，已经看不见她的小小身影，只有细声细气的话语传来。","마치 누군가가 부른 듯, 그녀는 철제 대야를 내려놓고 허리를 굽혀 병상 곁으로 다가갔다. 당신의 시선에 이제 그녀의 작은 몸은 보이지 않고, 조그맣고 부드러운 목소리만 들려왔다."
+AvgDialog_18907_Content_6,afvS,avg章1新_AvgDialog_C_M.csv,292,AvgDialog,Content,艾继丝,罗伯特爷爷，您别起来，我把水端过来给您。,"로버트 할아버지, 일어나지 마세요. 제가 물을 가져다드릴게요."
+AvgDialog_18907_Content_7,afvT,avg章1新_AvgDialog_C_M.csv,293,AvgDialog,Content,艾继丝,"别这么说，您的病一定会好起来的。
+那时候，我们就能去德莱尔公园玩，再一起喂鸽子了。",그런 말씀 마세요. 병은 반드시 나을 거에요.\n다 나으시면 같이 드렐 공원에서 비둘기들에게 모이를 줘요.
+AvgDialog_18907_Content_8,afvU,avg章1新_AvgDialog_C_M.csv,294,AvgDialog,Content,,"“砰”地一下，詹金推开了小屋的门。
+艾继丝吓了一跳，慌乱地差点把水洒到病人身上。","""쾅"" 하고, 젠킨이 오두막의 문을 밀쳐 열었다. 아이기스는 깜짝 놀라 물을 환자에게 쏟을 뻔하며 허둥지둥했다."
+AvgDialog_18907_Content_9,afvV,avg章1新_AvgDialog_C_M.csv,295,AvgDialog,Content,詹金,看，这些就是<Yellow:病疯子>。,"자, 이 사람들이 내가 말한 <Yellow:정신 나간 환자>들이야."
+AvgDialog_18907_Content_10,afvo,avg章1新_AvgDialog_C_M.csv,296,AvgDialog,Content,艾继丝,詹金！你怎么…不能带资助人来<Blue:医护区>的，要被资助人看到了就……,젠킨! 대체 왜… 후원자를 <Blue:의료 구역>에 데려오면 안 되는 거 몰라? 후원자들이 이 모습을 보면…
+AvgDialog_18907_Content_11,afvp,avg章1新_AvgDialog_C_M.csv,297,AvgDialog,Content,,你向拉蒙娜使了个眼色，拉蒙娜走向艾继丝，温柔地询问。,"당신은 라모나에게 눈짓하고, 라모나는 아이기스에게 다가가 부드럽게 물었다."
+AvgDialog_18907_Content_12,afvq,avg章1新_AvgDialog_C_M.csv,298,AvgDialog,Content,拉蒙娜,艾继丝，能不能跟我们讲讲，为什么资助人不能来医护区？,"아이기스, 왜 후원자들이 의료 구역에 오면 안 되는지 알려줄 수 있어?"
+AvgDialog_18907_Content_13,afvr,avg章1新_AvgDialog_C_M.csv,299,AvgDialog,Content,艾继丝,这、这…我…他们……他们很虚弱……,"어, 그... 제 말은, 환자들이 많이 아프니까..."
+AvgDialog_18907_Content_14,afvs,avg章1新_AvgDialog_C_M.csv,300,AvgDialog,Content,,艾继丝满脸犹豫，她看看身后的病人，又看看衣着光鲜的你们，吞吐着不知如何作答。,"아이기스는 얼굴 가득 망설임을 띤 채, 뒤에 있는 환자와 말끔히 차려입은 일행 사이에서 시선을 오가며, 어떻게 대답해야 할지 몰라 머뭇거렸다."
+AvgDialog_18907_Content_15,afvt,avg章1新_AvgDialog_C_M.csv,301,AvgDialog,Content,,借此机会，你和奥吉尔靠近了病床上的老者，仔细观察。,"그 틈을 타, 당신과 오지에는 병상으로 다가가 노인을 자세히 관찰했다."
+AvgDialog_18907_Content_16,afvu,avg章1新_AvgDialog_C_M.csv,302,AvgDialog,Content,,老者被粗布条绑住手脚，固定在了床上。他身上有着奇怪的伤痕，乍一看像是扭曲的缝合痕迹，尚未痊愈的皮肉间满是漆黑的黏液。,"노인은 거친 천 조각으로 손발이 묶인 채 침대에 고정되어 있었다. 그의 몸에는 이상한 상처가 있었는데, 얼핏 보기에는 뒤틀린 봉합 자국처럼 보였지만 아직 아물지 않은 살 사이에는 검게 끈적이는 진액이 가득했다."
+AvgDialog_18907_Content_17,afvv,avg章1新_AvgDialog_C_M.csv,303,AvgDialog,Content,拉蒙娜,"艾继丝，这次视察会决定我们是否对莉莉安济贫院提供经济资助。
+你应该能明白，没有资助人愿意让自己的钱流入骗子手中。","아이기스, 우리는 이번 시찰을 통해 릴리안 빈민원에 경제적 지원을 할 것인지 결정할 거야. 이해할 수 있겠지, 자기 돈이 사기꾼의 손에 들어가는 걸 원하는 사람은 없으니까."
+AvgDialog_18907_Content_18,afvw,avg章1新_AvgDialog_C_M.csv,304,AvgDialog,Content,悠远的声音,他们不会伤害你，不要抗拒他们。,그들은 너를 해치지 않을 거야. 막지 않아도 돼.
+AvgDialog_18907_Content_19,afvx,avg章1新_AvgDialog_C_M.csv,305,AvgDialog,Content,,艾继丝脸上的挣扎在片刻喘息后消失，她深呼吸了一口气，如蚊蝇般细声回复。,"아이기스의 얼굴에 맺혔던 갈등이 잠깐 숨을 고른 후 사라졌다. 그녀는 깊게 숨을 들이쉬고, 모기처럼 작은 목소리로 대답했다."
+AvgDialog_18907_Content_20,afvz,avg章1新_AvgDialog_C_M.csv,306,AvgDialog,Content,艾继丝,<Small:莎拉小姐说，资助人如果看到了这些病人，他们就会觉得我们是个无底洞……>,<Small: 사라 선생님이 후원자들이 이 환자들을 보면 우리를 밑 빠진 독처럼 생각할 거라고 했어요…>
+AvgDialog_18907_Content_21,afvA,avg章1新_AvgDialog_C_M.csv,307,AvgDialog,Content,詹金,你就不该听那个臭女人的话！这几个资助人会帮我们解决<Yellow:济贫院幽灵>，她们也是来找人的，肯定也会找到我的姐姐……,"그 못된 여자 말은 듣지 마! 이 후원자들이 <Yellow:빈민원 유령> 문제를 해결해 줄 거야. 게다가 사람을 찾으러 온 거라고 하니까, 분명 언니도 찾을 수 있을 거야..."
+AvgDialog_18907_Content_22,afvB,avg章1新_AvgDialog_C_M.csv,308,AvgDialog,Content,艾继丝,可医护区太危险了！,하-하지만 의료 구역은 너무 위험해요!
+AvgDialog_18907_Content_23,afvC,avg章1新_AvgDialog_C_M.csv,309,AvgDialog,Content,,艾继丝拔高的尾音戛然而止，她不安地偏头看了眼失去意识的老人，才将詹金拉离了病床边。,"아이기스가 목소리를 높이더니 놀란 듯 바로 끊었다. 그녀는 불안한 듯 의식을 잃은 노인을 힐끗 바라본 뒤, 젠킨을 침대 곁에서 끌어내렸다."
+AvgDialog_18907_Content_24,afvD,avg章1新_AvgDialog_C_M.csv,310,AvgDialog,Content,艾继丝,万一传染给你和资助人可怎么办……,너나 후원자들에게 병을 옮길지도 몰라...
+AvgDialog_18907_Content_25,afvE,avg章1新_AvgDialog_C_M.csv,311,AvgDialog,Content,,艾继丝紧张又无力地驳斥着詹金，她紧紧抱着小熊玩偶，白色衣袖顺着小臂滑落，露出狰狞可怖的黑色缝合痕迹和两道红肿勒痕。,"아이기스는 긴장과 무력감이 뒤섞인 채 젠킨에게 소심하게 반박했다. 그녀는 작은 곰 인형을 꼭 끌어안고 있었고, 흰색 소매가 팔뚝을 따라 흘러내리며, 그 아래로 흉측한 검은 봉합 자국과 두 개의 붉게 부어오른 족쇄 자국이 드러나 있었다."
+AvgDialog_18907_Content_26,afvF,avg章1新_AvgDialog_C_M.csv,312,AvgDialog,Content,,女孩的手臂纤巧伶仃，盘踞其上的黑色裂口形似巨型百足虫，边缘还在缓缓溢出黑色的黏液，令人不寒而栗。,"소녀의 팔은 가늘고 연약했지만, 팔 위의 갈라진 검은 틈은 거대한 지네를 연상시키며, 그 가장자리에서는 끈적하고도 검은 진액이 천천히 흘러나와 보는 이를 소름끼치게 만들었다."
+AvgDialog_18907_Content_27,afvG,avg章1新_AvgDialog_C_M.csv,313,AvgDialog,Content,拉蒙娜,艾继丝，你胳膊上的伤……,"아이기스, 네 팔의 상처..."
+AvgDialog_18907_Content_28,afvH,avg章1新_AvgDialog_C_M.csv,314,AvgDialog,Content,,艾继丝慌乱地拢起袖子，摇头躲避拉蒙娜的视线。,"아이기스는 다급하게 옷소매를 내리며, 고개를 절레절레 흔들며 라모나의 시선을 피한다."
+AvgDialog_18907_Content_29,afvI,avg章1新_AvgDialog_C_M.csv,315,AvgDialog,Content,艾继丝,这是上回、上回不小心从楼梯上摔下来时弄的。,이-이건 예전에 실수로 계단에서 떨어져서 생긴 거예요...
+AvgDialog_18907_Content_30,afvK,avg章1新_AvgDialog_C_M.csv,316,AvgDialog,Content,拉蒙娜,这个缝合痕迹可不像普通的摔伤剐蹭。,그 봉합 자국은 일반적인 찰과상과 다르게 생겼는데.
+AvgDialog_18907_Content_31,afvL,avg章1新_AvgDialog_C_M.csv,317,AvgDialog,Content,悠远的声音,"看吧，他们能“看见”。
+把一切都告诉他们，他们是最后的转机。","거봐, 이 사람들은 ""볼"" 수 있어.\n전부 얘기해도 돼. 이게 우리의 유일한 희망이야."
+AvgDialog_18907_Content_32,afvM,avg章1新_AvgDialog_C_M.csv,318,AvgDialog,Content,艾继丝,<Small:他们会有危险的，不可以……>,"<Small: 저 사람들이 위험에 처할 거야, 안 돼…>"
+AvgDialog_18907_Content_33,afvN,avg章1新_AvgDialog_C_M.csv,319,AvgDialog,Content,拉蒙娜,听我说，艾继丝。只有告诉我们真相，我们才能真正判断你们需要什么样的帮助。,"잘 들어, 아이기스. 우리에게 사실대로 말해 줘야 어떤 조치를 취해야 할 지 알 수 있어."
+AvgDialog_18907_Content_34,afvO,avg章1新_AvgDialog_C_M.csv,320,AvgDialog,Content,,在你的身侧，老人喉咙里发出咯咯的怪响，干瘦的手臂扯断了束缚的布条猛地一抬——,"그때, 당신의 옆에서 노인의 목구멍이 꾸륵거리는 소리를 냈다. 메마른 팔이 천 조각을 찢고 갑자기 솟구쳤다—"
+AvgDialog_18907_Content_35,afvP,avg章1新_AvgDialog_C_M.csv,321,AvgDialog,Content,奥吉尔,守密人，小心！,"수호자님, 조심하세요!"
+AvgDialog_18888_Content_1,afjI,avg章1新_AvgDialog_C_M.csv,322,AvgDialog,Content,艾继丝,罗伯特爷爷……怎么会……,로버트 할아버지... 어떻게 이런 일이...
+AvgDialog_18888_Content_2,afjJ,avg章1新_AvgDialog_C_M.csv,323,AvgDialog,Content,奥吉尔,小心，他似乎完全失去理智了！,"조심하세요, 완전히 이성을 잃은 것 같습니다!"
+AvgDialog_18881_Content_1,afio,avg章1新_AvgDialog_C_M.csv,324,AvgDialog,Content,,突然，一个黑色的影子从墙角冲了出来，擦着艾继丝撞在左侧的墙壁上。,"갑자기 벽 구석에서 검은 그림자가 뛰쳐나와, 아이기스를 스쳐 지나가 왼쪽 벽에 부딪혔다."
+AvgDialog_18881_Content_2,afiq,avg章1新_AvgDialog_C_M.csv,325,AvgDialog,Content,,"这时你才看清楚，冲出来的是个头发凌乱的男人。
+他光着脚，穿着济贫院的衣服，手腕和脚腕上有明显捆绑过的痕迹。","그제야 그의 모습이 또렷이 들어왔다. 남자의 머리는 헝클어졌고, 맨발에 환자복을 입고 있었다. 손목과 발목에는 묶여있던 자국이 선명하게 파여있었다."
+AvgDialog_18881_Content_3,afir,avg章1新_AvgDialog_C_M.csv,326,AvgDialog,Content,,"几个似乎是护工的人追在他身后，试图将他拉开。
+男人丝毫不为所动，他向后仰头，然后猛地将头砸在冷硬的墙面上。","간병인으로 보이는 사람들이 그의 뒤를 쫓아와 끌어내려 했지만, 남자는 미동도 하지 않았다. 남자는 고개를 뒤로 젖히더니, 차갑고 단단한 벽에 머리를 내리꽂았다."
+AvgDialog_18881_Content_4,afis,avg章1新_AvgDialog_C_M.csv,327,AvgDialog,Content,,在你身后，艾继丝抽了一口气。,뒤에서 아이기스가 숨을 틀어막는 소리가 들렸다.
+AvgDialog_18881_Content_5,afit,avg章1新_AvgDialog_C_M.csv,328,AvgDialog,Content,艾继丝,——！,—!
+AvgDialog_18881_Content_6,afiu,avg章1新_AvgDialog_C_M.csv,329,AvgDialog,Content,,骨血撞击砖石的闷响逐渐加快频率，男人像是感受不到疼痛一样，一下一下地撞着墙壁。,뼈와 살이 벽돌에 부딪히는 둔탁한 소리가 점점 빨라졌다. 남자는 고통을 느끼지 못하는 듯 계속해서 벽을 들이받았다.
+AvgDialog_18881_Content_7,afiv,avg章1新_AvgDialog_C_M.csv,330,AvgDialog,Content,,"血液飞溅，在墙面上和地上留下了深色的斑点。
+你向前迈出一步准备帮忙，男人却突然停下动作。","피가 사방으로 튀어 벽과 바닥에 짙은 얼룩을 남겼다. 당신이 그를 돕기 위해 발을 내디딘 순간, 남자는 갑자기 움직임을 멈췄다."
+AvgDialog_18881_Content_8,afiw,avg章1新_AvgDialog_C_M.csv,331,AvgDialog,Content,,他用力抽了一下鼻子，狗一样嗅了嗅周围的空气，随后动作缓慢僵硬地转向了你。,"그는 코를 깊게 들이쉬며 개처럼 주변 공기를 킁킁 맡다가, 천천히 당신을 향해 부자연스럽게 몸을 돌렸다."
+AvgDialog_18881_Content_9,afix,avg章1新_AvgDialog_C_M.csv,332,AvgDialog,Content,,血液从他额前缓缓流下，伤口因为猛烈撞击而肿胀，皮肤开裂，你甚至能从中看到一丝属于骨头的白色。,"그의 이마를 타고 피가 천천히 흘러내린다. 강한 충격으로 상처는 부어올랐고, 찢어진 피부 사이로 흰색 뼈가 살짝 보였다."
+AvgDialog_18881_Content_10,afip,avg章1新_AvgDialog_C_M.csv,333,AvgDialog,Content,,他猛地挣开身后的人，朝你扑了过来。,"갑자기 그는 뒤에 있던 사람을 거칠게 밀쳐내고, 당신에게 달려들었다."
+AvgDialog_18890_Content_1,afjP,avg章1新_AvgDialog_C_M.csv,334,AvgDialog,Content,,拉蒙娜闪身到男人身后，一手握住他的手腕，一手按着他的肩膀下压，将他的手臂反剪在身后，牢牢钳制住了他的动作。,"라모나는 재빨리 남자의 뒤로 돌아서서 한 손으로 손목을, 다른 손으로 어깨를 잡고 팔을 뒤로 꺾어 완전히 제압했다."
+AvgDialog_18890_Content_2,afka,avg章1新_AvgDialog_C_M.csv,335,AvgDialog,Content,,"奥吉尔迅速上前，在拉蒙娜的帮助下用布条捆住了他的手脚。
+男人仍不住挣扎扭动着，敞开的衣襟间露出了一道古怪的伤痕。","오지에는 곧장 다가가서 라모나의 도움을 받아 헝겊으로 그의 손발을 묶었다. 남자는 여전히 몸부림쳤고, 열린 옷자락 사이로 특이한 흉터가 드러났다."
+AvgDialog_18890_Content_3,afkl,avg章1新_AvgDialog_C_M.csv,336,AvgDialog,Content,,深邃的伤痕纵贯整个胸膛，扭曲的缝线勉强将无法愈合的缺口并拢到一起，缝隙中，黑色的黏液仍在缓慢地渗出。,어긋난 봉합선이 가슴을 가로지르는 깊은 상처를 간신히 붙잡고 있었다. 그 틈새로는 검은 점액이 천천히 스며나오고 있었다.
+AvgDialog_18890_Content_4,afkm,avg章1新_AvgDialog_C_M.csv,337,AvgDialog,Content,,急促的脚步声在医护区外响起，莎拉上气不接下气地扶着门沿出现。,"의료 구역 밖에서 다급한 발소리가 들려오더니, 곧 사라가 숨을 헐떡이며 문틀을 부여잡고 나타났다."
+AvgDialog_18890_Content_5,afkn,avg章1新_AvgDialog_C_M.csv,338,AvgDialog,Content,,见内部已经安顿下来，她似乎放松了一瞬，然后立刻蹙起眉毛转向角落瑟缩的女孩。,안의 상황이 정리된 것을 확인한 그녀는 잠시 숨을 돌렸다가 이내 눈썹을 찌푸리며 구석에 웅크린 소녀를 향해 몸을 돌렸다.
+AvgDialog_18890_Content_6,afko,avg章1新_AvgDialog_C_M.csv,339,AvgDialog,Content,莎拉,"艾继丝！不是说了不准让资助人到医护区来吗？
+要是资助人在我们这里出了什么意外，以后谁还……","아이기스! 후원자들을 의료 구역에 들이면 안된다고 말했잖니? 무슨 일이라도 생기면, 앞으로 누가..."
+AvgDialog_18890_Content_7,afkp,avg章1新_AvgDialog_C_M.csv,340,AvgDialog,Content,？？？,这是怎、怎么了？,"무, 무슨 일이죠?"
+AvgDialog_18890_Content_8,afkq,avg章1新_AvgDialog_C_M.csv,341,AvgDialog,Content,,"你循着声音回头望去，发现身后不知何时站了两个人。
+其中一个你认得：那是奥吉尔曾经撞上的白衣女人。",소리를 따라 뒤를 돌아보니 두 사람이 서 있었다. 한 명은 낯이 익었다: 오지에와 부딪혔던 흰 옷의 여성.
+AvgDialog_18890_Content_9,afkr,avg章1新_AvgDialog_C_M.csv,342,AvgDialog,Content,莎拉,"罗杰斯先生，菲尔费克斯医生！
+抱歉，您在休息区吃些茶点等我就好，我料理完这边就去招待您……","로저스 선생님, 페어펙스 선생님!\n죄송합니다, 응접실에서 다과를 드시면서 잠시 기다려주세요. 저는 이쪽 일이 정리되면 곧바로 찾아뵙겠습니다..."
+AvgDialog_18890_Content_10,afjQ,avg章1新_AvgDialog_C_M.csv,343,AvgDialog,Content,罗杰斯,"我对这里已经很熟、熟悉了，莎拉小姐，不用那么劳烦的。
+比起那个，小艾、艾继丝怎么哭得这样伤心？是有谁欺负她了吗？","저는 빈민원에 이, 이미 익숙해져서 괜찮습니다, 사라 양.\n그보다 아, 아이기스 양은 왜 이렇게 슬프게 울고 있나요? 혹시 누가 괴롭혔나요?"
+AvgDialog_18890_Content_11,afjR,avg章1新_AvgDialog_C_M.csv,344,AvgDialog,Content,艾继丝,<Small:我没事的，罗杰斯先生。>,"<Small:저는 괜찮아요, 로저스 선생님.>"
+AvgDialog_18890_Content_12,afjS,avg章1新_AvgDialog_C_M.csv,345,AvgDialog,Content,,"在院长略带急促的眼神下，艾继丝猛地把话吞回了肚子里。
+她对着所有人鞠了一躬，最后看了你们一眼，小小的身影消失在了门后。","원장의 다급한 눈길 아래 아이기스는 불쑥 하려던 말을 삼켰다. 그녀는 모두를 향해 조용히 인사한 뒤, 마지막으로 당신들을 바라보고는 문 너머로 사라졌다."
+AvgDialog_18890_Content_13,afjT,avg章1新_AvgDialog_C_M.csv,346,AvgDialog,Content,莎拉,很抱歉向你们隐瞒了医护区的存在，我只是担心病人的情况会传染给你们……,의료 구역의 존재를 숨긴 점은 정말 죄송합니다. 환자들의 병이 여러분께 전염될까 봐 걱정되어서 그만...
+AvgDialog_18890_Content_14,afjU,avg章1新_AvgDialog_C_M.csv,347,AvgDialog,Content,莎拉,唉，不说这些了，请容我向你们介绍我们的长期资助人——知名蜡像师罗杰斯先生。,"음, 이 주제에 대해서는 삼가도록 하죠. 저희 시설의 오랜 후원자이자, 유명한 밀랍인형사이신, 로저스 선생님을 소개해 드리겠습니다."
+AvgDialog_18890_Content_15,afjV,avg章1新_AvgDialog_C_M.csv,348,AvgDialog,Content,莎拉,这个医护区，和病人们的治疗，都是靠他才实现的。,이 의료 구역과 환자들의 치료를 진행할 수 있었던 것도 모두 선생님 덕분이었지요.
+AvgDialog_18890_Content_16,afjW,avg章1新_AvgDialog_C_M.csv,349,AvgDialog,Content,罗杰斯,乔治·罗杰斯，很高兴见到三位。,"조지 로저스, 만나 뵙게 되어 반갑습니다."
+AvgDialog_18890_Content_17,afjX,avg章1新_AvgDialog_C_M.csv,350,AvgDialog,Content,,"他腾出一只手与你轻轻一握。
+掌心相触的瞬间，一股强烈的晕眩感朝你袭来。",그는 한 손을 내밀어 당신과 가볍게 악수했다. 손을 맞잡는 순간 머릿속에 아찔함이 밀려온다.
+AvgDialog_18890_Content_18,afjY,avg章1新_AvgDialog_C_M.csv,351,AvgDialog,Content,,周围的一切似乎都如融化的蜡一般迅速溶解，就连你面前的人也扭曲变形。面孔之下，苍白的骨架如藤蔓般相互交缠。,"주변의 모든 것이 순식간에 녹은 밀랍처럼 흘러내렸고, 당신 앞에 서 있던 사람의 형체도 뒤틀리며 변해갔다. 얼굴 아래에는 창백한 뼈들이 덩굴처럼 서로 얽혀 있었다."
+AvgDialog_18890_Content_19,afjZ,avg章1新_AvgDialog_C_M.csv,352,AvgDialog,Content,,诡异的幻象在几次眨眼后便消失得无影无踪，只有耳边还响着尖锐的嗡鸣——是疲惫产生的幻觉吗？你不得而知。,"기이한 환영은 몇 번 눈을 깜빡이는 사이 흔적도 없이 사라졌고, 귓가에는 여전히 날카로운 윙윙거림만이 울렸다. ——피로 때문에 생긴 환각일까? 알 수 없었다."
+AvgDialog_18890_Content_20,afkb,avg章1新_AvgDialog_C_M.csv,353,AvgDialog,Content,,你只知道，这与你几日前在墓园的经历很像。,"다만, 며칠 전 묘지에서 겪었던 일과 비슷하다는 것만은 확실했다."
+AvgDialog_18890_Content_21,afkc,avg章1新_AvgDialog_C_M.csv,354,AvgDialog,Content,莎拉,……每个月他都会亲自来看看病人的情况，是一个真真正正的大善人，也是我们济贫院的大恩人呢。,"...로저스 선생님은 매달 직접 환자들의 상태를 보러 오세요. 자선가이시자, 저희 빈민원의 은인이시죠."
+AvgDialog_18890_Content_22,afkd,avg章1新_AvgDialog_C_M.csv,355,AvgDialog,Content,罗杰斯,莎拉小姐过、过誉了，我不过是个想为世人做点什么的普通人罢了。,"과찬이십니다, 사라 양. 저는 그저 세상에 조금이나마 보탬이 되고 싶은 평범한 사람일 뿐이에요."
+AvgDialog_18890_Content_23,afke,avg章1新_AvgDialog_C_M.csv,356,AvgDialog,Content,莎拉,说起来，昨天您说今天会携<Yellow:友人>前来拜访……,"그러고 보니, <Yellow:친구> 분과 함께 방문하신다고 어제 들었던 것 같은데..."
+AvgDialog_18890_Content_24,afkf,avg章1新_AvgDialog_C_M.csv,357,AvgDialog,Content,罗杰斯,那位雕、<Yellow:雕刻家>找到了灵感，已经先一步回、回工作室了。,"그 조, <Yellow:조각가> 녀석은 영감을 찾았다며 일찍 스튜디오로 도, 돌아갔습니다."
+AvgDialog_18890_Content_25,afkg,avg章1新_AvgDialog_C_M.csv,358,AvgDialog,Content,罗杰斯,这些年轻人是……？,이쪽의 젊은 분들은……?
+AvgDialog_18890_Content_26,afkh,avg章1新_AvgDialog_C_M.csv,359,AvgDialog,Content,拉蒙娜,……%sirormadam%？艾什%sirormadam%？,"...{Male=주인님,Female=아가씨}? 애쉬 {Male=경,Female=아가씨}?"
+AvgDialog_18890_Content_27,afki,avg章1新_AvgDialog_C_M.csv,360,AvgDialog,Content,玩家,"啊，抱歉，可能是昨晚没休息好，有点走神。幸会，罗杰斯先生。
+鄙姓艾什，这我的弟弟奥吉尔和管家玛丽。这是詹金……","아, 죄송합니다. 어젯밤 잠을 설쳐서 정신이 다른 데 팔려 있었네요. 만나서 반갑습니다, 로저스 선생님. 저는 애쉬라고 합니다. 이쪽은 제 남동생 오지에, 그리고 집사 메리입니다. 그리고 이쪽은 젠킨..."
+AvgDialog_18890_Content_28,afkj,avg章1新_AvgDialog_C_M.csv,361,AvgDialog,Content,玩家,诶？,응?
+AvgDialog_18890_Content_29,afkk,avg章1新_AvgDialog_C_M.csv,362,AvgDialog,Content,玩家,詹金这孩子，跑到哪儿去了？,"젠킨 녀석, 어디로 간 거야?"
+AvgDialog_18908_Content_1,afvW,avg章1新_AvgDialog_C_M.csv,363,AvgDialog,Content,,非礼勿言,침묵의 예절
+AvgDialog_18908_Content_2,afwh,avg章1新_AvgDialog_C_M.csv,364,AvgDialog,Content,詹金,刚刚在病疯子那里，你没受伤吧？,방금 그 미친 환자들한테 다친 건 아니지?
+AvgDialog_18908_Content_3,afws,avg章1新_AvgDialog_C_M.csv,365,AvgDialog,Content,艾继丝,嗯……我没关系。,응... 난 괜찮아.
+AvgDialog_18908_Content_4,afwD,avg章1新_AvgDialog_C_M.csv,366,AvgDialog,Content,詹金,……我把那几个资助人带了过去，你是不是在生我的气？,...내가 후원자들을 데려와서 화났어?
+AvgDialog_18908_Content_5,afwO,avg章1新_AvgDialog_C_M.csv,367,AvgDialog,Content,艾继丝,怎么会呢！,그럴 리가!
+AvgDialog_18908_Content_6,afwZ,avg章1新_AvgDialog_C_M.csv,368,AvgDialog,Content,艾继丝,我只是担心你也…染上……,난 그냥 네가... 같은 병에 걸릴까 봐 걱정돼서...
+AvgDialog_18908_Content_7,afxk,avg章1新_AvgDialog_C_M.csv,369,AvgDialog,Content,詹金,那就好。,다행이네.
+AvgDialog_18908_Content_8,afxv,avg章1新_AvgDialog_C_M.csv,370,AvgDialog,Content,,詹金魔术般夸张地张开双手，掌中躺着两颗小小的糖果。,젠킨은 마술사처럼 과장스럽게 양손을 펼쳤다. 손바닥에는 작은 사탕 두 개가 올려져 있다.
+AvgDialog_18908_Content_9,afxC,avg章1新_AvgDialog_C_M.csv,371,AvgDialog,Content,詹金,喏，一人一颗。吃了这颗糖，你可得发誓不会生我气哦。,"자, 한 사람당 하나씩. 이 사탕을 먹으면 앞으로 화내기 없기야."
+AvgDialog_18908_Content_10,afvX,avg章1新_AvgDialog_C_M.csv,372,AvgDialog,Content,,见到糖果的瞬间，艾继丝的脸色白了白，但仍是小心地接过。,"사탕을 본 아이기스의 얼굴이 잠시 창백해졌지만, 이내 조심스럽게 받아들었다."
+AvgDialog_18908_Content_11,afvY,avg章1新_AvgDialog_C_M.csv,373,AvgDialog,Content,詹金,你还记得我们遇见那天的事情吗？,우리가 처음 만난 날 기억나?
+AvgDialog_18908_Content_12,afvZ,avg章1新_AvgDialog_C_M.csv,374,AvgDialog,Content,艾继丝,嗯，我永远也不会忘记的。,응. 영원히 잊지 않을 거야.
+AvgDialog_18908_Content_13,afwa,avg章1新_AvgDialog_C_M.csv,375,AvgDialog,Content,,"10日前，伦蒂尼恩东区
+莉莉安济贫院","열흘 전, 론디니움 동부 지구\n릴리안 빈민원"
+AvgDialog_18908_Content_14,afwb,avg章1新_AvgDialog_C_M.csv,376,AvgDialog,Content,,夜半时分，东区一片晦暗。不论是街灯还是月光，都被弥漫的浓雾吞吃殆尽，只留几个模糊的虚影在空中晃动。,"한밤중, 동부 지구는 어둠에 잠겨 있었다. 가로등도 달빛도 짙게 깔린 안개에 삼켜져, 흐릿한 그림자만이 허공에서 흔들리고 있었다."
+AvgDialog_18908_Content_15,afwc,avg章1新_AvgDialog_C_M.csv,377,AvgDialog,Content,,"白色少女怀抱着罪恶与恐惧，在昏暗空旷的济贫院前院中奔跑。
+直至撞上阴影中潜藏的陌生之物，才疼痛得惊呼出声。","하얀 소녀가 죄책감과 공포를 품은 채, 어둑하고 텅 빈 빈민원의 앞마당을 달려간다. 그녀는 그림자 속에 숨어 있던 낯선 존재와 부딪히고서야, 아픔에 놀라 비명을 터뜨렸다."
+AvgDialog_18908_Content_16,afwd,avg章1新_AvgDialog_C_M.csv,378,AvgDialog,Content,詹金,哎哟！,아야!
+AvgDialog_18908_Content_17,afwe,avg章1新_AvgDialog_C_M.csv,379,AvgDialog,Content,？？,疼！,아파!
+AvgDialog_18908_Content_18,afwf,avg章1新_AvgDialog_C_M.csv,380,AvgDialog,Content,？？,你、你不是小麦克，也不是小露西！你到底是谁……！,"매, 맥도 아니고 루시도 아니잖아! 넌 누구야...?!"
+AvgDialog_18908_Content_19,afwg,avg章1新_AvgDialog_C_M.csv,381,AvgDialog,Content,詹金,我还要问你是什么人呢！大半夜的不睡觉在外面晃荡，吓了我一跳。,너야말로 누구야! 밤늦게 잠도 안 자고 밖을 돌아다니고. 너 때문에 깜짝 놀랐잖아.
+AvgDialog_18908_Content_20,afwi,avg章1新_AvgDialog_C_M.csv,382,AvgDialog,Content,？？,对、对不起，我以为遇上了……,"미, 미안해... 착각했어..."
+AvgDialog_18908_Content_21,afwj,avg章1新_AvgDialog_C_M.csv,383,AvgDialog,Content,詹金,遇上什么？,착각이라니?
+AvgDialog_18908_Content_22,afwk,avg章1新_AvgDialog_C_M.csv,384,AvgDialog,Content,？？,遇上了…幽灵……没错，我还以为遇上了<Red:济贫院幽灵>……,"유령... 그, <Red:빈민원의 유령>이라고 생각했어..."
+AvgDialog_18908_Content_23,afwl,avg章1新_AvgDialog_C_M.csv,385,AvgDialog,Content,詹金,"幽灵？什么乱七八糟的。我老实和你说了吧，我确实不是这破地方的人。
+我叫詹金，这是布朗。","유령? 무슨 터무니없는 소리야. 난 이런 썩은 곳에 사는 사람 아니라고. 내 이름은 젠킨, 이쪽은 브라운이야."
+AvgDialog_18908_Content_24,afwm,avg章1新_AvgDialog_C_M.csv,386,AvgDialog,Content,布朗,吱！,찍!
+AvgDialog_18908_Content_25,afwn,avg章1新_AvgDialog_C_M.csv,387,AvgDialog,Content,詹金,"我进来是为了找我姐姐的。她叫<Blue:梅森>，两个星期前在这附近失踪了。
+你们这儿最近有多出个叫梅森的人吗？","난 언니를 찾으러 왔어. 언니의 이름은 <Blue: 메이슨>이고, 2주 전에 이 근처에서 실종됐어. 혹시 최근에 본 적 있어?"
+AvgDialog_18908_Content_26,afwo,avg章1新_AvgDialog_C_M.csv,388,AvgDialog,Content,？？,济贫院最近有很多新人，我还没认全大家的脸……,"요즘 빈민원에 새로 온 사람들이 많아서, 아직 얼굴을 다 익히지는 못했어."
+AvgDialog_18908_Content_27,afwp,avg章1新_AvgDialog_C_M.csv,389,AvgDialog,Content,詹金,你好好想想，她有这么高，长长的头发，<Yellow:绑着漂亮的红色缎带>，缎带末尾连着一个方扣，上面雕刻了字母M。,"잘 생각해 봐. 언니는 이만큼 키가 크고, 긴 머리에—<Yellow:예쁜 붉은색 비단 리본>을 묶고 있었어. 리본 끝에는 사각 버클이 달려 있었는데, 거기에 'M'이라는 글자가 새겨져 있었지."
+AvgDialog_18908_Content_28,afwq,avg章1新_AvgDialog_C_M.csv,390,AvgDialog,Content,詹金,她偶尔会来这边看病，上次来了之后就没回家，不知道是不是被你们扣下做工了。,"가끔 이쪽에 진료받으러 오곤 했는데, 지난번에 온 뒤로 집에 돌아오지 않았어. 혹시 너희가 잡아다가 일을 시키고 있는 건 아니야?"
+AvgDialog_18908_Content_29,afwr,avg章1新_AvgDialog_C_M.csv,391,AvgDialog,Content,？？,"<Shake:病、病人？>
+抱、抱歉…我也没见过年轻的女病人……","<Shake:환, 환자?>\n미, 미안하지만... 젊은 여성 환자는 본 적이 없어..."
+AvgDialog_18908_Content_30,afwt,avg章1新_AvgDialog_C_M.csv,392,AvgDialog,Content,詹金,"啧，不管了，我也没觉得能幸运到直接撞上知情人。
+不过你差点害我被发现了，这责任得你来负。","쳇, 됐어. 어차피 큰 기대 안 했어. 하지만 네 덕분에 들킬 뻔했으니, 책임은 져줘야겠지."
+AvgDialog_18908_Content_31,afwu,avg章1新_AvgDialog_C_M.csv,393,AvgDialog,Content,？？,那、那我带你去我的秘密基地吧！院长小姐从来不进钟楼，藏在那里她一定发现不了你。,"그, 그럼 내가 널 내 비밀 아지트로 데려갈게! 원장 선생님은 종탑엔 절대 안 들어가니까, 거기 숨으면 절대로 널 못 찾을 거야."
+AvgDialog_18908_Content_32,afwv,avg章1新_AvgDialog_C_M.csv,394,AvgDialog,Content,詹金,"说实话，那天撞到的人是艾继丝你，真是太幸运了。
+不然我肯定得被揪着兜帽丢出去。","솔직히 말해서, 그날 부딪힌 게 너였다는 건 정말 행운이야, 아이기스. 네가 아니었으면 난 분명히 후드째로 잡혀서 밖으로 내던져졌을걸."
+AvgDialog_18908_Content_33,afww,avg章1新_AvgDialog_C_M.csv,395,AvgDialog,Content,艾继丝,你别这么说，济贫院里的大家都是很好很好的人。只是最近发生了太多坏事，所以大家的情绪有些糟糕……,"그런 말 하지 마. 빈민원 사람들은 다들 정말정말 착한 분들이야. 그냥……요즘 나쁜 일이 너무 많아서, 다들 마음이 좀 불안할 뿐이야."
+AvgDialog_18908_Content_34,afwx,avg章1新_AvgDialog_C_M.csv,396,AvgDialog,Content,詹金,艾继丝。,아이기스.
+AvgDialog_18908_Content_35,afwy,avg章1新_AvgDialog_C_M.csv,397,AvgDialog,Content,艾继丝,嗯？,응?
+AvgDialog_18908_Content_36,afwz,avg章1新_AvgDialog_C_M.csv,398,AvgDialog,Content,詹金,我知道济贫院的大家对你来说很重要…但我一直是把你当朋友的，所以，你有没有把我当朋友？,"나도 알아, 빈민원의 모두가 너에게 얼마나 소중한지…… 하지만 나는 언제나 너를 친구라고 생각해. 그렇지?"
+AvgDialog_18908_Content_37,afwA,avg章1新_AvgDialog_C_M.csv,399,AvgDialog,Content,艾继丝,当然了！我非常、非常喜欢和詹金你待在一起，像这样吃着糖聊着天。,"물론이지! 나, 젠킨 너랑 함께 있는 게 정말정말 좋아. 이렇게 사탕을 먹으면서 이야기하는 것도 말이야."
+AvgDialog_18908_Content_38,afwB,avg章1新_AvgDialog_C_M.csv,400,AvgDialog,Content,詹金,"既然你把我当朋友，那为什么不肯跟我说出真相呢？
+艾继丝，不要对我撒谎了。","그럼 왜 나한테 진실을 말해 주지 않는 거야? 아이기스, 거짓말은 이제 그만 해."
+AvgDialog_18908_Content_39,afwC,avg章1新_AvgDialog_C_M.csv,401,AvgDialog,Content,艾继丝,我、我不明白你在说什么……,"무, 무슨 말인지 모르겠어……"
+AvgDialog_18908_Content_40,afwE,avg章1新_AvgDialog_C_M.csv,402,AvgDialog,Content,詹金,我在臭女人的办公室翻到了<Blue:账本>，还有%player%在找的人的<Blue:学生证>。我知道她在把你们卖给那伙怪医生做实验！,그 여자의 사무실에서 <Blue:장부>를 찾았어. 그리고 %player%(이)가 찾고 있던 사람의 <Blue:학생증>도. 그 여자가 너희를 그 괴물 같은 의사 무리에게 팔아넘기고 있다는 걸 알아!
+AvgDialog_18908_Content_41,afwF,avg章1新_AvgDialog_C_M.csv,403,AvgDialog,Content,詹金,那女人最喜欢你了，甚至信任你去照顾那些病人。艾继丝，你一定知道什么的，告诉我好吗？,"그 여자는 너를 제일 아끼잖아. 환자들의 간병을 맡길 정도로 널 신뢰하고 있다고. 아이기스, 넌 분명히 뭔가를 알고 있어. 제발 말해주면 안 돼?"
+AvgDialog_18908_Content_42,afwG,avg章1新_AvgDialog_C_M.csv,404,AvgDialog,Content,艾继丝,我、我、<Small:我不知道……>,"나, 나는... <Small:몰라…>"
+AvgDialog_18908_Content_43,afwH,avg章1新_AvgDialog_C_M.csv,405,AvgDialog,Content,,"女孩嗫嚅着，声音逐渐减小。
+她面色苍白，看上去像是经受着莫大的痛苦。","여자아이는 우물쭈물하다가, 점점 목소리가 작아졌다. 그녀의 얼굴은 매우 당황한 듯 창백했다."
+AvgDialog_18908_Content_44,afwI,avg章1新_AvgDialog_C_M.csv,406,AvgDialog,Content,悠远的声音,弥萨格大学最擅长挖掘秘密，他们很快就会知道真相。,미사그 대학은 비밀을 파헤치는 데 아주 능숙하단다. 그들은 곧 진실을 알게 될 거야.
+AvgDialog_18908_Content_45,afwJ,avg章1新_AvgDialog_C_M.csv,407,AvgDialog,Content,悠远的声音,你没有办法永远带着枷锁生活。,평생 족쇄를 차고 살 수는 없잖니.
+AvgDialog_18908_Content_46,afwK,avg章1新_AvgDialog_C_M.csv,408,AvgDialog,Content,艾继丝,詹金，如果失去的一切已经无法再挽回…所谓的真相，真的还那么重要吗？,"젠킨, 잃어버린 것들을 되돌릴 수 없다면... 진실이 꼭 그렇게 중요할까?"
+AvgDialog_18908_Content_47,afwL,avg章1新_AvgDialog_C_M.csv,409,AvgDialog,Content,詹金,当然重要！对我来说，没有什么比找到姐姐更重要。,당연히 중요하지! 언니를 찾는 것보다 중요한 일은 없어.
+AvgDialog_18908_Content_48,afwM,avg章1新_AvgDialog_C_M.csv,410,AvgDialog,Content,詹金,我知道你害怕那个臭女人，但你为什么一直在袒护她？她不仅把工人卖给了医生 ，还窝藏着<Yellow:济贫院幽灵>。,"난 네가 그 고약한 여자를 무서워한다는 걸 알아. 그런데 왜 그 사람을 계속 감싸는 거야? 그 여자는 노동자들을 의사한테 팔아넘긴 데다, <Yellow:빈민원의 유령>까지 숨기고 있다고."
+AvgDialog_18908_Content_49,afwN,avg章1新_AvgDialog_C_M.csv,411,AvgDialog,Content,艾继丝,济、济贫院幽灵？,"비, 빈민원의 유령?"
+AvgDialog_18908_Content_50,afwP,avg章1新_AvgDialog_C_M.csv,412,AvgDialog,Content,詹金,"是啊，就是你跟我说的的那个传说。
+<Yellow:起雾的晚上不能到处乱走，会被拿着刀徘徊的幽灵抓走>。","맞아, 네가 얘기했던 전설이잖아.\n<Yellow: 안개 낀 밤에 돌아다니면 안 돼, 칼을 들고 돌아다니는 유령에게 잡혀간다>."
+AvgDialog_18908_Content_51,afwQ,avg章1新_AvgDialog_C_M.csv,413,AvgDialog,Content,艾继丝,那、那只是我编出来的……夜里太危险了，我不想让你到处跑。,"그, 그건 그냥 내가 지어낸 이야기야... 밤에는 너무 위험하니까, 네가 돌아다니지 않길 바랐을 뿐이야."
+AvgDialog_18908_Content_52,afwR,avg章1新_AvgDialog_C_M.csv,414,AvgDialog,Content,詹金,"别替莎拉开脱了！我已经找到<Yellow:藏着幽灵的地下室>了，还听到了<Yellow:刀的声音>。
+我的姐姐是不是就在里面？",사라를 감싸지 마! 나는 이미 <Yellow:유령이 숨겨진 지하실>을 찾아냈다고! 게다가 거기서 <Yellow:칼 부딪히는 소리>도 들었어. 언니가... 그 안에 있는 거 맞지?
+AvgDialog_18908_Content_53,afwS,avg章1新_AvgDialog_C_M.csv,415,AvgDialog,Content,,随着地下室这个词语从詹金口中蹦出，艾继丝的脸上最后一丝血色也消退殆尽。,"""지하실""이라는 단어가 젠킨의 입에서 튀어나오자, 아이기스의 얼굴에서 마지막 핏기마저 사라졌다."
+AvgDialog_18908_Content_54,afwT,avg章1新_AvgDialog_C_M.csv,416,AvgDialog,Content,悠远的声音,别害怕，艾继丝。内心的孔洞会让祂趁虚而入。,"두려워하지 마, 아이기스. 네 마음속의 구멍은 그분이 틈타 들어오는 문이 되니까."
+AvgDialog_18908_Content_55,afwU,avg章1新_AvgDialog_C_M.csv,417,AvgDialog,Content,悠远的声音,跟随银的引导，光辉会为你指路。,은빛의 인도를 따르거라. 광휘가 네 앞길을 비춰 줄 거야.
+AvgDialog_18908_Content_56,afwV,avg章1新_AvgDialog_C_M.csv,418,AvgDialog,Content,艾继丝,詹金，对不起，我不能……,"미안해, 젠킨. 난…"
+AvgDialog_18908_Content_57,afwW,avg章1新_AvgDialog_C_M.csv,419,AvgDialog,Content,,艾继丝眼中含泪地看了一眼詹金，转身爬回钟楼冲下楼梯，动作没有一丝犹豫。,"에이지스는 눈물을 머금은 채 젠킨을 쳐다본 후, 망설임 없이 종탑 꼭대기를 향해 계단을 올라갔다."
+AvgDialog_18908_Content_58,afwX,avg章1新_AvgDialog_C_M.csv,420,AvgDialog,Content,詹金,艾继丝！你去哪里！,아이기스! 어디 가!
+AvgDialog_18908_Content_59,afwY,avg章1新_AvgDialog_C_M.csv,421,AvgDialog,Content,,"不知何时，济贫院内起了雾气。
+这雾气突如其来，周围的一切都笼上了一层水气，显得影影绰绰的。","언제부터였을까, 빈민원 안에 안개가 피어오르기 시작했다. 갑작스레 밀려든 안개는 주위를 온통 습기로 감싸, 모든 사물을 희미하게 보이게 했다."
+AvgDialog_18908_Content_60,afxa,avg章1新_AvgDialog_C_M.csv,422,AvgDialog,Content,詹金,艾继丝！该死，这雾怎么都飘进室内了！,"아이기스! 젠장, 어떻게 안개가 실내까지 들어온 거야!"
+AvgDialog_18908_Content_61,afxb,avg章1新_AvgDialog_C_M.csv,423,AvgDialog,Content,,远方的迷雾中，传来血肉膨胀的声音，和被水雾浸湿的隐约歌声。,"아득한 안개 속에서, 살이 부풀어 오르는 듯한 소리와 함께 희미한 노랫소리가 들려왔다."
+AvgDialog_18908_Content_62,afxc,avg章1新_AvgDialog_C_M.csv,424,AvgDialog,Content,,<Italic:老查理有一只他很爱很爱的虎斑猫……>,<Italic:찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...>
+AvgDialog_18908_Content_63,afxd,avg章1新_AvgDialog_C_M.csv,425,AvgDialog,Content,,詹金擦亮了她的提灯，小小的光辉在浓厚的雾气中显得那么微弱无力。,"젠킨은 손에 든 등불을 닦아 불을 밝혔지만, 짙은 안개 속에서 그 작은 빛은 너무나도 희미했다."
+AvgDialog_18908_Content_64,afxe,avg章1新_AvgDialog_C_M.csv,426,AvgDialog,Content,,悠悠的脚步声从远处传来，在寂静的走廊中近乎刺耳。,멀리서부터 느릿한 발소리가 들려왔다. 적막한 복도 속에서 그 소리는 날카롭게 울려 퍼졌다.
+AvgDialog_18908_Content_65,afxf,avg章1新_AvgDialog_C_M.csv,427,AvgDialog,Content,詹金,"谁、谁在那里？
+出来！我、我警告你，我可是有武器的！","누, 누구야? 어서 나와! 겨, 경고하는데, 난 무기가 있다고!"
+AvgDialog_18908_Content_66,afxg,avg章1新_AvgDialog_C_M.csv,428,AvgDialog,Content,,走廊里没有一点气流，灯芯上的火焰却如被风吹过一般晃动。,복도에는 한 줄기 바람도 불지 않았지만 등불의 불꽃은 마치 바람에 휘날리듯 흔들리고 있었다.
+AvgDialog_18908_Content_67,afxh,avg章1新_AvgDialog_C_M.csv,429,AvgDialog,Content,,脚步声越来越近，越来越近。布朗的爪子深深陷入詹金肩头的衣物中，它露出牙齿，发出鼠类特有的尖锐威吓。,"발소리는 점점 가까워졌다. 브라운의 발톱이 젠킨의 어깨 옷자락을 깊게 파고들었다. 작은 쥐는 이를 드러내며, 특유의 날카로운 위협음을 내질렀다.-"
+AvgDialog_18908_Content_68,afxi,avg章1新_AvgDialog_C_M.csv,430,AvgDialog,Content,,像是被布朗的声音刺激到，脚步声骤然加快，赫然是朝詹金而来。,"그 순간, 마치 브라운의 소리에 자극이라도 받은 듯, 발소리가 갑자기 빨라지더니 곧장 젠킨을 향해 돌진했다."
+AvgDialog_18908_Content_69,afxj,avg章1新_AvgDialog_C_M.csv,431,AvgDialog,Content,,浓重的黑影将微弱的烛火彻底吞没，女孩闭上眼睛高声尖叫，却只感到一阵水汽扑面而来。,"짙은 그림자가 희미한 촛불을 완전히 삼켜 버렸다. 소녀는 눈을 질끈 감고 비명을 질렀지만, 느껴진 것은 한 줄기 짙은 수증기가 얼굴을 덮치는 감각뿐이었다."
+AvgDialog_18908_Content_70,afxl,avg章1新_AvgDialog_C_M.csv,432,AvgDialog,Content,,一只手从黑暗中伸出，准确地落在詹金的肩头。,"어둠 속에서 손 하나가 불쑥 나타나, 젠킨의 어깨 위에 내려앉았다."
+AvgDialog_18908_Content_71,afxm,avg章1新_AvgDialog_C_M.csv,433,AvgDialog,Content,罗杰斯空,你怎么了？脸色这、这样白？,무슨 일이니? 얼굴은 왜 이리 창백하니?
+AvgDialog_18908_Content_72,afxn,avg章1新_AvgDialog_C_M.csv,434,AvgDialog,Content,詹金,罗、罗杰斯？你看到艾继丝了吗？,"로, 로저스? 혹시 아이기스를 봤어?"
+AvgDialog_18908_Content_73,afxo,avg章1新_AvgDialog_C_M.csv,435,AvgDialog,Content,罗杰斯空,别担心，艾继丝很熟悉这家济贫院，她不会有事。,"걱정 말거라, 아이기스는 이 빈민원에 충분히 익숙해져서, 괜찮을 거야."
+AvgDialog_18908_Content_74,afxp,avg章1新_AvgDialog_C_M.csv,436,AvgDialog,Content,罗杰斯空,我能理解，起雾的夜晚确实容易让人胆战心、心惊。,네 마음 이해한단다. 안개가 짙게 깔린 밤은 누구라도 두려워지기 마련이지.
+AvgDialog_18908_Content_75,afxq,avg章1新_AvgDialog_C_M.csv,437,AvgDialog,Content,,罗杰斯将门推开，温暖的光倾泻而出，驱散了走廊里深重的阴影。,"로저스가 문을 열자, 따뜻한 빛이 쏟아져나와 복도에 드리운 깊은 그림자를 밀어냈다."
+AvgDialog_18908_Content_76,afxr,avg章1新_AvgDialog_C_M.csv,438,AvgDialog,Content,,他从床上抱来做工精致的玩偶，对女孩露出微笑。,그는 정교한 인형을 침대에서 들어올려 여자아이에게 부드럽게 미소 지었다.
+AvgDialog_18908_Content_77,afxs,avg章1新_AvgDialog_C_M.csv,439,AvgDialog,Content,罗杰斯,"作为安慰，要不要摸摸看呢？
+<Blue:乔治>会很高兴的。",위로 삼아 만져보지 않겠니?\n<Blue:조지>도 분명 기뻐할 거야.
+AvgDialog_18908_Content_78,afxt,avg章1新_AvgDialog_C_M.csv,440,AvgDialog,Content,,玩偶无机质的眼睛反射着灯火的黄光，仿佛在对女孩无声地祈求：摸我吧，就一下。,"인형의 생기 없는 눈에 등불의 노란 빛이 반사되어. 마치 말없이 애원하는 듯했다: 쓰다듬어 줘, 딱 한 번만."
+AvgDialog_18908_Content_79,afxu,avg章1新_AvgDialog_C_M.csv,441,AvgDialog,Content,,摸摸我，然后——,"나를 쓰다듬어 줘, 그리고—"
+AvgDialog_18908_Content_80,afxw,avg章1新_AvgDialog_C_M.csv,442,AvgDialog,Content,,<Red:成为我忠实的朋友。>,<Red:내 충실한 친구가 되어줘.>
+AvgDialog_18908_Content_81,afxx,avg章1新_AvgDialog_C_M.csv,443,AvgDialog,Content,,“吱”地一声，布朗的尖叫唤回了失神的詹金。,"브라운이 ""찍"" 소리를 내자 젠킨은 정신을 되찾았다."
+AvgDialog_18908_Content_82,afxy,avg章1新_AvgDialog_C_M.csv,444,AvgDialog,Content,詹金,不、不必了！我对你们这些上流社会的艺术家不感兴趣。,"피, 필요 없어! 당신들 같은 고상한 예술가들한테는 관심 없어."
+AvgDialog_18908_Content_83,afxz,avg章1新_AvgDialog_C_M.csv,445,AvgDialog,Content,罗杰斯,"噢，天真的小老鼠。其实，美和艺术从、从不分贫富、贵贱。
+将苦难凝结于美中，是很、很好的。","오, 순진한 쥐야. 아름다움과 예술은 신분이나 부로 나뉘지 않는단다. 고통을 아름다움 속에 응축시키는 일은 저, 정말이지 멋진 일이란다."
+AvgDialog_18908_Content_84,afxA,avg章1新_AvgDialog_C_M.csv,446,AvgDialog,Content,,罗杰斯凝视着满脸警惕的女孩和女孩兜帽中冒头的灰色老鼠，目光炽热滚沸，仿佛压抑着无法抵抗的欲望。,로저스는 잔뜩 경계하고 있는 여자아이와 그녀의 후드에서 삐져나온 회색 쥐를 응시했다. 그의 눈빛은 주체할 수 없는 욕망으로 불타오르고 있었다.
+AvgDialog_18908_Content_85,afxB,avg章1新_AvgDialog_C_M.csv,447,AvgDialog,Content,罗杰斯,"如果有机会，我也会将你、你们制作成蜡像。
+就叫“布朗与詹金”，如、如何？","기회가 된다면 너, 너희도 밀랍 인형으로 만들어야겠어. 제목은 ""브라운과 젠킨"", 어때?"
+AvgDialog_18895_Content_1,afnt,avg章1新_AvgDialog_C_M.csv,448,AvgDialog,Content,,谁杀死了知更鸟,누가 참새를 죽였나?
+AvgDialog_18895_Content_2,afnE,avg章1新_AvgDialog_C_M.csv,449,AvgDialog,Content,拉蒙娜,根据詹金的说法，<Yellow:济贫院幽灵>会在起雾的夜里在庭院中徘徊，掳走那些受害者。安德森调查员或许也是其中之一。,"젠킨의 말에 따르면, <Yellow:빈민원의 유령>은 안개가 낀 밤이면 안뜰을 떠돌며, 희생자들을 납치해 간다고 해. 앤더슨 조사관도 그중 한 사람일지도 몰라."
+AvgDialog_18895_Content_3,afnP,avg章1新_AvgDialog_C_M.csv,450,AvgDialog,Content,玩家,事不宜迟，我们现在就去找詹金说的那个地下密室。,시간이 없어. 바로 젠킨이 말한 그 지하실을 찾아보자.
+AvgDialog_18895_Content_4,afnY,avg章1新_AvgDialog_C_M.csv,451,AvgDialog,Content,拉蒙娜,别心急，入口可是在院长办公室附近。,조급해하면 안 돼. 입구는 원장의 사무실 근처에 있어.
+AvgDialog_18895_Content_5,afnZ,avg章1新_AvgDialog_C_M.csv,452,AvgDialog,Content,拉蒙娜,"等夜再深一些，莎拉睡下，我们再去搜索。
+在那之前，先养精蓄锐。",밤이 더 깊어지고 사라가 잠든 뒤에 수색하자. 그때까지는 우선 휴식을 취해 두는 게 좋아.
+AvgDialog_18895_Content_6,afoa,avg章1新_AvgDialog_C_M.csv,453,AvgDialog,Content,奥吉尔,咦？起雾了？,응? 안개가 끼었나?
+AvgDialog_18895_Content_7,afob,avg章1新_AvgDialog_C_M.csv,454,AvgDialog,Content,,"就在你们交谈间，四周弥漫起了异常的浓雾。
+本应轻薄漂浮的水雾，如同粘稠的重压附着在你们身上。","그들이 대화를 나누는 사이, 사방으로 이질적인 안개가 퍼져 나갔다. 본래는 가볍게 떠돌아야 할 수증기가, 마치 끈적한 중압처럼 그들의 몸에 달라붙고 있었다."
+AvgDialog_18895_Content_8,afoc,avg章1新_AvgDialog_C_M.csv,455,AvgDialog,Content,,在浓雾之中，你们听到了歌声。,짙은 안개 속에서 노랫소리가 들려온다.
+AvgDialog_18895_Content_9,afod,avg章1新_AvgDialog_C_M.csv,456,AvgDialog,Content,？？？,<Italic:老查理有一只他很爱很爱的虎斑猫……>,<Italic:찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...>
+AvgDialog_18895_Content_10,afnu,avg章1新_AvgDialog_C_M.csv,457,AvgDialog,Content,,你在梦中听过这段歌声。,꿈에서 들었던 그 노래다.
+AvgDialog_18895_Content_11,afnv,avg章1新_AvgDialog_C_M.csv,458,AvgDialog,Content,,身躯逐渐僵硬，尝试行动的骨骼发出咔咔的脆响，每一丝动作都像强行扳动锈蚀机械人偶的齿轮，你能感觉到自己的骨缝间落下细碎的粉末。,"몸이 서서히 굳어 갔다. 움직이려 할 때마다 뼈마디에서 딱딱거리는 마른 소리가 새어 나왔고, 모든 동작은 녹슨 인형의 톱니바퀴를 억지로 돌리는 것처럼 거칠고 고통스러웠다. 뼈 사이로는, 부서진 가루가 가볍게 흩날렸다."
+AvgDialog_18895_Content_12,afnw,avg章1新_AvgDialog_C_M.csv,459,AvgDialog,Content,？？？,<Italic:有一天她不见了，他到处寻找。>,"<Italic: 어느 날 고양이가 사라져서, 할아버지는 샅샅이 찾았네>"
+AvgDialog_18895_Content_13,afnx,avg章1新_AvgDialog_C_M.csv,460,AvgDialog,Content,,"眼皮像灌了铅一般沉重，无法承受地闭合。
+在遁入黑暗的世界中，只有浓稠的雾气盘绕。","눈꺼풀이 납처럼 무겁다. 버티지 못하고, 결국 천천히 감긴다. 어둠 속으로 가라앉은 세계에는 짙고 끈적한 안개만이 소용돌이친다."
+AvgDialog_18895_Content_14,afny,avg章1新_AvgDialog_C_M.csv,461,AvgDialog,Content,？？？,<Italic:老查理在哪里都找不到他的虎斑猫。>,<Italic:고양이는 어디에도 없었네>
+AvgDialog_18895_Content_15,afnz,avg章1新_AvgDialog_C_M.csv,462,AvgDialog,Content,,"黑暗的虚空之中，你独自一人。
+无垠高空之上，蜜色的眼睛溢出糖浆色的泪水，俯视着你。","끝없는 암흑의 공허 속, 당신은 홀로 서 있다. 무한히 높은 하늘 위에서, 꿀빛 눈동자가 시럽 같은 눈물을 흘리며 당신을 내려다본다."
+AvgDialog_18895_Content_16,afnA,avg章1新_AvgDialog_C_M.csv,463,AvgDialog,Content,？？？,<Italic:所以他哭啊哭啊——>,"<Italic:찰리 할아버지는, 울고 또 울다가—>"
+AvgDialog_18895_Content_17,afnB,avg章1新_AvgDialog_C_M.csv,464,AvgDialog,Content,,不知为何，你想起了那名垂死老者的挣扎，和他眼角的那一滴黏稠黑泪。,"왜인지 모르게, 당신은 그때 임종을 맞이한 노인의 몸부림과 그 눈가에 맺혔던 끈적한 검은 눈물이 떠오른다."
+AvgDialog_18895_Content_18,afnC,avg章1新_AvgDialog_C_M.csv,465,AvgDialog,Content,？？？,<Italic:——直到自己也消失掉。>,<Italic:——할아버지도 사라졌네.>
+AvgDialog_18895_Content_19,afnD,avg章1新_AvgDialog_C_M.csv,466,AvgDialog,Content,,循着不知缘何而来的本能，你仰起头，向着高空中仿佛在诉说什么的眼睛，轻声询问。,"설명할 수 없는 본능이 당신을 이끌었다. 당신은 고개를 들어, 하늘 저편에서 무언가를 속삭이는 듯한 그 눈을 향해 조용히 묻는다."
+AvgDialog_18895_Content_20,afnF,avg章1新_AvgDialog_C_M.csv,467,AvgDialog,Content,玩家,这不是你期待的结果，对吗？,이건... 당신이 원하던 결말이 아니지?
+AvgDialog_18895_Content_21,afnG,avg章1新_AvgDialog_C_M.csv,468,AvgDialog,Content,,"蜜色的眼瞳颤抖着眨眼。
+泪水抖落，落在你的脸颊，散发出浓烈的甜香。","꿀빛의 눈동자가 미세하게 떨리며 눈을 깜빡인다. 흘러내린 눈물이 당신의 볼 위에 떨어지고, 짙은 단내가 공기를 채운다."
+AvgDialog_18895_Content_22,afnH,avg章1新_AvgDialog_C_M.csv,469,AvgDialog,Content,,"歌声戛然而止，黑暗迅速褪去，知觉返回神经。
+在你迷失的时间里，浓雾似乎也淡薄了些许。","노래가 끊기듯 멎고, 어둠이 빠르게 걷혀 간다. 감각이 다시 신경을 타고 돌아온다. 그리고 당신이 길을 잃었던 그 시간 동안—짙게 깔려 있던 안개는, 조금 옅어진 듯했다."
+AvgDialog_18895_Content_23,afnI,avg章1新_AvgDialog_C_M.csv,470,AvgDialog,Content,艾继丝,哇！,으왓!
+AvgDialog_18895_Content_24,afnJ,avg章1新_AvgDialog_C_M.csv,471,AvgDialog,Content,,女孩飞奔而来，在极近的距离辨认出了你们，慌张地抱紧了手中的小熊玩偶。,"소녀가 달려왔다. 아주 가까운 거리에서 당신들을 알아본 그녀는, 놀란 듯 품에 안은 곰 인형을 꼭 끌어안았다."
+AvgDialog_18895_Content_25,afnK,avg章1新_AvgDialog_C_M.csv,472,AvgDialog,Content,艾继丝,资、资助人，你们怎么在这里？,"후, 후원자님들, 어째서 이곳에 계신 건가요?"
+AvgDialog_18895_Content_26,afnL,avg章1新_AvgDialog_C_M.csv,473,AvgDialog,Content,拉蒙娜,感谢今晚你们的款待，我们出来走走消食。怎么了吗？,"오늘 밤 대접해 줘서 고마워. 산책도 할 겸, 잠깐 나와 본 거야. 왜 그래?"
+AvgDialog_18895_Content_27,afnM,avg章1新_AvgDialog_C_M.csv,474,AvgDialog,Content,艾继丝,起雾的日子很危险，一定一定不能在外面乱走，不然……,"안개 낀 날엔 위험해요. 절대로, 절대로 밖을 돌아다니면 안 돼요. 그렇지 않으면..."
+AvgDialog_18895_Content_28,afnN,avg章1新_AvgDialog_C_M.csv,475,AvgDialog,Content,奥吉尔,不然……会怎样？,그렇지 않으면... 어떻게 되는데?
+AvgDialog_18895_Content_29,afnO,avg章1新_AvgDialog_C_M.csv,476,AvgDialog,Content,拉蒙娜,"让我猜猜……会失踪，是吗？
+你知道那些受害者是谁，也知道他们去了哪里，对吗？","내가 맞혀볼까... 사라지는 거지, 그렇지? 아이기스, 피해자들이 누구였는지도 알고 있지? 그리고...그들이 어디로 갔는지도."
+AvgDialog_18895_Content_30,afnQ,avg章1新_AvgDialog_C_M.csv,477,AvgDialog,Content,,艾继丝如遭晴天霹雳，颤抖地摇着头，说不出话。,"아이기스는 번개를 맞은 듯 충격을 받아, 머리를 떨며 말을 잇지 못했다."
+AvgDialog_18895_Content_31,afnR,avg章1新_AvgDialog_C_M.csv,478,AvgDialog,Content,拉蒙娜,艾继丝，你是个好孩子。好孩子不应该说谎的。,"아이기스, 넌 착한 아이야. 착한 아이는 거짓말을 하면 안 되지."
+AvgDialog_18895_Content_32,afnS,avg章1新_AvgDialog_C_M.csv,479,AvgDialog,Content,艾继丝,我……,난...
+AvgDialog_18895_Content_33,afnT,avg章1新_AvgDialog_C_M.csv,480,AvgDialog,Content,拉蒙娜,回答我，艾继丝，你明明说着大雾天不能在外面乱走，为什么自己却出现在了这里？,"대답해줘, 아이기스. 안개 낀 날에는 돌아다니면 안 된다고 말했는데, 너는 왜 여기 온 거야?"
+AvgDialog_18895_Content_34,afnU,avg章1新_AvgDialog_C_M.csv,481,AvgDialog,Content,,女孩的双手紧紧绞在了一起。,아이기스는 두 손을 꽉 부여잡았다.
+AvgDialog_18895_Content_35,afnV,avg章1新_AvgDialog_C_M.csv,482,AvgDialog,Content,艾继丝,求求你们……不要再问了……,제발... 더 이상 묻지 말아주세요...
+AvgDialog_18895_Content_36,afnW,avg章1新_AvgDialog_C_M.csv,483,AvgDialog,Content,玩家,拉蒙娜，雾又变浓了。,"라모나, 안개가 다시 짙어졌어."
+AvgDialog_18895_Content_37,afnX,avg章1新_AvgDialog_C_M.csv,484,AvgDialog,Content,,在雾气之中，腥红的眼瞳成双成对地亮起，逼视着无路可退的你们。,"안개 속에서 한 쌍의 붉은 눈이 번뜩이며, 물러설 곳 없는 당신들을 노려본다."
+AvgDialog_18914_Content_1,afBJ,avg章1新_AvgDialog_C_M.csv,485,AvgDialog,Content,拉蒙娜,这些怪物的身上，都有融蚀痕。而且……像是缝上去的。,이 괴물들은 전부 몸에 융식 자국이 있어. 그리고… 마치 꿰맨 것처럼 생겼어.
+AvgDialog_18914_Content_2,afBK,avg章1新_AvgDialog_C_M.csv,486,AvgDialog,Content,,拉蒙娜敲击了两下胸针。,라모나는 가슴에 있는 브로치를 두 번 두드렸다.
+AvgDialog_18914_Content_3,afBL,avg章1新_AvgDialog_C_M.csv,487,AvgDialog,Content,拉蒙娜,艾瑞卡，查询“缝合状融蚀痕”。,"에리카, ""봉합된 융식 자국""을 조회해 줘."
+AvgDialog_18914_Content_4,afBM,avg章1新_AvgDialog_C_M.csv,488,AvgDialog,Content,艾瑞卡,"关键词读取成功，“缝合状融蚀”，相关事件共计37起。
+事件关键词：恶性组织行动，<Blue:雕塑家协会>。","키워드 조회 성공, ""봉합된 융식 자국"". 관련된 사건은 총 37건입니다. 사건 키워드: 악의적 조직 활동, <Blue: 조각가 협회>."
+AvgDialog_18914_Content_5,afBN,avg章1新_AvgDialog_C_M.csv,489,AvgDialog,Content,玩家,雕塑家协会？,조각가 협회?
+AvgDialog_18914_Content_6,afBO,avg章1新_AvgDialog_C_M.csv,490,AvgDialog,Content,拉蒙娜,那是一群以“皮格马利翁”自居的疯子，痴迷于<Red:生物改造>…在伦蒂尼恩以外的城镇，弥萨格与他们有过数次冲突。,"스스로를 ""피그말리온""이라 자처하며 <Red:생물 개조>에 집착하는 광인들이야... 론디니움 외곽의 도시들에서 그들과 여러 차례 충돌한 적이 있어."
+AvgDialog_18914_Content_7,afBP,avg章1新_AvgDialog_C_M.csv,491,AvgDialog,Content,拉蒙娜,他们的手伸到东区来了，警惕点…警惕那些<Yellow:手里拿着小刀>的人。,그 자들의 손길이 동부 지구까지 뻗쳤어. 조심해... 특히 <Yellow:수술용 칼을 든 사람들>을 경계해야 해.
+AvgDialog_18911_Content_1,afzq,avg章1新_AvgDialog_C_M.csv,492,AvgDialog,Content,拉蒙娜,都结束了。,통신 종료.
+AvgDialog_18911_Content_2,afzB,avg章1新_AvgDialog_C_M.csv,493,AvgDialog,Content,,拉蒙娜转向惊魂未定的女孩，她连牙齿都在颤抖着，半句话也说不出来。,"라모나는 여전히 놀라 몸을 떨고 있는 소녀 쪽으로 고개를 돌렸다. 그녀는 두려움에 이를 덜덜 떨며, 말 한마디조차 제대로 잇지 못했다."
+AvgDialog_18911_Content_3,afzM,avg章1新_AvgDialog_C_M.csv,494,AvgDialog,Content,,她轻轻卷起艾继丝的袖子，缝合走线触目惊心，在白皙的手腕上格外刺目。,"라모나는 천천히 아이기스의 소매를 걷어 올렸다. 솜씨 좋은 바느질 자국들이 피부를 따라 이어져 있었고, 희고 여린 손목 위에 새겨진 그 꿰맨 자국은 너무도 선명했다."
+AvgDialog_18911_Content_4,afzR,avg章1新_AvgDialog_C_M.csv,495,AvgDialog,Content,拉蒙娜,"艾继丝，他们也对你做了一样的实验。
+他们把你捆起来，强行进行手术，为你植入了一些……<Yellow:异物>，对吗？","아이기스…… 그자들도 너한테 똑같은 실험을 했지? 널 묶어 놓고, 강제로 수술해서…… 몸 안에 <Yellow:이물질>을 심은 거야, 맞지?"
+AvgDialog_18911_Content_5,afzS,avg章1新_AvgDialog_C_M.csv,496,AvgDialog,Content,艾继丝,我、我，那时候……,"저, 저, 그때는..."
+AvgDialog_18911_Content_6,afzT,avg章1新_AvgDialog_C_M.csv,497,AvgDialog,Content,艾继丝,唔……这里是……,으으... 여기는...
+AvgDialog_18911_Content_7,afzU,avg章1新_AvgDialog_C_M.csv,498,AvgDialog,Content,,强烈的灯光让人不自觉地想要闭上眼睛，艾继丝试图控制眼皮，却发现自己无法做到。,"강렬한 조명이 눈을 찌른다. 아이기스는 반사적으로 눈을 감으려 했지만, 그럴 수 없었다."
+AvgDialog_18911_Content_8,afzV,avg章1新_AvgDialog_C_M.csv,499,AvgDialog,Content,,冰冷的金属固定住了眼周肌肉，她只能眼睁睁地看着白袍男人手持柳叶刀慢慢靠近自己。,"차가운 금속이 눈가 근육을 단단히 고정하고 있었고, 그녀는 하얀 가운을 입은 남자가 메스를 들고 천천히 다가오는 걸 눈뜨고 바라볼 수밖에 없었다."
+AvgDialog_18911_Content_9,afzW,avg章1新_AvgDialog_C_M.csv,500,AvgDialog,Content,艾继丝,不、不要，莎拉小姐，莎拉小姐！,"시, 싫어! 사라 선생님, 사라 선생님!"
+AvgDialog_18911_Content_10,afzr,avg章1新_AvgDialog_C_M.csv,501,AvgDialog,Content,,刀具随着手的运动，拖出一道长长的银色轨迹。,칼날이 손의 움직임을 따라 부드럽게 빛났다.
+AvgDialog_18911_Content_11,afzs,avg章1新_AvgDialog_C_M.csv,502,AvgDialog,Content,艾继丝,莎拉小姐！提尤格！救命！救救我！<Big:救救我！>,사라 선생님! 트요그! 도와주세요! <Big: 살려주세요!!>
+AvgDialog_18911_Content_12,afzt,avg章1新_AvgDialog_C_M.csv,503,AvgDialog,Content,,"刀尖越来越近，越来越近，直到占据了全部视野。
+然后——","칼끝이 점점 다가오고, 점점 가까워져, 시야를 전부 뒤덮는 순간——"
+AvgDialog_18911_Content_13,afzu,avg章1新_AvgDialog_C_M.csv,504,AvgDialog,Content,艾继丝,<Shake:啊————！>,<Shake:아아————!>
+AvgDialog_18911_Content_14,afzv,avg章1新_AvgDialog_C_M.csv,505,AvgDialog,Content,,艾继丝颤抖着，喉咙深处发出战栗而恐惧的尖叫。,"아이기스의 몸이 격렬히 떨렸고, 그녀의 목 깊은 곳에서 떨리고 갈라진 비명이 터져 나왔다."
+AvgDialog_18911_Content_15,afzw,avg章1新_AvgDialog_C_M.csv,506,AvgDialog,Content,,仿佛被那声尖叫召唤而来，神秘的心理医生悄然出现在她的身后。,"그 비명에 이끌리듯, 신비한 분위기의 심리학자가 고요히 그녀의 등 뒤로 모습을 드러냈다."
+AvgDialog_18911_Content_16,afzx,avg章1新_AvgDialog_C_M.csv,507,AvgDialog,Content,克莱门汀,小艾继丝遇到新的烦恼了吗，要不要和克莱门汀医生说说呢？,우리 아이기스에게 새로운 고민이 생겼나 보네? 클레멘타인 선생님이 들어 줄까?
+AvgDialog_18911_Content_17,afzy,avg章1新_AvgDialog_C_M.csv,508,AvgDialog,Content,玩家,克莱门汀医生？！,클레멘타인?!
+AvgDialog_18911_Content_18,afzz,avg章1新_AvgDialog_C_M.csv,509,AvgDialog,Content,拉蒙娜,深夜的济贫院可不是什么最佳出诊地，你为什么会在这里出现？,한밤중의 빈민원은 진료하기엔 썩 좋은 장소가 아니라고 생각합니다만. 당신이 왜 여기 있는 거죠?
+AvgDialog_18911_Content_19,afzA,avg章1新_AvgDialog_C_M.csv,510,AvgDialog,Content,克莱门汀,别那么严肃嘛。这阵子济贫院有些不太平，罗杰斯先生担心工人和孩子们的精神状态，特地聘请了我来关照大家。,그렇게 딱딱하게 굴지 마세요. 요즘 빈민원이 조금 소란스럽잖아요? 로저스 씨가 일꾼들과 아이들의 정신 상태를 걱정해서 저를 특별히 초빙하셨답니다.
+AvgDialog_18911_Content_20,afzC,avg章1新_AvgDialog_C_M.csv,511,AvgDialog,Content,克莱门汀,有时看诊到夜深了，我也会留宿济贫院，就睡在孩子们附近的房间。,가끔 진료가 늦어질 땐 저도 여기서 묵는답니다. 아이들 방 근처에서 머무르면서요.
+AvgDialog_18911_Content_21,afzD,avg章1新_AvgDialog_C_M.csv,512,AvgDialog,Content,奥吉尔,艾继丝，你认识她吗？,"아이기스, 그녀를 알아?"
+AvgDialog_18911_Content_22,afzE,avg章1新_AvgDialog_C_M.csv,513,AvgDialog,Content,,克莱门汀的到来使女孩从回忆中抽身，她点点头，给出了肯定的答复。,클레멘타인의 등장에 기억의 늪에서 빠져나온 소녀는 고개를 끄덕이며 짧게 대답했다.
+AvgDialog_18911_Content_23,afzF,avg章1新_AvgDialog_C_M.csv,514,AvgDialog,Content,克莱门汀,从我第一次来到济贫院开始，她就是我的小小客人。,제가 처음 빈민원에 왔을 때부터 그 아이는 제 작은 환자였어요.
+AvgDialog_18911_Content_24,afzG,avg章1新_AvgDialog_C_M.csv,515,AvgDialog,Content,克莱门汀,诉说烦恼是心理疗愈的方法之一，而我恰好是一名很专业的听众。,고민을 털어놓는 건 심리 치료 방법 중 하나죠. 그리고 저는 아주 좋은 청취자거든요.
+AvgDialog_18911_Content_25,afzH,avg章1新_AvgDialog_C_M.csv,516,AvgDialog,Content,,审视的视线从众人脸上一一滑过，最后定格在了你身上。,"그녀의 시선이 천천히 모두의 얼굴을 훑고 지나가다, 마침내 당신에게 닿았다."
+AvgDialog_18911_Content_26,afzI,avg章1新_AvgDialog_C_M.csv,517,AvgDialog,Content,玩家,不必了，我们还有事在身。,"죄송하지만, 저흰 아직 할 일이 있어서요."
+AvgDialog_18911_Content_27,afzJ,avg章1新_AvgDialog_C_M.csv,518,AvgDialog,Content,克莱门汀,"真遗憾。如果改变主意了，随时欢迎你加入我们寻找内心的旅程。
+走吧，艾继丝。","아쉽네요. 마음이 바뀌면 언제든 저희와 내면을 찾는 여행에 함께해주셔도 상관없어요. 자, 가자, 아이기스."
+AvgDialog_18911_Content_28,afzK,avg章1新_AvgDialog_C_M.csv,519,AvgDialog,Content,,艾继丝牵着克莱门汀的手，沉默着缓步离开。,"아이기스는 조용히 클레멘타인의 손을 잡고 천천히, 아무 말 없이 걸음을 옮겼다."
+AvgDialog_18911_Content_29,afzL,avg章1新_AvgDialog_C_M.csv,520,AvgDialog,Content,奥吉尔,艾继丝！你们去哪里！,아이기스! 어디 가는 거야!
+AvgDialog_18911_Content_30,afzN,avg章1新_AvgDialog_C_M.csv,521,AvgDialog,Content,艾继丝,<Small:对不起…克莱门汀医生能帮我……>,<Small: 죄송해요…클레멘타인 선생님이라면... 저를 도와주실 수 있을 거예요...>
+AvgDialog_18911_Content_31,afzO,avg章1新_AvgDialog_C_M.csv,522,AvgDialog,Content,,女孩说完，她难得主动地大力扯了扯克莱门汀的衣袖。在无声的催促下，两人的身影消失在了济贫院门内。,"소녀는 그렇게 말하곤, 드물게도 선생님의 옷자락을 세게 잡아당겼다. 그 무언의 재촉에 두 사람의 모습은 빈민원 안으로 사라져 갔다."
+AvgDialog_18911_Content_32,afzP,avg章1新_AvgDialog_C_M.csv,523,AvgDialog,Content,玩家,艾继丝……不知道这个孩子究竟藏着什么秘密。,"아이기스... 그 아이, 대체 무슨 비밀을 숨기고 있는 걸까."
+AvgDialog_18911_Content_33,afzQ,avg章1新_AvgDialog_C_M.csv,524,AvgDialog,Content,拉蒙娜,雾快散了，我们也回去休息一会儿吧。后半夜和詹金约好了去探查地下室，我们需要保存一些精力。,"안개가 거의 걷혀 가네. 우리도 잠시 쉬자. 곧 젠킨과 약속한 대로 지하실을 조사해야 하니까, 지금은 조금이라도 체력을 아껴 두는 게 좋겠어."
+AvgDialog_18903_Content_1,afsM,avg章1新_AvgDialog_C_M.csv,525,AvgDialog,Content,,内在的危险,내부의 위험
+AvgDialog_18903_Content_2,afsN,avg章1新_AvgDialog_C_M.csv,526,AvgDialog,Content,,咣，咣,"쾅, 쾅..."
+AvgDialog_18903_Content_3,afsO,avg章1新_AvgDialog_C_M.csv,527,AvgDialog,Content,,你很清楚自己在梦中。,당신은 지금 자신이 꿈속에 있음을 분명히 알고 있다.
+AvgDialog_18903_Content_4,afsP,avg章1新_AvgDialog_C_M.csv,528,AvgDialog,Content,,有人踩着下水道中的铁管逐步逼近。,누군가가 하수도의 쇠파이프를 밟으며 점점 가까워지고 있다.
+AvgDialog_18903_Content_5,afsQ,avg章1新_AvgDialog_C_M.csv,529,AvgDialog,Content,,"模糊中，有一个熟悉的身影奔跑而来。
+她抓着你的手，牵着你飞速奔跑起来，口中还焦急地呼喊着。","희미한 시야 속에서, 낯익은 실루엣이 달려온다. 그녀는 당신의 손을 움켜쥐고, 숨 가쁘게 달리며 다급히 외친다."
+AvgDialog_18903_Content_6,afsR,avg章1新_AvgDialog_C_M.csv,530,AvgDialog,Content,姐姐？,跑，快跑，詹金，快跑！,"뛰어, 젠킨! 빨리 뛰어!"
+AvgDialog_18903_Content_7,afsS,avg章1新_AvgDialog_C_M.csv,531,AvgDialog,Content,,在你们身后，无数黏稠的黑色怪物追逐着你和姐姐。,뒤에서는 수많은 끈적끈적한 검은 괴물들이 당신들을 뒤쫓고 있다.
+AvgDialog_18880_Content_1,afia,avg章1新_AvgDialog_C_M.csv,532,AvgDialog,Content,詹金,姐姐，那些是什么，姐姐？,"언니, 저건 대체 뭐야? 언니?"
+AvgDialog_18880_Content_2,afig,avg章1新_AvgDialog_C_M.csv,533,AvgDialog,Content,姐姐？,不要问，快跑，詹金。,"묻지 말고, 빨리 뛰어, 젠킨."
+AvgDialog_18880_Content_3,afih,avg章1新_AvgDialog_C_M.csv,534,AvgDialog,Content,,怪物越来越近，逐渐将你们逼向深渊。,"괴물들은 점점 가까워지고, 마침내 당신들을 벼랑 끝으로 몰아붙인다."
+AvgDialog_18880_Content_4,afii,avg章1新_AvgDialog_C_M.csv,535,AvgDialog,Content,姐姐？,她只是个来自贫民窟的小孩罢了，什么都不懂，绝不会对你们造成任何威胁……,"그 애는 빈민가 출신의 아이일 뿐이야. 아무것도 몰라, 당신들에게 위협이 될 리 없어..."
+AvgDialog_18880_Content_5,afij,avg章1新_AvgDialog_C_M.csv,536,AvgDialog,Content,,你按照姐姐的指示，抱着布朗沿下水管道向下爬去。,당신은 언니의 지시에 따라 브라운을 데리고 하수도관을 타고 내려갔다.
+AvgDialog_18880_Content_6,afik,avg章1新_AvgDialog_C_M.csv,537,AvgDialog,Content,姐姐？,<Shake:求求你们……>,<Shake:제발...>
+AvgDialog_18880_Content_7,afil,avg章1新_AvgDialog_C_M.csv,538,AvgDialog,Content,,那是姐姐说出的最后半句话。,그것이 언니가 남긴 마지막 반 마디였다.
+AvgDialog_18880_Content_8,afim,avg章1新_AvgDialog_C_M.csv,539,AvgDialog,Content,,在话音被截断的瞬间，你熟悉的剪影从高空坠落，手中仍紧紧抓着半截红色的锻带。,"목소리가 끊기는 순간, 당신에게 익숙한 그 실루엣이 높은 곳에서 추락했다. 그녀의 손에는 여전히 붉은 리본 반쪽이 꽉 쥐어져 있었다."
+AvgDialog_18880_Content_9,afin,avg章1新_AvgDialog_C_M.csv,540,AvgDialog,Content,,"那缎带是你攒了一年的零花钱，亲自为她定制的。
+你未曾见过你的亲生父母，她就是你最亲近的人。","그 리본은 당신이 1년 동안 용돈을 모아 직접 주문해 만든 것이었다. 당신은 친부모를 본 적이 없었기에, 그녀가 세상에서 가장 소중한 사람이었다."
+AvgDialog_18880_Content_10,afib,avg章1新_AvgDialog_C_M.csv,541,AvgDialog,Content,,而你只能亲眼见证她坠落，坠落，落在下水道肮脏的地面上，质地坚硬的<Red:塑像>摔碎成大小不一的硬块。,"그러나 당신은 그저 바라볼 수밖에 없었다. 그녀가 추락하여, 하수도의 더러운 바닥에 떨어지며 단단한 <Red:조각상>이 되어 산산이 부서지는 것을."
+AvgDialog_18880_Content_11,afic,avg章1新_AvgDialog_C_M.csv,542,AvgDialog,Content,,……塑像？为什么是塑像？,...조각상? 왜 조각상이?
+AvgDialog_18880_Content_12,afid,avg章1新_AvgDialog_C_M.csv,543,AvgDialog,Content,,来不及思考，你抬头望向姐姐摔落前的位置。,"생각할 틈도 없이, 당신은 고개를 들어 언니가 떨어지기 전의 자리를 바라본다."
+AvgDialog_18880_Content_13,afie,avg章1新_AvgDialog_C_M.csv,544,AvgDialog,Content,詹金,不……不会的……,그럴 리 없어...
+AvgDialog_18880_Content_14,afif,avg章1新_AvgDialog_C_M.csv,545,AvgDialog,Content,,你熟悉的小小女孩站在那里，白色的眼罩脱落，眼神空洞，手中握着半截血红色的缎带。,"익숙한 소녀가 그곳에 서 있다. 하얀 안대는 벗겨진 채, 눈동자는 텅 비어 있었고, 손에는 여전히 반쪽 난 피처럼 붉은 리본이 쥐어져 있었다."
+AvgDialog_18892_Content_1,aflJ,avg章1新_AvgDialog_C_M.csv,546,AvgDialog,Content,,你们被一阵尖锐急促的鼠啸吵醒，拉蒙娜率先翻身下床，点亮了房间的灯。,"그리고 날카롭고 급한 쥐들의 비명이 당신을 깨운다. 라모나가 먼저 몸을 일으켜 침대에서 내려오며, 방 안의 불을 켠다."
+AvgDialog_18892_Content_2,aflU,avg章1新_AvgDialog_C_M.csv,547,AvgDialog,Content,玩家,布朗？你怎么自己来了。,브라운? 왜 혼자만 왔어?
+AvgDialog_18892_Content_3,aflV,avg章1新_AvgDialog_C_M.csv,548,AvgDialog,Content,布朗,吱——！吱吱！,찍——! 찍찍!
+AvgDialog_18892_Content_4,aflW,avg章1新_AvgDialog_C_M.csv,549,AvgDialog,Content,玩家,我们不是詹金，听不懂你的意思。,우린 젠킨이 아니라서 네 말을 이해할 수 없어.
+AvgDialog_18892_Content_5,aflX,avg章1新_AvgDialog_C_M.csv,550,AvgDialog,Content,拉蒙娜,时间差不多，詹金应该要来跟我们汇合了。,"슬슬 시간이네, 젠킨이 곧 합류할 거야."
+AvgDialog_18892_Content_6,aflY,avg章1新_AvgDialog_C_M.csv,551,AvgDialog,Content,,你望向窗外，淡淡的白雾之中，建筑的影子好似一尊又一尊在墓园中伫立的雕像。,당신은 창밖을 바라본다. 희미한 백색 안개 속에서 건물들의 그림자가 마치 묘지에 서 있는 조각상처럼 하나둘 서 있었다.
+AvgDialog_18892_Content_7,aflZ,avg章1新_AvgDialog_C_M.csv,552,AvgDialog,Content,,门吱呀一声敞开一条小缝，黝黑的门缝中灌入深夜阴冷的风。,"문이 삐걱거리며 작게 열리고, 어둡고 좁은 틈새로 한밤중의 차가운 바람이 스며든다."
+AvgDialog_18892_Content_8,afma,avg章1新_AvgDialog_C_M.csv,553,AvgDialog,Content,,一道黑影迅捷地从桌椅后方窜出，瞬息之间已经袭到你的面前。,"한 줄기 검은 그림자가 탁자와 의자 뒤에서 빠르게 튀어나와, 순식간에 당신 앞에 다가왔다."
+AvgDialog_18892_Content_10,aflK,avg章1新_AvgDialog_C_M.csv,555,AvgDialog,Content,,锐利的刀刃反射着寒光，短小的刀身映出你的面庞。,"날카로운 칼날이 차가운 빛을 반사하고, 짧은 칼몸에는 당신의 얼굴이 비쳤다."
+AvgDialog_18892_Content_11,aflL,avg章1新_AvgDialog_C_M.csv,556,AvgDialog,Content,玩家,谁！,누구야!
+AvgDialog_18892_Content_12,aflM,avg章1新_AvgDialog_C_M.csv,557,AvgDialog,Content,,训练形成的条件反射让你及时侧身闪过，并看清了来人的身影。,"훈련으로 형성된 조건반사 덕분에 당신은 몸을 옆으로 튀어 피하며, 다가온 자의 모습을 확인했다."
+AvgDialog_18892_Content_13,aflN,avg章1新_AvgDialog_C_M.csv,558,AvgDialog,Content,玩家,詹金？！,젠킨?!
+AvgDialog_18892_Content_14,aflO,avg章1新_AvgDialog_C_M.csv,559,AvgDialog,Content,,女孩空洞的眼瞳中没有任何色彩，她神色木然到近乎呆滞，对你的呼唤充耳不闻。,"그러나 소녀의 공허한 눈동자에는 색채가 없었고, 표정은 거의 멍하니 굳어 있었다. 당신이 부르는 소리도 듣지 못하는 듯했다."
+AvgDialog_18892_Content_15,aflP,avg章1新_AvgDialog_C_M.csv,560,AvgDialog,Content,詹金,我要为姐姐……报仇……,나는... 언니를 위해... 복수...할 거야...
+AvgDialog_18892_Content_16,aflQ,avg章1新_AvgDialog_C_M.csv,561,AvgDialog,Content,,"她的动作异常敏捷，利刃在空中划出冰冷的弧线。
+没有给你更多思考的机会，女孩再次向你扑来。","그녀의 움직임은 비정상적으로 민첩했다. 차가운 호를 그리며 칼이 공중을 가르며, 당신에게 생각할 여지를 주지 않고 다시 돌진해 왔다."
+AvgDialog_18892_Content_17,aflR,avg章1新_AvgDialog_C_M.csv,562,AvgDialog,Content,玩家,"看来只能制服她再问话了。
+拉蒙娜，奥吉尔，把她引到空旷空间去！","우선 제압해야 할 것 같아. 라모나, 오지에, 젠킨을 넓은 공간으로 데려가 줘!"
+AvgDialog_18892_Content_18,aflS,avg章1新_AvgDialog_C_M.csv,563,AvgDialog,Content,奥吉尔,在！,알겠습니다!
+AvgDialog_18892_Content_19,aflT,avg章1新_AvgDialog_C_M.csv,564,AvgDialog,Content,拉蒙娜,听你指挥！,명령에 따를게!
+AvgDialog_18878_Content_1,afgY,avg章1新_AvgDialog_C_M.csv,565,AvgDialog,Content,,奥吉尔和拉蒙娜一人一边，死死压住顽抗的詹金。,오지에과 라모나가 각각 한쪽에서 젠킨의 저항을 단단히 억눌렀다.
+AvgDialog_18878_Content_2,afhj,avg章1新_AvgDialog_C_M.csv,566,AvgDialog,Content,奥吉尔,她这是……歇斯底里……？,이건... 히스테리인가?
+AvgDialog_18878_Content_3,afhu,avg章1新_AvgDialog_C_M.csv,567,AvgDialog,Content,拉蒙娜,"不，%player%，她的精神正在躁动。
+银钥匙的精神力或许能有安抚的效果。","아니야, %player%, 정신이 요동치고 있어. 은열쇠의 힘이 아마도 진정 효과를 줄 수 있을 거야."
+AvgDialog_18878_Content_4,afhF,avg章1新_AvgDialog_C_M.csv,568,AvgDialog,Content,,发动银钥匙,은열쇠 사용
+AvgDialog_18878_Content_5,afhP,avg章1新_AvgDialog_C_M.csv,569,AvgDialog,Content,,你陷入纯黑的空间中，一个又一个闪耀着微弱银光的小点连成一片，循着难以揣测的规律浪潮一般上下浮动。,"순수한 검은 공간 속, 미약한 은빛을 발하는 작은 점들이 하나둘 연결되어, 알 수 없는 규칙에 따라 파도처럼 위아래로 흔들린다."
+AvgDialog_18878_Content_6,afhQ,avg章1新_AvgDialog_C_M.csv,570,AvgDialog,Content,,"你站在其中，又悬于其上。你是其中一个，却又与他们格格不入。
+你不知道他们具体是什么，你只知道，你是来找人的。","당신은 그 안 바닥을 딛고 서 있으면서도, 동시에 위에 매달린 상태다. 당신은 그중 하나지만, 동시에 그것들과 다르다. 그것들이 정확히 무엇인지 알 수 없지만, 당신이 찾으러 온 대상은 분명하다."
+AvgDialog_18878_Content_7,afhR,avg章1新_AvgDialog_C_M.csv,571,AvgDialog,Content,？？？,“姐姐……姐姐……”,"""언니… 언니…"""
+AvgDialog_18878_Content_8,afhS,avg章1新_AvgDialog_C_M.csv,572,AvgDialog,Content,,"你朝声音的方向望去，一个格外暗淡的光点在星海之中闪烁。
+泛着诡异金属光泽的黑色丝线缠绕着它，牵扯着它，让它动弹不得。","당신은 목소리가 들리는 방향을 바라본다. 별바다 속에서 유난히 어둡게 빛나는 점 하나가 깜박이고 있었다. 기이한 금속 광택을 띤 검은 실이 그 점을 감싸고, 움직이지 못하게 붙잡고 있다."
+AvgDialog_18878_Content_9,afhT,avg章1新_AvgDialog_C_M.csv,573,AvgDialog,Content,,那黑线中隐约传出欢快的旋律，像是一首由孩子唱出的童谣。,그 검은 실 속에서 희미하게 명랑한 멜로디가 흘러나왔다. 마치 아이가 부르는 동요처럼 들렸다.
+AvgDialog_18878_Content_10,afgZ,avg章1新_AvgDialog_C_M.csv,574,AvgDialog,Content,,老查理有一只他很爱很爱的虎斑猫……,찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...
+AvgDialog_18878_Content_11,afha,avg章1新_AvgDialog_C_M.csv,575,AvgDialog,Content,詹金,“姐姐……不要走……”,"""언니… 가지 마…"""
+AvgDialog_18878_Content_12,afhb,avg章1新_AvgDialog_C_M.csv,576,AvgDialog,Content,,詹金的声音从光团内传出。它想要向你靠近，却在移动的瞬间被黑色细线牢牢捆住，只得后退，宛如受控于人的提线木偶。,"젠킨의 목소리가 빛 속에서 흘러나왔다. 그녀는 당신에게 다가가려 했지만, 움직이는 순간 검은 실에 단단히 묶여 꼼짝할 수 없었고, 마치 조종당하는 꼭두각시처럼 뒤로 물러날 수밖에 없었다."
+AvgDialog_18878_Content_13,afhc,avg章1新_AvgDialog_C_M.csv,577,AvgDialog,Content,,"你顿时明白了，有人、或者有东西，正在操纵她。
+你正想帮她摆脱束缚，就见那些黑色丝线突然变细，最终彻底消失。","그제야 당신은 깨달았다. 누군가, 혹은 무언가가 그녀를 조종하고 있다는 것을. 당신이 그녀를 속박에서 풀어주려는 순간, 그 검은 실은 갑자기 가늘어지더니, 결국 완전히 사라졌다."
+AvgDialog_18878_Content_14,afhd,avg章1新_AvgDialog_C_M.csv,578,AvgDialog,Content,詹金,“不……艾继丝……？”,"""안돼……아이기스……?"""
+AvgDialog_18878_Content_15,afhe,avg章1新_AvgDialog_C_M.csv,579,AvgDialog,Content,,光点骤然远去，黑色空间迅速消散。,"빛나는 점은 순식간에 멀어지고, 검은 공간은 급속히 흩어졌다."
+AvgDialog_18878_Content_16,afhf,avg章1新_AvgDialog_C_M.csv,580,AvgDialog,Content,,你睁开眼，正好和面露迷茫的詹金对上视线。,"당신이 눈을 뜨자, 당황스러운 표정의 젠킨과 시선이 정확히 마주쳤다."
+AvgDialog_18878_Content_17,afhg,avg章1新_AvgDialog_C_M.csv,581,AvgDialog,Content,詹金,%player%……？怎么了，出什么事儿了吗？,"%player%…? 왜 그래, 무슨 일이 일어난 거야?"
+AvgDialog_18878_Content_18,afhh,avg章1新_AvgDialog_C_M.csv,582,AvgDialog,Content,布朗,吱吱吱吱！,찍찍찍찍!
+AvgDialog_18878_Content_19,afhi,avg章1新_AvgDialog_C_M.csv,583,AvgDialog,Content,,詹金眨了眨干涩的双眼，正想坐起来，却发现自己双手被反绑在了身后。,"젠킨이 말라붙은 눈을 깜빡이며 일어나려 했지만, 자신의 양손이 등 뒤에 묶여 있는 것을 발견했다."
+AvgDialog_18878_Content_20,afhk,avg章1新_AvgDialog_C_M.csv,584,AvgDialog,Content,詹金,这是怎么回事？！谁干的，快给我松开！,"이게... 어떻게 된 거지?! 누가 한 거야, 빨리 풀어 줘!"
+AvgDialog_18878_Content_21,afhl,avg章1新_AvgDialog_C_M.csv,585,AvgDialog,Content,,你朝拉蒙娜点点头，她提剑上前，干脆利落地切断了詹金手腕上的绳索。,"당신이 라모나를 바라보며 고개를 끄덕이자, 그녀는 검을 들고 앞으로 나와 젠킨의 손목을 감싼 줄을 단번에 끊었다."
+AvgDialog_18878_Content_22,afhm,avg章1新_AvgDialog_C_M.csv,586,AvgDialog,Content,玩家,"抱歉，情况紧急，我们不得不做一点防护措施。
+你……还记得你刚才做了些什么吗？",미안해. 상황이 급박해서 어쩔 수 없이 약간의 방어 조치를 취했어. 혹시... 방금 네가 뭘 했는지 기억나?
+AvgDialog_18878_Content_23,afhn,avg章1新_AvgDialog_C_M.csv,587,AvgDialog,Content,詹金,刚才？咱们不是约好了要去撬那女人的地下室吗？为了打发时间，我和布朗躲在艾继丝的房间等她回来，不小心睡着了还做了个乱七八糟的梦……,"방금? 우리 그 여자의 지하실을 열어보기로 약속했잖아? 그래서 시간을 때우려고, 나랑 브라운은 아이기스의 방에서 아이기스가 돌아올 때까지 기다렸는데, 깜빡 잠들어서 이상한 꿈을 꿨..."
+AvgDialog_18878_Content_24,afho,avg章1新_AvgDialog_C_M.csv,588,AvgDialog,Content,詹金,等等，这里不是艾继丝房间，我怎么在这里？你们、你们把我搬过来是想干什么？不会是要绑架我灭口吧！,"잠깐, 여기는 아이기스 방이 아닌데, 내가 왜 여기 있지? 너희가 나를 여기로 옮긴 거야? 설마 날 납치해서 입막음하려는 건 아니겠지!"
+AvgDialog_18878_Content_25,afhp,avg章1新_AvgDialog_C_M.csv,589,AvgDialog,Content,玩家,你确实如约来了，但刚才你的情况很糟糕，就好像……,정확히 약속대로 온 거야. 하지만 방금 네 상태가 좋지 않았어. 마치...
+AvgDialog_18878_Content_26,afhq,avg章1新_AvgDialog_C_M.csv,590,AvgDialog,Content,拉蒙娜,就好像有什么东西控制了你。换句话说，你可能被催眠了。,"무언가에 의해 조종되는 것 같았다고 할까. 다시 말해, 최면에 걸렸던 걸 수도 있어."
+AvgDialog_18878_Content_27,afhr,avg章1新_AvgDialog_C_M.csv,591,AvgDialog,Content,奥吉尔,催眠…啊！会不会是带走艾继丝的那位心理医生？,최면... 아! 혹시 아이기스를 데려간 그 심리 치료사인가?
+AvgDialog_18878_Content_28,afhs,avg章1新_AvgDialog_C_M.csv,592,AvgDialog,Content,克莱门汀,这么说可太失礼了。心理治疗是一门科学，不是什么能随意控制人的超能力……呵，科学，这倒是和<Blue:皮格马利翁>们所追求的相似。,"그렇게 말하는 건 좀 무례하네요. 심리 치료는 과학이에요. 사람을 마음대로 조종하는 초능력이 아니랍니다... 아, 과학이라, 그 점은 <Blue:피그말리온>들이 추구하는 것과 비슷하긴 하네요."
+AvgDialog_18878_Content_30,afhv,avg章1新_AvgDialog_C_M.csv,594,AvgDialog,Content,,拉蒙娜的剑瞬间出鞘。银白的剑身悬在克莱门汀颈侧，她却丝毫没有畏惧，反而轻描淡写地用两只手指将细剑拨开。,"라모나의 검이 순식간에 칼집에서 빠져나왔다. 은빛 날이 클레멘틴의 목 근처에 매달렸지만, 그녀는 조금도 두려워하지 않고, 오히려 두 손가락으로 가볍게 검을 밀어냈다."
+AvgDialog_18878_Content_31,afhw,avg章1新_AvgDialog_C_M.csv,595,AvgDialog,Content,,你警惕地盯着面前的女人——门窗都没开，她几乎是凭空出现在你们面前的。悄无声息，宛若幽灵。,"당신은 경계하며 눈앞의 여성을 똑바로 바라본다. 문과 창문 모두 닫혀 있음에도, 그녀는 갑작스럽게 나타났다. 소리 하나 없이, 마치 유령처럼."
+AvgDialog_18878_Content_32,afhx,avg章1新_AvgDialog_C_M.csv,596,AvgDialog,Content,拉蒙娜,你是雕塑家协会的人？,당신은 조각가 협회 사람인가요?
+AvgDialog_18878_Content_33,afhy,avg章1新_AvgDialog_C_M.csv,597,AvgDialog,Content,克莱门汀,"我不过是一个热心的第三方罢了，虽然，我确实有一点私心。
+你让我很感兴趣呢，特殊的调查员。","저는 그냥 열정적인 제3자일 뿐이에요. 물론, 조금 사심이 있긴 하죠. 당신은 참 흥미롭네요, 특별한 조사관님."
+AvgDialog_18878_Content_34,afhz,avg章1新_AvgDialog_C_M.csv,598,AvgDialog,Content,,她微笑着看向你，落在你身上的目光隐隐含着一丝古怪的狂热。,"그녀는 미소 지으며 당신을 바라보았고, 시선 속에는 알 수 없는 기묘한 열광이 섞여 있었다."
+AvgDialog_18878_Content_35,afhA,avg章1新_AvgDialog_C_M.csv,599,AvgDialog,Content,玩家,……为什么？,...왜죠?
+AvgDialog_18878_Content_36,afhB,avg章1新_AvgDialog_C_M.csv,600,AvgDialog,Content,,克莱门汀噙着一抹神秘的微笑，后退两步，向你微微躬身。,클레멘타인은 신비로운 미소를 머금은 채 두 걸음 물러나며 살짝 허리를 숙였다.
+AvgDialog_18878_Content_37,afhC,avg章1新_AvgDialog_C_M.csv,601,AvgDialog,Content,克莱门汀,今夜我说得已经够多了，多到我的<Yellow:银质的心>都激动得不停颤抖。,오늘 밤 할 말은 충분히 한 것 같군요. 제 <Yellow:은빛 심장>까지 설렘으로 계속 떨리고 있을 정도로 말이죠.
+AvgDialog_18878_Content_38,afhD,avg章1新_AvgDialog_C_M.csv,602,AvgDialog,Content,玩家,<Yellow:银质的心>…你是唤醒体？！,<Yellow:은빛 심장>... 각성체였나요?!
+AvgDialog_18878_Content_39,afhE,avg章1新_AvgDialog_C_M.csv,603,AvgDialog,Content,拉蒙娜,既然如此，那我们就更不能简单让你离开了，克莱门汀。,"만약 그렇다면, 클레멘타인, 저희는 당신을 간단히 보내줄 수 없겠군요."
+AvgDialog_18878_Content_40,afhG,avg章1新_AvgDialog_C_M.csv,604,AvgDialog,Content,克莱门汀,如果我们的相遇故事在今天就结束，不会显得很无趣吗？,"저희의 만남 이야기가 이 자리에서 끝나버린다면, 너무 식상하지 않겠어요?"
+AvgDialog_18878_Content_41,afhH,avg章1新_AvgDialog_C_M.csv,605,AvgDialog,Content,,克莱门汀不知从哪里摸出一个奇怪的挂坠轻轻摇晃，压顶的疲惫瞬间落到了你的身上，你靠在桌边勉强站立，却怎么也迈不出步子。,"클레멘타인은 어디선가 이상한 펜던트를 꺼내 조심스레 흔들었다. 머리 위를 짓누르던 피로가 순식간에 당신에게 쏟아지고, 당신은 겨우 탁자에 기대어 서 있었지만 발걸음을 내디딜 수 없었다."
+AvgDialog_18878_Content_42,afhI,avg章1新_AvgDialog_C_M.csv,606,AvgDialog,Content,,"拉蒙娜手中的细剑垂了下来，她的头微微摇晃，几乎睁不开双眼。
+詹金则躺在地上，一动不动，似乎是直接睡着了。","라모나의 가는 검은 아래로 내려가고, 그녀의 머리는 살짝 흔들리며 눈조차 거의 뜰 수 없었다. 젠킨은 땅에 누워 한 치 움직임도 없이, 마치 바로 잠든 듯 했다."
+AvgDialog_18878_Content_43,afhJ,avg章1新_AvgDialog_C_M.csv,607,AvgDialog,Content,玩家,你……做了什么……,당신…… 무슨 짓을……
+AvgDialog_18878_Content_44,afhK,avg章1新_AvgDialog_C_M.csv,608,AvgDialog,Content,克莱门汀,"一点小把戏，让我能够从这里离开罢了。
+以你们的能力，应该很快就能清醒过来吧。",조그만 잔기술일 뿐이에요. 제가 여기서 나갈 수 있도록. 당신들의 능력이라면 곧 다시 정신을 차릴 수 있을 거예요.
+AvgDialog_18878_Content_45,afhL,avg章1新_AvgDialog_C_M.csv,609,AvgDialog,Content,克莱门汀,再见，苍白的无目之瞳，我们在未来……还将会相遇。,"그럼 안녕히, 창백한 공허의 눈. 머지않은 미래에, 저희는 다시 만날 거예요."
+AvgDialog_18878_Content_46,afhM,avg章1新_AvgDialog_C_M.csv,610,AvgDialog,Content,,"她向你们鞠了一躬，走出房门。
+你再也支撑不住，跌坐回椅子上。","그녀는 당신들에게 허리를 숙여 인사하고, 방을 나갔다. 당신은 더 이상 버틸 수 없어, 의자에 털썩 주저앉았다."
+AvgDialog_18878_Content_47,afhN,avg章1新_AvgDialog_C_M.csv,611,AvgDialog,Content,,克莱门汀关上房门，喉咙里低低地哼着一首轻快的歌，心情颇好地朝走廊深处挥了挥手，随后转身离开。,"클레멘타인은 방문을 닫고, 가볍게 노래를 흥얼거리며, 기분 좋은 듯 복도 깊은 쪽을 향해 손을 흔든 뒤, 몸을 돌려 떠났다."
+AvgDialog_18878_Content_48,afhO,avg章1新_AvgDialog_C_M.csv,612,AvgDialog,Content,,"黑暗之中，穿着裙子的女孩安静得像一尊塑像。
+她低垂着头，手里死死地捏着白色的眼罩。","어둠 속, 치마를 입은 소녀는 조용히 마치 하나의 조각상처럼 서 있었다. 그녀는 고개를 숙이고, 손에 흰색 안대를 꽉 쥐고 있었다."
+AvgDialog_18901_Content_1,afsc,avg章1新_AvgDialog_C_M.csv,613,AvgDialog,Content,,我们的秘密,우리의 비밀
+AvgDialog_18901_Content_2,afsn,avg章1新_AvgDialog_C_M.csv,614,AvgDialog,Content,,一夜的骚动过后，天色已经近白。,밤새 소동이 지나고 날이 밝았다.
+AvgDialog_18901_Content_3,afsq,avg章1新_AvgDialog_C_M.csv,615,AvgDialog,Content,,"奥吉尔留在房间中以防万一，牵制莎拉。
+你和拉蒙娜则跟着詹金摸到了“济贫院幽灵”所在的地下室前。","오지에는 혹시 모를 사라의 움직임에 대비해 방에 남기로 했다. 당신과 라모나는 젠킨을 따라 ""빈민원의 유령""이 있는 지하실로 향했다."
+AvgDialog_18901_Content_4,afsr,avg章1新_AvgDialog_C_M.csv,616,AvgDialog,Content,詹金,"声音小点，别让莎拉发现了。
+她会带着一队工人把我们打出去的。","조용히 해, 사라가 눈치채면 안 되니까.\n패거리를 불러서 우리를 쫓아낼지도 몰라."
+AvgDialog_18901_Content_5,afss,avg章1新_AvgDialog_C_M.csv,617,AvgDialog,Content,拉蒙娜,"奥吉尔正在监视莎拉的行动，有他在，我们不会被发现。
+你再说说，上次在莎拉办公室的发现。","사라는 오지에가 감시하고 있으니까, 오지에가 있는 이상 들키지 않을 거야. 지난번에 사라의 사무실에서 뭘 발견했는지 다시 한번 얘기해줘."
+AvgDialog_18901_Content_6,afst,avg章1新_AvgDialog_C_M.csv,618,AvgDialog,Content,詹金,哎呀，你们还要我说几遍。,"윽, 대체 몇 번이나 말해야 하는 거야."
+AvgDialog_18901_Content_7,afsu,avg章1新_AvgDialog_C_M.csv,619,AvgDialog,Content,詹金,那个臭女人把济贫院的人卖给坏医生做实验，自己赚了一大票！买了好多金银首饰藏在房间抽屉里。,그 고약한 여자는 빈민원 사람들을 실험체로 미친 의사들에게 팔아넘겼다고! 그 여자의 방 서랍에 숨겨둔 금은 장신구들을 내가 직접 봤어.
+AvgDialog_18901_Content_8,afsv,avg章1新_AvgDialog_C_M.csv,620,AvgDialog,Content,詹金,你们同伴的学生证也给你们看了，还有什么好问的？,"너희 동료의 학생증도 보여줬는데, 더 물어볼 게 있어?"
+AvgDialog_18901_Content_9,afsw,avg章1新_AvgDialog_C_M.csv,621,AvgDialog,Content,詹金,"好了，就在这个房间里。
+走最后的，关门。","자, 바로 이 방이야.\n마지막으로 들어온 사람이 문 닫아."
+AvgDialog_18901_Content_10,afsd,avg章1新_AvgDialog_C_M.csv,622,AvgDialog,Content,,队伍的顺序是：詹金，拉蒙娜，你。,"대열의 순서는 젠킨, 라모나, 당신이었다."
+AvgDialog_18901_Content_11,afse,avg章1新_AvgDialog_C_M.csv,623,AvgDialog,Content,,在你的身后，布朗吱吱一声，顶上了木质的门扉。,당신의 뒤에서 브라운이 찍찍 소리를 내며 문을 밀었다.
+AvgDialog_18901_Content_12,afsf,avg章1新_AvgDialog_C_M.csv,624,AvgDialog,Content,,……,......
+AvgDialog_18901_Content_13,afsg,avg章1新_AvgDialog_C_M.csv,625,AvgDialog,Content,詹金,我的姐姐，和你们要找的那个学生，绝对就在这下面，和那什么济贫院幽灵在一起。,내 언니와 너희들이 찾는 그 학생은 분명 빈민원의 유령과 함께 여기 있을 거야.
+AvgDialog_18901_Content_14,afsh,avg章1新_AvgDialog_C_M.csv,626,AvgDialog,Content,詹金,火柴，火柴……,"성냥, 성냥이 어딨더라..."
+AvgDialog_18901_Content_15,afsi,avg章1新_AvgDialog_C_M.csv,627,AvgDialog,Content,詹金,话说，你们有没有觉得身上痒痒的？,"그런데... 너희, 혹시 몸이 좀 가렵지 않아?"
+AvgDialog_18901_Content_16,afsj,avg章1新_AvgDialog_C_M.csv,628,AvgDialog,Content,,经她提醒，你们才发现，是的，体表似乎有一种莫名的麻痒感，从脚尖到脚踝，一直蔓延到背部……,"젠킨의 말에 당신들은 비로소 깨달았다. 그 말대로, 피부에 묘한 가려움과 저릿함이 느껴졌다. 발끝에서 발목으로, 그리고 등줄기까지 서서히 퍼지고 있었다..."
+AvgDialog_18901_Content_17,afsk,avg章1新_AvgDialog_C_M.csv,629,AvgDialog,Content,,詹金终于擦亮了提灯，她轻巧地压低了提灯的高度，照亮了一小块地面。,젠킨이 마침내 등불을 밝혔다. 그녀는 가볍게 등불을 내려 작은 공간을 비췄다.
+AvgDialog_18901_Content_18,afsl,avg章1新_AvgDialog_C_M.csv,630,AvgDialog,Content,,也是在那个瞬间——,그 순간——
+AvgDialog_18901_Content_19,afsm,avg章1新_AvgDialog_C_M.csv,631,AvgDialog,Content,,视网膜受到了冲击。,망막에 역겨운 장면이 비쳤다.
+AvgDialog_18901_Content_20,afso,avg章1新_AvgDialog_C_M.csv,632,AvgDialog,Content,,无法计数的蚂蚁汇聚成密密麻麻的蚁群，持续不断、躁动不安地爬动着。,"수많은 개미들이 빽빽하게 떼를 지어, 쉴 새 없이 안절부절못하듯 기어다녔다."
+AvgDialog_18901_Content_21,afsp,avg章1新_AvgDialog_C_M.csv,633,AvgDialog,Content,,它们涌动、聚集、盘旋，然后汇入漆黑的深渊之中。,"그것들은 넘실대며 모이고, 소용돌이치다 마침내 칠흑의 심연 속으로 스며들었다."
+AvgDialog_18887_Content_1,afju,avg章1新_AvgDialog_C_M.csv,634,AvgDialog,Content,,"与此同时——
+奥吉尔透过窗户，观察着济贫院庭院中的景象。",한편——\n오지에는 창문을 통해 빈민원의 마당을 바라보고 있었다.
+AvgDialog_18887_Content_2,afjA,avg章1新_AvgDialog_C_M.csv,635,AvgDialog,Content,,"铁门吱呀一声被打开，一群白衣怪人鱼贯而入。
+孩子们在灰蒙蒙的雾气中排成小队，任由他们挑选。","철문이 삐걱 소리를 내며 열리자, 하얀 옷을 입은 괴이한 무리가 줄지어 들어왔다. 아이들은 잿빛 안개 속에서 줄을 서서, 그들의 손길이 닿는 대로 차례로 ""선택""되었다."
+AvgDialog_18887_Content_3,afjB,avg章1新_AvgDialog_C_M.csv,636,AvgDialog,Content,,"在孩子之中，奥吉尔辨认出了一个熟悉的身影：
+那天来迎接大家的，小小的白色女孩。","그들 사이에서, 오지에는 익숙한 실루엣 하나를 알아보았다. 그날 모두를 맞이하러 왔던——작고 새하얀 소녀였다."
+AvgDialog_18887_Content_4,afjC,avg章1新_AvgDialog_C_M.csv,637,AvgDialog,Content,,她缩着肩膀低着头，双手死死地绞着自己的衣角，一副受到惊吓的模样，却还是主动站在了其他孩子之前。,"그녀는 어깨를 잔뜩 움츠리고 고개를 숙인 채, 두 손으로 옷자락을 꼭 움켜쥔 모습이었다. 겁에 질린 듯 몸을 잔뜩 웅크리면서도, 다른 아이들 앞에 스스로 나섰다."
+AvgDialog_18887_Content_5,afjD,avg章1新_AvgDialog_C_M.csv,638,AvgDialog,Content,,她试图让自己变得很小，更小，试图就这么缩进自己的身体里消失不见，高大的影子笼罩住她，她猛地一抖，动也不敢动。,"자신을 더 작게, 더 작게 만들려 애쓰며, 마치 그대로 몸속에 숨어 사라지고 싶다는 듯이. 커다란 그림자가 그녀 위를 덮치자, 소녀는 흠칫 몸을 떨었고, 더 이상 움직이지 못했다."
+AvgDialog_18887_Content_6,afjE,avg章1新_AvgDialog_C_M.csv,639,AvgDialog,Content,,"争执爆发了。
+白衣怪人拉住女孩的胳膊，似在强迫她服从自己。","그리고 언쟁이 터졌다. 하얀 옷의 괴물 같은 자가 소녀의 팔을 거칠게 붙잡고, 강제로 따르게 하려 하고 있었다."
+AvgDialog_18887_Content_7,afjF,avg章1新_AvgDialog_C_M.csv,640,AvgDialog,Content,奥吉尔,——住手！,——그만하세요!
+AvgDialog_18887_Content_8,afjG,avg章1新_AvgDialog_C_M.csv,641,AvgDialog,Content,,奥吉尔再也按捺不住，直接冲到了白衣怪人和女孩之中。,"더 이상 참을 수 없던 오지에는, 흰옷을 입은 낯선 사람과 여자아이 사이로 뛰어들었다."
+AvgDialog_18887_Content_9,afjH,avg章1新_AvgDialog_C_M.csv,642,AvgDialog,Content,莎拉,艾、艾什小少爷？,"애, 애쉬 도련님?"
+AvgDialog_18887_Content_10,afjv,avg章1新_AvgDialog_C_M.csv,643,AvgDialog,Content,奥吉尔,不、不准带她走！,"그, 그녀를 데려가지 마세요!"
+AvgDialog_18887_Content_11,afjw,avg章1新_AvgDialog_C_M.csv,644,AvgDialog,Content,维克,"这位小朋友，你是不是误会了什么？
+我们是济贫院聘请的医生，要带她去进行定期检查。","꼬마야, 뭔가 오해가 있나 보구나. 우린 정기검진을 위해 빈민원에서 초빙한 의사들이란다."
+AvgDialog_18887_Content_12,afjx,avg章1新_AvgDialog_C_M.csv,645,AvgDialog,Content,,奥吉尔涨红了脸，急中生智。,갑자기 떠오른 해결책과 함께 오지에의 얼굴이 붉어졌다.
+AvgDialog_18887_Content_13,afjy,avg章1新_AvgDialog_C_M.csv,646,AvgDialog,Content,奥吉尔,不行！%brotherorsister1%说了，一会儿我们会代表艾什勋爵向艾继丝了解情况，你现在不能带走她。,"안 돼요! {Male=형,Female=누}님께서 곧 애쉬 경을 대표해 아이기스에게 직접 상황을 들으실 예정이라고 하셨어요. 지금은 데려가실 수 없어요."
+AvgDialog_18887_Content_14,afjz,avg章1新_AvgDialog_C_M.csv,647,AvgDialog,Content,维克,对不听话的小朋友，我们可要用一点大人的手段了。,"말 안 듣는 꼬마들한테는, 어른다운 수단을 좀 써야겠는걸."
+AvgDialog_18886_Content_1,afjs,avg章1新_AvgDialog_C_M.csv,648,AvgDialog,Content,维克,看来这个新来的小朋友有点不一样。,이번에 새로 온 꼬마는 조금 다르네.
+AvgDialog_18886_Content_2,afjt,avg章1新_AvgDialog_C_M.csv,649,AvgDialog,Content,维克,我们要动真格的了。,조금 진지해져야겠어.
+AvgDialog_18915_Content_1,afBQ,avg章1新_AvgDialog_C_M.csv,650,AvgDialog,Content,,奥吉尔面对数个医生，依然丝毫不惧，左冲右突，敏捷地卸去他们的力道，足足周旋了半刻。,"오지에는 의사 몇 명을 마주하고도 눈 하나 깜짝하지 않았다. 그는 왼쪽으로 치고, 오른쪽으로 비켜서며 재빠르게 그들의 힘을 흘려보냈고, 한참 동안이나 그들과 맞섰다."
+AvgDialog_18915_Content_2,afCb,avg章1新_AvgDialog_C_M.csv,651,AvgDialog,Content,维克,够了。,그만.
+AvgDialog_18915_Content_3,afCm,avg章1新_AvgDialog_C_M.csv,652,AvgDialog,Content,维克,"既然小艾继丝不情愿，那我们也不强求了。
+我们会将其他选中的病人带回诊所治疗，疗程结束再送回。","아이기스 양이 원치 않는다면, 굳이 강요하진 않겠습니다. 다른 선별된 환자들만 진료소로 데려가 치료를 진행하죠. 치료가 끝나면 다시 돌려보내겠습니다."
+AvgDialog_18915_Content_4,afCx,avg章1新_AvgDialog_C_M.csv,653,AvgDialog,Content,维克,日安，莎拉小姐。,"안녕히 계세요, 사라 양."
+AvgDialog_18915_Content_5,afCI,avg章1新_AvgDialog_C_M.csv,654,AvgDialog,Content,,维克最后瞥了艾继丝一眼，带着其他人离开了。,"빅은 마지막으로 아이기스를 힐끔 바라보고, 다른 이들과 함께 자리를 떠났다."
+AvgDialog_18915_Content_6,afCO,avg章1新_AvgDialog_C_M.csv,655,AvgDialog,Content,,莎拉赔着笑将医生送走，转向艾继丝时，脸上写满了严肃。,"사라는 억지로 웃으며 의사들을 배웅했지만, 아이기스를 돌아볼 때는 이미 얼굴에 엄격한 기색이 가득했다."
+AvgDialog_18915_Content_7,afCP,avg章1新_AvgDialog_C_M.csv,656,AvgDialog,Content,莎拉,艾继丝，你怎么这样不听话？,"아이기스, 말을 왜 이렇게 안 듣는 거니?"
+AvgDialog_18915_Content_8,afCQ,avg章1新_AvgDialog_C_M.csv,657,AvgDialog,Content,艾继丝,莎拉小姐，我……,"사라 선생님, 저는..."
+AvgDialog_18915_Content_9,afCR,avg章1新_AvgDialog_C_M.csv,658,AvgDialog,Content,莎拉,他们本就是看在罗杰斯先生的面子上才来的，现在倒好，你把他们气走了，我要怎么和罗杰斯先生交代？,그 사람들은 원래 로저스 씨의 체면을 봐서 와 주신 거야. 그런데 너 때문에 기분이 상해서 돌아가 버렸잖니. 이걸 내가 로저스 씨께 어떻게 설명해야 하니?
+AvgDialog_18915_Content_10,afBR,avg章1新_AvgDialog_C_M.csv,659,AvgDialog,Content,莎拉,赶紧收拾收拾吧，一会儿我亲自带你去诊所…还有小麦克也一起，他也很久没有检查过了。,어서 준비하렴. 조금 있다가 내가 직접 너를 진료소에 데려가야겠어... 맥도 함께 가자. 그 아이도 오랫동안 검진을 받지 않았지.
+AvgDialog_18915_Content_11,afBS,avg章1新_AvgDialog_C_M.csv,660,AvgDialog,Content,莎拉,希望罗杰斯先生愿意告诉我他们的地址。,로저스 씨가 그들의 주소를 알려주시길 바라야겠구나.
+AvgDialog_18915_Content_12,afBT,avg章1新_AvgDialog_C_M.csv,661,AvgDialog,Content,艾继丝,不！求你了，莎拉小姐，我们不想去治疗。,"안 돼요! 제발요, 사라 선생님, 저희는 치료받고 싶지 않아요!"
+AvgDialog_18915_Content_13,afBU,avg章1新_AvgDialog_C_M.csv,662,AvgDialog,Content,,艾继丝推了一把自己护着的幼童，后者懵懂地看着大家，最终选择了听艾继丝姐姐的话，一溜烟跑回了济贫院房间内。,"아이기스는 품에 안고 있던 어린아이를 살짝 밀어냈다. 그 아이는 어리둥절한 표정으로 모두를 바라보다가, 결국 그녀의 말을 따르기로 결심한 듯 쏜살같이 빈민원 안쪽 방으로 달려갔다."
+AvgDialog_18915_Content_14,afBV,avg章1新_AvgDialog_C_M.csv,663,AvgDialog,Content,莎拉,小麦克！回来！,맥! 돌아와!
+AvgDialog_18915_Content_15,afBW,avg章1新_AvgDialog_C_M.csv,664,AvgDialog,Content,,艾继丝急忙拉住了莎拉的衣角，阻止她去追赶已经跑没影的小麦克。,"사라는 즉시 그를 뒤쫓으려 했으나, 아이기스가 재빨리 그녀의 옷자락을 붙잡았다."
+AvgDialog_18915_Content_16,afBX,avg章1新_AvgDialog_C_M.csv,665,AvgDialog,Content,艾继丝,如果…如果一定要去诊所的话，这次就让我一个人……,"만약... 꼭 진료소에 가야 한다면, 이번엔 저 혼자 갈게요..."
+AvgDialog_18915_Content_17,afBY,avg章1新_AvgDialog_C_M.csv,666,AvgDialog,Content,奥吉尔,莎拉小姐。,사라 양.
+AvgDialog_18915_Content_18,afBZ,avg章1新_AvgDialog_C_M.csv,667,AvgDialog,Content,莎拉,怎么了，艾什小少爷？,"무슨 일인가요, 애쉬 도련님?"
+AvgDialog_18915_Content_19,afCa,avg章1新_AvgDialog_C_M.csv,668,AvgDialog,Content,,莎拉立刻换上了另一张谄笑的面具。,사라는 순식간에 아첨 어린 미소를 띠었다.
+AvgDialog_18915_Content_20,afCc,avg章1新_AvgDialog_C_M.csv,669,AvgDialog,Content,奥吉尔,我以大公的骑士奥吉尔之名，命令你不得强迫艾继丝接受“治疗”。,"대공의 기사 오지에의 이름으로 명합니다. 아이기스에게 ""치료""를 강요하지 마세요."
+AvgDialog_18915_Content_21,afCd,avg章1新_AvgDialog_C_M.csv,670,AvgDialog,Content,莎拉,骑、骑士？,"기, 기사?"
+AvgDialog_18915_Content_22,afCe,avg章1新_AvgDialog_C_M.csv,671,AvgDialog,Content,,奥吉尔意识到自己说漏了什么，瞬间涨红了脸，然后断断续续地接了下去。,오지에는 자신이 말실수를 한 걸 깨닫고 얼굴이 붉게 달아올랐다. 그는 더듬거리며 말을 이어갔다.
+AvgDialog_18915_Content_23,afCf,avg章1新_AvgDialog_C_M.csv,672,AvgDialog,Content,奥吉尔,"是、是的，勋爵家的幼子都会被授、授予“骑士”之名。
+总之，我要带艾继丝等%brotherorsister1%和管家小姐回来，你不要再为难她了。","그, 그게… 귀족 집안의 어린 아들은 모두 ""기사""의 칭호를 바, 받는 법이니까요. 아무튼, 전 아이기스와 제 {Male=형님,Female=누님}, 그리고 집사 아가씨를 데리고 돌아가겠어요. 더 이상 그녀를 괴롭히지 말아요."
+AvgDialog_18915_Content_24,afCg,avg章1新_AvgDialog_C_M.csv,673,AvgDialog,Content,,"说着，奥吉尔抓住艾继丝的手，一路跑回了房间。
+女孩子始终低着头，似在轻声抽泣。","그렇게 말하고 오지에는 아이기스의 손을 잡아끌며 방으로 달려갔다. 소녀는 줄곧 고개를 숙인 채, 작은 울음소리를 삼키고 있었다."
+AvgDialog_18915_Content_25,afCh,avg章1新_AvgDialog_C_M.csv,674,AvgDialog,Content,奥吉尔,好了，莎拉小姐应该不会追上来了。,이제 됐어요. 사라 양은 더 이상 쫓아오지 않을 거예요.
+AvgDialog_18915_Content_26,afCi,avg章1新_AvgDialog_C_M.csv,675,AvgDialog,Content,奥吉尔,艾继丝，你能不能告诉我，你为什么不愿意接受治疗，也不想让其他人接受治疗？,"아이기스, 왜 치료받기를 그렇게 싫어하는지, 그리고 왜 다른 아이들도 가지 못하게 하는지... 제게 말해줄 수 있을까요?"
+AvgDialog_18915_Content_27,afCj,avg章1新_AvgDialog_C_M.csv,676,AvgDialog,Content,,艾继丝紧紧抿着嘴唇，喉咙中发出压抑的呜咽。,"아이기스는 입술을 꼭 다문 채, 목구멍에서 꾹꾹 눌러 삼킨 듯한 흐느낌만 새어나왔다."
+AvgDialog_18915_Content_28,afCk,avg章1新_AvgDialog_C_M.csv,677,AvgDialog,Content,奥吉尔,你不必担心，我真的是骑士，骑士绝对会保护你的。,"걱정 마세요, 저는 진짜 기사가 맞아요. 기사는 당신을 반드시 지킬 것입니다."
+AvgDialog_18915_Content_29,afCl,avg章1新_AvgDialog_C_M.csv,678,AvgDialog,Content,奥吉尔,真的！,정말이에요!
+AvgDialog_18915_Content_30,afCn,avg章1新_AvgDialog_C_M.csv,679,AvgDialog,Content,,"奥吉尔支吾着，努力装出庄重严肃的模样。
+艾继丝抬眼看他，犹豫了半天，终于噗嗤笑了出来。","오지에는 말을 더듬으며, 어른스럽고 엄숙한 표정을 짓기 위해 애썼다. 아이기스는 그 모습을 잠시 바라보다가, 결국 피식 웃음을 터뜨렸다."
+AvgDialog_18915_Content_31,afCo,avg章1新_AvgDialog_C_M.csv,680,AvgDialog,Content,艾继丝,"你别骗我，我在书里看过，骑士都是保护公主的。
+你看我这样，哪里像个公主呀。","거짓말하지 마세요. 책에서 봤는데, 기사는 언제나 ""공주""를 지키는 사람이라구요. 그런데 저를 보세요, 어딜 봐도 공주는 아니잖아요?"
+AvgDialog_18915_Content_32,afCp,avg章1新_AvgDialog_C_M.csv,681,AvgDialog,Content,,艾继丝抚摸着裙角的补丁，轻声说着。,아이기스는 치맛자락의 누더기 자국을 매만지며 작게 중얼거렸다.
+AvgDialog_18915_Content_33,afCq,avg章1新_AvgDialog_C_M.csv,682,AvgDialog,Content,奥吉尔,"不是这样的，书里说的不对。
+骑士不仅会保护公主，也会保护普通民众，保护所有人。","그건… 책이 틀린 거예요. 기사는 공주만 지키는 게 아니라, 평범한 사람들도, 모든 이를 지키는 존재입니다."
+AvgDialog_18915_Content_34,afCr,avg章1新_AvgDialog_C_M.csv,683,AvgDialog,Content,,艾继丝上下打量着奥吉尔。,아이기스는 고개를 들어 오지에를 위아래로 훑어보았다.
+AvgDialog_18915_Content_35,afCs,avg章1新_AvgDialog_C_M.csv,684,AvgDialog,Content,艾继丝,你真的是骑士？,정말로... 기사예요?
+AvgDialog_18915_Content_36,afCt,avg章1新_AvgDialog_C_M.csv,685,AvgDialog,Content,,奥吉尔拍了拍胸脯，手甲磕在自己胸前，让他的表情有了半瞬的扭曲。,"오지에가 가슴을 두드리자, 쇠 장갑이 철컥 부딪히는 소리를 냈다. 그 순간 표정이 살짝 일그러졌지만, 곧바로 등을 펴고 섰다."
+AvgDialog_18915_Content_37,afCu,avg章1新_AvgDialog_C_M.csv,686,AvgDialog,Content,奥吉尔,如假包换！王族亲自授勋，从那之后我便是为守护而生。,"물론이죠! 저는 왕실에서 직접 기사 작위를 받았습니다. 그날 이후로, 저는 ""수호""를 위해 태어난 사람이 됐어요."
+AvgDialog_18915_Content_38,afCv,avg章1新_AvgDialog_C_M.csv,687,AvgDialog,Content,艾继丝,真羡慕你啊，那么勇敢…甚至能为了刚认识的人挺身而出。,당신의 그런 용감함이 부럽네요. 심지어 처음 만난 사람을 위해서도 몸을 던질 수 있다니...
+AvgDialog_18915_Content_39,afCw,avg章1新_AvgDialog_C_M.csv,688,AvgDialog,Content,艾继丝,可惜，我不是骑士，也不是公主，甚至不能算普通民众，只是一个可悲的……,"하지만 전 기사가 아니에요. 공주도 아니고, 평범한 사람조차 아니에요. 그저... 비참한..."
+AvgDialog_18915_Content_40,afCy,avg章1新_AvgDialog_C_M.csv,689,AvgDialog,Content,,她的尾音被咽了回去。,그녀의 마지막 말은 목구멍으로 삼켜져 버렸다.
+AvgDialog_18915_Content_41,afCz,avg章1新_AvgDialog_C_M.csv,690,AvgDialog,Content,艾继丝,奥吉尔，你说骑士会保护所有人……,"오지에, 당신은 기사가 모두를 지킨다고 하셨죠..."
+AvgDialog_18915_Content_42,afCA,avg章1新_AvgDialog_C_M.csv,691,AvgDialog,Content,艾继丝,那犯罪者呢？甚至……杀人犯呢？,"그럼, ""죄인""은요? 혹은... ""살인자""라면요?"
+AvgDialog_18915_Content_43,afCB,avg章1新_AvgDialog_C_M.csv,692,AvgDialog,Content,,奥吉尔挺胸，义正辞严，没有半分犹豫。,오지에는 곧바로 가슴을 펴고 단호하게 대답했다.
+AvgDialog_18915_Content_44,afCC,avg章1新_AvgDialog_C_M.csv,693,AvgDialog,Content,奥吉尔,"骑士不会守护犯罪者。
+因为，骑士需要制裁犯罪者，从他们手中守护民众。","기사는 죄인을 지키지 않아요. 기사는 죄인을 ""심판""함으로써, 그들에게서 사람들을 지켜야 하니까."
+AvgDialog_18915_Content_45,afCD,avg章1新_AvgDialog_C_M.csv,694,AvgDialog,Content,艾继丝,果然……,역시... 그렇구나.
+AvgDialog_18915_Content_46,afCE,avg章1新_AvgDialog_C_M.csv,695,AvgDialog,Content,,没有领会艾继丝轻叹中的含义，奥吉尔的发言继续了下去。,"아이기스의 가느다란 한숨에 담긴 의미를 알아차리지 못한 채, 오지에의 말은 계속 이어졌다."
+AvgDialog_18915_Content_47,afCF,avg章1新_AvgDialog_C_M.csv,696,AvgDialog,Content,奥吉尔,那是因为，骑士不是万能的。,그건 기사가 만능이 아니기 때문입니다.
+AvgDialog_18915_Content_48,afCG,avg章1新_AvgDialog_C_M.csv,697,AvgDialog,Content,奥吉尔,在制裁后…骑士会将悔过之人交给神父。,"심판을 내린 뒤에는, 그들이 참회할 수 있도록 신부님께 맡기죠."
+AvgDialog_18915_Content_49,afCH,avg章1新_AvgDialog_C_M.csv,698,AvgDialog,Content,奥吉尔,仁慈的神父会帮助每个悔过者…但最后他们的灵魂是否能得到救赎，则取决于他们自身。,"자비로운 신부님은 모든 참회자를 돕지만, 그들의 영혼이 구원받을 수 있을지는… 결국 그들 자신에게 달려 있습니다."
+AvgDialog_18915_Content_50,afCJ,avg章1新_AvgDialog_C_M.csv,699,AvgDialog,Content,艾继丝,取决于…自身……,자신에게... 달려 있다...
+AvgDialog_18915_Content_51,afCK,avg章1新_AvgDialog_C_M.csv,700,AvgDialog,Content,悠远的声音,是的，现在还有回转的余地。,"그래, 지금이라면 아직 되돌릴 수 있어."
+AvgDialog_18915_Content_52,afCL,avg章1新_AvgDialog_C_M.csv,701,AvgDialog,Content,悠远的声音,这一切都与你@4……,이 모든 건 너와 @4...
+AvgDialog_18915_Content_53,afCM,avg章1新_AvgDialog_C_M.csv,702,AvgDialog,Content,,"艾继丝一怔，似乎是在回味这句话。
+半晌，她慢慢地、有些艰难地开口了。","아이기스는 놀란 듯 잠시 눈을 크게 떴다. 그리고 한참 후, 천천히—마치 말을 짜내듯—입을 열었다."
+AvgDialog_18915_Content_54,afCN,avg章1新_AvgDialog_C_M.csv,703,AvgDialog,Content,艾继丝,"我相信你，奥吉尔。我愿意为你再赌一把。
+所以，我会告诉你……那些治疗的真相。","당신을 믿을게요, 오지에. 이번엔… 당신을 믿고 다시 한번 걸어볼게요. 그러니까... 알려드릴게요. 그 ""치료""의 진실을."
+AvgDialog_18902_Content_1,afsx,avg章1新_AvgDialog_C_M.csv,704,AvgDialog,Content,,甜蜜的艺术,감미로운 예술
+AvgDialog_18902_Content_2,afsE,avg章1新_AvgDialog_C_M.csv,705,AvgDialog,Content,,你们终于撬开了地下室的铁门，一股浓烈甜腻的糖浆甜香直冲鼻腔。,일행은 마침내 지하실의 쇠문을 비틀어 열었다. 짙고 끈적한 시럽 향이 코를 찌르며 밀려온다.
+AvgDialog_18902_Content_3,afsF,avg章1新_AvgDialog_C_M.csv,706,AvgDialog,Content,,比那更具冲击力的是地下室内的惨剧景象：地面上横七竖八地躺着若干具表面被糖浆裹覆的人体。,"그러나 그보다 훨씬 강렬하게 눈을 사로잡은 것은, 지하실 안에 펼쳐진 참혹한 광경이었다. 바닥 위에는 시럽에 뒤덮인 인간의 형체들이 아무렇게나 널브러져 있었다."
+AvgDialog_18902_Content_4,afsG,avg章1新_AvgDialog_C_M.csv,707,AvgDialog,Content,,失去人类形貌的躯体扭曲地挣扎蠕动着，在身后拖出杂乱的糖浆擦痕。,"인간이라 부르기 어려운 몸뚱이들은 비틀리고 꿈틀거리며, 움직일 때마다 달콤한 자국을 바닥에 질질 끌며 남겼다."
+AvgDialog_18902_Content_5,afsH,avg章1新_AvgDialog_C_M.csv,708,AvgDialog,Content,,密集的蚁群匍匐在糖浆周围，贪婪地啜饮着，触角交碰地搬运着，仿佛发现了这世间最珍贵的宝藏。,"그 시럽 더미를 중심으로 수많은 개미 떼가 기어다니고 있었다. 그들은 탐욕스럽게 들러붙어 시럽을 빨고, 더듬이를 부딪치며 분주히 무언가를 나르고 있었다."
+AvgDialog_18902_Content_6,afsI,avg章1新_AvgDialog_C_M.csv,709,AvgDialog,Content,,然而最吸引眼球的，却不是这些。,"그러나, 정작 가장 눈을 뗄 수 없는 것은 따로 있었다."
+AvgDialog_18902_Content_7,afsJ,avg章1新_AvgDialog_C_M.csv,710,AvgDialog,Content,,在地下室内，陈列着几座棕红透亮的雕像，各个举止端庄，眉目倦怠，只是投去一瞥，便不由得被那种神圣感震撼。,"지하실의 한켠에는 붉은빛을 머금은 투명한 조각상들이 줄지어 서 있었다. 그들은 하나같이 단정한 자세로 서 있었고, 얼굴에는 피로에 젖은 듯한 평온이 감돌았다. 
+그 조각상들을 단 한 번 바라보는 것만으로도, 압도적인 ""신성함""이 가슴을 짓누르듯 느껴졌다."
+AvgDialog_18902_Content_8,afsK,avg章1新_AvgDialog_C_M.csv,711,AvgDialog,Content,,在那些雕像之中，端坐着济贫院的幽灵。,"그 조각상들 사이에는, 빈민원의 유령이 앉아 있었다."
+AvgDialog_18902_Content_9,afsL,avg章1新_AvgDialog_C_M.csv,712,AvgDialog,Content,,那显然是济贫院的幽灵——她浑身石色，手中轻盈地握着一把刻刀，在表情惊恐的雕像脸上一刀刀刻下，发出令人毛骨悚然的刮擦声响。,"그것은 분명히 빈민원의 유령이었다. 그녀의 온몸은 돌과 같은 색이었고, 손에는 가볍게 조각칼을 쥐고 있었다. 공포에 질린 조각상의 얼굴에 칼을 그을 때마다, 소름끼치는 소리가 울려퍼졌다."
+AvgDialog_18902_Content_10,afsy,avg章1新_AvgDialog_C_M.csv,713,AvgDialog,Content,,你们的到来似乎完全没能影响她的工作，她垂头端详雕像，调换刻刀的位置，然后继续切削着。,"일행의 등장에도 그녀의 손끝은 전혀 흔들리지 않았다. 그녀는 고개를 숙인 채 조각상을 살펴보다가, 조각칼의 각도를 바꾸어 다시 섬세하게 깎아 나갔다."
+AvgDialog_18902_Content_11,afsz,avg章1新_AvgDialog_C_M.csv,714,AvgDialog,Content,詹金,"那就是济贫院的幽灵……
+我的姐姐在哪里！是你把她藏起来了吧！",빈민원의 유령... 언니는 어디 있어! 네가 숨긴 거지!
+AvgDialog_18902_Content_12,afsA,avg章1新_AvgDialog_C_M.csv,715,AvgDialog,Content,,幽灵瞥了你们一眼，并未作答。,"유령은 힐끗 눈길만 주었을 뿐, 아무 대답도 하지 않았다."
+AvgDialog_18902_Content_13,afsB,avg章1新_AvgDialog_C_M.csv,716,AvgDialog,Content,,拉蒙娜拔出武器，和你对视一眼，向前逼近。,"라모나는 무기를 뽑아 들고, 당신과 시선을 교환하고 천천히 앞으로 나섰다."
+AvgDialog_18902_Content_14,afsC,avg章1新_AvgDialog_C_M.csv,717,AvgDialog,Content,幽灵珊,请耐心些，不要打扰艺术的思考……,"조금만 기다려 주십시오, 예술적 사색을 방해하지 말아주세요..."
+AvgDialog_18902_Content_15,afsD,avg章1新_AvgDialog_C_M.csv,718,AvgDialog,Content,,随着她的话音落地，无数怪物嘶叫着从地下室阴影中蹿出，横冲直撞地掠过蠕动的人体，向你们袭来。,"그녀의 말이 끝나자, 지하의 그림자 속에서 수많은 괴물들이 괴성을 지르며 튀어나왔다. 그들은 바닥의 뒤틀린 시럽 인형들을 짓밟으며 달려들었다."
+AvgDialog_18884_Content_1,afiY,avg章1新_AvgDialog_C_M.csv,719,AvgDialog,Content,拉蒙娜,狭小的地下空间里居然藏有这么多怪物……,좁은 지하실에 이렇게 많은 괴물이 숨어 있었다니!
+AvgDialog_18884_Content_2,afiZ,avg章1新_AvgDialog_C_M.csv,720,AvgDialog,Content,拉蒙娜,这济贫院真是不容小觑。,"이 빈민원, 생각보다 더 만만치 않은걸."
+AvgDialog_18884_Content_3,afja,avg章1新_AvgDialog_C_M.csv,721,AvgDialog,Content,幽灵珊,嘘，请各位稍安勿躁。马上就要结束了。,"쉿. 조금만, 아주 조금만 더. 곧 끝나니까."
+AvgDialog_18916_Content_1,afCS,avg章1新_AvgDialog_C_M.csv,722,AvgDialog,Content,,怪物无声地化为黑色的烟尘。,순식간에 괴물들은 검은 먼지로 변해 흩어졌다.
+AvgDialog_18916_Content_2,afDd,avg章1新_AvgDialog_C_M.csv,723,AvgDialog,Content,幽灵珊,呼——,후—
+AvgDialog_18916_Content_3,afDo,avg章1新_AvgDialog_C_M.csv,724,AvgDialog,Content,,幽灵轻轻吐了口气，吹走了刻刀上残留的糖粉。,유령은 조용히 숨을 내쉬며 조각칼에 묻은 설탕 가루를 불어냈다.
+AvgDialog_18916_Content_4,afDz,avg章1新_AvgDialog_C_M.csv,725,AvgDialog,Content,幽灵珊,"完成了。
+不过，这次的结果依然不太理想呢。",완성이야. 하지만... 이번 결과도 여전히 마음에 들지 않네.
+AvgDialog_18916_Content_5,afDK,avg章1新_AvgDialog_C_M.csv,726,AvgDialog,Content,,她放下手中的刻刀，半侧身转向你们。,"그녀는 조각칼을 내려놓고 반쯤 몸을 돌려, 천천히 일행을 바라보았다."
+AvgDialog_18916_Content_6,afDQ,avg章1新_AvgDialog_C_M.csv,727,AvgDialog,Content,幽灵珊,不知各位不速之客，找我有何贵干呢？,"그래서, 불쑥 찾아온 손님들, 내게 무슨 볼일이라도?"
+AvgDialog_18916_Content_7,afDR,avg章1新_AvgDialog_C_M.csv,728,AvgDialog,Content,詹金,你、你这个怪物！,"이, 이 괴물!"
+AvgDialog_18916_Content_8,afDS,avg章1新_AvgDialog_C_M.csv,729,AvgDialog,Content,珊,怪物吗？我更愿意你们叫我“珊”。,"괴물? ""산""이라고 불러줬으면 좋겠는데."
+AvgDialog_18916_Content_9,afDT,avg章1新_AvgDialog_C_M.csv,730,AvgDialog,Content,,珊扫了扫糖塑表面的浮灰，不置可否。,"산이 설탕 조각상의 표면에 쌓인 먼지를 한 번 쓸어내리며, 별다른 말 없이 고개를 끄덕였다."
+AvgDialog_18916_Content_10,afCT,avg章1新_AvgDialog_C_M.csv,731,AvgDialog,Content,珊,我都算是怪物的话，那这家伙又算是什么呢？,"만약 내가 괴물이라면, 이 녀석은 뭐라고 불러야 할까?"
+AvgDialog_18916_Content_11,afCU,avg章1新_AvgDialog_C_M.csv,732,AvgDialog,Content,,她回应似的轻抚那座雕像的下颌，然后轻轻一摆，触上你的手背。,"그녀는 그 말에 대한 응답처럼 조각상의 턱을 살짝 쓰다듬더니, 손을 가볍게 흔들어 당신의 손등을 스쳤다."
+AvgDialog_18916_Content_12,afCV,avg章1新_AvgDialog_C_M.csv,733,AvgDialog,Content,,你陷入海的幻境之中。,그 순간 당신은 바다의 환영 속으로 빠져들었다.
+AvgDialog_18916_Content_13,afCW,avg章1新_AvgDialog_C_M.csv,734,AvgDialog,Content,,与欧几里得几何学完全相悖的绿色怪石铸成巨大宏伟的城池，华丽而不洁的浮雕在海之光线的折射下，华美而诡异得令人目眩神迷。,"유클리드 기하학과는 전혀 어긋나는 초록빛의 기이한 암석들이 거대한 키클룹스 양식의 성곽으로 주조되어 있었다. 바다의 빛을 받아 반짝이는 화려하면서도 불결한 부조들이 눈을 부시게 만들어, 정신을 멀어지게 했다."
+AvgDialog_18916_Content_14,afCX,avg章1新_AvgDialog_C_M.csv,735,AvgDialog,Content,,窒息感逐渐将你包裹、吞没。最珍稀的空气从肺部压迫，自口腔流溢而出。,"숨이 막혀왔다. 점점 당신을 집어삼키는 압박감, 귀한 공기가 폐를 짓누르며 입 밖으로 역류했다."
+AvgDialog_18916_Content_15,afCY,avg章1新_AvgDialog_C_M.csv,736,AvgDialog,Content,,——随后，你被谁一把拉住，挣脱了幻觉。,——그때 누군가가 당신을 붙잡아 환영에서 끌어냈다.
+AvgDialog_18916_Content_16,afCZ,avg章1新_AvgDialog_C_M.csv,737,AvgDialog,Content,拉蒙娜,守密人！,수호자!
+AvgDialog_18916_Content_17,afDa,avg章1新_AvgDialog_C_M.csv,738,AvgDialog,Content,玩家,别担心，只是一点幻觉。,"걱정 마, 그냥 환영을 좀 봤을 뿐이야."
+AvgDialog_18916_Content_18,afDb,avg章1新_AvgDialog_C_M.csv,739,AvgDialog,Content,玩家,你让我看到这些，是想告诉我什么？,나에게 이걸 보여준 건 무슨 뜻이지?
+AvgDialog_18916_Content_19,afDc,avg章1新_AvgDialog_C_M.csv,740,AvgDialog,Content,,珊低垂眼眸，未曾作答。,산은 눈을 내리깔고 아무 말도 하지 않았다.
+AvgDialog_18916_Content_20,afDe,avg章1新_AvgDialog_C_M.csv,741,AvgDialog,Content,,思绪翻涌，唤醒系预科班的教学内容浮现在你的脑海。,"생각이 소용돌이치고, 각성 교육 예비과에서 배운 내용들이 떠올랐다."
+AvgDialog_18916_Content_21,afDf,avg章1新_AvgDialog_C_M.csv,742,AvgDialog,Content,朵尔,<Yellow:深海>、<Yellow:血肉>、<Yellow:超维>是学界针对唤醒体界域的主流分类，此外，也存在着部分因个体数过少而缺乏研究的界域，例如<Yellow:异术>、<Yellow:以太>等……,"<Yellow:심해>, <Yellow:혈육>, <Yellow:초차원>은 학계에서 각성체 영역의 주류 분류이며, 이 외에도 개체 수가 너무 적어 연구가 부족한 영역도 존재해. <Yellow:신비>, <Yellow:에테르> 등이 그 예지..."
+AvgDialog_18916_Content_22,afDg,avg章1新_AvgDialog_C_M.csv,743,AvgDialog,Content,朵尔,界域间力量通常有天然隔离，但也有能适应其他界域能力的<Yellow:混沌界域>存在。,"영역 간에는 대체로 자연적 격리가 존재하지만, 다른 영역의 능력에 적응할 수 있는 <Yellow:혼돈 영역>도 존재해."
+AvgDialog_18916_Content_23,afDh,avg章1新_AvgDialog_C_M.csv,744,AvgDialog,Content,,詹金哽咽的声音打断了你的回忆，她在地下室糖塑群间穿梭，像极了手足无措的小老鼠。,젠킨의 목멘 목소리가 당신의 기억을 끊었다. 그녀는 지하실의 설탕 조각들 사이를 헤매며 마치 길을 잃은 쥐처럼 왔다 갔다 하고 있었다.
+AvgDialog_18916_Content_24,afDi,avg章1新_AvgDialog_C_M.csv,745,AvgDialog,Content,詹金,我看过了，我把他们的脸全检查过了。,"내가 다 봤어, 얼굴을 전부 확인했어."
+AvgDialog_18916_Content_25,afDj,avg章1新_AvgDialog_C_M.csv,746,AvgDialog,Content,詹金,"里面没有姐姐。
+<Big:我的姐姐究竟在哪里，你说啊！>","이 안에는 언니가 없어. <Big:언니는 대체 어디에 있는 거야, 말해 줘!>"
+AvgDialog_18916_Content_26,afDk,avg章1新_AvgDialog_C_M.csv,747,AvgDialog,Content,,拉蒙娜结束了与校内的通讯，用清冽如冰的声音打断了你的回忆。,"라모나는 기지 내 통신을 끊고, 얼음같이 맑은 목소리로 당신의 회상을 잘라냈다."
+AvgDialog_18916_Content_27,afDl,avg章1新_AvgDialog_C_M.csv,748,AvgDialog,Content,拉蒙娜,毫无疑问，你是未登记在册的唤醒体。根据<Yellow:《密斯底亚协定》的相关条例，>我们将通知<Blue:密斯底亚协定审查会>对你进行收容。,"의심의 여지 없이, 당신은 등록되지 않은 각성체군요. <Yellow:《미스디아 협정》의 관련 조항>에 따라, 우리는 <Blue:미스디아 협정 심사회>에 통보하여 당신을 수용할 것입니다."
+AvgDialog_18916_Content_28,afDm,avg章1新_AvgDialog_C_M.csv,749,AvgDialog,Content,拉蒙娜,在审查会到来前，请交代包含<Blue:弥萨格调查员肖恩·安德森>、<Blue:纺织女工梅森>在内的全部失踪者下落，以及你和<Blue:雕塑家协会>间的关系。,"심사회가 도착하기 전까지, <Blue:미사그 조사관 숀 앤더슨>과 <Blue:방직공 메이슨>을 포함한 모든 실종자의 행방과, 당신이 <Blue:조각가 협회>와 어떤 관계인지 밝히세요."
+AvgDialog_18916_Content_29,afDn,avg章1新_AvgDialog_C_M.csv,750,AvgDialog,Content,玩家,慢着，拉蒙娜，詹金。,"잠깐, 라모나, 젠킨."
+AvgDialog_18916_Content_30,afDp,avg章1新_AvgDialog_C_M.csv,751,AvgDialog,Content,,你扬手阻拦了二人的问话，然后转向似笑非笑着的珊。,"당신은 두 사람의 질문을 손짓으로 제지한 뒤, 반쯤 웃는 얼굴을 한 산을 돌아보았다."
+AvgDialog_18916_Content_31,afDq,avg章1新_AvgDialog_C_M.csv,752,AvgDialog,Content,玩家,把这些人变成这样的人，不是你吧？,이 사람들을 이렇게 만든 게 너지?
+AvgDialog_18916_Content_32,afDr,avg章1新_AvgDialog_C_M.csv,753,AvgDialog,Content,拉蒙娜,%player%？,%player%?
+AvgDialog_18916_Content_33,afDs,avg章1新_AvgDialog_C_M.csv,754,AvgDialog,Content,玩家,你让我看到了幻境，由海底与珊瑚石刻组成的景象……那是来自深海与梦境的权能，是<Yellow:深海界域>的力量。,"넌 나에게 환영을 보여줬어, 바다 밑과 산호석으로 이루어진 장면을... 그건 심해와 꿈의 권능, 즉 <Yellow:심해 영역>의 힘이야."
+AvgDialog_18916_Content_34,afDt,avg章1新_AvgDialog_C_M.csv,755,AvgDialog,Content,,你环顾满地狰狞蠕动的糖人，深吸一口气，充斥鼻腔的甜腻香味再次冲击了你的天灵盖。,"당신은 눈앞에 바닥에 널브러져 꿈틀대는 끔찍한 설탕 인형들을 둘러보고, 심호흡을 했다. 코를 찌르는 달콤한 향이 다시 한번 정수리를 파고들었다."
+AvgDialog_18916_Content_35,afDu,avg章1新_AvgDialog_C_M.csv,756,AvgDialog,Content,玩家,"而这些人体，被融化成糖浆，又凝固成雕像……
+这种能力，更像是<Yellow:血肉界域唤醒体>的手笔，他们往往更精通肉体的改变。",그리고 이 사람들을 녹여 시럽으로 만든 뒤 다시 조각으로 굳힌 것... 이 능력은 오히려 <Yellow:혈육 영역 각성체> 쪽의 소행에 가까워. 그들은 육체 변형에 능하니까.
+AvgDialog_18916_Content_36,afDv,avg章1新_AvgDialog_C_M.csv,757,AvgDialog,Content,玩家,你也许牵涉其中，但罪魁祸首一定另有其人。,"네가 연루되었을 가능성은 있지만, 진짜 주모자는 따로 있을 거야."
+AvgDialog_18916_Content_37,afDw,avg章1新_AvgDialog_C_M.csv,758,AvgDialog,Content,珊,和聪明人交流，真让人心情愉悦。,똑똑한 사람과 대화하는 건 참 기분 좋단 말이지.
+AvgDialog_18916_Content_38,afDx,avg章1新_AvgDialog_C_M.csv,759,AvgDialog,Content,珊,没错，我从友人处听闻，此处有独一无二的素材。我只是想要借用些许，用于塑造我的「神」罢了。,"내 친구에게 들었어. 여기서만 나는 특별한 소재가 있다고. 난 그걸 조금 빌려 내 ""신""을 빚으려 했을 뿐이야."
+AvgDialog_18916_Content_39,afDy,avg章1新_AvgDialog_C_M.csv,760,AvgDialog,Content,,珊轻描淡写地说着，开始将一把把刻刀收纳进脚边的包裹。,산은 태연하게 말하며 발치에 놓인 자루에 조각칼들을 하나둘 넣기 시작했다.
+AvgDialog_18916_Content_40,afDA,avg章1新_AvgDialog_C_M.csv,761,AvgDialog,Content,珊,"走吧，不是要去那什么协定审查会吗？
+能不能帮我把这些雕像也打包走？","그럼, 가자. 협정 심사회에 가는 거지? 이 조각상들을 옮기는 것 좀 도와줄 수 있을까?"
+AvgDialog_18916_Content_41,afDB,avg章1新_AvgDialog_C_M.csv,762,AvgDialog,Content,珊,还有……,그리고...
+AvgDialog_18916_Content_42,afDC,avg章1新_AvgDialog_C_M.csv,763,AvgDialog,Content,,她敲了敲自己身下的石座。,산은 그녀가 앉아 있는 석좌를 두드린다.
+AvgDialog_18916_Content_43,afDD,avg章1新_AvgDialog_C_M.csv,764,AvgDialog,Content,珊,我行动不太方便，你们有权限派个车过来吗？,"거동이 불편해서 말인데, 혹시 차를 불러줄 수 있어?"
+AvgDialog_18916_Content_44,afDE,avg章1新_AvgDialog_C_M.csv,765,AvgDialog,Content,,你一把抓住了她的手腕。,당신은 그녀의 손목을 단단히 잡았다.
+AvgDialog_18916_Content_45,afDF,avg章1新_AvgDialog_C_M.csv,766,AvgDialog,Content,玩家,是谁把他们变成这样的？,누가 이 사람들을 이렇게 만든 거야?
+AvgDialog_18916_Content_46,afDG,avg章1新_AvgDialog_C_M.csv,767,AvgDialog,Content,珊,你问我吗？,나한테 묻는 거야?
+AvgDialog_18916_Content_47,afDH,avg章1新_AvgDialog_C_M.csv,768,AvgDialog,Content,,珊低低叹了口气。,산은 낮게 한숨을 내쉬었다.
+AvgDialog_18916_Content_48,afDI,avg章1新_AvgDialog_C_M.csv,769,AvgDialog,Content,珊,"好心如我，为你们指一条明路吧。
+去问那个院长和那些医生。","나는 친절하니까, 말해줄게. 원장과 그 의사들에게 직접 물어보도록 해."
+AvgDialog_18916_Content_49,afDJ,avg章1新_AvgDialog_C_M.csv,770,AvgDialog,Content,詹金,"莎拉！我就知道，是那个臭女人搞的鬼！
+看我这次不把她、把她……",사라! 역시 그 여자 때문이야! 이번에는 내가 반드시... 반드시 그녀를...
+AvgDialog_18916_Content_50,afDL,avg章1新_AvgDialog_C_M.csv,771,AvgDialog,Content,,詹金先是凶狠，继而转为颓唐。,"젠킨은 처음에는 사납게 분노했지만, 곧 허탈감에 잠겼다."
+AvgDialog_18916_Content_51,afDM,avg章1新_AvgDialog_C_M.csv,772,AvgDialog,Content,,你轻轻上前，拍了拍她的肩膀。,당신은 살며시 다가가 젠킨의 어깨를 토닥였다.
+AvgDialog_18916_Content_52,afDN,avg章1新_AvgDialog_C_M.csv,773,AvgDialog,Content,玩家,"人还没找到不是坏事，只要……
+事情就还有一线转机。",사람을 찾지 못했다고 해서 꼭 나쁜 일인 건 아니야. ...희망이 남아 있는 한은 말이지.
+AvgDialog_18916_Content_53,afDO,avg章1新_AvgDialog_C_M.csv,774,AvgDialog,Content,玩家,"不必再顾忌打草惊蛇了。
+拉蒙娜，你去通知审查会介入。詹金，把莎拉叫来吧。","더 이상 적에게 들킬 걱정은 할 필요 없어. 라모나는 심사회 측에 개입을 요청해 주고, 젠킨 너는 사라를 불러와 줘."
+AvgDialog_18916_Content_54,afDP,avg章1新_AvgDialog_C_M.csv,775,AvgDialog,Content,玩家,带上她的账本。,사라의 장부도 함께 가져가도록 해.
+AvgDialog_18905_Content_1,aftL,avg章1新_AvgDialog_C_M.csv,776,AvgDialog,Content,,良心之重,양심의 무게
+AvgDialog_18905_Content_2,aftW,avg章1新_AvgDialog_C_M.csv,777,AvgDialog,Content,,急促的脚步声响起，莎拉满脸怒容地出现，背后跟着一脸担忧的艾继丝，和满脸正气的奥吉尔。,"급히 달려온 발걸음 소리와 함께, 사라는 분노에 차서 나타났다. 뒤에는 걱정스러운 표정의 아이기스와, 의기양양한 오지에가 있었다."
+AvgDialog_18905_Content_3,afuh,avg章1新_AvgDialog_C_M.csv,778,AvgDialog,Content,莎拉,你们怎么能——,당신들이 어떻게—
+AvgDialog_18905_Content_4,afus,avg章1新_AvgDialog_C_M.csv,779,AvgDialog,Content,莎拉,呀————,아악—!
+AvgDialog_18905_Content_5,afuD,avg章1新_AvgDialog_C_M.csv,780,AvgDialog,Content,,她没能说完这句话，就看着地面上扭曲的糖人发出恐怖的尖叫。,"말이 끝나기도 전에, 그녀는 바닥에 널브러진 일그러진 사탕인형들을 보고 비명을 질렀다."
+AvgDialog_18905_Content_6,afuJ,avg章1新_AvgDialog_C_M.csv,781,AvgDialog,Content,詹金,"我们怎么能？这句话该送给你。
+不是你在地下室里藏的济贫院幽灵吗？她都告诉我们了。",우리가 어떻게? 그건 우리가 할 말이야. 네가 지하실에 그 유령을 숨긴 거잖아. 그녀가 다 말해줬어.
+AvgDialog_18905_Content_7,afuK,avg章1新_AvgDialog_C_M.csv,782,AvgDialog,Content,,像是被莎拉的尖叫吸引，地面上蠕动的半糖化人形，扭动着向她的方向爬来。,"사라의 비명에 반응하듯, 바닥의 반쯤 설탕으로 변한 형체들이 그녀를 향해 기어왔다."
+AvgDialog_18905_Content_8,afuL,avg章1新_AvgDialog_C_M.csv,783,AvgDialog,Content,玩家,听着，莎拉小姐，你的所作所为已经没法再隐藏下去了。,"들으세요, 사라 양. 당신이 한 일은 이제 숨길 수 없어요."
+AvgDialog_18905_Content_9,afuM,avg章1新_AvgDialog_C_M.csv,784,AvgDialog,Content,玩家,请尽快交代济贫院和雕塑家协会的合作联系方式，以及调查员<Blue:肖恩·安德森>的下落。,"빈민원과 조각가 협회의 협력 관계, 그리고 조사원 <Blue:숀 앤더슨>의 행방을 말해 주세요."
+AvgDialog_18905_Content_10,aftM,avg章1新_AvgDialog_C_M.csv,785,AvgDialog,Content,詹金,别想装傻，你和那个狗屎博士的邪恶勾当我们都知道了！把我姐姐交出来！,시치미 떼지 마! 너와 그 기분 나쁜 의사 사이에 있었던 거래도 다 알고 있으니까! 내 언니를 돌려줘!
+AvgDialog_18905_Content_11,aftN,avg章1新_AvgDialog_C_M.csv,786,AvgDialog,Content,莎拉,我真的没有，这里的这些……,아니야! 난 몰라! 여기 있는 것들도 전부…
+AvgDialog_18905_Content_12,aftO,avg章1新_AvgDialog_C_M.csv,787,AvgDialog,Content,,莎拉环顾一圈那些不知道能否被称为人的生物，断续说了下去。,"사라는 그곳에 있는, 인간이라고 부를 수 있을지도 모호한 생물들을 바라보며, 끊기듯 말을 이어갔다."
+AvgDialog_18905_Content_13,aftP,avg章1新_AvgDialog_C_M.csv,788,AvgDialog,Content,莎拉,我真的不知道！,정말 모른다고!
+AvgDialog_18905_Content_14,aftQ,avg章1新_AvgDialog_C_M.csv,789,AvgDialog,Content,詹金,我们看到你的大本子了！,그럼 우리가 본 그 장부는 뭐야!?
+AvgDialog_18905_Content_15,aftR,avg章1新_AvgDialog_C_M.csv,790,AvgDialog,Content,莎拉,……？,...?
+AvgDialog_18905_Content_16,aftS,avg章1新_AvgDialog_C_M.csv,791,AvgDialog,Content,,你拿起放在一旁的账本打开，向莎拉示意。,"당신은 옆에 놓인 장부를 펼쳐, 사라에게 손짓했다."
+AvgDialog_18905_Content_17,aftT,avg章1新_AvgDialog_C_M.csv,792,AvgDialog,Content,玩家,麦克，男，5岁，10雷欧坊；戴安娜，女，23岁，5雷欧坊；艾继丝……女，8岁，40雷欧坊。,"맥, 남성, 5세, 10 플로린. 다이애나, 여성, 23세, 5 플로린. 아이기스, 여성, 8세, 40 플로린."
+AvgDialog_18905_Content_18,aftU,avg章1新_AvgDialog_C_M.csv,793,AvgDialog,Content,玩家,……我还要继续吗？,...계속할까요?
+AvgDialog_18905_Content_19,aftV,avg章1新_AvgDialog_C_M.csv,794,AvgDialog,Content,莎拉,不是的，不是你想的那样，我——,"아니에요, 그건 그런 게 아니라, 저는——"
+AvgDialog_18905_Content_20,aftX,avg章1新_AvgDialog_C_M.csv,795,AvgDialog,Content,詹金,别狡辩了！你就是在让济贫院的人做那个狗博士的试验品，然后换钱买你那些金银珠宝！,"더 이상 변명하지 마! 그 미친 박사가 하던 실험에 빈민원 사람들을 넘기고, 그걸로 금은보화를 사들인 거지!"
+AvgDialog_18905_Content_21,aftY,avg章1新_AvgDialog_C_M.csv,796,AvgDialog,Content,莎拉,艾继丝，你参加过治疗，你也知道的，这些钱明明就是——,"아이기스, 너도 치료에 참여했잖아. 너도 알다시피, 이 돈은 분명——"
+AvgDialog_18905_Content_22,aftZ,avg章1新_AvgDialog_C_M.csv,797,AvgDialog,Content,艾继丝,是的…那是实验室给接受治疗的人的营养补贴，每人每次5雷欧坊，都是说好了的。,"맞아요... 그건 실험실에서 치료를 받은 사람들에게 주는 영양 보조금이에요. 1인당 1회에 5 플로린, 그렇게 미리 정해진 거였어요."
+AvgDialog_18905_Content_23,afua,avg章1新_AvgDialog_C_M.csv,798,AvgDialog,Content,艾继丝,这些钱，莎拉小姐全部用来为大家购置食物了。,이 돈은 전부 사라 선생님이 모두를 위해 음식을 사는 데 썼어요.
+AvgDialog_18905_Content_24,afub,avg章1新_AvgDialog_C_M.csv,799,AvgDialog,Content,莎拉,这些钱我一分都没留下！至于那野孩子说的什么珠宝，根本就是无稽之谈，请艾什%lordorlady%相信我！,"한 푼도 남기지 않았어요! 그리고 그 아이가 말한 보석이라는 건, 완전히 터무니없는 소리예요. 애쉬 {Male=경,Female=아가씨}, 제 말을 믿어주세요!"
+AvgDialog_18905_Content_25,afuc,avg章1新_AvgDialog_C_M.csv,800,AvgDialog,Content,詹金,不要狡辩了！,거짓말하지 마!
+AvgDialog_18905_Content_26,afud,avg章1新_AvgDialog_C_M.csv,801,AvgDialog,Content,,詹金从挎包深处摸出两枚银色的戒指。,젠킨은 가방 속에서 은색 반지 두 개를 꺼냈다.
+AvgDialog_18905_Content_27,afue,avg章1新_AvgDialog_C_M.csv,802,AvgDialog,Content,詹金,如果不是你，办公室右边抽屉里的这两个小玩意，难道还是我凭空变出来的吗？,"그게 아니면, 사무실 오른쪽 서랍에 있던 이 반지 두 개는, 내가 마법이라도 써서 만들어낸 거라는 거야?"
+AvgDialog_18905_Content_28,afuf,avg章1新_AvgDialog_C_M.csv,803,AvgDialog,Content,莎拉,那怎么在你那里？还给我，那是其他资助人给我的礼物！,"그게 왜 너한테 있는 거야? 돌려줘, 그건 다른 후원자가 준 선물이야!"
+AvgDialog_18905_Content_29,afug,avg章1新_AvgDialog_C_M.csv,804,AvgDialog,Content,莎拉,请相信我，我是把它们当做用来补贴济贫院的应急品的！我怎么可能、怎么可能为了这些东西，伤害这里的孩子？,"제발 믿어주세요. 그것들은 전부 빈민원을 위한 비상금으로 쓰려고 했던 거예요! 어떻게, 어떻게 그런 걸 위해 아이들을 해칠 수 있겠어요?"
+AvgDialog_18905_Content_30,afui,avg章1新_AvgDialog_C_M.csv,805,AvgDialog,Content,拉蒙娜,如果您与这件事毫无瓜葛，那您怎么解释这些……孩子呢？,"만약 당신이 이 일과 전혀 상관없다면, 그렇다면 이... 아이들은 어떻게 설명할 거죠?"
+AvgDialog_18905_Content_31,afuj,avg章1新_AvgDialog_C_M.csv,806,AvgDialog,Content,,拉蒙娜指了指地上爬动的怪物。,라모나가 바닥을 기어 다니는 괴물들을 가리켰다.
+AvgDialog_18905_Content_32,afuk,avg章1新_AvgDialog_C_M.csv,807,AvgDialog,Content,莎拉,"……孩子？
+你是说……",...아이? 그렇다는 건...
+AvgDialog_18905_Content_33,aful,avg章1新_AvgDialog_C_M.csv,808,AvgDialog,Content,,莎拉似乎这才意识到什么，僵硬地扭过头去细看那些怪物的形貌。,"샤라는 이제야 무언가를 깨달은 듯, 굳은 채 고개를 돌려 괴물들의 모습을 자세히 살폈다."
+AvgDialog_18905_Content_34,afum,avg章1新_AvgDialog_C_M.csv,809,AvgDialog,Content,玩家,这些，是济贫院失踪的工人和孩子们吧？,"이 사람들, 빈민원에서 실종된 직원들과 아이들 아닌가요?"
+AvgDialog_18905_Content_35,afun,avg章1新_AvgDialog_C_M.csv,810,AvgDialog,Content,莎拉,不，不会的……,"아니야, 그럴 리..."
+AvgDialog_18905_Content_36,afuo,avg章1新_AvgDialog_C_M.csv,811,AvgDialog,Content,珊,真是吵闹。,정말 시끄럽네.
+AvgDialog_18905_Content_37,afup,avg章1新_AvgDialog_C_M.csv,812,AvgDialog,Content,珊,"别去看那些未完成品了。
+匍匐于真正的美吧。",그 미완성 작품들은 이제 그만 봐.\n진정한 아름다움 앞에 엎드리도록 해.
+AvgDialog_18905_Content_38,afuq,avg章1新_AvgDialog_C_M.csv,813,AvgDialog,Content,,她将刚刚完工的雕像推到莎拉面前。,그녀는 막 완성된 조각상을 사라 쪽으로 밀었다.
+AvgDialog_18905_Content_39,afur,avg章1新_AvgDialog_C_M.csv,814,AvgDialog,Content,,那是一尊孩童的雕像，浑浊的糖壳下，五官栩栩如生。,"그것은 아이 모습의 조각상으로, 얇은 설탕 껍질 아래에 신체가 생동감 있게 묘사되어 있었다."
+AvgDialog_18905_Content_40,afut,avg章1新_AvgDialog_C_M.csv,815,AvgDialog,Content,莎拉,那是……那是……小……威利……,이... 이건... 꼬마 윌리...
+AvgDialog_18905_Content_41,afuu,avg章1新_AvgDialog_C_M.csv,816,AvgDialog,Content,,雕像的眼球猝然抖动了一下。,조각상의 눈알이 갑자기 움직인다.
+AvgDialog_18905_Content_42,afuv,avg章1新_AvgDialog_C_M.csv,817,AvgDialog,Content,莎拉,噫——噫——<Shake:啊——>,아——아——<Shake:으아악!——>
+AvgDialog_18905_Content_43,afuw,avg章1新_AvgDialog_C_M.csv,818,AvgDialog,Content,,莎拉发出病态的尖叫。,사라는 섬뜩한 비명을 질렀다.
+AvgDialog_18905_Content_44,afux,avg章1新_AvgDialog_C_M.csv,819,AvgDialog,Content,,她蜷起身体，双手抱住自己的头，悲切的低语渐渐变得粗哑混乱，难以分辨。,"그녀는 몸을 웅크린 채 머리를 감싸 쥐었다. 비통한 속삭임은 점차 거칠고 혼란스러운 소리로 변해, 더 이상 알아듣기 어려워졌다."
+AvgDialog_18905_Content_45,afuy,avg章1新_AvgDialog_C_M.csv,820,AvgDialog,Content,莎拉,<Small:我无能，我没用，我不是一个好院长，我保护不了大家，保护不了孩子们……>,"<Small:나는 무능해, 나는 쓸모없어, 나는 좋은 원장이 아니야, 나는 그 누구도 지키지 못했고, 아이들도 지키지 못했어.....>"
+AvgDialog_18905_Content_46,afuz,avg章1新_AvgDialog_C_M.csv,821,AvgDialog,Content,艾继丝,莎拉小姐，别这样……我们，大家都明白的，你已经尽力了。,"사라 양, 이러지 마세요... 저희 모두 이해해요. 당신은 최선을 다했어요."
+AvgDialog_18905_Content_47,afuA,avg章1新_AvgDialog_C_M.csv,822,AvgDialog,Content,莎拉,对不起，小艾继丝；对不起，小露西；对不起，詹金、亨利、戴安娜……,"미안해, 아이기스. 미안해, 루시. 미안해, 젠킨, 헨리, 다이애나…"
+AvgDialog_18905_Content_48,afuB,avg章1新_AvgDialog_C_M.csv,823,AvgDialog,Content,,莎拉抬起头，露出完全失控的五官，眼球和唇角像是牵着手舞蹈，扭曲成人类绝对无法呈现的姿态。,"사라는 고개를 들어, 완전히 통제 불능이 된 얼굴을 드러냈다. 눈알과 입가가 마치 손을 맞잡고 춤을 추듯 뒤틀려, 인간이라면 절대 표현할 수 없는 형상으로 변해 있었다."
+AvgDialog_18905_Content_49,afuC,avg章1新_AvgDialog_C_M.csv,824,AvgDialog,Content,艾继丝,莎拉小姐……？,사라 선생님…?
+AvgDialog_18905_Content_50,afuE,avg章1新_AvgDialog_C_M.csv,825,AvgDialog,Content,,"周遭宛如沉入水底一般，一瞬间陷入了阴冷的死寂之中。
+无形的压力突如其来，你猛地喘了一口气，意识到事情不对。","주변이 마치 물속에 잠긴 듯, 한순간 음습한 죽음의 정적에 빠졌다. 보이지 않는 압력이 갑자기 몰려와, 당신은 헐떡이며 상황이 심상치 않음을 깨달았다."
+AvgDialog_18905_Content_51,afuF,avg章1新_AvgDialog_C_M.csv,826,AvgDialog,Content,玩家,糟了，拉蒙娜，快让其他人离开！,"이런, 라모나! 사람들을 빨리 대피시켜!"
+AvgDialog_18905_Content_52,afuG,avg章1新_AvgDialog_C_M.csv,827,AvgDialog,Content,,"来不及了。
+年轻的院长头部如花一般开裂，黑色的黏液喷溅在地上。",시간이 없었다. 젊은 원장의 머리가 꽃처럼 갈라지며 검은 점액이 바닥에 튀었다.
+AvgDialog_18905_Content_53,afuH,avg章1新_AvgDialog_C_M.csv,828,AvgDialog,Content,艾继丝,莎、莎拉小姐！！,"사, 사라 선생님!"
+AvgDialog_18905_Content_54,afuI,avg章1新_AvgDialog_C_M.csv,829,AvgDialog,Content,,她发出高昂尖锐的嘶鸣，周遭的扭曲肢体回应着她，发出狼嚎般的声响，迅速裂变成被融蚀侵染的怪物。,"그녀가 높고 날카로운 신음을 내자, 주변의 뒤틀린 사체들이 반응하며 울부짖듯 소리를 냈고, 빠르게 융식에 물든 괴물로 분열했다."
+AvgDialog_18889_Content_1,afjK,avg章1新_AvgDialog_C_M.csv,830,AvgDialog,Content,艾继丝,求求你们，不要伤害莎拉小姐，我会把真相全部告诉你们……,"제발, 사라 선생님을 다치게 하지 말아주세요. 전부 사실대로 말할게요..."
+AvgDialog_18889_Content_2,afjL,avg章1新_AvgDialog_C_M.csv,831,AvgDialog,Content,莎拉,艾……继丝……,아이……기스……
+AvgDialog_18889_Content_3,afjM,avg章1新_AvgDialog_C_M.csv,832,AvgDialog,Content,拉蒙娜,她还残存有一线意识！,아직 의식이 조금 남아있어!
+AvgDialog_18889_Content_4,afjN,avg章1新_AvgDialog_C_M.csv,833,AvgDialog,Content,玩家,先消灭这些怪物，压制莎拉！我们还需要向她询问肖恩的下落！,먼저 이 괴물들을 처리한 후에 사라를 제압해! 사라에게 숀의 행방을 물어봐야 해!
+AvgDialog_18889_Content_5,afjO,avg章1新_AvgDialog_C_M.csv,834,AvgDialog,Content,拉蒙娜,明白！,알겠어!
+AvgDialog_18910_Content_1,afzn,avg章1新_AvgDialog_C_M.csv,835,AvgDialog,Content,奥吉尔,该死，好多怪物涌进来，越来越多了！,"이런, 괴물들이 점점 더 많이 몰려들고 있어요!"
+AvgDialog_18910_Content_2,afzo,avg章1新_AvgDialog_C_M.csv,836,AvgDialog,Content,玩家,奥吉尔，你去封上地下室大门！拉蒙娜，集中精力压制莎拉！,"오지에, 지하실 대문을 막아! 라모나는 사라를 제압하는 데 집중해줘!"
+AvgDialog_18910_Content_3,afzp,avg章1新_AvgDialog_C_M.csv,837,AvgDialog,Content,奥吉尔,听令！,명령을 받들겠습니다!
+AvgDialog_18904_Content_1,afsT,avg章1新_AvgDialog_C_M.csv,838,AvgDialog,Content,拉蒙娜,%player%！,%player%!
+AvgDialog_18904_Content_2,afte,avg章1新_AvgDialog_C_M.csv,839,AvgDialog,Content,,趁拉蒙娜将莎拉压制在远处，你迅速集中精力，将自己沉入那逐渐变得有些熟悉的纯黑空间。,"라모나가 사라를 멀리 억눌러 놓고 있는 사이, 당신은 급하게 집중력을 모아, 조금은 익숙해지기 시작한 그 칠흑의 공간으로 몸을 가라앉혔다."
+AvgDialog_18904_Content_3,aftp,avg章1新_AvgDialog_C_M.csv,840,AvgDialog,Content,,银钥匙剧烈嗡鸣着，你眼前的黑暗也几度变化，渐渐从视线边缘亮起了光。,"은빛 열쇠가 격렬히 공명했고, 눈앞의 암흑이 여러 차례 요동치더니, 시야의 가장자리부터 천천히 빛이 번지기 시작했다."
+AvgDialog_18904_Content_4,aftA,avg章1新_AvgDialog_C_M.csv,841,AvgDialog,Content,？？？,莎莎姐姐，我肚子好饿啊。,"사라 선생님, 저… 배고파요."
+AvgDialog_18904_Content_5,aftG,avg章1新_AvgDialog_C_M.csv,842,AvgDialog,Content,？？？,很遗憾，莎拉小姐，我们不能再继续资助你们了。,"유감입니다, 사라 양. 저희는 더 이상 당신들에게 후원을 지속할 수 없습니다."
+AvgDialog_18904_Content_6,aftH,avg章1新_AvgDialog_C_M.csv,843,AvgDialog,Content,？？？,莎拉小姐，为什么妈妈不要我了？,"사라 선생님, 왜 엄마는 절 싫어하는 거에요?"
+AvgDialog_18904_Content_7,aftI,avg章1新_AvgDialog_C_M.csv,844,AvgDialog,Content,,黑白的光影争相闪过，像是有几部电影在一张幕布上同时放映，无论你如何用力，都无法看清其中的内容。,흑백의 잔상들이 난잡하게 번쩍이며 스쳐지나간다. 여러 필름이 한 장의 스크린 위에서 동시에 재생되는 것처럼. 당신이 아무리 초점을 맞추려 해도 내용은 전혀 읽히지 않는다.
+AvgDialog_18904_Content_8,aftJ,avg章1新_AvgDialog_C_M.csv,845,AvgDialog,Content,？？？,莎拉小姐，妈妈说过，我就是个废物……这些事情，真的可以交给我做吗？,"사라 선생님, 엄마가 말했어요. 저는 쓸모없는 쓰레기라고... 이 일들을 정말 저한테 맡기셔도 되는 거예요?"
+AvgDialog_18904_Content_9,aftK,avg章1新_AvgDialog_C_M.csv,846,AvgDialog,Content,？？？,莎拉小姐，妈妈已经不要我了，你……你也会不要我吗……？,"사라 선생님, 엄마는 저를 버렸는데... 선생님도 저를 버리실 건가요?"
+AvgDialog_18904_Content_10,afsU,avg章1新_AvgDialog_C_M.csv,847,AvgDialog,Content,？？？,莎拉小姐，我好怕，求求你……,사라 선생님... 너무 무서워요... 가지 마세요...
+AvgDialog_18904_Content_11,afsV,avg章1新_AvgDialog_C_M.csv,848,AvgDialog,Content,艾继丝,莎拉小姐……,사라 선생님...
+AvgDialog_18904_Content_12,afsW,avg章1新_AvgDialog_C_M.csv,849,AvgDialog,Content,莎拉,怎么了，艾继丝？,"무슨 일이니, 아이기스?"
+AvgDialog_18904_Content_13,afsX,avg章1新_AvgDialog_C_M.csv,850,AvgDialog,Content,艾继丝,"莎拉小姐，你可以再唱一次那首歌吗，就一次？
+我是说，如果这样不会给你添麻烦的话……","사라 선생님, 그 노래... 한 번만 더 불러 주실 수 있어요? 딱 한 번만이라도요... 그러니까... 그게, 괜찮다면요..."
+AvgDialog_18904_Content_14,afsY,avg章1新_AvgDialog_C_M.csv,851,AvgDialog,Content,莎拉,亲爱的小艾继丝，你听好，你是整个济贫院最乖最听话，最懂事的孩子。是大家最喜欢的小伙伴。,"사랑스러운 아이기스. 잘 들으렴. 너는 이 빈민원에서 제일 착하고, 제일 말을 잘 듣고, 제일 이해심 많은 아이야. 모두가 가장 좋아하는 친구란다."
+AvgDialog_18904_Content_15,afsZ,avg章1新_AvgDialog_C_M.csv,852,AvgDialog,Content,莎拉,所以不要太拘谨，偶尔任性一下，也是没问题的哦。明白吗？,그러니까 너무 조심스럽게만 살 필요는 없어. 가끔은 마음대로 해도 괜찮단다. 알겠니?
+AvgDialog_18904_Content_16,afta,avg章1新_AvgDialog_C_M.csv,853,AvgDialog,Content,艾继丝,那……我、我想要听莎拉小姐再唱一次儿歌。,"그, 그럼... 저는... 사라 선생님이 그 동요를 한 번만 더 불러줬으면 좋겠어요."
+AvgDialog_18904_Content_17,aftb,avg章1新_AvgDialog_C_M.csv,854,AvgDialog,Content,莎拉,"没问题。
+<Italic:老查理有一只他很爱很爱的虎斑猫……>",물론이지. <Italic:찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...>
+AvgDialog_18904_Content_18,aftc,avg章1新_AvgDialog_C_M.csv,855,AvgDialog,Content,,你猛地睁开眼睛，跌落到充满色彩的现实世界。,당신은 번쩍 눈을 뜨며 색채가 가득한 현실 세계로 다시 떨어졌다.
+AvgDialog_18904_Content_19,aftd,avg章1新_AvgDialog_C_M.csv,856,AvgDialog,Content,拉蒙娜,%player%，你还好吗？,"%player%, 괜찮아?"
+AvgDialog_18904_Content_20,aftf,avg章1新_AvgDialog_C_M.csv,857,AvgDialog,Content,,"你强忍着晕眩点头。这时，你的余光捕捉到了一个白色的身影。
+女孩不知何时越过了你们身边，进入了一片狼藉的战场。",당신은 현기증을 억누르며 고개를 끄덕인다. 바로 그때—당신의 곁을 스쳐지나 전장 한가운데로 들어가는 새하얀 작은 그림자가 시야 끝에 들어왔다.
+AvgDialog_18904_Content_21,aftg,avg章1新_AvgDialog_C_M.csv,858,AvgDialog,Content,拉蒙娜,艾继丝快回来！那里危险！,"아이기스, 돌아와! 거긴 위험해!"
+AvgDialog_18904_Content_22,afth,avg章1新_AvgDialog_C_M.csv,859,AvgDialog,Content,,"艾继丝怔怔地望着倒地不起的莎拉。
+爆裂的伤痕旁，黏液仍在汩汩流出，汇成黑色的小溪。",아이기스는 바닥에 쓰러진 사라를 멍한 눈으로 바라본다. 터져올라 찢긴 상처 속에서 점액이 계속 흘러내리며 검은 웅덩이를 이루고 있었다.
+AvgDialog_18904_Content_23,afti,avg章1新_AvgDialog_C_M.csv,860,AvgDialog,Content,,"然后，她趟入漆黑的水潭，在黏液中央席地而坐。
+女孩让莎拉躺在了自己腿上，又动作熟稔地拍着莎拉的后背。",아이는 그 검은 물을 그대로 밟고 들어가 한가운데에 털썩 앉는다. 그러고는 사라의 몸을 자기 무릎에 눕히고 등을 토닥였다.
+AvgDialog_18904_Content_24,aftj,avg章1新_AvgDialog_C_M.csv,861,AvgDialog,Content,,就像院长曾经哄睡自己时做的那样。,그녀가 과거에 자신의 등을 토닥여 재워주던 것처럼.
+AvgDialog_18904_Content_25,aftk,avg章1新_AvgDialog_C_M.csv,862,AvgDialog,Content,艾继丝,莎拉小姐…没关系，没关系……只是一场噩梦……,사라 선생님... 괜찮아... 괜찮아요... 이건 그냥 나쁜 꿈이에요...
+AvgDialog_18904_Content_26,aftl,avg章1新_AvgDialog_C_M.csv,863,AvgDialog,Content,,流转眼眶的微弱光芒穿透了眼罩，转瞬即逝。如果没有伴随着一阵强烈的灵知冲击，你几乎要以为那只是女孩未落的悲伤。,"아이기스의 눈동자에서 희미한 빛이 안대를 관통하고는, 순식간에 사라졌다. 강력한 정신적 충격이 함께하지 않았더라면, 당신은 그저 소녀의 슬픔이 드러난 것이라고 착각했을지도 모른다."
+AvgDialog_18904_Content_27,aftm,avg章1新_AvgDialog_C_M.csv,864,AvgDialog,Content,,莎拉头脸部的裂片原本不安地颤动着，微光掠过后，她就不再动弹，像真的沉沉睡去了一般。,"본래는 불규칙하게 떨리고 있었던, 사라의 얼굴과 머리를 이루던 파편들이, 그 희미한 빛이 스치고 지나간 후로는 더 이상 움직이지 않았고, 마치 깊은 잠에 빠진 것 같았다."
+AvgDialog_18904_Content_28,aftn,avg章1新_AvgDialog_C_M.csv,865,AvgDialog,Content,艾继丝,莎拉小姐已经好久好久没有睡一个好觉了。,사라 선생님은... 정말 오랫동안 제대로 된 잠을 주무시지 못했어요.
+AvgDialog_18904_Content_29,afto,avg章1新_AvgDialog_C_M.csv,866,AvgDialog,Content,艾继丝,为了不让济贫院解散，她总是到处跑，见那些住在城堡里的有钱老爷和夫人们，没时间吃饭，没时间休息。,"빈민원이 해체되지 않게 하려고 항상 여기저기 뛰어다녔어요. 성 안에 사는 부자 어른들 앞에 가서 사정했죠. 먹을 시간도, 쉴 시간도 없이요."
+AvgDialog_18904_Content_30,aftq,avg章1新_AvgDialog_C_M.csv,867,AvgDialog,Content,艾继丝,晚上回来，她就在办公室点一根蜡烛，一直算一直算，看看从老爷那里讨到的钱够不够用。,"밤에 돌아오면 사무실에서 촛불 하나 켜놓고 계속 계산했어요. 계속, 계속 계산하면서 겨우 받은 돈으로 충분한지 확인했어요."
+AvgDialog_18904_Content_31,aftr,avg章1新_AvgDialog_C_M.csv,868,AvgDialog,Content,艾继丝,看看从夫人小姐们那里求来的首饰能换多少钱。,아가씨들과 부인들께 구걸한 장신구가 얼마나 값이 나가는지 알아보았구요.
+AvgDialog_18904_Content_32,afts,avg章1新_AvgDialog_C_M.csv,869,AvgDialog,Content,艾继丝,"他们都笑她，说很伤人的话，莎拉小姐从不生气。
+还会安慰我，给我们唱歌。",그 사람들은 사라 선생님을 비웃었어요. 상처 주는 말만 했어요. 그래도 사라 선생님은 한 번도 화내지 않았어요.
+AvgDialog_18904_Content_33,aftt,avg章1新_AvgDialog_C_M.csv,870,AvgDialog,Content,艾继丝,她对我们很好，真的。对我也很好，非常好。,오히려 저를 달래줬어요. 저희를 달래줬어요. 노래를 불러줬어요.
+AvgDialog_18904_Content_34,aftu,avg章1新_AvgDialog_C_M.csv,871,AvgDialog,Content,艾继丝,我是妈妈的累赘，被妈妈扔掉。之前的院长先生不肯收留我，是莎拉小姐说自己愿意做两份工，把我捡进来。,"저는 엄마의 짐이었어요. 그래서 버려졌어요. 이전 원장님은 저를 들이길 거부했어요. 그런데 사라 양이 ""자기가 두 배로 일하겠다"" 라고 하며 저를 받아주셨어요."
+AvgDialog_18904_Content_35,aftv,avg章1新_AvgDialog_C_M.csv,872,AvgDialog,Content,艾继丝,从那之后我就发誓，我一定不要做莎拉小姐的累赘，一定要做个有用的孩子。,그때 저는 맹세했어요. 절대 사라 선생님의 짐이 되지 않겠다고. 반드시 쓸모 있는 아이가 되겠다고.
+AvgDialog_18904_Content_36,aftw,avg章1新_AvgDialog_C_M.csv,873,AvgDialog,Content,艾继丝,对不起，莎拉小姐。我已经很努力很努力了，但事情还是…一直走向不好的方向。我没能保护大家，没能保护你。对不起。,"...죄송해요, 사라 선생님. 저는 정말 정말 열심히 했는데, 상황은 계속... 계속 안 좋은 방향으로 흘러갔어요. 저는 모두를 지키지 못했어요. 죄송해요..."
+AvgDialog_18904_Content_37,aftx,avg章1新_AvgDialog_C_M.csv,874,AvgDialog,Content,,艾继丝轻轻摸了摸莎拉早已非人的脸颊，然后转向你们。,"아이기스는 이미 인간이 아니게 되어버린 사라의 뺨을 가볍게 쓸어내린 뒤, 당신 쪽으로 돌아섰다."
+AvgDialog_18904_Content_38,afty,avg章1新_AvgDialog_C_M.csv,875,AvgDialog,Content,艾继丝,你们不是在找调查员<Blue:肖恩·安德森>吗？,여러분은 조사원 <Blue:숀 앤더슨>을 찾고 계신 거죠?
+AvgDialog_18904_Content_39,aftz,avg章1新_AvgDialog_C_M.csv,876,AvgDialog,Content,玩家,艾继丝，你……,"아이기스, 너……"
+AvgDialog_18904_Content_40,aftB,avg章1新_AvgDialog_C_M.csv,877,AvgDialog,Content,,女孩咧开嘴，露出了一个勉强能称作笑的表情。,"소녀의 입가가 슬며시 찢어지며, 아슬아슬하게 웃음이라고 부를 수 있는 표정이 떠오른다."
+AvgDialog_18904_Content_41,aftC,avg章1新_AvgDialog_C_M.csv,878,AvgDialog,Content,艾继丝,"放了莎拉小姐吧。
+我会告诉你们他的下落。",사라 선생님을 풀어주세요. 제가 그의 행방을 말해드릴게요.
+AvgDialog_18904_Content_42,aftD,avg章1新_AvgDialog_C_M.csv,879,AvgDialog,Content,艾继丝,他就在这里。,그 사람은 여기 있어요.
+AvgDialog_18904_Content_43,aftE,avg章1新_AvgDialog_C_M.csv,880,AvgDialog,Content,,艾继丝缓缓地摘下了自己的眼罩，露出苍白的石色瞳孔。,"아이기스는 천천히 자신의 안대를 벗었다. 그리고 돌빛으로 굳어버린, 창백한 회색 눈동자를 드러냈다."
+AvgDialog_18904_Content_44,aftF,avg章1新_AvgDialog_C_M.csv,881,AvgDialog,Content,艾继丝,<Red:在我的眼睛里。>,<Red:제 눈 속에.>
+AvgDialog_18900_Content_1,afqz,avg章1新_AvgDialog_C_M.csv,882,AvgDialog,Content,,彩色的梦魇,형형색색의 악몽
+AvgDialog_18900_Content_2,afqK,avg章1新_AvgDialog_C_M.csv,883,AvgDialog,Content,,最开始，那些人说，他们是来治病的。,"처음에, 그 사람들은 병을 고치러 왔다고 했어요."
+AvgDialog_18900_Content_3,afqV,avg章1新_AvgDialog_C_M.csv,884,AvgDialog,Content,,不知什么时候开始，济贫院里流行起了一种疯病。生病的那些人脾气变得特别坏，头上、手上、脚上也开始出现黑色的三角痕迹。,"언제부터인지 모르게, 빈민원 안에서 한 가지 병이 퍼지기 시작했거든요. 그 병에 걸린 사람들은 성질이 아주 사나워졌고, 머리랑 손, 발에 검은 삼각형 자국이 생기기 시작했어요."
+AvgDialog_18900_Content_4,afrg,avg章1新_AvgDialog_C_M.csv,885,AvgDialog,Content,,莎拉小姐把他们送到医生的诊所，但回来的人身上的痕迹并没有减少，反而越来越多……,"사라 선생님은 그들을 의사의 진료소로 데려갔지만, 돌아온 사람들 몸의 자국은 줄기는커녕... 오히려 점점 늘어만 갔어요."
+AvgDialog_18900_Content_5,afrr,avg章1新_AvgDialog_C_M.csv,886,AvgDialog,Content,,我把这件事告诉莎拉小姐，可是莎拉小姐说……,"저는 그 일을 사라 선생님께 말했지만, 사라 선생님은 이렇게 말했어요."
+AvgDialog_18900_Content_6,afrC,avg章1新_AvgDialog_C_M.csv,887,AvgDialog,Content,莎拉,"艾继丝，你的幻觉越来越严重了。
+这儿根本没有什么黑色痕迹。","아이기스, 네 환각이 점점 심해지고 있는 것 같아. 애초에 검은 자국 같은 건 안 보이는걸."
+AvgDialog_18900_Content_7,afrN,avg章1新_AvgDialog_C_M.csv,888,AvgDialog,Content,艾继丝,不，莎拉小姐，我真的、真的能看到！,"아니에요, 사라 선생님! 저는 정말로, 정말로 볼 수 있어요!"
+AvgDialog_18900_Content_8,afrY,avg章1新_AvgDialog_C_M.csv,889,AvgDialog,Content,莎拉,"那真的只是幻觉。不信，你问问小麦克？
+他才只有五岁，这么小的孩子，肯定不会说谎吧？","그건 그냥 환각이란다. 믿기 어렵다면 맥에게도 물어보렴? 그 아이는 겨우 다섯 살이니까, 그렇게 어린 아이가 거짓말을 할 리가 없잖니?"
+AvgDialog_18900_Content_9,afsb,avg章1新_AvgDialog_C_M.csv,890,AvgDialog,Content,小麦克,"艾继丝姐姐，生病了要好好听医生的话哦。
+上次我发烧的时候，你也是这么对我说的吧？","아이기스 누나, 아플 때는 의사 선생님 말씀을 잘 들어야 돼. 지난번 내가 열 났을 때도, 누나가 나한테 그렇게 말했잖아?"
+AvgDialog_18900_Content_10,afqA,avg章1新_AvgDialog_C_M.csv,891,AvgDialog,Content,,"我们列着队，等待着医生的挑选。
+我感觉自己轻飘飘的，像是不存在于这个世界上。","우리는 줄을 서서, 의사의 선택을 기다렸어요. 몸이 가벼워져서… 마치 이 세상에 존재하지 않는 것 같았어요."
+AvgDialog_18900_Content_11,afqB,avg章1新_AvgDialog_C_M.csv,892,AvgDialog,Content,维克,就这个女孩子吧，她的病情比较复杂，上回我们没能根治她。,"—이 아이로 하지요. 이 아이는 병세가 조금 복잡해서, 지난번엔 완전히 치료하지 못했습니다."
+AvgDialog_18900_Content_12,afqC,avg章1新_AvgDialog_C_M.csv,893,AvgDialog,Content,艾继丝,<Shake:不……我不要去……我已经去过一次了，我不要……>,"<Shake: 안... 안 돼... 전 가기 싫어요... 지난번에 이미 갔는데, 또 가기 싫어요...>"
+AvgDialog_18900_Content_13,afqD,avg章1新_AvgDialog_C_M.csv,894,AvgDialog,Content,提尤格,我去吧，先生。,"제가 갈게요, 선생님."
+AvgDialog_18900_Content_14,afqE,avg章1新_AvgDialog_C_M.csv,895,AvgDialog,Content,艾继丝,！,!
+AvgDialog_18900_Content_15,afqF,avg章1新_AvgDialog_C_M.csv,896,AvgDialog,Content,维克,……你有哪里不舒服吗？,...어딘가 불편한 곳이라도 있니?
+AvgDialog_18900_Content_16,afqG,avg章1新_AvgDialog_C_M.csv,897,AvgDialog,Content,提尤格,"我没有不舒服，能跑能跳，健康着呢！
+但我能看到东西。","저는 아무 데도 불편하지 않아요. 잘 뛰고, 잘 달리고, 아주 건강해요! 하지만 저는... 볼 수 있어요."
+AvgDialog_18900_Content_17,afqH,avg章1新_AvgDialog_C_M.csv,898,AvgDialog,Content,维克,哦？你能看到什么？,오? 무엇을 볼 수 있니?
+AvgDialog_18900_Content_18,afqI,avg章1新_AvgDialog_C_M.csv,899,AvgDialog,Content,提尤格,"我和艾继丝一样，都会看到黑色的幻觉。
+能不能请你帮帮我呢？","저랑 아이기스 누나는 같은 걸 봐요. 저희에겐 검은 그림자가 보여요. 선생님, 저희를... 도와주실 수 있나요?"
+AvgDialog_18900_Content_19,afqJ,avg章1新_AvgDialog_C_M.csv,900,AvgDialog,Content,维克,有意思。那今天就你来吧。,재미있구나. 오늘은 너와 함께 가도록 하지.
+AvgDialog_18900_Content_20,afqL,avg章1新_AvgDialog_C_M.csv,901,AvgDialog,Content,艾继丝,提尤格……,트요그...
+AvgDialog_18900_Content_21,afqM,avg章1新_AvgDialog_C_M.csv,902,AvgDialog,Content,提尤格,别怕，艾继丝。,"걱정 마, 아이기스."
+AvgDialog_18900_Content_22,afqN,avg章1新_AvgDialog_C_M.csv,903,AvgDialog,Content,提尤格,我很快就回来。,곧 돌아올게.
+AvgDialog_18900_Content_23,afqO,avg章1新_AvgDialog_C_M.csv,904,AvgDialog,Content,,在那之后，提尤格再也没有回到济贫院来。,"그날 이후, 트요그는 빈민원으로 돌아오지 않았어요."
+AvgDialog_18900_Content_24,afqP,avg章1新_AvgDialog_C_M.csv,905,AvgDialog,Content,,他们告诉莎拉小姐，他的病情严重，但有位好心的先生愿意领养他并支付全额手术费用。,"그들은 사라 선생님에게 트요그의 병세가 심각하지만, 한 친절한 신사가 그를 입양하고 수술비 전액을 부담할 것이라고 말했어요."
+AvgDialog_18900_Content_25,afqQ,avg章1新_AvgDialog_C_M.csv,906,AvgDialog,Content,,我知道，那都是谎话，但莎拉小姐千恩万谢地相信了。,"저조차도 그게 거짓말이라는 것을 알 수 있었지만, 사라 선생님은 감사함에 눈물을 흘리며 그대로 믿었어요."
+AvgDialog_18900_Content_26,afqR,avg章1新_AvgDialog_C_M.csv,907,AvgDialog,Content,,为什么，为什么会这样……,"어째서, 어째서 이런 일이..."
+AvgDialog_18900_Content_27,afqS,avg章1新_AvgDialog_C_M.csv,908,AvgDialog,Content,,我神思恍惚地徘徊在走廊上，撞上了一个高挑的身影。,"저는 혼미한 정신으로 복도를 걷다가, 키 큰 그림자와 부딪혔어요."
+AvgDialog_18900_Content_28,afqT,avg章1新_AvgDialog_C_M.csv,909,AvgDialog,Content,？？？（梅森）,小妹妹，请问新医护区怎么走？,"안녕, 꼬마 아가씨, 새 의료 구역으로 가는 길을 아니?"
+AvgDialog_18900_Content_29,afqU,avg章1新_AvgDialog_C_M.csv,910,AvgDialog,Content,,"自从病人越来越多，莎拉小姐就把医护区搬到了济贫院东边的小楼。
+那里地方宽敞，能容纳更多临时床位。","환자가 점점 늘어나면서, 사라 양은 의료 구역을 빈민원 동쪽의 작은 건물로 옮겼어요. 거기는 넓어서 더 많은 임시 침대를 둘 수 있었거든요."
+AvgDialog_18900_Content_30,afqW,avg章1新_AvgDialog_C_M.csv,911,AvgDialog,Content,艾继丝,"姐姐，你能不能不要去医护区？
+那里、那里很危险……","의, 의료 구역에는 가지 마세요. 거기는... 거기는 너무 위험해요……"
+AvgDialog_18900_Content_31,afqX,avg章1新_AvgDialog_C_M.csv,912,AvgDialog,Content,？？？（梅森）,好孩子，你为什么这么说？,"어머, 왜 그렇게 말하는 거니?"
+AvgDialog_18900_Content_32,afqY,avg章1新_AvgDialog_C_M.csv,913,AvgDialog,Content,艾继丝,"我不知道，我不知道，对不起……
+医护区在东边。","모르겠어요, 모르겠어요, 죄송해요... 의료 구역은 동쪽이에요."
+AvgDialog_18900_Content_33,afqZ,avg章1新_AvgDialog_C_M.csv,914,AvgDialog,Content,？？？（梅森）,"谢谢你。
+你看起来有很多烦恼，如果想要诉说的话，欢迎来找我哦。",고마워. 고민이 많은 것 같네. 말하고 싶다면 언제든 나를 찾아와도 좋아.
+AvgDialog_18900_Content_34,afra,avg章1新_AvgDialog_C_M.csv,915,AvgDialog,Content,？？？（梅森）,我有个妹妹，和你差不多大……,나도 네 또래의 여동생이 있거든...
+AvgDialog_18900_Content_35,afrb,avg章1新_AvgDialog_C_M.csv,916,AvgDialog,Content,,女人朝着东边走去，显眼的红色缎带随着她的步履轻柔摆荡。,"언니는 동쪽을 향해 걸어갔고, 눈에 띄는 붉은색 리본이 걸음에 따라 부드럽게 흔들렸어요."
+AvgDialog_18900_Content_36,afrc,avg章1新_AvgDialog_C_M.csv,917,AvgDialog,Content,,那是我最后一次见到詹金的姐姐。那天之后，她就消失了。,"그게 제가 마지막으로 본 젠킨의 언니의 모습이었어요. 그날 이후, 언니는 사라졌어요."
+AvgDialog_18900_Content_37,afrd,avg章1新_AvgDialog_C_M.csv,918,AvgDialog,Content,,我知道，那些人从我的眼睛中看到了一切。,저는 그 사람들이 제 눈을 통해 모든 걸 보고 있다는 것을 알고 있었어요.
+AvgDialog_18900_Content_38,afre,avg章1新_AvgDialog_C_M.csv,919,AvgDialog,Content,,我小心地用眼罩将眼睛遮挡起来。,그래서 저는 안대로 눈을 가렸죠.
+AvgDialog_18900_Content_39,afrf,avg章1新_AvgDialog_C_M.csv,920,AvgDialog,Content,,但这并不能阻挡噩梦的降临。,하지만 그래도 악몽이 찾아오는 걸 막을 수는 없었어요.
+AvgDialog_18900_Content_40,afrh,avg章1新_AvgDialog_C_M.csv,921,AvgDialog,Content,艾继丝,唔……这里是……,윽... 여기는...
+AvgDialog_18900_Content_41,afri,avg章1新_AvgDialog_C_M.csv,922,AvgDialog,Content,,强烈的灯光让人不自觉地想要闭上眼睛，我试图眨眼，却发现自己无法做到。,"강렬한 조명이 때문에 눈을 감으려 했어요. 하지만, 감을 수 없었어요."
+AvgDialog_18900_Content_42,afrj,avg章1新_AvgDialog_C_M.csv,923,AvgDialog,Content,,有什么固定住了我的眼睛。,무언가가 제 눈을 고정하고 있었죠.
+AvgDialog_18900_Content_43,afrk,avg章1新_AvgDialog_C_M.csv,924,AvgDialog,Content,,一个身穿白衣，拿着一把纤细的刀的男人出现在视野中，并慢慢靠近我。,"희고 깨끗한 옷을 입은 남자가, 가느다란 칼을 손에 들고 제 시야에 들어왔어요. 그리고 천천히 제 쪽으로 다가왔어요."
+AvgDialog_18900_Content_44,afrl,avg章1新_AvgDialog_C_M.csv,925,AvgDialog,Content,艾继丝,不、不要，莎拉小姐，莎拉小姐！,"시, 싫어... 사라 선생님, 사라 선생님!"
+AvgDialog_18900_Content_45,afrm,avg章1新_AvgDialog_C_M.csv,926,AvgDialog,Content,艾继丝,莎拉小姐！提尤格！救命！救救我！<Big:救救我！>,사라 선생님! 트요그! 살려주세요! <Big:살려주세요!>
+AvgDialog_18900_Content_46,afrn,avg章1新_AvgDialog_C_M.csv,927,AvgDialog,Content,,"刀尖越来越近，越来越近，直到占据了全部视野。
+然后——","칼끝이 점점 더 가까워졌어요. 더, 더 가까이. 그리고 제 시야 전체를 덮었어요. 그리고—"
+AvgDialog_18900_Content_47,afro,avg章1新_AvgDialog_C_M.csv,928,AvgDialog,Content,艾继丝,<Shake:啊————！>,<Shake:아아아———!>
+AvgDialog_18900_Content_48,afrp,avg章1新_AvgDialog_C_M.csv,929,AvgDialog,Content,,"好黑，好冷，就像在十二月的伊希斯河里泡了一夜那么冷。
+我想爬起来，但全身发麻，根本没办法动弹。","어둡고, 차가웠어요. 마치 12월의 이시스 강물 속에 하룻밤 잠겨 있던 것만 같은 냉기. 일어나고 싶었지만, 몸 전체의 감각이 사라져 있었어요."
+AvgDialog_18900_Content_49,afrq,avg章1新_AvgDialog_C_M.csv,930,AvgDialog,Content,艾继丝,好痛……眼睛好难受……,아파... 눈이 너무 아파...
+AvgDialog_18900_Content_50,afrs,avg章1新_AvgDialog_C_M.csv,931,AvgDialog,Content,,"医生把什么东西塞进了我的眼睛里，然后，然后，我看见了颜色。
+像小麦克打翻的调色盘一样，混在一起的颜色。","의사가 뭔가를 제 눈 속에 밀어 넣었어요. 그 후로, 저는 색을 보았어요. 맥이 엎지른 팔레트처럼 섞여 마구 번져 있는 색."
+AvgDialog_18900_Content_51,afrt,avg章1新_AvgDialog_C_M.csv,932,AvgDialog,Content,艾继丝,莎拉小姐……提尤格……我好痛……好难受……,"사라 선생님… 트요그… 아파, 너무 아파요..."
+AvgDialog_18900_Content_52,afru,avg章1新_AvgDialog_C_M.csv,933,AvgDialog,Content,,它们会动…颜色在动！像虫子一样钻到了我的眼睛里。除了那些颜色，我什么都看不见了。,"색이 움직이고 있었어요. 색이 꿈틀거리고 있었어요. 벌레처럼 제 눈 속으로 파고들었어요. 그 색 말고는, 아무것도 보이지 않았어요."
+AvgDialog_18900_Content_53,afrv,avg章1新_AvgDialog_C_M.csv,934,AvgDialog,Content,艾继丝,我错了，我不应该去请求别人的帮助……,제 잘못이에요. 다른 사람에게 도움을 청하면 안 됐는데.
+AvgDialog_18900_Content_54,afrw,avg章1新_AvgDialog_C_M.csv,935,AvgDialog,Content,,颜色一定冲到了我的脑子里，我感觉我好像马上就不再是我自己……,"색이 제 머릿속으로 밀려 들어왔고, 곧 저는 ""저 자신""이 아니게 될 것 같은 느낌이 들었어요."
+AvgDialog_18900_Content_55,afrx,avg章1新_AvgDialog_C_M.csv,936,AvgDialog,Content,艾继丝,帮…帮我……,도... 도와주세요...
+AvgDialog_18900_Content_56,afry,avg章1新_AvgDialog_C_M.csv,937,AvgDialog,Content,,在我快要晕过去的时候，他们又往我的眼睛里放了什么东西，颜色被一片银光盖了过去。,"거의 의식을 잃어가던 순간, 그들은 제 눈에 또 무언가를 넣었어요. 그리고 그 색들은 은빛에 뒤덮여 사라졌어요."
+AvgDialog_18900_Content_57,afrz,avg章1新_AvgDialog_C_M.csv,938,AvgDialog,Content,,冰凉凉的，虽然还是很痛，但突然一下，我好像又变回了我自己。,"여전히 얼음처럼 차가웠어요. 여전히 아팠구요. 하지만, 갑자기 저는 다시 ""저 자신""이 된 것 같았어요."
+AvgDialog_18900_Content_58,afrA,avg章1新_AvgDialog_C_M.csv,939,AvgDialog,Content,悠远的声音,不要害怕，我会帮助你的。,...겁내지 마렴. 내가 너를 도와줄게.
+AvgDialog_18900_Content_59,afrB,avg章1新_AvgDialog_C_M.csv,940,AvgDialog,Content,艾继丝,你是……谁……？,누구…세요…?
+AvgDialog_18900_Content_60,afrD,avg章1新_AvgDialog_C_M.csv,941,AvgDialog,Content,悠远的声音,……,......
+AvgDialog_18900_Content_61,afrE,avg章1新_AvgDialog_C_M.csv,942,AvgDialog,Content,悠远的声音,"这不重要，孩子。
+来，跟随我的节奏，我们一起抵抗<Yellow:异物>的控制。","그건 중요하지 않단다, 아이야. 자, 내 박자를 따라, 우리 함께 <Yellow:이물>의 지배에 저항하자."
+AvgDialog_18900_Content_62,afrF,avg章1新_AvgDialog_C_M.csv,943,AvgDialog,Content,,在声音的帮助下，除了疼痛外，我变得不那么难受了，也可以开始思考了。,"그 목소리의 도움으로, 고통은 여전했지만, 저는 조금은 덜 괴로워졌고, 다시 생각할 수 있게 되었어요."
+AvgDialog_18900_Content_63,afrG,avg章1新_AvgDialog_C_M.csv,944,AvgDialog,Content,,不知道过了多久，久到皮肤都开始感觉麻木，我才终于再次听见了医生的声音。,"얼마나 시간이 지났는지 모르겠어요. 피부의 감각조차 무뎌질 정도로 오래 지나고서야, 비로소 다시 의사의 목소리를 들렸어요."
+AvgDialog_18900_Content_64,afrH,avg章1新_AvgDialog_C_M.csv,945,AvgDialog,Content,米勒博士,"能看见@2的眼睛，简直就是最好的素材。
+要不是这个小子总挡着，早就该拿来做实验了。","@2을 볼 수 있는 눈이라니, 이것보다 완벽한 소재는 없지. 그 꼬마가 매번 가로막지만 않았으면, 진즉 실험에 썼을 텐데."
+AvgDialog_18900_Content_65,afrI,avg章1新_AvgDialog_C_M.csv,946,AvgDialog,Content,？？？,现在也不晚，博士，我们终于成功完成了异体银芯植入，这值得庆祝！,"지금도 늦지 않았습니다, 박사님. 저희는 드디어 이종 은핵 이식에 성공했습니다. 축하할 만한 성과입니다!"
+AvgDialog_18900_Content_66,afrJ,avg章1新_AvgDialog_C_M.csv,947,AvgDialog,Content,？？？,@4的意识和受体融合很成功，石化的效果略有偏差，但只要受体意识继续削弱……,"@4의 의식과 수용체의 융합은 아주 훌륭해. 석화 효과가 조금 어긋났지만, 수용체의 의식을 계속 약화시킨다면..."
+AvgDialog_18900_Content_67,afrK,avg章1新_AvgDialog_C_M.csv,948,AvgDialog,Content,米勒博士,这都要谢谢那个愚蠢的<Yellow:调查员>自己送上门来，为我们提供了这么优质的银芯，这才降低了排异反应。,"이게 다 그 멍청한 <Yellow:조사원>이 알아서 굴러 들어와 준 덕이지. 그렇게 훌륭한 은핵을 제공해 준 덕분에, 거부 반응도 크게 줄었어."
+AvgDialog_18900_Content_68,afrL,avg章1新_AvgDialog_C_M.csv,949,AvgDialog,Content,,那些研究员围着我，兴奋地说着什么。受体？排异？调查员？那都是些什么？,연구원들은 제 주변을 둘러싸고 흥분된 목소리로 무언가 말하고 있었어요. 수용체? 거부 반응? 조사원? 그게 도대체 뭐지?
+AvgDialog_18900_Content_69,afrM,avg章1新_AvgDialog_C_M.csv,950,AvgDialog,Content,米勒博士,怎么样，孩子？来试一试吧，只要一眼，你最好的朋友，会以你最喜欢的形态陪在你身边哦。,"어때, 꼬마야? 또 하나 시도해보자. 딱 한 번만 보면 돼. 네가 가장 좋아하는 모습으로, 네 가장 소중한 친구가 네 곁에서 함께할 거야."
+AvgDialog_18900_Content_70,afrO,avg章1新_AvgDialog_C_M.csv,951,AvgDialog,Content,,他们把固定眼睛的器械调得更紧了，只要想眨眼，钩子就会扎穿眼皮。,"그들은 제 눈을 고정한 기구를 더욱 꽉 조였어요. 조금이라도 깜박이려 하면, 갈고리가 눈꺼풀을 뚫을 정도였죠."
+AvgDialog_18900_Content_71,afrP,avg章1新_AvgDialog_C_M.csv,952,AvgDialog,Content,,"他们将一把椅子推到了我的面前。
+被束缚在椅子上的，是我最好的朋友——",그들은 제 앞에 의자를 하나 밀어 놓았어요. 그 의자에 묶여 있는 건—저의 가장 소중한 친구였어요.
+AvgDialog_18900_Content_72,afrQ,avg章1新_AvgDialog_C_M.csv,953,AvgDialog,Content,艾继丝,提……提尤格……？,트... 트요그...?
+AvgDialog_18900_Content_73,afrR,avg章1新_AvgDialog_C_M.csv,954,AvgDialog,Content,,提尤格被我惊醒，惊讶地抬起头来，然后环顾四周。,트요그는 제 목소리에 놀라 고개를 들었어요. 그리고 주위를 둘러보았죠.
+AvgDialog_18900_Content_74,afrS,avg章1新_AvgDialog_C_M.csv,955,AvgDialog,Content,提尤格,艾继丝！你们放了我，放了她！,아이기스! 이거 풀어! 그녀를 풀어줘!
+AvgDialog_18900_Content_75,afrT,avg章1新_AvgDialog_C_M.csv,956,AvgDialog,Content,艾继丝,别动，别动！提尤格，你别看我！！,"안 돼, 안 돼! 트요그, 나를 보지 마!!"
+AvgDialog_18900_Content_76,afrU,avg章1新_AvgDialog_C_M.csv,957,AvgDialog,Content,,"提尤格哭喊，挣扎，但无济于事。
+他的动作逐渐僵硬，像跑不动的时针一样慢慢停了下来。","트요그는 울부짖으며 몸부림쳤지만, 아무 소용이 없었어요. 그의 움직임은 점점 굳어 갔고, 마치 멈추어버린 시침처럼 느리게 정지했어요."
+AvgDialog_18900_Content_77,afrV,avg章1新_AvgDialog_C_M.csv,958,AvgDialog,Content,,仿佛接受了命运一般，他安静地看着我，和我四目相对，然后——,"운명을 받아들인 사람처럼, 트요그는 조용히 저를 바라보았어요. 그리고 저와 눈을 맞추고—"
+AvgDialog_18900_Content_78,afrW,avg章1新_AvgDialog_C_M.csv,959,AvgDialog,Content,,他开始褪色，像莎拉小姐洗旧的裙子一样变得黯淡。糖浆从他的皮肤里冒了出来，盖在了变得和石头一样的身体上。,"트요그는 서서히 색을 잃었어요. 마치 사라 선생님의 낡은 원피스처럼 칙칙하게 바래 갔죠. 달콤한 시럽이 그의 피부 아래에서 솟구쳐 올라, 돌처럼 굳어가는 몸 위에 덮였고..."
+AvgDialog_18900_Content_79,afrX,avg章1新_AvgDialog_C_M.csv,960,AvgDialog,Content,,在我的<Yellow:瞳孔>的注视下，它，或者他，吐出了最后一口气。,"제 <Yellow:눈동자>의 응시 아래에서, 그건, 혹은 그는, 마지막 숨을 토해냈어요."
+AvgDialog_18900_Content_80,afrZ,avg章1新_AvgDialog_C_M.csv,961,AvgDialog,Content,提尤格,艾……继丝……,아이... 기스...
+AvgDialog_18900_Content_81,afsa,avg章1新_AvgDialog_C_M.csv,962,AvgDialog,Content,艾继丝,<Big:提尤格——！！>,<Big:트요그——!!>
+AvgDialog_18894_Content_1,afng,avg章1新_AvgDialog_C_M.csv,963,AvgDialog,Content,,飞鸟不在的夜,새들이 없는 밤
+AvgDialog_18894_Content_2,afnl,avg章1新_AvgDialog_C_M.csv,964,AvgDialog,Content,艾继丝,这就是我的……罪。,이것이 제... 죄에요.
+AvgDialog_18894_Content_3,afnm,avg章1新_AvgDialog_C_M.csv,965,AvgDialog,Content,,艾继丝顿了顿，合上眼。,아이기스는 잠시 멈춰 눈을 감았다.
+AvgDialog_18894_Content_4,afnn,avg章1新_AvgDialog_C_M.csv,966,AvgDialog,Content,艾继丝,我是杀死提尤格的凶手，我把小威利变成了糖人，我是真正的济贫院幽灵。,제가 트요그를 죽였어요. 제가 윌리를 설탕 인형으로 만들었어요. 제가 진짜 빈민원의 유령이에요.
+AvgDialog_18894_Content_5,afno,avg章1新_AvgDialog_C_M.csv,967,AvgDialog,Content,艾继丝,从那以后，一直都有东西想要控制我的身体。最开始，幸好有<Yellow:安德森先生>在帮我，他一直在我的眼睛里，教我怎么抵抗黑暗。,"그 이후로, 제 몸을 조종하려 드는 무언가가 계속 있었어요. 처음에는, 다행히 <Yellow:앤더슨 선생님>이 제 곁에 있어주었죠. 그분은 늘 제 눈 속에서, 어둠에 맞서는 방법을 가르쳐줬어요."
+AvgDialog_18894_Content_6,afnp,avg章1新_AvgDialog_C_M.csv,968,AvgDialog,Content,艾继丝,但他的声音变得越来越弱，到最后，每到<Yellow:起雾的夜里>我都会失去控制……都怪我，都怪我。,"하지만 그 목소리는 점점 약해졌고, 결국 <Yellow:안개 끼는 밤>만 되면 저는 통제력을 잃어버리게 되었죠... 다 제 잘못이에요, 다 제 탓이에요."
+AvgDialog_18894_Content_7,afnq,avg章1新_AvgDialog_C_M.csv,969,AvgDialog,Content,艾继丝,我试过戴眼罩，试过把自己捆在床上，但都没有用。白天里我怎么努力都纹丝不动的布条，那股力量在夜里轻松就能挣开。,"안대를 써보기도 했고, 스스로를 침대에 묶어보기도 했어요. 하지만 소용없었죠. 낮에는 아무리 애써도 꼼짝도 하지 않던 천이, 밤이 되면 그 힘은 너무나 가볍게 그것을 찢어냈어요."
+AvgDialog_18894_Content_8,afnr,avg章1新_AvgDialog_C_M.csv,970,AvgDialog,Content,,艾继丝轻轻抚摸自己被摩擦得红肿的手腕。,아이기스는 새빨갛게 부어오른 손목을 조심스럽게 어루만졌다.
+AvgDialog_18894_Content_9,afns,avg章1新_AvgDialog_C_M.csv,971,AvgDialog,Content,艾继丝,"莎拉小姐，一定也已经发现了什么吧？
+所以她那么急切、那么急切地想让医生治好我。","사라 선생님도, 무언가를 눈치채신 거겠죠? 그래서 그렇게, 그렇게까지 다급하게 의사를 불러 저를 고치려고 했던 거에요."
+AvgDialog_18894_Content_10,afnh,avg章1新_AvgDialog_C_M.csv,972,AvgDialog,Content,艾继丝,我已经不能再止步不前了。,나는 더 이상 가만히 있을 수 없어요.
+AvgDialog_18894_Content_11,afni,avg章1新_AvgDialog_C_M.csv,973,AvgDialog,Content,艾继丝,"我不想看见莎拉小姐、小麦克、詹金、你们……
+我认识的每个人，一个个变成像提尤格那样，不会动的石头。","사라 선생님도, 맥도, 젠킨도, 여러분도... 제가 아는 모든 사람들이, 트요그처럼 움직이지 못하는 돌덩이로 변하는 걸, 저는 보고 싶지 않아요."
+AvgDialog_18894_Content_12,afnj,avg章1新_AvgDialog_C_M.csv,974,AvgDialog,Content,,哽咽地说完这句话，艾继丝转头，奔向地下室的出口。,"말을 마친 후, 목이 멘 아이기스는 몸을 돌려 지하실의 출구를 향해 뛰기 시작했다."
+AvgDialog_18894_Content_13,afnk,avg章1新_AvgDialog_C_M.csv,975,AvgDialog,Content,玩家,拦住她！,아이기스를 막아!
+AvgDialog_22145_Content_1,aihl,avg章1新_AvgDialog_C_M.csv,976,AvgDialog,Content,艾继丝,求求你们……我不值得你们这么做……,부탁이에요... 전 그럴 가치가 있는 사람이 아니에요...
+AvgDialog_22145_Content_2,aihm,avg章1新_AvgDialog_C_M.csv,977,AvgDialog,Content,玩家,艾继丝，我能帮你！我们能让精神稳定下来！,"아이기스, 나는 널 도와줄 수 있어! 정신을 안정시킬 수 있을 거야!"
+AvgDialog_22145_Content_3,aihn,avg章1新_AvgDialog_C_M.csv,978,AvgDialog,Content,,为了佐证自己的话，你从斗篷下掏出了银钥——那上面正闪耀着温暖的光，一如雨露，一如阳光。,"그 말을 증명하듯 당신은 망토 아래에서 은열쇠를 꺼냈다. ——그 열쇠는 마치 이슬처럼, 햇살처럼 따스한 빛을 머금고 있었다."
+AvgDialog_22145_Content_4,aiho,avg章1新_AvgDialog_C_M.csv,979,AvgDialog,Content,艾继丝,钥匙……安德森先生提到过……,열쇠... 앤더슨 선생님이 말했던...
+AvgDialog_22145_Content_5,aihp,avg章1新_AvgDialog_C_M.csv,980,AvgDialog,Content,艾继丝,<LightGray:但是…来不及了……真的来不及了……>,"<LightGray:하지만... 너무 늦었어요... 이젠 정말, 시간이 없어요...>"
+AvgDialog_22145_Content_6,aihq,avg章1新_AvgDialog_C_M.csv,981,AvgDialog,Content,拉蒙娜,她往钟楼的方向去了！追上她！,시계탑 쪽으로 갔어! 쫓아가자!
+AvgDialog_18913_Content_1,afBk,avg章1新_AvgDialog_C_M.csv,982,AvgDialog,Content,,你们终于追上了女孩。艾继丝被你们合力制住，你急切地伸出手去，拉住她的手臂，一手按住银钥匙，准备完成链接。,"마침내 당신은 아이기스를 따라잡았다. 아이기스는 일행에 의해 제압되었고, 당신은 초조하게 손을 뻗어 그녀의 팔을 잡고, 한 손으로 은열쇠를 쥔 채 링크을 완성할 준비를 했다."
+AvgDialog_18913_Content_2,afBv,avg章1新_AvgDialog_C_M.csv,983,AvgDialog,Content,艾继丝,"别这样，求求你……
+我知道……",그러지 마세요... 제발... 전 알아요...
+AvgDialog_18913_Content_3,afBC,avg章1新_AvgDialog_C_M.csv,984,AvgDialog,Content,,你被拖入黑暗之中。,당신은 어둠 속으로 끌려들어 갔다.
+AvgDialog_18913_Content_4,afBD,avg章1新_AvgDialog_C_M.csv,985,AvgDialog,Content,,滚烫、炽热的黑暗，像是融化的糖浆，裹缠在你的身上，将你紧紧束缚其中。,"뜨겁고, 타오르는 어둠. 녹아내린 당밀처럼 당신의 몸을 휘감고 단단히 옭아매는 어둠."
+AvgDialog_18913_Content_5,afBE,avg章1新_AvgDialog_C_M.csv,986,AvgDialog,Content,？？？,<Italic:老查理有一只他很爱很爱的虎斑猫……>,<Italic:찰리 할아버지에게는 아주아주 아끼는 얼룩 고양이가 있었네...>
+AvgDialog_18913_Content_6,afBF,avg章1新_AvgDialog_C_M.csv,987,AvgDialog,Content,,疼痛感从体表传来，最初像是蚂蚁的噬咬，然后渐渐剧烈，像是无数根针同时刺入你的每一寸皮肤——,"통증이 피부 위로 밀려왔다. 처음엔 개미가 갉아먹는 듯했지만, 곧 수없이 많은 바늘이 당신의 모든 피부를 동시에 관통하는 고통으로 번졌다——"
+AvgDialog_18913_Content_7,afBG,avg章1新_AvgDialog_C_M.csv,988,AvgDialog,Content,,链接剧烈地绷断了。,링크는 처참하게 끊어졌다.
+AvgDialog_18913_Content_8,afBH,avg章1新_AvgDialog_C_M.csv,989,AvgDialog,Content,,你忍受着剧痛，左手扶着银钥匙，颤抖着再次将右手搭上艾继丝的胳膊。,"당신은 극심한 통증을 견디며 왼손으로 은열쇠를 붙잡고, 떨리는 손으로 다시 한 번 아이기스의 팔에 오른손을 올려놓았다."
+AvgDialog_18913_Content_9,afBI,avg章1新_AvgDialog_C_M.csv,990,AvgDialog,Content,艾继丝,来不及的……,이미 늦었어요...
+AvgDialog_18913_Content_10,afBl,avg章1新_AvgDialog_C_M.csv,991,AvgDialog,Content,奥吉尔,不会的，不会的，艾继丝，你相信我们，弥萨格大学遇到过比这还要危险得多的情况……,"아니, 아니야, 아이기스. 우리를 믿어. 미사그 대학은 이보다 더 위험한 상황도 겪어냈어..."
+AvgDialog_18913_Content_11,afBm,avg章1新_AvgDialog_C_M.csv,992,AvgDialog,Content,艾继丝,真的吗？奥吉尔……你看他们的身体。,정말로요? 오지에... 그들의 몸을 보세요.
+AvgDialog_18913_Content_12,afBn,avg章1新_AvgDialog_C_M.csv,993,AvgDialog,Content,,"奥吉尔扭头看向仍在坚持的守密人和拉蒙娜。
+他们的体表，正在渗出异色的汗水——那不是汗水，是细密的糖浆。","오지에는 고개를 돌려, 아직 버티고 있는 수호자와 라모나를 바라보았다. 그들의 피부 표면에서 이상한 색의 액체가 배어 나오고 있었다. 그건 땀이 아니었다. 끈적하고 고운 시럽이었다."
+AvgDialog_18913_Content_13,afBo,avg章1新_AvgDialog_C_M.csv,994,AvgDialog,Content,艾继丝,安德森先生的声音消失后，我眼睛里的颜色、我的身体都在逐渐失控。即使我不用眼睛去注视，身边的人也会渐渐变成不能动的石头。,"앤더슨 선생님의 목소리가 사라진 이후로, 제 눈 속의 색도, 제 몸도 점점 통제가 안 돼요. 제가 눈으로 바라보지 않아도, 주변 사람들은 서서히 움직이지 못하는 돌로 변해버리고 말아요."
+AvgDialog_18913_Content_14,afBp,avg章1新_AvgDialog_C_M.csv,995,AvgDialog,Content,艾继丝,我还能坚持多久？一年、一个月、一天、一小时？,제가 얼마나 더 버틸 수 있을까요? 일 년? 한 달? 하루? 한 시간?
+AvgDialog_18913_Content_15,afBq,avg章1新_AvgDialog_C_M.csv,996,AvgDialog,Content,艾继丝,难道我要永远躲在大家身后，等到残存的一切都无法挽回的时候，再采取行动吗？,정말로 제가 할 수 있는 일은 모두의 뒤에 숨어 모든 게 완전히 되돌릴 수 없게 되는 순간까지 기다리는 것뿐일까요?
+AvgDialog_18913_Content_16,afBr,avg章1新_AvgDialog_C_M.csv,997,AvgDialog,Content,艾继丝,这一次，我想要像提尤格、像詹金、像你一样勇敢。,"이번에는 트요그처럼, 젠킨처럼, 당신처럼 용감해지고 싶어요."
+AvgDialog_18913_Content_17,afBs,avg章1新_AvgDialog_C_M.csv,998,AvgDialog,Content,艾继丝,"奥吉尔，你不是骑士吗？那你应该明白的。
+即使我留下来，也注定是被骑士审判的罪人。","오지에, 당신은 기사잖아요? 그럼 아시겠죠. 제가 남아있어도, 결국 저는 기사의 심판을 받게 될 죄인이에요."
+AvgDialog_18913_Content_18,afBt,avg章1新_AvgDialog_C_M.csv,999,AvgDialog,Content,,奥吉尔怔住了。,오지르는 굳어버렸다.
+AvgDialog_18913_Content_19,afBu,avg章1新_AvgDialog_C_M.csv,1000,AvgDialog,Content,艾继丝,奥吉尔，你说过……能否得到救赎，取决于我自己。,"오지에, 당신은 말했죠... 구원받을 수 있는지는, 저 자신에게 달려 있다고."
+AvgDialog_18913_Content_20,afBw,avg章1新_AvgDialog_C_M.csv,1001,AvgDialog,Content,艾继丝,现在…能请你看着我吗，看着我的灵魂……是否能被救赎。,지금... 저를 봐 주실 수 있나요? 제 영혼이... 구원받을 수 있는지.
+AvgDialog_18913_Content_21,afBx,avg章1新_AvgDialog_C_M.csv,1002,AvgDialog,Content,,奥吉尔注视着艾继丝那唯一的一只正常的瞳孔，犹豫片刻后，郑重地松开了手。,"오지르는 유일하게 남아있는 아이기스의 정상적인 눈동자를 바라보았다. 그리고 잠시 머뭇거리고는, 조심스럽게, 손을 놓았다."
+AvgDialog_18913_Content_22,afBy,avg章1新_AvgDialog_C_M.csv,1003,AvgDialog,Content,,随着他的动作，艾继丝脱离了你的链接控制。,"오지에의 움직임과 함께, 아이기스는 당신의 링크에서 벗어났다."
+AvgDialog_18913_Content_23,afBz,avg章1新_AvgDialog_C_M.csv,1004,AvgDialog,Content,,刹那间，女孩的躯体急剧膨胀，皮肉宛如沸腾了一样鼓起大大小小的圆形鼓包，很快便封住了现在的楼梯口，并顶在高高的天花板上。,"그 순간, 소녀의 몸이 급격히 팽창했다. 피부는 마치 끓어오르듯 크고 작은 원형의 혹으로 뒤덮였고, 곧 이 층의 입구를 완전히 봉쇄한 채 높은 천장까지 닿았다."
+AvgDialog_18913_Content_24,afBA,avg章1新_AvgDialog_C_M.csv,1005,AvgDialog,Content,,肢体扭曲弯折的可怖声响中，女孩的声音仅有一丝残存。,"뒤틀리고 꺾여가는 팔다리에서 끔찍한 소리가 울렸다. 그 속에서 소녀의 목소리가 희미하게, 마지막 잔재처럼 흘러나왔다."
+AvgDialog_18913_Content_25,afBB,avg章1新_AvgDialog_C_M.csv,1006,AvgDialog,Content,艾继丝怪,<Shake:快……跑……>,<Shake:어서... 도망...>
+AvgDialog_18896_Content_1,afoe,avg章1新_AvgDialog_C_M.csv,1007,AvgDialog,Content,,朦胧中，神秘的声音在女孩的耳畔响起。,흐릿한 의식 속 신비한 목소리가 소녀의 귓가에 울렸다.
+AvgDialog_18896_Content_2,afof,avg章1新_AvgDialog_C_M.csv,1008,AvgDialog,Content,神秘声音,"放弃吧，闭上眼，一切都交给我。
+莎拉，小麦克……济贫院的所有人都会成为美，成为永恒。","포기하고, 눈을 감아. 모든 걸 나에게 맡기면 돼. 사라도, 맥도... 빈민원의 모두가 아름다움이 되고, 영원이 될 수 있어."
+AvgDialog_18896_Content_3,afog,avg章1新_AvgDialog_C_M.csv,1009,AvgDialog,Content,艾继丝,不可以，不可以，这一次，我绝对绝对……不会再被你控制了……,"안 돼, 안 돼. 이번에는, 이번만큼은 절대, 절대... 지지 않을 거야..."
+AvgDialog_18896_Content_4,afoh,avg章1新_AvgDialog_C_M.csv,1010,AvgDialog,Content,神秘声音,反抗？没有那个烦人家伙的帮助，你的精神可快撑不住了。如果不是这样，我也没办法在你清醒的时候对你施加影响。,저항하려고? 그 귀찮은 놈이 없으면 네 정신은 금방 무너질 거야. 그게 아니었다면 나는 네가 깨어있을 때 이만큼 깊이 영향을 주지 못했겠지.
+AvgDialog_18896_Content_5,afoi,avg章1新_AvgDialog_C_M.csv,1011,AvgDialog,Content,神秘声音,不如就这么放弃吧，然后，你就可以帮我，把这里的所有人，都变成宝贵的素材。,"포기해. 그러면, 넌 나를 도와 여기 있는 모든 이들을 귀중한 소재로 만들 수 있어."
+AvgDialog_18896_Content_6,afoj,avg章1新_AvgDialog_C_M.csv,1012,AvgDialog,Content,艾继丝,我不会放弃的！安德森先生也不是什么烦人的家伙！,나는 포기하지 않아! 앤더슨 선생님은 귀찮은 사람이 아니야!
+AvgDialog_18896_Content_7,afok,avg章1新_AvgDialog_C_M.csv,1013,AvgDialog,Content,艾继丝,他保护了我…我也想要保护大家，保护莎拉小姐，保护小麦克，保护詹金。也保护外面来的大哥哥、大姐姐。,"앤더슨 선생님은 나를 지켜줬어... 이제 나도 모두를 지키고 싶어. 사라 선생님도, 맥도, 젠킨도. 그리고 밖에서 온 오빠, 언니도."
+AvgDialog_18896_Content_8,afol,avg章1新_AvgDialog_C_M.csv,1014,AvgDialog,Content,艾继丝,我要保护他们，哪怕，哪怕要付出一切——,"난 모두를 지킬 거야. 설령, 설령 모든 걸 바치더라도——"
+AvgDialog_18897_Content_1,afom,avg章1新_AvgDialog_C_M.csv,1015,AvgDialog,Content,神秘声音,怎么样，发现了吗？即使你再怎么努力挣扎，即使你决意付出一切，发生在你身上的变化也不会停止。,"어때, 느껴지니? 네가 얼마나 몸부림치고, 얼마나 모든 걸 내놓으려 해도, 네 몸에 일어나는 변형은 멈추지 않아."
+AvgDialog_18897_Content_2,afos,avg章1新_AvgDialog_C_M.csv,1016,AvgDialog,Content,神秘声音,其实，每个人长大以后都会发现，世界就是这个样子，无论你如何努力、挣扎、反抗，都无法从包围你的环境之中脱身。,"사실, 어른이 되면 누구나 깨닫지. 세상이란 원래 그런 법이야. 네가 어떻게 발버둥치든, 네 주변을 둘러싼 환경에서 벗어날 수는 없어."
+AvgDialog_18897_Content_3,afot,avg章1新_AvgDialog_C_M.csv,1017,AvgDialog,Content,神秘声音,你还只是个孩子，不过我不介意提前告诉你这个道理。,"넌 아직 어린아이지만, 난 이 진실을 조금 일찍 알려주어도 된다고 생각해."
+AvgDialog_18897_Content_4,afou,avg章1新_AvgDialog_C_M.csv,1018,AvgDialog,Content,艾继丝,不，不是这样的……,아니야... 그런 게 아니야...
+AvgDialog_18897_Content_5,afov,avg章1新_AvgDialog_C_M.csv,1019,AvgDialog,Content,艾继丝,"因为我……已经不是一个人了……
+我会……相信他们！",왜냐하면... 나는 이제 혼자가 아니니까...! 나는... 모두를 믿어!
+AvgDialog_18897_Content_6,afow,avg章1新_AvgDialog_C_M.csv,1020,AvgDialog,Content,艾继丝,"%player%%brotherorsister1%、拉蒙娜姐姐、奥吉尔……
+他们和济贫院里的人不一样，他们很强大，一定可以消灭……","“%player% {Male=오빠,Female=언니}, 라모나 언니, 오지에... 그들은 빈민원의 사람들과 달라. 그들은 강해, 반드시... 없앨 수..."
+AvgDialog_18897_Content_7,afox,avg章1新_AvgDialog_C_M.csv,1021,AvgDialog,Content,,声音急不可耐地以冷笑打断了她的话语。,그 말은 다급한 냉소에 끊어졌다.
+AvgDialog_18897_Content_8,afoy,avg章1新_AvgDialog_C_M.csv,1022,AvgDialog,Content,神秘声音,"消灭我……？他们连我在那里都找不到吧？
+毕竟，连你都不知道我的所在。",나를 없앤다고...? 그들은 내가 어디에 있는지도 모를 텐데? 심지어 너조차 내가 어디 있는지 모르잖아.
+AvgDialog_18897_Content_9,afoz,avg章1新_AvgDialog_C_M.csv,1023,AvgDialog,Content,艾继丝,不，不是这样的……,아니야... 그게 아니야...
+AvgDialog_18897_Content_10,afon,avg章1新_AvgDialog_C_M.csv,1024,AvgDialog,Content,艾继丝,我相信他们，一定可以消灭……,나는 믿어. 그들이라면 죽일 수 있을 거야...
+AvgDialog_18897_Content_11,afoo,avg章1新_AvgDialog_C_M.csv,1025,AvgDialog,Content,艾继丝,<Red:我>。,<Red:나를>.
+AvgDialog_18897_Content_12,afop,avg章1新_AvgDialog_C_M.csv,1026,AvgDialog,Content,艾继丝,我都听到了，你们很难很难找到一个合适被做实验的孩子。,나는 다 들었어. 너희들은 실험에 적합한 아이를 찾기 어려웠다고 했지.
+AvgDialog_18897_Content_13,afoq,avg章1新_AvgDialog_C_M.csv,1027,AvgDialog,Content,艾继丝,你做的坏事已经被揭穿了。接下来，只要我不在了，他们一定都可以安安全全的，对吧？,"너희들이 저지른 악행은 이미 전부 드러났어. 그러니 이제, 내가 사라지기만 하면 그들은 모두 무사할 수 있을 거야... 그렇지?"
+AvgDialog_18897_Content_14,afor,avg章1新_AvgDialog_C_M.csv,1028,AvgDialog,Content,,神秘的声音没有作答。,신비한 목소리는 대답하지 않았다.
+AvgDialog_18912_Content_1,afzX,avg章1新_AvgDialog_C_M.csv,1029,AvgDialog,Content,,银钥匙剧烈闪烁，女孩猛然撑起身体，依稀听到什么东西撕裂的声音。,"은열쇠가 격렬하게 번쩍였고, 소녀는 몸을 들어 올렸다. 어딘가에서 무언가가 찢어지는 소리가 들렸다."
+AvgDialog_18912_Content_2,afAi,avg章1新_AvgDialog_C_M.csv,1030,AvgDialog,Content,,眼罩缓缓飘落，蠕动的色彩替代了黑暗，一个巨大的苍白瞳仁出现在她身下，像是已经注视着她很久。,"안대가 천천히 떨어졌고, 꿈틀대는 색채가 어둠을 대신했다. 거대한, 창백한 눈동자가 그녀의 아래에서 모습을 드러냈다. 마치 오래전부터 그녀를 응시해온 것처럼."
+AvgDialog_18912_Content_3,afAt,avg章1新_AvgDialog_C_M.csv,1031,AvgDialog,Content,艾继丝,你是……眼睛？是我的眼睛？,너는... 눈? 내 눈이야?
+AvgDialog_18912_Content_4,afAE,avg章1新_AvgDialog_C_M.csv,1032,AvgDialog,Content,艾继丝,不、不对！这感觉是……！是@2先生！,"아니, 아니야! 이 느낌은...! @2 선생님...!"
+AvgDialog_18912_Content_5,afAP,avg章1新_AvgDialog_C_M.csv,1033,AvgDialog,Content,艾继丝,真的可以把力量借给我吗？那你呢？,"정말 힘을 나눠줄 수 있어요? 그러면, 선생님은요...?"
+AvgDialog_18912_Content_6,afBa,avg章1新_AvgDialog_C_M.csv,1034,AvgDialog,Content,艾继丝,谢谢你…哪怕只有一会儿，我也……有话想要对他们说。,고마워요... 잠깐이라도 괜찮아요. 말하고 싶은 게 있어요...
+AvgDialog_18912_Content_7,afBh,avg章1新_AvgDialog_C_M.csv,1035,AvgDialog,Content,玩家,艾继丝，艾继丝！,"아이기스, 아이기스!"
+AvgDialog_18912_Content_8,afBi,avg章1新_AvgDialog_C_M.csv,1036,AvgDialog,Content,,艾继丝动了动，真正地睁开了眼睛。,아이기스는 미세하게 몸을 움직였다. 그리고 현실에서 눈을 떴다.
+AvgDialog_18912_Content_9,afBj,avg章1新_AvgDialog_C_M.csv,1037,AvgDialog,Content,,刺耳的哀嚎声后，怪物庞大的身躯溶解成黑色黏液，向下崩塌，黏液化作粉尘，向上飘扬着染黑了木质的房梁。,"날카로운 비명 같은 울음이 터진 뒤, 거대한 괴물의 몸은 검은 점액으로 녹아 무너졌다. 점액은 다시 가루로 산산이 흩어져 나무 천장을 검게 칠했다."
+AvgDialog_18912_Content_10,afzY,avg章1新_AvgDialog_C_M.csv,1038,AvgDialog,Content,,你也无力地跌坐在地上，强忍大脑一阵一阵的胀痛，及紧随其来的恶心感。,"당신 역시 힘이 빠져 그 자리에 주저앉았다. 뇌가 맥동하듯 조여오는 통증과, 곧이어 밀려오는 구토감을 필사적으로 참아내면서."
+AvgDialog_18912_Content_11,afzZ,avg章1新_AvgDialog_C_M.csv,1039,AvgDialog,Content,拉蒙娜,%player%！,%player%!
+AvgDialog_18912_Content_12,afAa,avg章1新_AvgDialog_C_M.csv,1040,AvgDialog,Content,朵尔,"精神力透支了吧？总是乱来的话，你可见证不到弥萨格的未来。
+坐下休息吧，精神力透支会影响你的感知能力。","정신력을 소진시켰어? 그렇게 항상 무리하면, 미사그의 미래를 볼 수 없을 거야. 앉아서 쉬어, 정신력 소진은 감각 능력에 영향을 주니까."
+AvgDialog_18912_Content_13,afAb,avg章1新_AvgDialog_C_M.csv,1041,AvgDialog,Content,玩家,别管我了，快去看看艾继丝。,"나는 괜찮으니까, 어서 아이기스를 보러 가 줘."
+AvgDialog_18912_Content_14,afAc,avg章1新_AvgDialog_C_M.csv,1042,AvgDialog,Content,,"液体蒸发一般的声音逐渐减弱，不一会儿就彻底消散。
+沾染了黑色黏液的地板上，女孩捂着单眼，静静地坐着。","액체가 증발하는 듯한 소리가 점점 약해지더니, 잠시 후 완전히 사라졌다. 검은 점액이 묻은 바닥 위에서 소녀는 한쪽 눈을 감싸 쥔 채 조용히 앉아 있었다."
+AvgDialog_18912_Content_15,afAd,avg章1新_AvgDialog_C_M.csv,1043,AvgDialog,Content,艾继丝,"拉蒙娜小姐……还有……%player%%sirormadam%。
+你们没事真是太好了。","라모나 씨... 그리고... %player% {Male=오빠,Female=언니}. 무사해서 정말 다행이에요."
+AvgDialog_18912_Content_16,afAe,avg章1新_AvgDialog_C_M.csv,1044,AvgDialog,Content,拉蒙娜,艾继丝……,아이기스...
+AvgDialog_18912_Content_17,afAf,avg章1新_AvgDialog_C_M.csv,1045,AvgDialog,Content,玩家,跟我们回弥萨格去，我们一定会想办法治好你的眼睛。,우리와 같이 미사그로 돌아가자. 네 눈을 치료할 방법을 반드시 찾아볼게.
+AvgDialog_18912_Content_18,afAg,avg章1新_AvgDialog_C_M.csv,1046,AvgDialog,Content,,你向着艾继丝伸出手去。,당신은 아이기스를 향해 손을 뻗는다.
+AvgDialog_18912_Content_19,afAh,avg章1新_AvgDialog_C_M.csv,1047,AvgDialog,Content,,"艾继丝轻轻地、轻轻地搭上了你的手掌。
+她的指尖冰冷如石头，这个瞬间却像是钟楼外金黄的落日般温暖。","아이기스가 살짝, 아주 가볍게 당신의 손바닥 위에 손을 올렸다. 그녀의 손끝은 돌처럼 차가웠지만, 그 순간만큼은 시계탑 밖 황금빛 낙조처럼 따뜻했다."
+AvgDialog_18912_Content_20,afAj,avg章1新_AvgDialog_C_M.csv,1048,AvgDialog,Content,艾继丝,詹金告诉我，你们在研究的、医生在我们身上实验的，是一种叫做“融蚀”的现象，会让人的存在逐渐消失，连相关的记忆都荡然无存。,"젠킨이 말해줬어요. 여러분이 연구하던 것, 의사가 우리에게 실험한 것은 ""융식""이라 불리는 현상이라고. 사람의 존재가 점차 사라지고, 관련된 기억까지 모두 없어지는 현상이라고."
+AvgDialog_18912_Content_21,afAk,avg章1新_AvgDialog_C_M.csv,1049,AvgDialog,Content,艾继丝,如果这是真的……我有一个愿望。,"만약 그게 사실이라면... 저, 소원이 하나 있어요."
+AvgDialog_18912_Content_22,afAl,avg章1新_AvgDialog_C_M.csv,1050,AvgDialog,Content,,艾继丝停顿了片刻，收住隐约的哭腔。,에지스는 잠시 멈추고 흐느낌을 삼켰다.
+AvgDialog_18912_Content_23,afAm,avg章1新_AvgDialog_C_M.csv,1051,AvgDialog,Content,艾继丝,希望济贫院的大家都能忘了我，忘掉我给大家带来的痛苦。,"빈민원 사람들 모두가 저를 잊어주기를, 제가 준 고통을 전부 잊어주기를."
+AvgDialog_18912_Content_24,afAn,avg章1新_AvgDialog_C_M.csv,1052,AvgDialog,Content,,她抬起头，用冰冷的石色瞳孔凝视着你。,"그녀는 고개를 들고, 차가운 돌 같은 색의 동공으로 당신을 바라보았다."
+AvgDialog_18912_Content_25,afAo,avg章1新_AvgDialog_C_M.csv,1053,AvgDialog,Content,,你就在那个瞬间失去了行动能力。,"그 순간, 당신은 움직일 수 없었다."
+AvgDialog_18912_Content_26,afAp,avg章1新_AvgDialog_C_M.csv,1054,AvgDialog,Content,,趁此机会，她转身消失在晦暗的尽头，然后登上了钟楼外的平台。,"그 틈에 그녀는 등을 돌려 어둠 끝으로 사라지고, 시계탑 외부의 플랫폼에 올랐다."
+AvgDialog_18912_Content_27,afAq,avg章1新_AvgDialog_C_M.csv,1055,AvgDialog,Content,,落日金黄的余晖穿透钟楼的巨大透明钟面，洒落到女孩的身上。,황금빛 황혼이 거대한 시계를 통과해 소녀의 몸에 쏟아졌다.
+AvgDialog_18912_Content_28,afAr,avg章1新_AvgDialog_C_M.csv,1056,AvgDialog,Content,,艾继丝侧转过身，将一只手贴在久未擦洗的钟面上，眯着眼睛迎向温暖的阳光。,"아이기스는 몸을 옆으로 돌리고, 한 손을 먼지 쌓인 시계 면에 붙인 채, 눈을 가늘게 뜨고 햇빛을 마주했다."
+AvgDialog_18912_Content_29,afAs,avg章1新_AvgDialog_C_M.csv,1057,AvgDialog,Content,艾继丝2,今天，看得见太阳耶……,"오늘은, 태양이 보이네..."
+AvgDialog_18912_Content_30,afAu,avg章1新_AvgDialog_C_M.csv,1058,AvgDialog,Content,,像是被难得的晴天所振奋，她撑起身体，摇摇晃晃地走到一块较为干净的玻璃前。,"드물게도 맑은 날에 들뜬 듯, 몸을 일으켜 비틀거리며 깨끗한 유리 앞으로 걸어갔다."
+AvgDialog_18912_Content_31,afAv,avg章1新_AvgDialog_C_M.csv,1059,AvgDialog,Content,,模糊的视线终于变得清晰，她注视着那些或熟悉或陌生的街道，恍惚间，耳边似是响起了谁的低语。,"흐릿하던 시야가 선명해졌고, 그녀는 낯익거나 낯선 거리들을 바라보았다. 그 순간, 귓가에 누군가 속삭이는 소리가 들리는 듯했다."
+AvgDialog_18912_Content_32,afAw,avg章1新_AvgDialog_C_M.csv,1060,AvgDialog,Content,,看，那个声音说，今晚一定能看到灿烂的星空。,"봐, 오늘 밤에는 분명 찬란한 별들을 볼 수 있을 거라고 했잖아."
+AvgDialog_18912_Content_33,afAx,avg章1新_AvgDialog_C_M.csv,1061,AvgDialog,Content,艾继丝2,以前，每到能够看到太阳的日子，提尤格就会偷偷带着我摸黑上来。,전에는 태양이 보이는 날마다 트요그가 제 손을 잡고 몰래 여기 올라오곤 했어요.
+AvgDialog_18912_Content_34,afAy,avg章1新_AvgDialog_C_M.csv,1062,AvgDialog,Content,艾继丝2,莎拉小姐从来不许我们来这里，她说这里太危险了，我们很容易会受伤。,"사라 선생님은 절대 허락하지 않으셨어요. 너무 위험하다고, 다칠 거라고 하셨죠."
+AvgDialog_18912_Content_35,afAz,avg章1新_AvgDialog_C_M.csv,1063,AvgDialog,Content,艾继丝2,但提尤格才不管这些。每天熄灯之后，等莎拉小姐巡完房，他就偷偷带着我摸黑上来。,"하지만 트요그는 신경 쓰지 않았어요. 매일 소등 후, 사라 선생님이 방 순찰을 끝내면 몰래 저를 데리고 어둠 속으로 올라왔죠."
+AvgDialog_18912_Content_36,afAA,avg章1新_AvgDialog_C_M.csv,1064,AvgDialog,Content,艾继丝2,他和詹金一样，机灵又勇敢，总能知道别人不知道的小路和机关。,"트요그는 젠킨처럼 똑똑하고 용감해서, 늘 남들이 모르는 지름길과 장치를 알고 있었어요."
+AvgDialog_18912_Content_37,afAB,avg章1新_AvgDialog_C_M.csv,1065,AvgDialog,Content,艾继丝2,只要有他带着，我们就不会被莎拉小姐发现。,트요그와 함께 있을 때는 저희는 사라 선생님에게 들키지 않았어요.
+AvgDialog_18912_Content_38,afAC,avg章1新_AvgDialog_C_M.csv,1066,AvgDialog,Content,艾继丝2,只要有他带着，这里就永远是我们的秘密基地。,트요그와 함께 있을 때는 여기는 언제나 저희의 비밀 기지였어요.
+AvgDialog_18912_Content_39,afAD,avg章1新_AvgDialog_C_M.csv,1067,AvgDialog,Content,艾继丝2,他告诉我，我得多和星星接触，法力才会强大。虽然我们在这里一颗星星也看不着。,"트요그는 제게 말했어요, 별과 더 많이 접해야 마력이 강해진다고. 비록 여기선 별 하나도 보이지 않았지만요."
+AvgDialog_18912_Content_40,afAF,avg章1新_AvgDialog_C_M.csv,1068,AvgDialog,Content,艾继丝2,那时他是唯一一个相信我的人。相信我能看到那些黑色的东西，告诉我那是魔女的天赋。,"그때 그는 저를 믿어준 유일한 사람이었어요. 제가 검은 것들을 볼 수 있다고 믿어주었고, 그것이 마녀의 재능이라고 말해준 사람."
+AvgDialog_18912_Content_41,afAG,avg章1新_AvgDialog_C_M.csv,1069,AvgDialog,Content,艾继丝2,但是他为了保护我，被博士带走了……,하지만 트요그는 저를 지키려다 박사에게 끌려갔어요...
+AvgDialog_18912_Content_42,afAH,avg章1新_AvgDialog_C_M.csv,1070,AvgDialog,Content,艾继丝2,"如果我像他一样聪明，像詹金一样勇敢，大概早就查清真相了吧。
+但我不是什么魔女，我只是一个胆小鬼，一个怪物。","제가 트요그처럼 똑똑하고, 젠킨처럼 용감했다면, 진실을 밝힐 수 있었을 거에요. 하지만 저는 마녀가 아니었어요, 저는 그저 겁쟁이였고, 괴물이었어요."
+AvgDialog_18912_Content_43,afAI,avg章1新_AvgDialog_C_M.csv,1071,AvgDialog,Content,艾继丝3,一个……杀人凶手。,그리고... 살인자였죠.
+AvgDialog_18912_Content_44,afAJ,avg章1新_AvgDialog_C_M.csv,1072,AvgDialog,Content,玩家,艾继丝，你是个好孩子，你是被控制的，那些不是你的罪。,"아이기스, 너는 착한 아이야, 너는 조종당했을 뿐이야, 그건 네 죄가 아니야."
+AvgDialog_18912_Content_45,afAK,avg章1新_AvgDialog_C_M.csv,1073,AvgDialog,Content,艾继丝3,你知道我已经把多少人变成无知无觉的雕像了吗？,여러분은 제가 얼마나 많은 사람을 석상으로 만들었는지 몰라요.
+AvgDialog_18912_Content_46,afAL,avg章1新_AvgDialog_C_M.csv,1074,AvgDialog,Content,艾继丝3,我害怕极了，怕我自己即将成为的东西。,"나는 두려웠어요, 제가 무엇으로 변하게 될지 두려웠어요."
+AvgDialog_18912_Content_47,afAM,avg章1新_AvgDialog_C_M.csv,1075,AvgDialog,Content,艾继丝3,也怕我已经成为的东西。,...이미 변해버린 저 자신도요.
+AvgDialog_18912_Content_48,afAN,avg章1新_AvgDialog_C_M.csv,1076,AvgDialog,Content,艾继丝3,但这一切都不再重要了。,하지만 이제 더 이상 중요하지 않아요.
+AvgDialog_18912_Content_50,afAQ,avg章1新_AvgDialog_C_M.csv,1078,AvgDialog,Content,艾继丝3,我将不会再被控制，不会再伤害任何人，不会再让朋友因我而死。,저는 이제 조종당하지 않을 거에요. 누구도 해치지 않을 거에요. 친구들이 저 때문에 죽지 않게 할 거에요.
+AvgDialog_18912_Content_52,afAS,avg章1新_AvgDialog_C_M.csv,1080,AvgDialog,Content,詹金,该死的，说好在房间等，结果一个两个的都不知道跑哪里去了。,"제길, 방에서 기다리라고 했는데, 다들 어디로 간 거지."
+AvgDialog_18912_Content_53,afAT,avg章1新_AvgDialog_C_M.csv,1081,AvgDialog,Content,詹金,那是……,"잠깐, 저건..."
+AvgDialog_18912_Content_54,afAU,avg章1新_AvgDialog_C_M.csv,1082,AvgDialog,Content,詹金,艾继丝？！艾继丝——！,아이기스?! 아이기스——!
+AvgDialog_18912_Content_55,afAV,avg章1新_AvgDialog_C_M.csv,1083,AvgDialog,Content,,从钟楼下方突然传来了詹金的声音，她焦急地大喊着艾继丝的名字，向着天空张开了双臂。,"시계탑 아래에서 갑자기 젠킨의 목소리가 들려왔고, 그는 초조하게 아이기스의 이름을 외치며 하늘을 향해 두 팔을 벌렸다."
+AvgDialog_18912_Content_56,afAW,avg章1新_AvgDialog_C_M.csv,1084,AvgDialog,Content,,一只飞鸟掠过夜空，淹没在浓雾中，没有留下痕迹。,"한 마리 새가 밤하늘을 가로질러, 짙은 안개 속으로 사라졌고, 흔적조차 남지 않았다."
+AvgDialog_18912_Content_57,afAX,avg章1新_AvgDialog_C_M.csv,1085,AvgDialog,Content,,绑在手上的缎带脱落迎风而起，女孩小小的身体在坠落的途中，永远地从这片夜空上遁去。,"손에 묶여 있던 리본이 바람에 흩날리며 풀렸고, 소녀의 작은 몸은 추락하며, 영원히 이 밤하늘에서 사라졌다."
+AvgDialog_18912_Content_58,afAY,avg章1新_AvgDialog_C_M.csv,1086,AvgDialog,Content,,空空如也的白色衣裙同散落的一张张方形纸片一起，轻飘飘地落在詹金手里。,"텅 빈 흰색 옷과 흩어진 사각형 종잇조각들만이, 가볍게 젠킨의 손에 떨어졌다."
+AvgDialog_18912_Content_59,afAZ,avg章1新_AvgDialog_C_M.csv,1087,AvgDialog,Content,,连一丝余温都没能留下。,한 점의 온기조차 남지 않았다.
+AvgDialog_18912_Content_60,afBb,avg章1新_AvgDialog_C_M.csv,1088,AvgDialog,Content,詹金,艾……艾继丝……？,아이... 아이기스...?
+AvgDialog_18912_Content_61,afBc,avg章1新_AvgDialog_C_M.csv,1089,AvgDialog,Content,,纸片上画着金色的蝴蝶，皱褶的边缘被人用心压平叠好，甚至还带有糖果的甜香。,"종이 조각 위에는 금빛 나비가 그려져 있었고, 구겨진 가장자리는 누군가 정성껏 눌러 깔끔히 접어놓았고, 사탕 향기도 났다."
+AvgDialog_18912_Content_62,afBd,avg章1新_AvgDialog_C_M.csv,1090,AvgDialog,Content,詹金,怎么……怎么会……,어떻게... 어떻게 이럴 수...
+AvgDialog_18912_Content_63,afBe,avg章1新_AvgDialog_C_M.csv,1091,AvgDialog,Content,,殷红的缎带随着糖纸一同落入女孩手中，它轻柔地抚过女孩的指尖，像极了谁给予的温柔慰藉。,"선명한 빨간 리본이 종이와 함께 소녀의 손에 떨어졌고, 그것은 소녀의 손끝을 부드럽게 스쳤다. 마치 누군가가 따뜻하게 위로하는 것만 같았다."
+AvgDialog_18912_Content_64,afBf,avg章1新_AvgDialog_C_M.csv,1092,AvgDialog,Content,,女孩眨眨眼，模糊了视线的泪水从眼睫间滴下，被那截鲜艳的红色无声地接住。,"소녀가 눈을 깜빡이자 흐릿한 시야에서 눈물 한줄기가 속눈썹 사이로 흘러내렸고, 선명한 빨간색이 이를 조용히 받아 주었다."
+AvgDialog_18912_Content_65,afBg,avg章1新_AvgDialog_C_M.csv,1093,AvgDialog,Content,詹金,艾继丝……,아이기스...
+AvgDialog_18898_Content_1,afoA,avg章1新_AvgDialog_C_M.csv,1094,AvgDialog,Content,,一切如常,평소처럼
+AvgDialog_18898_Content_2,afoL,avg章1新_AvgDialog_C_M.csv,1095,AvgDialog,Content,,在那之后——,그 후—
+AvgDialog_18898_Content_3,afoW,avg章1新_AvgDialog_C_M.csv,1096,AvgDialog,Content,,审查会派遣了一支执行小队抵达莉莉安济贫院，押解地下室的珊离开。,"심사회는 집행 소대를 보내 릴리안 빈민원을 방문하고, 지하실에 있던 산을 호송했다."
+AvgDialog_18898_Content_4,afph,avg章1新_AvgDialog_C_M.csv,1097,AvgDialog,Content,,临行之际，她坐在审查会抬着的担架上，用那似笑非笑的表情觑着你，唇齿微张。你从唇语中读出了她的话语。,"출발 직전, 그녀는 심사회의 들것 위에 앉아, 미묘하게 웃는 표정으로 당신을 힐끗 보며 입술을 살짝 벌렸다. 당신은 그 입술의 움직임에서 그녀의 말을 읽어냈다."
+AvgDialog_18898_Content_5,afps,avg章1新_AvgDialog_C_M.csv,1098,AvgDialog,Content,珊,你能看懂，对吧？,당신이라면 이해하시겠죠?
+AvgDialog_18898_Content_6,afpA,avg章1新_AvgDialog_C_M.csv,1099,AvgDialog,Content,,伦蒂尼恩大教堂的主祭现身济贫院，与审查会协商一致，将产生不可逆异化的莎拉暂时收容于教堂内，由审查会成员看守。,"론디니움 대성당의 주교가 빈민원에 나타나 심사회와 협의하여, 돌이킬 수 없는 변질이 진행된 사라를 일시적으로 성당에 수용하고, 심사회 요원들이 감시하도록 했다."
+AvgDialog_18898_Content_7,afpB,avg章1新_AvgDialog_C_M.csv,1100,AvgDialog,Content,,你们根据孩子们勉强回忆出的路线，找到了米勒博士的实验地点。,"일행은 아이들이 간신히 기억해낸 경로를 따라, 밀러 박사의 실험실을 찾아냈다."
+AvgDialog_18898_Content_8,afpC,avg章1新_AvgDialog_C_M.csv,1101,AvgDialog,Content,,那里已经人去楼空。,그곳은 이미 텅 비어 있었다.
+AvgDialog_18898_Content_9,afpD,avg章1新_AvgDialog_C_M.csv,1102,AvgDialog,Content,,威廉派遣了调查队伍继续追踪其下落，并联络审查会同步对雕塑家协会的据点展开全面搜索。,"윌리엄은 조사팀을 보내 그 행방을 계속 추적하고, 심사회와 연락하여 조각가 협회의 거점을 전면적으로 수색하도록 했다."
+AvgDialog_18898_Content_10,afoB,avg章1新_AvgDialog_C_M.csv,1103,AvgDialog,Content,,"资助人罗杰斯不知所踪，济贫院后续生计难以为继。
+最终，德克斯特勋爵慷慨解囊，派人接管了济贫院的运营工作。","후원자 로저스는 행방불명되어 빈민원의 후속 운영이 어려워졌다. 결국, 덱스터 후작이 관대한 지원을 결정하고, 빈민원의 운영을 맡을 사람을 파견했다."
+AvgDialog_18898_Content_11,afoC,avg章1新_AvgDialog_C_M.csv,1104,AvgDialog,Content,,德克斯特勋爵决定接管莉莉安济贫院的那天，你和拉蒙娜再次来到济贫院内。,"덱스터 후작이 릴리안 빈민원을 인수하기로 한 날, 당신과 라모나는 다시 빈민원을 찾았다."
+AvgDialog_18898_Content_12,afoD,avg章1新_AvgDialog_C_M.csv,1105,AvgDialog,Content,,一名修女打扮的人指挥着几名工人，将一张小床挪出医护区。,"수녀복을 입은 한 인물이 몇 명의 일꾼을 지휘하며, 작은 침대를 의료 구역 밖으로 옮기고 있었다."
+AvgDialog_18898_Content_13,afoE,avg章1新_AvgDialog_C_M.csv,1106,AvgDialog,Content,,但那不是你们熟悉的莎拉。,하지만 그곳에 일행이 알던 사라는 없었다.
+AvgDialog_18898_Content_14,afoF,avg章1新_AvgDialog_C_M.csv,1107,AvgDialog,Content,戴安娜,真奇怪，我们这儿明明没有过生病的孩子，为什么在这儿摆着这张床呢……,"이상하네, 여기엔 아픈 아이가 없었는데, 왜 이런 침대가 있는 거지...?"
+AvgDialog_18898_Content_15,afoG,avg章1新_AvgDialog_C_M.csv,1108,AvgDialog,Content,,在床角直立的铁架上，捆着几根被扯断的布条。,"침대 모서리의 철제 기둥에는, 찢어진 천 조각 몇 개가 묶여 있었다."
+AvgDialog_18898_Content_16,afoH,avg章1新_AvgDialog_C_M.csv,1109,AvgDialog,Content,,是的，仿佛是回应艾继丝的愿望，济贫院中的人对艾继丝的记忆仅过了两周就消弭于无形。,"마치 에이기스의 소원에 응답하듯, 빈민원 사람들의 아이기스에 대한 기억은 겨우 2주 만에 사라졌다."
+AvgDialog_18898_Content_17,afoI,avg章1新_AvgDialog_C_M.csv,1110,AvgDialog,Content,,旧的秩序被打破，新的秩序飞速建立。,"옛 질서는 무너지고, 새로운 질서가 빠르게 자리 잡았다."
+AvgDialog_18898_Content_18,afoJ,avg章1新_AvgDialog_C_M.csv,1111,AvgDialog,Content,,"有些人离开，有些人消失，有些人的噩梦结束，有些人的病情未缓。
+但生活还在继续，丝毫不留给人喘息的余地。","어떤 이는 떠나고, 어떤 이는 사라지고, 어떤 이는 악몽에서 깨어났고, 어떤 이는 병이 남았다. 하지만 삶은 계속된다, 숨 쉴 틈조차 없이."
+AvgDialog_18898_Content_19,afoK,avg章1新_AvgDialog_C_M.csv,1112,AvgDialog,Content,,莎拉静静地躺在一张小床上。她的头部仍保持着开裂的姿态，四肢都被锁链束缚。,"사라는 작은 침대 위에 조용히 누워 있었다. 그녀의 머리는 여전히 갈라진 상태였고, 사지는 사슬에 묶여 있었다."
+AvgDialog_18898_Content_20,afoM,avg章1新_AvgDialog_C_M.csv,1113,AvgDialog,Content,玩家,能把钥匙借我吗？,열쇠를 좀 빌릴 수 있을까요?
+AvgDialog_18898_Content_21,afoN,avg章1新_AvgDialog_C_M.csv,1114,AvgDialog,Content,,陪同你们的审查会队长皱了皱眉，然后将钥匙放在床头柜上。,동행한 심사회 대장은 찡그린 얼굴로 침대 머리맡에 열쇠를 두었다.
+AvgDialog_18898_Content_22,afoO,avg章1新_AvgDialog_C_M.csv,1115,AvgDialog,Content,审查会队长,我出去看看情况，你们帮我看管一下。,저는 밖에서 상황을 보고 있겠습니다. 여러분은 여기서 지켜봐 주세요.
+AvgDialog_18898_Content_23,afoP,avg章1新_AvgDialog_C_M.csv,1116,AvgDialog,Content,,你和拉蒙娜轻手轻脚地解开了锁链。,당신과 라모나는 조심스럽게 사슬을 풀었다.
+AvgDialog_18898_Content_24,afoQ,avg章1新_AvgDialog_C_M.csv,1117,AvgDialog,Content,拉蒙娜,莎拉小姐，你还……记得我们吗？,"사라 양, 아직... 저희를 기억하고 있나요?"
+AvgDialog_18898_Content_25,afoR,avg章1新_AvgDialog_C_M.csv,1118,AvgDialog,Content,,无声的怪物摆了摆头——如果那绽裂地流出黑色脓液的部位还能被称为头的话。,말 없는 괴물은 머리를 흔들었다—그 갈라진 틈에서 흘러나오는 검은 고름이 머리라 불릴 수 있다면 말이다.
+AvgDialog_18898_Content_26,afoS,avg章1新_AvgDialog_C_M.csv,1119,AvgDialog,Content,拉蒙娜,那你还记得……艾继丝吗？,그럼... 아이기스를 기억하시나요?
+AvgDialog_18898_Content_27,afoT,avg章1新_AvgDialog_C_M.csv,1120,AvgDialog,Content,,仿佛是陷入迷惑，莎拉重复了你的话语。,"혼란에 빠진 듯, 사라는 당신의 말을 반복했다."
+AvgDialog_18898_Content_28,afoU,avg章1新_AvgDialog_C_M.csv,1121,AvgDialog,Content,莎拉,艾……继……丝……？,아이...기...스?
+AvgDialog_18898_Content_29,afoV,avg章1新_AvgDialog_C_M.csv,1122,AvgDialog,Content,,发声器官咕噜着，颤抖出混沌不堪的语调。,"발성 기관이 꾸르륵거리며, 뒤엉킨 어조로 떨려 나왔다."
+AvgDialog_18898_Content_30,afoX,avg章1新_AvgDialog_C_M.csv,1123,AvgDialog,Content,,在长久的沉默之后，莎拉伸出一只握紧的手，停在你面前。,"오랜 침묵 끝에, 사라는 주먹 쥔 손을 내밀어 당신의 앞에서 멈췄다."
+AvgDialog_18898_Content_31,afoY,avg章1新_AvgDialog_C_M.csv,1124,AvgDialog,Content,玩家,是要……给我什么吗？,주시는...건가요?
+AvgDialog_18898_Content_32,afoZ,avg章1新_AvgDialog_C_M.csv,1125,AvgDialog,Content,,你摊开手掌。,당신은 손바닥을 펼쳤다.
+AvgDialog_18898_Content_33,afpa,avg章1新_AvgDialog_C_M.csv,1126,AvgDialog,Content,,一枚小小的银芯落在你的掌心。,작은 은심 하나가 당신의 손바닥 위에 떨어졌다.
+AvgDialog_18898_Content_34,afpb,avg章1新_AvgDialog_C_M.csv,1127,AvgDialog,Content,莎拉,艾……继……丝……,아이...기스...
+AvgDialog_18898_Content_35,afpc,avg章1新_AvgDialog_C_M.csv,1128,AvgDialog,Content,玩家,这是……那个孩子？,이게... 그 아이인가요?
+AvgDialog_18898_Content_36,afpd,avg章1新_AvgDialog_C_M.csv,1129,AvgDialog,Content,,纷乱的记忆交汇。,혼란스러운 기억들이 한데 뒤섞인다.
+AvgDialog_18898_Content_37,afpe,avg章1新_AvgDialog_C_M.csv,1130,AvgDialog,Content,,艾继丝如飞鸟入夜般坠下的瞬间，你们纷纷向她的方向扑去。,"아이기스가 밤하늘로 새처럼 날아간 순간, 당신과 일행은 모두 그녀 쪽으로 달려갔다."
+AvgDialog_18898_Content_38,afpf,avg章1新_AvgDialog_C_M.csv,1131,AvgDialog,Content,,"詹金接住了一截缎带，你拾到了一片糖纸，而已然陷入癫狂的莎拉……
+循着本能，触摸到了女孩的灵魂。","젠킨이 리본 조각을 받았고, 당신은 사탕 종이를 주웠다, 그리고 이미 광기에 빠진 사라는... 본능적으로, 그녀의 영혼에 닿았다."
+AvgDialog_18898_Content_39,afpg,avg章1新_AvgDialog_C_M.csv,1132,AvgDialog,Content,拉蒙娜,把它交给银芯实验室吧，或许有一天，我们能唤醒那个女孩，和寄宿于她身上的力量。,"이걸 은심 연구소에 가져가자, 언젠가 아이기스와, 그녀에게 깃든 힘을 되살릴 수 있을지도 몰라."
+AvgDialog_18898_Content_40,afpi,avg章1新_AvgDialog_C_M.csv,1133,AvgDialog,Content,玩家,要把这个好消息告诉詹金吗？,이 좋은 소식을 젠킨에게 전할까?
+AvgDialog_18898_Content_41,afpj,avg章1新_AvgDialog_C_M.csv,1134,AvgDialog,Content,拉蒙娜,"……唤醒初期的唤醒体，生前的记忆会发生混乱。
+有些完全失忆，有些只记得情绪深刻的瞬间，要随着时间慢慢恢复。","...각성체를 깨운 초기에는, 생전 기억이 혼란스러울 거야. 어떤 이는 완전히 망각하고, 어떤 이는 감정이 강하게 남은 순간만 기억하며, 시간이 지나면서 서서히 회복되지."
+AvgDialog_18898_Content_42,afpk,avg章1新_AvgDialog_C_M.csv,1135,AvgDialog,Content,拉蒙娜,"何况艾继丝本就是被改造的，银芯结构并不稳定。
+即使我们成功完成唤醒，她可能也认不出詹金来……","게다가 아이기스는 원래 개조된 상태였으니, 은심 구조가 안정적이지 않아. 각성에 성공해도, 그녀가 젠킨을 알아보지 못할 수도 있어..."
+AvgDialog_18898_Content_43,afpl,avg章1新_AvgDialog_C_M.csv,1136,AvgDialog,Content,拉蒙娜,我想，还是等一切稳定下来，再慢慢和她说清楚吧。,"그러니까, 모든 것이 안정된 후에 천천히 알려주는 게 좋을 것 같아."
+AvgDialog_18898_Content_44,afpm,avg章1新_AvgDialog_C_M.csv,1137,AvgDialog,Content,,你收拢手掌，感受着那枚银芯的温度，回忆起那个总是跟在别人身后、仿佛不存在般的女孩。,"당신은 손바닥을 오므려 은심의 온도를 느끼며, 늘 남의 뒤를 따라 다니던 존재감 없는 소녀를 떠올렸다."
+AvgDialog_18898_Content_45,afpn,avg章1新_AvgDialog_C_M.csv,1138,AvgDialog,Content,,初见的时候，她跟在莎拉的身后，怯懦地欢迎你们的到来；,"처음 만났을 때, 그녀는 사라 뒤를 따라다니며 겁먹은 채 일행을 맞이했다."
+AvgDialog_18898_Content_46,afpo,avg章1新_AvgDialog_C_M.csv,1139,AvgDialog,Content,,詹金带你们去医护区时，她害怕地躲在詹金的背后。,"젠킨이 일행을 의료 구역으로 데려갔을 때, 그녀는 겁에 떨며 젠킨의 등 뒤에 숨었다."
+AvgDialog_18898_Content_47,afpp,avg章1新_AvgDialog_C_M.csv,1140,AvgDialog,Content,,只有那最后的片刻勇敢，让她化为了那天入暮时分，转瞬即逝的流星。,"마지막 단 한 순간의 용기로, 그녀는 그날 해질녘에 스쳐간 유성이 되어, 순식간에 사라졌다."
+AvgDialog_18898_Content_48,afpq,avg章1新_AvgDialog_C_M.csv,1141,AvgDialog,Content,奥吉尔,艾继丝……用她的牺牲，拯救了所有留下的人。,"아이기스... 그녀의 희생으로, 남겨진 모든 이를 구할 수 있었습니다."
+AvgDialog_18898_Content_49,afpr,avg章1新_AvgDialog_C_M.csv,1142,AvgDialog,Content,奥吉尔,她是……真正的骑士。,그녀야말로... 진정한 기사입니다.
+AvgDialog_18898_Content_50,afpt,avg章1新_AvgDialog_C_M.csv,1143,AvgDialog,Content,玩家,<Blue:肖恩·安德森调查员>……他遇害后，被雕塑家协会强行提炼了银芯，又用尽了残留的意识帮助艾继丝。,"<Blue:숀 앤더슨 조사원>... 그는 희생된 후 조각가 협회에 의해 강제로 은심이 추출되어, 남은 의식을 모두 사용해 아이기스를 도와주었어."
+AvgDialog_18898_Content_51,afpu,avg章1新_AvgDialog_C_M.csv,1144,AvgDialog,Content,玩家,我们甚至无法为他收殓。,우리는 그의 시신조차 수습할 수 없었어.
+AvgDialog_18898_Content_52,afpv,avg章1新_AvgDialog_C_M.csv,1145,AvgDialog,Content,玩家,拉蒙娜，我们能拯救什么吗？我们能改变什么吗？,"라모나, 우리가 구할 수 있는 건 뭘까? 우리가 무엇을 바꿀 수 있을까?"
+AvgDialog_18898_Content_53,afpw,avg章1新_AvgDialog_C_M.csv,1146,AvgDialog,Content,拉蒙娜,这就是与融蚀对抗的旅程。,이게 바로 융식과 싸우는 여정이야.
+AvgDialog_18898_Content_54,afpx,avg章1新_AvgDialog_C_M.csv,1147,AvgDialog,Content,拉蒙娜,守密人，你是特殊的。所以，你不能在此止步不前。,"너는 특별해, 수호자. 여기서 멈춰선 안 돼."
+AvgDialog_18898_Content_55,afpy,avg章1新_AvgDialog_C_M.csv,1148,AvgDialog,Content,拉蒙娜,"我们要去拯救，去改变。
+但，即使最终什么也没能实现……","우리는 구하고, 바꿀 거야. 하지만, 끝내 아무것도 이루지 못하더라도..."
+AvgDialog_18898_Content_56,afpz,avg章1新_AvgDialog_C_M.csv,1149,AvgDialog,Content,拉蒙娜,在那个万物都被遗忘的深夜来临之前，也请你用你的双眼去见证、去记忆发生过的一切。,"모든 것이 잊힌 깊은 밤이 오기 전에, 너의 두 눈으로, 일어난 모든 일을 보고, 기억해 줘."
+AvgDialog_18893_Content_1,afmc,avg章1新_AvgDialog_C_M.csv,1150,AvgDialog,Content,,波提切利之春,보티첼리의 봄
+AvgDialog_18893_Content_2,afmn,avg章1新_AvgDialog_C_M.csv,1151,AvgDialog,Content,,"13:20，伦蒂尼恩
+弥萨格大学","13:20, 론디니움\n미사그 대학"
+AvgDialog_18893_Content_3,afmy,avg章1新_AvgDialog_C_M.csv,1152,AvgDialog,Content,,你和拉蒙娜刚回到校门，就看到詹金和一名穿着校服的学生在地上打成一团。,"당신과 라모나가 막 교문에 돌아왔을 때, 당신은 젠킨과 교복을 입은 한 학생이 땅바닥에서 뒤엉켜 싸우고 있는 것을 보았다."
+AvgDialog_18893_Content_4,afmJ,avg章1新_AvgDialog_C_M.csv,1153,AvgDialog,Content,,…………,......
+AvgDialog_18893_Content_5,afmU,avg章1新_AvgDialog_C_M.csv,1154,AvgDialog,Content,玩家,…………,......
+AvgDialog_18893_Content_6,afnc,avg章1新_AvgDialog_C_M.csv,1155,AvgDialog,Content,,老鼠咬雪貂,쥐가 족제비를 물었다.
+AvgDialog_18893_Content_7,afnd,avg章1新_AvgDialog_C_M.csv,1156,AvgDialog,Content,玩家,我好像看到了什么世界奇观。,뭔가 세계의 진기한 광경을 본 것 같아.
+AvgDialog_18893_Content_8,afne,avg章1新_AvgDialog_C_M.csv,1157,AvgDialog,Content,詹金,哈？,하?
+AvgDialog_18893_Content_9,afnf,avg章1新_AvgDialog_C_M.csv,1158,AvgDialog,Content,汉娜,什么奇观？,진기한 광경이라니?
+AvgDialog_18893_Content_10,afmd,avg章1新_AvgDialog_C_M.csv,1159,AvgDialog,Content,玩家,老鼠袭击雪貂。,쥐가 족제비를 무는 광경.
+AvgDialog_18893_Content_11,afme,avg章1新_AvgDialog_C_M.csv,1160,AvgDialog,Content,詹金,你说谁是老鼠啊！,누가 쥐라는 거야!
+AvgDialog_18893_Content_12,afmf,avg章1新_AvgDialog_C_M.csv,1161,AvgDialog,Content,汉娜,你说谁是雪貂啊！,누가 족제비라는 거야!
+AvgDialog_18893_Content_13,afmg,avg章1新_AvgDialog_C_M.csv,1162,AvgDialog,Content,拉蒙娜,汉娜？詹金？你们这是……,한나? 젠킨? 너희 대체 뭘...
+AvgDialog_18893_Content_14,afmh,avg章1新_AvgDialog_C_M.csv,1163,AvgDialog,Content,詹金,这可不能怪我，是她先喊警卫的！,"내 잘못이 아니야, 걔가 먼저 경비를 불렀다고!"
+AvgDialog_18893_Content_15,afmi,avg章1新_AvgDialog_C_M.csv,1164,AvgDialog,Content,汉娜,哎呀，开个玩笑嘛。过得太认真，生活没趣味。,"아아, 장난 좀 쳐본 거지. 너무 진지하면 인생이 재미없잖아."
+AvgDialog_18893_Content_16,afmj,avg章1新_AvgDialog_C_M.csv,1165,AvgDialog,Content,汉娜,所以她来找的人就是你们了吧？你们是在哪儿认识的，莉莉安济贫院？啊！她就是那个小詹金吧？,"그러니까 이 아이가 찾아온 사람이 너희라는 거지? 너희는 어디서 알게 된 거야, 릴리안 빈민원? 아! 얘가 바로 그 젠킨이구나?"
+AvgDialog_18893_Content_17,afmk,avg章1新_AvgDialog_C_M.csv,1166,AvgDialog,Content,拉蒙娜,不愧是雷欧王国第一雪貂。你这是在为校报搜罗明天的素材吗？,역시 레오 왕국 제일의 족제비답네. 내일 교내신문 소재를 모으는 거야?
+AvgDialog_18893_Content_18,afml,avg章1新_AvgDialog_C_M.csv,1167,AvgDialog,Content,汉娜,那可不止，拉蒙娜你是知道我的，信息就是我的生命啊。,"그게 다가 아니지. 라모나 넌 나를 잘 알잖아, 정보가 내 생명이라고."
+AvgDialog_18893_Content_19,afmm,avg章1新_AvgDialog_C_M.csv,1168,AvgDialog,Content,汉娜,那么，光天化日之下，可怜的孤女独自前往深林冒险，究竟所为何事？,"그렇다면 대낮에, 불쌍한 아이가 혼자 깊은 숲으로 모험을 떠난 이유는 과연 무엇인가?"
+AvgDialog_18893_Content_20,afmo,avg章1新_AvgDialog_C_M.csv,1169,AvgDialog,Content,汉娜,"她苦苦寻觅之人，又能否给予她些许光明？
+前线记者汉娜·皮斯利，即将进行跟踪报道！","그녀가 애타게 찾아 헤매던 자가 과연 그녀에게 작은 빛이라도 줄 수 있을까? 전선기자 한나 피슬리, 추적 보도를 시작한다!"
+AvgDialog_18893_Content_21,afmp,avg章1新_AvgDialog_C_M.csv,1170,AvgDialog,Content,,汉娜一边说着，一边啪地从不知道哪里摸出一本笔记本，期待地看着你们，像是随时准备记录你们的一言一行。,"한나는 말하며, 어디선가 노트 하나를 탁 꺼내 들고는 일행을 기대에 찬 눈으로 바라봤다. 언제든 말과 행동을 적을 준비가 된 표정이었다."
+AvgDialog_18893_Content_22,afmq,avg章1新_AvgDialog_C_M.csv,1171,AvgDialog,Content,詹金,……我算是明白了，你们这个什么鬼大学的，一个二个都不说人话。,"...이제 알 것 같아, 이 미사어구인지 뭐시기인지 하는 대학에 다니는 너희 모두, 하나같이 괴짜들뿐이네."
+AvgDialog_18893_Content_23,afmr,avg章1新_AvgDialog_C_M.csv,1172,AvgDialog,Content,玩家,我是无辜的，真的。,난 잘못 없어. 진짜로.
+AvgDialog_18893_Content_24,afms,avg章1新_AvgDialog_C_M.csv,1173,AvgDialog,Content,拉蒙娜,"当她不在就好。
+倒是你，詹金，出什么事儿了吗？","이쪽이 특이한 거야. 그나저나 젠킨, 무슨 일 있었어?"
+AvgDialog_18893_Content_25,afmt,avg章1新_AvgDialog_C_M.csv,1174,AvgDialog,Content,,詹金从包里翻出一叠折得皱巴巴的报纸，递到你和拉蒙娜面前。,젠킨은 가방에서 구겨진 신문 몇 장을 꺼내 당신과 라모나 앞에 내밀었다.
+AvgDialog_18893_Content_26,afmu,avg章1新_AvgDialog_C_M.csv,1175,AvgDialog,Content,詹金,之前我们约好了，你要帮我找姐姐的。现在，是你兑现承诺的时候了。,"전에 약속했지, 언니를 찾아주겠다고 말이야. 이제 네가 약속을 지킬 차례야."
+AvgDialog_18893_Content_27,afmv,avg章1新_AvgDialog_C_M.csv,1176,AvgDialog,Content,,她将报纸展开，指向一篇题为《立体的画作》的本地奇闻。,"젠킨은 신문을 펼쳐, 《입체의 회화》라는 제목의 지역 소식을 손가락으로 가리켰다."
+AvgDialog_18893_Content_28,afmw,avg章1新_AvgDialog_C_M.csv,1177,AvgDialog,Content,,笔者以纪实故事的风格写道，他在南华克大街44号的蜡像馆看到过一件惊人的展品：蜡像艺术家罗杰斯的新作《春》。,"기자가 다큐멘터리 스타일로 적어놓았는데, 사우스워크 거리 44번지의 밀랍인형 박물관에서 놀라운 전시물을 보았다고 해. 밀랍 조각가 로저스의 신작 《봄》."
+AvgDialog_18893_Content_29,afmx,avg章1新_AvgDialog_C_M.csv,1178,AvgDialog,Content,,似乎是为了提高可信度，旁边还煞有介事地配了一张照片。,"신뢰성을 높이려는 듯, 옆에는 그럴싸한 사진도 실려 있었다."
+AvgDialog_18893_Content_30,afmz,avg章1新_AvgDialog_C_M.csv,1179,AvgDialog,Content,,这是仿照波提切利的名画《春》制成的蜡像群组，位于正中间的，是一座涂着滑稽颜料、表情痛苦的女性蜡像。,"보티첼리의 명화 《봄》을 본뜬 밀랍 인형 군상의 중앙에는, 우스꽝스러운 색으로 칠해진, 고통스러운 표정의 여성 밀랍 인형이 있었다."
+AvgDialog_18893_Content_31,afmA,avg章1新_AvgDialog_C_M.csv,1180,AvgDialog,Content,詹金,这个人……不知道为什么，我觉得她很像我的姐姐。,이 사람…… 왠지 언니랑 닮은 것 같아.
+AvgDialog_18893_Content_32,afmB,avg章1新_AvgDialog_C_M.csv,1181,AvgDialog,Content,拉蒙娜,罗杰斯……那个米勒医生，就是他介绍给莎拉的。济贫院出事后，他就神秘失踪了。,로저스... 밀러 박사가 사라에게 소개해준 사람이었지. 빈민원 사고 이후로 그는 신비롭게 자취를 감췄어.
+AvgDialog_18893_Content_33,afmC,avg章1新_AvgDialog_C_M.csv,1182,AvgDialog,Content,詹金,所以，就是这家伙害死了我姐姐……和……艾继丝……,"그래, 그 자식이 언니를... 그리고... 아이기스를 죽인 거야..."
+AvgDialog_18893_Content_34,afmD,avg章1新_AvgDialog_C_M.csv,1183,AvgDialog,Content,詹金,我一刻都等不了。我们什么时候出发？,나는 더 이상 기다릴 수 없어. 언제 출발할 거야?
+AvgDialog_18893_Content_35,afmE,avg章1新_AvgDialog_C_M.csv,1184,AvgDialog,Content,拉蒙娜,考虑到对方可能很危险，我更希望你愿意在这里等我们的消息。不过——你一定有别的想法吧。,"위험한 상대일 수도 있으니, 여기서 우리 소식을 기다려 달라고 부탁하고 싶지만... 너도 다른 생각이 있겠지."
+AvgDialog_18893_Content_36,afmF,avg章1新_AvgDialog_C_M.csv,1185,AvgDialog,Content,詹金,"那是我姐姐，我不可能不去！
+再说了，指不定你们什么时候就要我帮忙钻通风口呢！","언니에 관한 일이야, 난 절대 가만히 못 있지! 게다가 너희도 통풍구를 통과할 사람이 필요할걸!"
+AvgDialog_18893_Content_37,afmG,avg章1新_AvgDialog_C_M.csv,1186,AvgDialog,Content,玩家,这唯一的技能可真是相当有用。,그 유일한 재능이 꽤 쓸모 있긴 하지.
+AvgDialog_18893_Content_38,afmH,avg章1新_AvgDialog_C_M.csv,1187,AvgDialog,Content,拉蒙娜,看来得提交加急外勤申请了。,급행 외근 신청서를 제출해야 할 것 같네.
+AvgDialog_18893_Content_39,afmI,avg章1新_AvgDialog_C_M.csv,1188,AvgDialog,Content,玩家,我正准备去找阿利斯泰尔教授，希望他乐意给我们开后门。,"나는 알리스타르 교수님을 찾아가서, 우리에게 뒷문을 열어달라고 부탁하려고 해."
+AvgDialog_18893_Content_40,afmK,avg章1新_AvgDialog_C_M.csv,1189,AvgDialog,Content,拉蒙娜,只要你开口，肯定没问题。更重要的是——我们需要威廉先暂缓我们的报告提交时间。,네가 부탁하면 분명 괜찮을 거야. 더 중요한 건— 우리는 윌리엄 선배에게 먼저 보고 제출 시간을 늦춰달라고 해야 해.
+AvgDialog_18893_Content_41,afmL,avg章1新_AvgDialog_C_M.csv,1190,AvgDialog,Content,汉娜,关于这点，你们倒是不用担心。,그 점에 관해서는 걱정할 필요 없어.
+AvgDialog_18893_Content_42,afmM,avg章1新_AvgDialog_C_M.csv,1191,AvgDialog,Content,玩家,？,?
+AvgDialog_18893_Content_43,afmN,avg章1新_AvgDialog_C_M.csv,1192,AvgDialog,Content,汉娜,就在一个小时前吧，威廉拿着外勤许可离开了学校。,"한 시간쯤 전이었나, 윌리엄이 외근 허가서를 들고 학교를 떠났어."
+AvgDialog_18893_Content_44,afmO,avg章1新_AvgDialog_C_M.csv,1193,AvgDialog,Content,汉娜,我本来想跟踪他，看看能不能挖到什么新闻，结果在路上跟丢了，这才走回来。看方向，好像是往伦蒂尼恩西区去了。,"나는 그를 스토킹해서 무슨 뉴스를 캐보려 했는데, 중간에 놓쳐서 돌아온 거야. 방향을 봐선 론디니움 서부 지구 쪽으로 간 것 같아."
+AvgDialog_18893_Content_45,afmP,avg章1新_AvgDialog_C_M.csv,1194,AvgDialog,Content,拉蒙娜,"南华克大街就在西区。
+看来这次，我们可以亲眼见证名牌调查员威廉的风采了。",사우스워크 거리는 서부 지구에 있어. 이번엔 명탐정 윌리엄의 활약을 직접 볼 수 있겠네.
+AvgDialog_18893_Content_46,afmQ,avg章1新_AvgDialog_C_M.csv,1195,AvgDialog,Content,玩家,他都出动了吗……,선배가 나섰다니...
+AvgDialog_18893_Content_47,afmR,avg章1新_AvgDialog_C_M.csv,1196,AvgDialog,Content,,"18:24，伦蒂尼恩西区
+南华克大街","18:24, 론디니움 서부 지구\n사우스워크 거리"
+AvgDialog_18893_Content_48,afmS,avg章1新_AvgDialog_C_M.csv,1197,AvgDialog,Content,威廉,感谢几位的配合，接下来我一个人就行了。,협조 감사합니다. 여기서부터는 저 혼자 처리할 수 있습니다.
+AvgDialog_18893_Content_49,afmT,avg章1新_AvgDialog_C_M.csv,1198,AvgDialog,Content,警探1,"这不行，先生，上头的命令很明确，要我们陪同你进行调查。
+再说了，罗杰斯也是我们的嫌疑人，可不能让你一个人辛苦。","그건 안 됩니다, 선생님, 상부는 저희에게 확실하게 당신을 보조하라고 명받았습니다. 그리고 로저스도 저희의 용의자 중 하나입니다. 당신 혼자 고생시킬 수는 없어요."
+AvgDialog_18893_Content_50,afmV,avg章1新_AvgDialog_C_M.csv,1199,AvgDialog,Content,警探2,而且，有我们在，你的身份才能更好地隐藏，不是吗？,게다가 저희가 있으면 당신의 신분도 더 잘 숨길 수 있지 않겠습니까?
+AvgDialog_18893_Content_51,afmW,avg章1新_AvgDialog_C_M.csv,1200,AvgDialog,Content,威廉,……,...
+AvgDialog_18893_Content_52,afmX,avg章1新_AvgDialog_C_M.csv,1201,AvgDialog,Content,警探1,放心吧先生，我们有枪，跑得也快，不会拖你后腿的。,"안심하세요, 선생님. 저희에겐 총도 있고, 달리기도 빠르니 당신 발목은 잡지 않을 겁니다."
+AvgDialog_18893_Content_53,afmY,avg章1新_AvgDialog_C_M.csv,1202,AvgDialog,Content,威廉,好吧，请务必提高警戒。必要的时候，以自己的生命为优先。,알겠습니다. 경계 태세를 강화해 주세요. 필요할 때는 자신의 목숨을 우선하세요.
+AvgDialog_18893_Content_54,afmZ,avg章1新_AvgDialog_C_M.csv,1203,AvgDialog,Content,威廉,汇报。抵达任务地点，南华克街44号，罗杰斯蜡像馆。目标确认：确认蜡像馆主人罗杰斯与雕塑家协会的可能联系。,"보고합니다. 임무 장소에 도착했습니다. 사우스워크 거리 44번지, 로저스 밀랍인형 박물관. 목표, 밀랍인형 박물관의 주인 로저스와 조각가 협회와의 연관성 확인."
+AvgDialog_18893_Content_55,afna,avg章1新_AvgDialog_C_M.csv,1204,AvgDialog,Content,艾瑞卡,"任务地点抵达确认，调查目标确认。
+愿银钥指引前路。","임무 장소 도착 확인, 조사 목표 확인.\n은빛 열쇠가 앞길을 인도하길."
+AvgDialog_18893_Content_56,afnb,avg章1新_AvgDialog_C_M.csv,1205,AvgDialog,Content,威廉,愿银钥指引我们。,은빛 열쇠가 우리를 인도하길.
+CommonID_Boss_Desc,avWE,t通用中文ID_CommonID_A.csv,101,CommonID,Desc,,首领,보스
+CommonID_Common_Desc,avXo,t通用中文ID_CommonID_A.csv,102,CommonID,Desc,,普通,일반
+CommonID_Relic_Desc,awbI,t通用中文ID_CommonID_A.csv,109,CommonID,Desc,,造物,유물
+CommonID_T_Desc,awdM,t通用中文ID_CommonID_A.csv,113,CommonID,Desc,,防御型,방어형
+CommonID_SUP_Desc,awbS,t通用中文ID_CommonID_A.csv,114,CommonID,Desc,,辅助型,보조형
+CommonID_DPS_Desc,avXw,t通用中文ID_CommonID_A.csv,115,CommonID,Desc,,伤害型,공격형
+CommonID_White_Desc,aweZ,t通用中文ID_CommonID_A.csv,117,CommonID,Desc,,白银,백은
+CommonID_Purple_Desc,awbD,t通用中文ID_CommonID_A.csv,122,CommonID,Desc,,时灵摆,시계추
+CommonID_Sin_Desc,awce,t通用中文ID_CommonID_A.csv,123,CommonID,Desc,,原罪,죄악
+CommonID_UtlSkill_Promote_Desc,aweP,t通用中文ID_CommonID_A.csv,132,CommonID,Desc,,超限狂气爆发,초월 폭발
+CommonID_LevelLimit_Promote_Desc,awaC,t通用中文ID_CommonID_A.csv,133,CommonID,Desc,,等级上限提升,레벨 상한 증가
+CommonID_VeryHigh_Desc,aweR,t通用中文ID_CommonID_A.csv,368,CommonID,Desc,,极高,매우 높음
+CommonID_High_Desc,avZM,t通用中文ID_CommonID_A.csv,370,CommonID,Desc,,高,높음
+CommonID_Middle_Desc,awaU,t通用中文ID_CommonID_A.csv,371,CommonID,Desc,,中,중간
+CommonID_Low_Desc,awaH,t通用中文ID_CommonID_A.csv,372,CommonID,Desc,,低,낮음
+CommonID_VeryLow_Desc,aweS,t通用中文ID_CommonID_A.csv,373,CommonID,Desc,,极低,매우 낮음
+CommonID_ClickToView_Desc,avXg,t通用中文ID_CommonID_A.csv,393,CommonID,Desc,,点击查看,클릭하여 보기
+CommonID_Redeem_Desc,awbH,t通用中文ID_CommonID_A.csv,394,CommonID,Desc,,前往兑换,코드 입력
+CommonID_View_Desc,aweT,t通用中文ID_CommonID_A.csv,395,CommonID,Desc,,前往查看,확인
+CommonID_Mute_Desc,awbd,t通用中文ID_CommonID_A.csv,402,CommonID,Desc,,静音,음소거
+CommonID_ContinuousSound_Desc,avXq,t通用中文ID_CommonID_A.csv,403,CommonID,Desc,,持续播放,계속 재생
+CommonID_Key_Desc,awaA,t通用中文ID_CommonID_A.csv,405,CommonID,Desc,,按键,입력
+CommonID_AchieveType9_Desc,bKTD,t通用中文ID_CommonID_A.csv,547,CommonID,Desc,,造物,유물
 Item_78774_Name,aFKp,d道具_Item_A.csv,375,Item,Name,,黑暗中的安眠,어둠 속의 평온한 잠
 LanguageConfig_SummonProbabilityUpDescFormat_CN,aHit,d多语言_LanguageConfig_C.csv,2461,LanguageConfig,CN,,<SummonOrange:「{s1}」>获取概率提升！,<SummonOrange:「{s1}」> 획득 확률 상승!
 LanguageConfig_DeepSeaInvasionDefensiveActiviityTips9_CN,bxnB,d多语言_LanguageConfig_C.csv,2910,LanguageConfig,CN,,等级补偿,레벨 보정
@@ -5795,8 +7202,19 @@ PanelText_UI_Alchemy_Popup_ResolveWeapon_Text_C_Sel_Content,aImt,j界面文字�
 PanelText_UI_Alchemy_Popup_ResolveMaterials_Text_C_Sel_Content,aIlX,j界面文字表_PanelText_C.csv,849,PanelText,Content,,已选,선택됨
 PanelText_UI_Awaker_Popup_Topped_Tip2_Text_C_Reward_Content,aIqR,j界面文字表_PanelText_C.csv,1046,PanelText,Content,,等级奖励,레벨 보상
 PopupAd_121879_TitleText,bKUG,t弹窗广告表_PopupAd_A.csv,67,PopupAd,TitleText,,「渊缚孕形」限时唤醒,「심연이 잉태한 형상」 한정 각성
+SchoolConfig_2_SchoolBattleTips_1,bKlN,z职业_SchoolConfig_A.csv,8,SchoolConfig,SchoolBattleTips,,·胚胎融合：回合开始时，胚胎融合+[Arg1]％。\n·猩红熔炉：回合开始时，积攒 <BlueQuality:[Arg9]> 点猩红熔炉。战斗结束后，积攒 <BlueQuality:[Arg2]> 点猩红熔炉，若当前界域为「至纯血肉」积攒量翻倍，至多积攒 <BlueQuality:[Arg3]> 点。战斗结束时，手牌中每剩余 1 个「胚胎」，额外积攒 <BlueQuality:[Arg2]> 点猩红熔炉。\n·胚胎吞噬：血肉唤醒体的狂气爆发会消耗「胚胎」并触发吞噬效果。队伍每回合首次触发「吞噬」后，获得 <BlueQuality:[Arg4]％> 最大生命的护盾( <BlueQuality:[Arg5]> )和 <BlueQuality:[Arg6]％> 最大生命的临时力量( <BlueQuality:[Arg7]> )。,"· 배아 융합: 턴 시작 시 배아 융합이 [Arg1]％ 증가합니다.\n· 핏빛 용광로: 턴 시작 시마다 핏빛 용광로를 <BlueQuality:[Arg9]> 축적하고, 전투 종료 후 핏빛 용광로를 <BlueQuality:[Arg2]> 축적합니다. 현재 영역이 「순수 혈육」일 경우 축적량이 2배가 되고, 최대 <BlueQuality:[Arg3]> 축적 가능합니다. 전투 종료 시, 손패에 남아 있는 「배아」 1장마다 추가로 <BlueQuality:[Arg2]> 축적합니다. \n· 배아 포식: 혈육 각성체의 광기 폭발은 「배아」를 소비하고 포식 효과를 발동합니다. 턴마다 첫 번째로 「포식」을 발동한 후, 최대 HP <BlueQuality:[Arg4]％>의 방어막(<BlueQuality:[Arg5]>)과 최대 HP <BlueQuality:[Arg6]％>의 임시 힘(<BlueQuality:[Arg7]>)을 획득합니다."
 Skill_119044_Name,bKaq,jPVP技能表_Skill_A.csv,453,Skill,Name,,黑暗中的安眠,어둠 속의 평온한 잠
+Skill_25411_Desc,aLEj,j技能表_Skill_A.csv,174,Skill,Desc,,每回合开始时默认的触腕基础姿态，触腕伤害为 100%。若回合结束时仍处于「潮涌」姿态，生成 1 条永久触腕。,"턴 시작 시 기본값으로 설정된 촉수 태세입니다. 촉수 피해의 100%가 적용되고, 턴 종료 시 촉수 1개를 생성합니다."
+Skill_25412_Desc,aLEq,j技能表_Skill_A.csv,175,Skill,Desc,,·本回合触腕伤害降低 50％，获得 <Block:[Block:Arg1]> 点护盾，后续每次触腕攻击时获得 <Block:[Block:Arg2]> 点护盾。,"이번 턴 동안 촉수 피해가 50％ 감소하고, <Block:[Block:Arg1]>의 방어막을 획득하며, 촉수가 1회 공격할 때마다 <Block:[Block:Arg2]>의 방어막을 획득합니다."
+Skill_25412_tempBattleDesc_1,bLed,j技能表_Skill_A.csv,175,Skill,tempBattleDesc,,·本回合触腕伤害降低 50％，获得 <Block:[Block:Arg1]> 点护盾，后续每次触腕攻击时获得 <Block:[Block:Arg2]> 点护盾。,"이번 턴 동안 촉수 피해가 50％ 감소하고, <Block:[Block:Arg1]>의 방어막을 획득하며, 촉수가 1회 공격할 때마다 <Block:[Block:Arg2]>의 방어막을 획득합니다."
+Skill_25412_tempBattleDesc_2,bLee,j技能表_Skill_A.csv,175,Skill,tempBattleDesc,,获得 <Block:[Block:Arg3]> 点护盾，回合结束时触腕不再攻击，3 回合冷却。,"<Block:[Block:Arg3]>의 방어막을 획득하고, 턴 종료 시 촉수가 공격하지 않습니다. 3턴의 쿨타임을 가집니다."
+Skill_25413_Desc,aLEx,j技能表_Skill_A.csv,176,Skill,Desc,,·本回合触腕伤害变为 [Arg1]%，造成主动伤害后，使 1 条触腕攻击目标敌方，造成 [Arg3]％ 触腕伤害，回合结束时失去 1 条触腕。当前永久触腕数量超过 1 条时，才可选择该姿态。,"이번 턴 동안 촉수 피해가 [Arg1]%로 증가하고, 능동 피해를 입힐 때마다 촉수 1개가 적에게 [Arg2]％의 촉수 피해를 입힙니다. 턴 종료 시 촉수 1개가 소멸합니다. 현재 영구 촉수가 2개 이상일 때만 선택할 수 있습니다."
+Skill_25413_tempBattleDesc_1,bLef,j技能表_Skill_A.csv,176,Skill,tempBattleDesc,,·本回合触腕伤害变为 [Arg1]%，造成主动伤害后，使 1 条触腕攻击目标敌方，造成 [Arg3]％ 触腕伤害，回合结束时失去 1 条触腕。当前永久触腕数量超过 1 条时，才可选择该姿态。,"이번 턴 동안 촉수 피해가 [Arg1]%로 증가하고, 능동 피해를 입힐 때마다 촉수 1개가 적에게 [Arg2]％의 촉수 피해를 입힙니다. 턴 종료 시 촉수 1개가 소멸합니다. 현재 영구 촉수가 2개 이상일 때만 선택할 수 있습니다."
+Skill_25413_tempBattleDesc_2,bLeg,j技能表_Skill_A.csv,176,Skill,tempBattleDesc,,本回合触腕伤害变为 [Arg2]％，造成主动伤害后，使 1 条触腕攻击敌方。回合结束时失去 1 条触腕。当前永久触腕数量超过 1 条时，才可选择该姿态，3 回合冷却。,"이번 턴 동안 촉수 피해가 [Arg2]%로 증가하고, 능동 피해를 입힐 때마다 촉수 1개가 적을 공격합니다. 턴 종료 시 촉수 1개가 소멸합니다. 현재 영구 촉수가 2개 이상일 때만 선택할 수 있습니다. 3턴의 쿨타임을 가집니다."
+Stage_8128_Desc,aVte,g关卡_Stage_A.csv,69,Stage,Desc,,没有供给呼吸的氧气，没有火柴般微弱的光亮，这里是绝对的漆黑之梦。,"들이마실 산소도 없고, 성냥불만큼의 미약한 빛조차 없다. 이곳은 순수한 칠흑의 꿈이다."
+Stage_7686_Name,aUEn,g关卡_Stage_A.csv,80,Stage,Name,,彩色的梦魇,형형색색의 악몽
 State_119058_Name,bKaP,zPVP状态表_State_A.csv,363,State,Name,,黑暗中的安眠,어둠 속의 평온한 잠
+State_119370_Name,bJMH,z状态表_State_A.csv,5447,State,Name,,造物,유물
 Summon_81492_ShortDesc,btjp,c抽卡_Summon_A.csv,8,Summon,ShortDesc,,获得唤醒体必为<{s1}: {s2}>界域,<{s1}:{s2}> 영역 각성체만 출현합니다.
 Summon_91398_ShortDesc,byug,c抽卡_Summon_A.csv,9,Summon,ShortDesc,,获得唤醒体必为<{s1}: {s2}>界域,<{s1}:{s2}> 영역 각성체만 출현합니다.
 Summon_89883_Desc,bxAy,c抽卡_Summon_A.csv,24,Summon,Desc,,每<SummonOrange:5>次唤醒必出SR级或以上对象,<SummonOrange:5>회 각성할 때마다 SR 이상의 아이템이 반드시 등장합니다.
@@ -6316,3 +7734,4 @@ Summon_119619_ShortDesc,bJSA,c抽卡_Summon_A.csv,307,Summon,ShortDesc,,获得�
 Summon_119599_ProbabilityUpDesc,bJOP,c抽卡_Summon_A.csv,308,Summon,ProbabilityUpDesc,,<SummonRed:「皮克曼」>获取概率提升！,<SummonRed:「픽맨」> 획득 확률 상승!
 Summon_119599_Desc,bJOL,c抽卡_Summon_A.csv,308,Summon,Desc,,每<SummonRed:5>次唤醒必出SR级或以上对象,<SummonRed:5>회 각성할 때마다 SR 이상의 아이템이 반드시 등장합니다.
 Summon_119599_ShortDesc,bJOT,c抽卡_Summon_A.csv,308,Summon,ShortDesc,,获得唤醒体必为<SummonRed:血肉>界域,<SummonRed:혈육> 영역 각성체만 출현합니다.
+Voice_122115_AwakerVoiceTitle,bLdD,y语音_Voice_A.csv,1238,Voice,AwakerVoiceTitle,诞妄·墨菲,超限狂气爆发,초월 폭발
