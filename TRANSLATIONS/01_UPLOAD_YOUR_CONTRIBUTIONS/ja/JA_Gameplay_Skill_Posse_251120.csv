@@ -1,0 +1,110 @@
+﻿Skill_4129_Name,aMrR,j技能表_Skill_A.csv,27,Skill,Name,,纯白初遇,純白の出会い
+Skill_4129_Desc,aMrP,j技能表_Skill_A.csv,27,Skill,Desc,,弃掉所有手牌，抽取弃掉数量 +2 的牌。,すべての手札を捨て、捨てた枚数+2のカードを引く。
+Skill_4043_Name,aMgd,j技能表_Skill_A.csv,28,Skill,Name,,脑中之音,頭の中の音
+Skill_4043_Desc,aMgb,j技能表_Skill_A.csv,28,Skill,Desc,,对所有敌人造成 1 回合<WeaknessIconKeywords:虚弱>和<VulnerabilityIconKeywords:易伤>，<TouquKeywords:偷取>所有敌人 [Arg1] 点<PowerIconKeywords:力量>。,すべての敵に1点の<WeaknessIconKeywords:虚弱>と<VulnerabilityIconKeywords:負傷>を付与し、[Arg1]点の一時的な<PowerIconKeywords:力>を<TouquKeywords:奪う>。
+Skill_4043_BattleDesc,aMga,j技能表_Skill_A.csv,28,Skill,BattleDesc,,对所有敌人造成 1 回合<WeaknessIconKeywords:虚弱>和<VulnerabilityIconKeywords:易伤>，临时降低所有敌人 [Arg1] 点<ExhaustionIconKeywords:力量>，每有 1 名敌人获得 [Arg1] 点临时<PowerIconKeywords:力量>。,すべての敵に1点の<WeaknessIconKeywords:虚弱>と<VulnerabilityIconKeywords:負傷>を付与し、[Arg1]点の一時的な<PowerIconKeywords:力>を減少させる。敵が1体いるごとに、[Arg1]点の<ExhaustionIconKeywords:力>を獲得する。
+Skill_4771_Name,aOAs,j技能表_Skill_A.csv,29,Skill,Name,,注射守护,注射の守護
+Skill_4771_Desc,aOAq,j技能表_Skill_A.csv,29,Skill,Desc,,获得 <Block:[Block:Arg1]> 点护盾，当前生命若低于 25%，回复 <Heal:[Heal:Arg2]> 点生命。,<Block:[Block:Arg1]>点のシールドを獲得し、現在のライフが25%未満の場合、ライフを<Heal:[Heal:Arg2]>回復する。
+Skill_4771_BattleDesc,aOAp,j技能表_Skill_A.csv,29,Skill,BattleDesc,,获得 <Block:[Block:Arg1]> 点护盾，当前生命若低于 25%([Arg3])，回复 <Heal:[Heal:Arg2]> 点生命。,<Block:[Block:Arg1]>点のシールドを獲得し、現在のライフが25%未満([Arg3])の場合、ライフを<Heal:[Heal:Arg2]>回復する。
+Skill_4292_Name,aMOo,j技能表_Skill_A.csv,30,Skill,Name,,鼠鼠的智慧,鼠の智恵
+Skill_4292_Desc,aMOm,j技能表_Skill_A.csv,30,Skill,Desc,,获得 3 点算力。,3点の行動力を獲得する。
+Skill_4048_Name,aMgM,j技能表_Skill_A.csv,31,Skill,Name,,小小心愿,小さな願い
+Skill_4048_Desc,aMgK,j技能表_Skill_A.csv,31,Skill,Desc,,选择 1 名唤醒体使其获得 <Energy:[Arg1]> 点狂气。,覚醒体を1名選択し、<Energy:[Arg1]>狂気を獲得させる。
+Skill_4222_Name,aMEX,j技能表_Skill_A.csv,32,Skill,Name,,永世执念,永遠の執念
+Skill_4222_Desc,aMEV,j技能表_Skill_A.csv,32,Skill,Desc,,获得 [Arg1] 点<PowerIconKeywords:力量>，额外获得等同于永久力量 25%的临时<PowerIconKeywords:力量>。,[Arg1]点の<PowerIconKeywords:力>を獲得し、追加で永続の力の25％に等しい一時的な<PowerIconKeywords:力>を獲得する。
+Skill_4222_BattleDesc,aMEU,j技能表_Skill_A.csv,32,Skill,BattleDesc,,获得 [Arg1] 点<PowerIconKeywords:力量>，额外获得等同于永久力量 25%([Arg3]) 的临时<PowerIconKeywords:力量>。,[Arg1]点の<PowerIconKeywords:力>を獲得し、追加で永続の力の25％([Arg3])に等しい一時的な<PowerIconKeywords:力>を獲得する。
+Skill_4691_Name,aOpj,j技能表_Skill_A.csv,33,Skill,Name,,不平等交换,不平等な交換
+Skill_4691_Desc,aOph,j技能表_Skill_A.csv,33,Skill,Desc,,抽 4 张牌。,4枚のカードを引く。
+Skill_4582_Name,aOac,j技能表_Skill_A.csv,34,Skill,Name,,不朽的葬仪,不滅の葬儀
+Skill_4582_Desc,aOaa,j技能表_Skill_A.csv,34,Skill,Desc,,所有唤醒体获得 <Energy:15> 点狂气，下回合开始时，获得 5% 最大生命 <SacrificeKeyWord:献祭>。,すべての覚醒体は<Energy:15>狂気を獲得する。次のターン開始時、最大ライフの5%分の<SacrificeKeyWord:供犠>を獲得する。
+Skill_4582_BattleDesc,aNZZ,j技能表_Skill_A.csv,34,Skill,BattleDesc,,所有唤醒体获得 <Energy:15> 点狂气，下回合开始时，受到最大生命 5%([Arg3]) 的<SacrificeKeyWord:献祭>。,すべての覚醒体は<Energy:15>狂気を獲得する。次のターン開始時、最大ライフの5%分([Arg3])の<SacrificeKeyWord:供犠>を獲得する。
+Skill_36809_Name,aLSs,j技能表_Skill_A.csv,35,Skill,Name,,最后的誓言,最後の誓い
+Skill_36809_Desc,aLSq,j技能表_Skill_A.csv,35,Skill,Desc,,获得 [Arg1]% 临时暴击率和 [Arg2] 点临时<PowerIconKeywords:力量>。 若在首领战中且本回合尚未打出过任何牌，则尝试触发 [Arg3] 次死亡抵抗，若成功则获得 <Block:[Block:Arg4]> 点护盾，此效果只能触发 [Arg5] 次。,[Arg1]%の一時的なクリティカル率と[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。ボス戦中、かつこのターン中にまだカードを使用していない場合、死亡抵抗を[Arg3]回試行し、成功すると<Block:[Block:Arg4]>点のシールドを獲得する。この効果は[Arg5]回まで発動する。
+Skill_36800_Name,aLRX,j技能表_Skill_A.csv,36,Skill,Name,,奥瑞塔的宝藏,オレッタの宝物
+Skill_36800_Desc,aLRV,j技能表_Skill_A.csv,36,Skill,Desc,,从抽牌堆中抽 [Arg1] 张算力消耗最低的卡牌。若当前界域为「深海」，则额外使<TentacleInjurieIconKeywords:触腕伤害>提高 [Arg2] 点。,山札から最も行動力消費が低いカードを[Arg1]枚引く。現在の界域が「深海」の場合、<TentacleInjurieIconKeywords:触腕ダメージ>が[Arg2]点増加する。
+Skill_36807_Name,aLSe,j技能表_Skill_A.csv,37,Skill,Name,,咆哮的血与沙,咆哮する血と砂
+Skill_36807_Desc,aLSc,j技能表_Skill_A.csv,37,Skill,Desc,,选择 1 名唤醒体使其获得 <Energy:[Arg2]>  点狂气，获得 [Arg3] 点<PowerIconKeywords:力量>，若当前界域为「血肉」，额外使<EmbryoFusionIconKeywords:胚胎融合> + [Arg4]，但失去 10%当前生命。,覚醒体を1名選択し、その覚醒体は<Energy:[Arg2]>狂気と[Arg3]点の<PowerIconKeywords:力>を獲得する。現在の界域が「血肉」の場合、追加で<EmbryoFusionIconKeywords:胚胎融合>+[Arg4]、現在のライフの10％を失う。
+Skill_36807_BattleDesc,aLSb,j技能表_Skill_A.csv,37,Skill,BattleDesc,,选择 1 名唤醒体使其获得 <Energy:[Arg2]>  点狂气，获得 [Arg3] 点<PowerIconKeywords:力量>，若当前界域为「血肉」，额外使<EmbryoFusionIconKeywords:胚胎融合> + [Arg4]，但失去 10%([Arg1])当前生命。,覚醒体を1名選択し、その覚醒体は<Energy:[Arg2]>狂気と[Arg3]点の<PowerIconKeywords:力>を獲得する。現在の界域が「血肉」の場合、追加で<EmbryoFusionIconKeywords:胚胎融合>+[Arg4]、現在のライフの10％([Arg1])を失う。
+Skill_36808_Name,aLSl,j技能表_Skill_A.csv,38,Skill,Name,,短暂的永恒,儚き永遠
+Skill_36808_Desc,aLSj,j技能表_Skill_A.csv,38,Skill,Desc,,获得 [Arg4] 点算力。选择 1 名唤醒体，将其 [Arg1] 张「打击」与 [Arg1] 张「防御」的原始复制置入手中，并使他们获得<DepleteIconKeywords:消耗>，<NothingnessIconKeywords:虚无>。若当前界域为「超维」，则额外获得 [Arg2] 点临时<PowerIconKeywords:力量>与 [Arg3] 点临时<AlertIconKeywords:戒备>。,[Arg4]点の行動力を獲得する。覚醒体を1体選択し、その覚醒体の「攻撃」と「防御」のコピーを[Arg1]枚ずつ手札に追加し、<DepleteIconKeywords:除外>、<NothingnessIconKeywords:虚無>を付与する。現在の界域が「超次元」の場合、追加で[Arg2]点の一時的な<PowerIconKeywords:力>と[Arg3]点の一時的な<AlertIconKeywords:警戒>を獲得する。
+Skill_36846_Name,aLSU,j技能表_Skill_A.csv,39,Skill,Name,,腐烂盛筵,腐敗の饗宴
+Skill_36846_Desc,aLSS,j技能表_Skill_A.csv,39,Skill,Desc,,获得 [Arg1] 点<RetaliateIconKeywords:反击>，使所有敌人降低 [Arg2] 点临时<PowerIconKeywords:力量>。若当前处于「超维回合」，不再降低临时<PowerIconKeywords:力量>，则对所有敌人造成等同于自身<RetaliateIconKeywords:反击>的伤害。,[Arg1]点の<RetaliateIconKeywords:反撃>を獲得し、すべての敵から[Arg2]点の一時的な<PowerIconKeywords:力>を 減少させる。現在のターンが「超次元ターン」の場合、一時的な<PowerIconKeywords:力>を減少させず、すべての敵に自身の<RetaliateIconKeywords:反撃>に等しいダメージを与える。
+Skill_36845_Name,aLSN,j技能表_Skill_A.csv,40,Skill,Name,,蚀骨的拥抱,骨を蝕む抱擁
+Skill_36845_Desc,aLSL,j技能表_Skill_A.csv,40,Skill,Desc,,获得 [Arg1] 点算力，下回合开始时获得 <Block:[Block:Arg2]> 点护盾。若当前界域为「深海」且处于「潮涌」姿态，则效果变为生成 [Arg3] 条触腕。,[Arg1]点の行動力を獲得し、次のターン開始時に<Block:[Block:Arg2]>点のシールドを獲得する。現在の界域が「深海」で、「潮流」姿勢の場合、この効果は「触腕を[Arg3]本獲得する」に変化する。
+Skill_36844_Name,aLSG,j技能表_Skill_A.csv,41,Skill,Name,,湖畔回眸,湖畔の回想
+Skill_36844_Desc,aLSE,j技能表_Skill_A.csv,41,Skill,Desc,,对生命最高敌人造成 [Arg2] 点<IntoxicationIconKeywords:中毒>，获得 <Block:[Block:Arg1]> 点护盾。若本回合触发过「吞噬」，不再获得护盾，触发该敌人一半的<IntoxicationIconKeywords:中毒>。,ライフが最大の敵に[Arg2]点の<IntoxicationIconKeywords:毒>を付与し、<Block:[Block:Arg1]>点のシールドを獲得する。もしこのターンに「捕食」効果が発動していた場合、シールドは獲得せず、その敵に与えた毒の半分を発動する。
+Skill_36843_Name,aLSz,j技能表_Skill_A.csv,42,Skill,Name,,跨越回溯之扉,回帰の扉を超え
+Skill_36843_Desc,aLSx,j技能表_Skill_A.csv,42,Skill,Desc,,从抽牌堆中选择 [Arg1] 张牌加入手中，并使其算力消耗降低 [Arg2]。,山札からカードを[Arg1]枚選択して手札に追加し、その行動力消費を[Arg2]減少させる。
+Skill_36851_Name,aLTb,j技能表_Skill_A.csv,43,Skill,Name,,灰雾真容,灰霧の真容
+Skill_36851_Desc,aLSZ,j技能表_Skill_A.csv,43,Skill,Desc,,获得 [Arg1] 点<PowerIconKeywords:力量>，将 [Arg2] 张<DerivativeCardKeywords_4:「灵感」>置入手中。若当前为超维回合，效果变更为将 [Arg3] 张<DerivativeCardKeywords_4:「灵感」>置入手中。,[Arg1]点の<PowerIconKeywords:力>を獲得し、<DerivativeCardKeywords_4:「啓示」>を[Arg2]枚手札に追加する。現在のターンが超次元ターンである場合、効果が変化し、<DerivativeCardKeywords_4:「啓示」>を[Arg3]枚手札に追加する。
+Skill_47996_Name,aOEi,j技能表_Skill_A.csv,44,Skill,Name,,未至遗忘的黎明,忘却に至らぬ黎明
+Skill_47996_Desc,aOEg,j技能表_Skill_A.csv,44,Skill,Desc,,选择 1 个已解锁的钥令释放并使其生效 2 次，每个已解锁的钥令在本次探索中只能选择 1 次，不可选择初始携带的钥令。,解放済みの「キーオーダー」を1つ選択し、効果を2回発動させる。各解放済み「キーオーダー」はこの探索中1回しか選択できず、初期装備の「キーオーダー」は選択不可。
+Skill_89949_Name,bxMX,j技能表_Skill_A.csv,45,Skill,Name,,尘封旧忆,封じられた記憶
+Skill_89949_Desc,bxMW,j技能表_Skill_A.csv,45,Skill,Desc,,从随机 3 个钥令中选择 1 个钥令释放，每个已解锁的钥令在本次探索中只能选择 1 次，不可选择初始携带的钥令。,ランダムな3つの「キーオーダー」から1つを選んで発動する。各解放済み「キーオーダー」はこの探索中1回しか選択できず、初期装備の「キーオーダー」は選択不可。
+Skill_36852_Name,aLTi,j技能表_Skill_A.csv,46,Skill,Name,,仲夏之梦,真夏の夢
+Skill_36852_Desc,aLTg,j技能表_Skill_A.csv,46,Skill,Desc,,抽 1 张牌，如果抽到指令卡或灵知觉醒，将其算力消耗变为 0，并使其拥有者获得 <Energy:[Arg1]> 点狂气。否则将这张牌弃掉并重复此条效果。,カードを1枚引く。指令カードまたは霊知覚醒を引いた場合、その行動力消費を0にし、そのカードの所有者は<Energy:[Arg1]>狂気を獲得する。そうでない場合、そのカードを捨て、この効果を繰り返す。
+Skill_36856_Name,aLTK,j技能表_Skill_A.csv,47,Skill,Name,,玫瑰的胜利,薔薇の勝利
+Skill_36856_Desc,aLTI,j技能表_Skill_A.csv,47,Skill,Desc,,获得 [Arg1] 点临时<PowerIconKeywords:力量>，抽 2 张牌。若当前界域为「血肉」，损失 10% 当前生命，额外获得 [Arg2] 点临时<PowerIconKeywords:力量>，手中每有 1 张<DerivativeCardKeywords_2:「胚胎」>额外获得 [Arg2] 点临时<PowerIconKeywords:力量>。,[Arg1]点の一時的な<PowerIconKeywords:力>を獲得し、カードを2枚引く。現在の界域が「血肉」の場合、現在のライフの10%を失い、追加で[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。手札に<DerivativeCardKeywords_2:「胚胎」>が1枚あるごとに、追加で[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。
+Skill_36856_BattleDesc,aLTH,j技能表_Skill_A.csv,47,Skill,BattleDesc,,获得 [Arg1] 点临时<PowerIconKeywords:力量>，抽 2 张牌。若当前界域为「血肉」，损失 10% 当前生命([Arg3])，额外获得 [Arg2] 点临时<PowerIconKeywords:力量>，手中每有 1 张<DerivativeCardKeywords_2:「胚胎」>额外获得 [Arg2] 点临时<PowerIconKeywords:力量>。,[Arg1]点の一時的な<PowerIconKeywords:力>を獲得し、カードを2枚引く。現在の界域が「血肉」の場合、現在のライフの10%([Arg3])を失い、追加で[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。手札に<DerivativeCardKeywords_2:「胚胎」>が1枚あるごとに、追加で[Arg2]点の一時的な<PowerIconKeywords:力>を獲得する。
+Skill_36853_Name,aLTp,j技能表_Skill_A.csv,48,Skill,Name,,神迹降临,奇蹟の夜明け
+Skill_36853_Desc,aLTn,j技能表_Skill_A.csv,48,Skill,Desc,,获得 [Arg1] 点<PowerIconKeywords:力量>。受到攻击伤害时，下回合开始时获得 [Arg2]% 伤害的护盾。若当前界域为「血肉」，不再获得延迟护盾，而是积攒 10% 伤害的回复量到猩红熔炉。,[Arg1]点の<PowerIconKeywords:力>を獲得する。攻撃を受けた時、次のターン開始時にダメージの[Arg2]%分のシールドを獲得する。現在の界域が「血肉」の場合、遅延シールドは獲得せず、ダメージの10%を猩紅炉に蓄積する。
+Skill_36854_Name,aLTw,j技能表_Skill_A.csv,49,Skill,Name,,巨人的霸道,巨人の覇道
+Skill_36854_Desc,aLTu,j技能表_Skill_A.csv,49,Skill,Desc,,获得 1 点算力和 [Arg1] 点<PowerIconKeywords:力量>，选择一名唤醒体获得 [Arg2] 点狂气。若当前界域为「深海」且处于「怒涛」姿态，效果改为获得 15% 临时暴击率和临时暴击伤害。,1点の行動力と[Arg1]点の<PowerIconKeywords:力>を獲得し、覚醒体を1名選択して[Arg2]狂気を獲得させる。現在の界域が「深海」で、「怒涛」姿勢の場合、効果が変化し、15%の一時的なクリティカル率と一時的なクリティカルダメージを獲得する。
+Skill_36855_Name,aLTD,j技能表_Skill_A.csv,50,Skill,Name,,全部的她,すべての彼女
+Skill_36855_Desc,aLTB,j技能表_Skill_A.csv,50,Skill,Desc,,界域精通提高 [Arg1]。选择 1 名唤醒体使其获得 <Energy:[Energy:Arg2]> 点狂气。,界域知識が[Arg1]点増加する。覚醒体を1体選択し、<Energy:[Energy:Arg2]>狂気を獲得する。
+Skill_49416_Name,aOUk,j技能表_Skill_A.csv,51,Skill,Name,,唯一的种子,唯一の種子
+Skill_49416_Desc,aOUi,j技能表_Skill_A.csv,51,Skill,Desc,,选择 1 张手中的非衍生指令卡，获得一张附加<DepleteIconKeywords:消耗>的原始复制，并使指令卡的所有者获得 <Energy:[Arg1]> 点狂气。,手札から非派生指令カードを1枚選択し、<DepleteIconKeywords:除外>が付与されたコピーを獲得する。その指令カードの所有者は<Energy:[Arg1]>狂気を獲得する。
+Skill_52698_Name,aPjW,j技能表_Skill_A.csv,52,Skill,Name,,海之祭,海の祭
+Skill_52698_Desc,aPjU,j技能表_Skill_A.csv,52,Skill,Desc,,抽 2 张牌，获得 2 点算力，所有唤醒体失去 5 点狂气。若当前处于「静海」姿态，对所有敌人施加 [Arg1] 层<IntoxicationIconKeywords:中毒>，在首领战中发挥 3 倍效果。,カードを2枚引く。2点の行動力を獲得し、すべての覚醒体が5狂気を失う。現在の触腕姿勢が「静海」の場合、すべての敵に[Arg1]点の<IntoxicationIconKeywords:毒> を付与し、ボス戦では効果が3倍になる。
+Skill_56202_Name,aPsx,j技能表_Skill_A.csv,53,Skill,Name,,春天的献诗,春の詩
+Skill_56202_Desc,aPsv,j技能表_Skill_A.csv,53,Skill,Desc,,从四种<D06CardKeeperSkill:诗页>中选择一项，并将其从选项中移除。所有诗页都被选择后，重置。,4つの<D06CardKeeperSkill:詩頁>の中から1つを選択し、選択肢から除外する。すべての詩頁が選択された後、リセットする。
+Skill_56199_Name,aPsc,j技能表_Skill_A.csv,54,Skill,Name,,雨颂,雨の賛歌
+Skill_56199_Desc,aPsa,j技能表_Skill_A.csv,54,Skill,Desc,,回复 <Heal:[Arg1]> 点生命。,ライフを<Heal:[Arg1]>回復。
+Skill_56201_Name,aPsq,j技能表_Skill_A.csv,55,Skill,Name,,风颂,風の賛歌
+Skill_56201_Desc,aPso,j技能表_Skill_A.csv,55,Skill,Desc,,获得 [Arg1] 点<PowerIconKeywords:力量>。,[Arg1]点の<PowerIconKeywords:力>を獲得。
+Skill_56203_Name,aPsE,j技能表_Skill_A.csv,56,Skill,Name,,花颂,花の賛歌
+Skill_56203_Desc,aPsC,j技能表_Skill_A.csv,56,Skill,Desc,,所有唤醒体获得 10 点狂气。,すべての覚醒体が10狂気を獲得。
+Skill_56200_Name,aPsj,j技能表_Skill_A.csv,57,Skill,Name,,月颂,月の賛歌
+Skill_56200_Desc,aPsh,j技能表_Skill_A.csv,57,Skill,Desc,,临时暴击率 +30%。,一時的なクリティカル率+30%
+Skill_58288_Name,aPzX,j技能表_Skill_A.csv,58,Skill,Name,,一声枪响,一発の銃声
+Skill_58288_Desc,aPzV,j技能表_Skill_A.csv,58,Skill,Desc,,将 1 枚<C05_yansheng2:闪耀偏方骰子>置入手中，获得 [Arg1]% 临时暴击率。,<C05_yansheng2:輝くイカサマダイス>を1枚手札に追加し、[Arg1]%の一時的なクリティカル率を獲得する。
+Skill_60590_Name,aPQf,j技能表_Skill_A.csv,59,Skill,Name,,第四乐章,第四楽章
+Skill_60590_Desc,aPQd,j技能表_Skill_A.csv,59,Skill,Desc,,本回合下一张打出的卡牌若算力消耗大于等于 3，获得 2 点算力，否则抽 2 张牌。若为本场战斗中第 4 次生效，改为直接获得 4 张「灵感」。,このターン、次に使用するカードの行動力消費が3以上の場合、2点の行動力を獲得し、そうでない場合はカードを2枚引く。これがこの戦闘中4回目の発動である場合、代わりに「啓示」を4枚獲得する。
+Skill_60590_BattleDesc,aPQc,j技能表_Skill_A.csv,59,Skill,BattleDesc,,本回合下一张打出的卡牌若算力消耗大于等于 3，获得 2 点算力，否则抽 2 张牌。若为本场战斗中第 4 次生效，改为直接获得 4 张「灵感」。([Arg1]/4),このターン、次に使用するカードの行動力消費が3以上の場合、2点の行動力を獲得し、そうでない場合はカードを2枚引く。これがこの戦闘中4回目の発動である場合、代わりに「啓示」を4枚獲得する。([Arg1]/4)
+Skill_65357_Name,aPVs,j技能表_Skill_A.csv,60,Skill,Name,,群山的觉悟,山々の覚悟
+Skill_65357_Desc,aPVq,j技能表_Skill_A.csv,60,Skill,Desc,,选择一名唤醒体，抽 2 张该唤醒体的指令卡。,覚醒体を1名選択し、その覚醒体の指令カードを2枚引く。
+Skill_66499_Name,aQds,j技能表_Skill_A.csv,61,Skill,Name,,门扉的答案,扉の先の真実
+Skill_66499_Desc,aQdq,j技能表_Skill_A.csv,61,Skill,Desc,,<FaxianKeywords:发现> 3 个随机的钥令，选择其中 1 个触发其效果并获得 <Posse:[Arg1]> 点银钥能量。,<FaxianKeywords:発見>ランダムなキーオーダー3つの中から1つを選択し、その効果を発動して<Posse:[Arg1]>キーエネルギーを獲得する。
+Skill_70829_Name,aQCV,j技能表_Skill_A.csv,62,Skill,Name,,群星的庇佑,星々の加護
+Skill_70829_Desc,aQCT,j技能表_Skill_A.csv,62,Skill,Desc,,选择「<DerivativeCardKeywords_99:沉眠>」或「<DerivativeCardKeywords_100:苏醒>」。,「<DerivativeCardKeywords_99:熟睡>」または「<DerivativeCardKeywords_100:目覚め>」を選択する。
+Skill_70828_Name,aQCO,j技能表_Skill_A.csv,63,Skill,Name,,虚无瘟疫,虚無の疫病
+Skill_70828_Desc,aQCM,j技能表_Skill_A.csv,63,Skill,Desc,,选择一名唤醒体获得 [Arg1] 点狂气，对所有敌人施加 [Arg2] 层<IntoxicationIconKeywords:中毒>，目标每损失 1％ 生命额外触发 1％ 中毒，至多触发 50％中毒。,覚醒体を1体選択し、[Arg1]狂気を獲得させる。すべての敵に[Arg2]点の<IntoxicationIconKeywords:中毒>を付与し、対象がライフを1%失うごとに追加で1%の中毒を発動し、最大で50%発動する。
+Skill_80194_Name,bsBY,j技能表_Skill_A.csv,64,Skill,Name,,特殊治疗,特殊な治療
+Skill_80194_Desc,bsBW,j技能表_Skill_A.csv,64,Skill,Desc,,回复 [Arg1] 点生命，获得 [Arg2] 点力量。若克莱门汀在队伍中，使她本回合下次打出的指令卡伤害、护盾、生命回复、获得狂气、获得银钥能量的效果次数提高 1。,ライフを[Arg1]回復し、[Arg2]点の力を獲得する。クレメンタインがチームにいる場合、彼女がこのターンで次に出す指令カードのダメージ、シールド、ライフ回復、狂気獲得、キーエネルギー獲得効果の回数が1増加する。
+Skill_84378_Name,btTl,j技能表_Skill_A.csv,65,Skill,Name,,不灭的雷光,不滅の雷光
+Skill_84378_Desc,btTj,j技能表_Skill_A.csv,65,Skill,Desc,,获得 [Arg1] 点护盾，抽 [Arg2] 张牌。若克珀珊特在队伍中，还会将 1 张「领航」置入手中。,[Arg1]点のシールドを獲得し、カードを[Arg2]枚引く。コーパサントがチームにいる場合、「航行」を1枚手札に追加する。
+Skill_90212_Name,bxOT,j技能表_Skill_A.csv,66,Skill,Name,,错位命运,すれ違う運命
+Skill_90212_Desc,bxOS,j技能表_Skill_A.csv,66,Skill,Desc,,选择一名唤醒体使其获得 <Energy:[Energy:Arg3]> 点狂气，从抽牌堆中抽 [Arg2] 张算力消耗最低的卡牌。若卡斯托尔在队伍中，使其伤害强效临时提高 [Arg1]％。,覚醒体を1名選択し、<Energy:[Energy:Arg3]>狂気を獲得させ、山札から最も行動力消費が低いカードを[Arg2]枚を引く。カストルがチームにいる場合、ダメージ強化が一時的に[Arg1]%増加する。
+Skill_94561_Name,byFT,j技能表_Skill_A.csv,67,Skill,Name,,残忍的致意,残酷な敬意
+Skill_94561_Desc,byFS,j技能表_Skill_A.csv,67,Skill,Desc,,<TouquKeywords:偷取>所有敌人 [Arg1] 点 <PowerIconKeywords:力量>。若杜勒赛因在队伍中，获得 1 个「残骸」。,すべての敵から[Arg1]点の<PowerIconKeywords:力>を一時的に<TouquKeywords:奪う>。ドゥルセインがチームにいる場合、「残骸」を1つ獲得する。
+Skill_94561_BattleDesc,bCWd,j技能表_Skill_A.csv,67,Skill,BattleDesc,,临时降低所有敌人 [Arg1] 点<PowerIconKeywords:力量>，每有 1 名敌人获得 [Arg1] 点临时<PowerIconKeywords:力量>。若杜勒赛因在队伍中，获得 1 个「残骸」。,すべての敵から[Arg1]点の<PowerIconKeywords:力>を一時的に減少させる。ドゥルセインがチームにいる場合、「残骸」を1つ獲得する。
+Skill_94560_Name,byFR,j技能表_Skill_A.csv,68,Skill,Name,,猎食决心,狩りの決意
+Skill_94560_Desc,byFQ,j技能表_Skill_A.csv,68,Skill,Desc,,从出战唤醒体的技能卡中<FaxianKeywords:发现> 3 张，选择 1 张将其临时复制置入手中，并使其算力消耗降低 1。若当前界域为「血肉」，可以选择「一扫而光！」。,出場した覚醒体の指令カードの中から3枚を<FaxianKeywords:発見>し、1枚を選択して一時的にコピーして手札に追加し、行動力消費を1減少させる。現在の界域が「血肉」の場合、「食べつくせ！」を選択できる。
+Skill_94565_Name,byFV,j技能表_Skill_A.csv,69,Skill,Name,,一扫而光！,食べつくせ！
+Skill_94565_Desc,byFU,j技能表_Skill_A.csv,69,Skill,Desc,,将全部卡牌置入手中，但不再降低算力消耗。,3枚のカードのコピーをすべて手札に追加できるが、行動力消費は減少しない。
+Skill_70826_Name,aQCA,j技能表_Skill_A.csv,70,Skill,Name,,沉眠,熟睡
+Skill_70826_Desc,aQCy,j技能表_Skill_A.csv,70,Skill,Desc,,获得 <Block:[Block:Arg1]> 点护盾，获得 1 层「星辰庇佑」，最大积攒 5 层，战斗结束后不清除。,<Block:[Block:Arg1]>点のシールドを獲得し、1点の「星辰の加護」を獲得する。最大5点まで累積可能で、戦闘終了後も継続する。
+Skill_70825_Name,aQCt,j技能表_Skill_A.csv,71,Skill,Name,,苏醒,目覚め
+Skill_70825_Desc,aQCr,j技能表_Skill_A.csv,71,Skill,Desc,,所有唤醒体获得 [Arg1] 点狂气。消耗所有「星辰庇佑」并获得与消耗层数相同的算力，若当前界域为「深海」，额外生成与消耗层数相同的临时触腕。,すべての覚醒体は[Arg1]狂気を獲得する。すべての「星辰の加護」を消費し、消費した点数と同じ行動力を獲得する。現在の界域が「深海」の場合、追加で消費した点数と同じ一時的な触腕を獲得する。
+Skill_70827_Name,aQCH,j技能表_Skill_A.csv,72,Skill,Name,,黑天鹅的舞步,黒鳥の舞
+Skill_70827_Desc,aQCF,j技能表_Skill_A.csv,72,Skill,Desc,,选择一名唤醒体，使其指令卡暴击率和暴击伤害临时提高 [Arg1]% 并获得 [Arg2] 点狂气。若莉兹在队伍中，还会将 1 张附加「消耗」的「腐化绿炎」置入手中。,覚醒体を1体選択し、その指令カードのクリティカル率とクリティカルダメージを一時的に[Arg1]%増加させ、[Arg2]狂気を獲得させる。リッツがチームにいる場合、追加で「除外」が付与された「腐敗の緑炎」を1枚手札に追加する。
+Skill_97917_Name,bBex,j技能表_Skill_A.csv,74,Skill,Name,,不落的太阳,沈まない太陽
+Skill_97917_Desc,bCbf,j技能表_Skill_A.csv,74,Skill,Desc,,获得 1 点算力和 [Arg1]％ 临时强效。若凯蒂古拉在队伍中，抽 1 张其「指令卡」并赋予 1 层「<HuoyanKeywords:活焰>」,1点の行動力と[Arg1]%の一時的な強化を獲得する。キャティグラがチームにいる場合、その指令カードを1枚引き、1点の「<HuoyanKeywords:火焔>」を付与する。
+Skill_97919_Name,bBeH,j技能表_Skill_A.csv,75,Skill,Name,,定格的仲夏留念,浜辺の思い出
+Skill_97919_Desc,bBNs,j技能表_Skill_A.csv,75,Skill,Desc,,选择 1 名唤醒体，将 1 张算力消耗为 0 的临时「打击」置入手中。每第 3 次释放，改为将 1 张「美丽瞬间」置入手中，并使所有唤醒体临时暴击率提高 [Arg1]％。,覚醒体1体を選択し、行動力消費が0の一時的な「攻撃」を1枚手札に追加する。これが3回目の発動である場合、代わりに「美しき瞬間」を1枚を手札に追加し、すべての覚醒体のクリティカル率を一時的に[Arg1]%増加させる。
+Skill_97919_BattleDesc,bCmg,j技能表_Skill_A.csv,75,Skill,BattleDesc,,选择 1 名唤醒体，将 1 张算力消耗为 0 的临时「打击」置入手中。每第 3 次释放，改为将 1 张「美丽瞬间」置入手中，并使所有唤醒体临时暴击率提高 [Arg1]％(当前已释放 [Arg2] 次)。,覚醒体1体を選択し、行動力消費が0の一時的な「攻撃」を1枚手札に追加する。これが3回目の発動である場合、代わりに「美しき瞬間」を1枚を手札に追加し、すべての覚醒体のクリティカル率を一時的に[Arg1]%増加させる。(現在[Arg2]回発動済み)
+Skill_100304_Name,bCuL,j技能表_Skill_A.csv,76,Skill,Name,,虚世之彩,虚空の色彩
+Skill_100304_Desc,bCuK,j技能表_Skill_A.csv,76,Skill,Desc,,选择一名唤醒体获得 [Arg1] 点狂气，将 1 张 <DerivativeCardKeywords_4:「灵感」>洗入抽牌堆。若皮克曼在队伍中，使其获得 1 层「<Chuangyi:创意>」。,覚醒体を1名選択し、[Arg1]狂気を獲得させ、<DerivativeCardKeywords_4:「啓示」>を1枚山札に追加する。ピックマンがチームいる場合、1点の「<Chuangyi:発想>」を獲得する。
+Skill_116332_Name,bHuA,j技能表_Skill_A.csv,77,Skill,Name,,美梦一刹,束の間の夢
+Skill_116332_Desc,bHuz,j技能表_Skill_A.csv,77,Skill,Desc,,获得 <Block:[Block:Arg1]> 点护盾和等同于当前护盾 10％ 的临时<PowerIconKeywords:力量>。,<Block:[Block:Arg1]>点のシールドとシールドの10%に等しい一時的な<PowerIconKeywords:力>を獲得する。
+
