@@ -1,0 +1,234 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,EN
+Activity_59848_ActivityName,aaFY,h活动_Activity_A.csv,345,Activity,ActivityName,,历程追思献礼Ⅲ,Echoed Pilgrimage III
+Activity_59855_ActivityName,aaGO,h活动_Activity_A.csv,346,Activity,ActivityName,,历程追思献礼Ⅳ,Echoed Pilgrimage IV
+Activity_59854_ActivityName,aaGI,h活动_Activity_A.csv,347,Activity,ActivityName,,历程追思献礼Ⅴ,Echoed Pilgrimage V
+Activity_59853_ActivityName,aaGC,h活动_Activity_A.csv,348,Activity,ActivityName,,历程追思献礼Ⅵ,Echoed Pilgrimage VI
+Activity_59852_ActivityName,aaGw,h活动_Activity_A.csv,349,Activity,ActivityName,,历程追思献礼Ⅶ,Echoed Pilgrimage VII
+Activity_59847_ActivityName,aaFS,h活动_Activity_A.csv,350,Activity,ActivityName,,历程追思献礼Ⅷ,Echoed Pilgrimage VIII
+Activity_67077_ActivityName,aaZE,h活动_Activity_A.csv,351,Activity,ActivityName,,历程追思献礼Ⅸ,Echoed Pilgrimage IX
+Activity_91355_ActivityName,byHw,h活动_Activity_A.csv,354,Activity,ActivityName,,历程追思献礼·星辰篇Ⅲ,Echoed Pilgrimage: Astral Reign III
+Activity_120495_ActivityName,bKsN,h活动_Activity_A.csv,355,Activity,ActivityName,,历程追思献礼·星辰篇Ⅳ,Echoed Pilgrimage: Astral Reign IV
+Activity_61487_ActivityName,aaJe,h活动_Activity_A.csv,358,Activity,ActivityName,,晋升纪念献礼Ⅲ,Promotion Commemorative Gift III
+Activity_61483_ActivityName,aaIG,h活动_Activity_A.csv,359,Activity,ActivityName,,晋升纪念献礼Ⅳ,Promotion Commemorative Gift IV
+Activity_61482_ActivityName,aaIA,h活动_Activity_A.csv,360,Activity,ActivityName,,晋升纪念献礼Ⅴ,Promotion Commemorative Gift V
+Activity_61485_ActivityName,aaIS,h活动_Activity_A.csv,361,Activity,ActivityName,,晋升纪念献礼Ⅵ,Promotion Commemorative Gift VI
+Activity_61484_ActivityName,aaIM,h活动_Activity_A.csv,362,Activity,ActivityName,,晋升纪念献礼Ⅶ,Promotion Commemorative Gift VII
+Activity_61489_ActivityName,aaJq,h活动_Activity_A.csv,363,Activity,ActivityName,,晋升纪念献礼Ⅷ,Promotion Commemorative Gift VIII
+Activity_71957_ActivityName,abeO,h活动_Activity_A.csv,364,Activity,ActivityName,,晋升纪念献礼Ⅸ,Promotion Commemorative Gift IX
+Activity_71956_ActivityName,abeI,h活动_Activity_A.csv,365,Activity,ActivityName,,晋升纪念献礼Ⅹ,Promotion Commemorative Gift X
+Event_40458_Desc,awXQ,s事件_Event_A.csv,996,Event,Desc,,Ⅰ.书信  约翰·坎贝里安 致旺达（洪积前@2年）\n\n丈夫有权处置自己的妻子，至少在坎布里安如此。\n但我显然低估了你的疯狂程度。现在我的双眼近乎全瞎，我的四肢也即将被砍掉。\n恶魔的女儿。恶魔的女儿……不，你就是恶魔本身。\n我诅咒你@1诅咒你@2诅咒你诅咒你……,"I. Letter from John Cambrian to Wanda (B.F. @2)\n\nA husband has the right to dispose of his wife, at least in Cambrian.\nBut I clearly underestimated your madness. Now I am nearly blind, and my limbs are about to be cut off.\nDaughter of evil... No, you are evil itself.\nI curse you @1, curse you @2, curse you, curse you..."
+Item_9968_Name,aGuB,d道具_Item_A.csv,570,Item,Name,,再衍化Ⅲ,Re-evolution III
+Item_9953_Name,aGtx,d道具_Item_A.csv,571,Item,Name,,再衍化Ⅳ,Re-evolution IV
+Item_9923_Name,aGrx,d道具_Item_A.csv,572,Item,Name,,再衍化Ⅴ,Re-evolution V
+Item_9724_Name,aGdl,d道具_Item_A.csv,573,Item,Name,,再衍化Ⅵ,Re-evolution VI
+Item_9759_Name,aGfN,d道具_Item_A.csv,576,Item,Name,,二律背反Ⅲ,Paradox III
+Item_9871_Name,aGnR,d道具_Item_A.csv,613,Item,Name,,有机形态Ⅳ,Organic Form IV
+Item_9853_Name,aGmx,d道具_Item_A.csv,614,Item,Name,,有机形态Ⅴ,Organic Form V
+Item_9626_Name,aFVR,d道具_Item_A.csv,615,Item,Name,,有机形态Ⅵ,Organic Form VI
+Item_10119_Name,aCRx,d道具_Item_A.csv,636,Item,Name,,远方的欢宴Ⅲ,Feast from Afar III
+Item_9663_Name,aFYF,d道具_Item_A.csv,638,Item,Name,,远方的欢宴Ⅴ,Feast from Afar V
+Item_9869_Name,aGnJ,d道具_Item_A.csv,639,Item,Name,,远方的欢宴Ⅵ,Feast from Afar VI
+Item_54580_Name,aDXl,d道具_Item_A.csv,1506,Item,Name,,至高礼赞·Ⅲ,Highest Praise: III
+Item_54594_Name,aDXF,d道具_Item_A.csv,1507,Item,Name,,至高礼赞·Ⅳ,Highest Praise: IV
+Item_54595_Name,aDXJ,d道具_Item_A.csv,1508,Item,Name,,至高礼赞·Ⅴ,Highest Praise: V
+Item_54592_Name,aDXx,d道具_Item_A.csv,1509,Item,Name,,至高礼赞·Ⅵ,Highest Praise: VI
+Item_54593_Name,aDXB,d道具_Item_A.csv,1510,Item,Name,,至高礼赞·Ⅶ,Highest Praise: VII
+Mail_23897_Desc,aHwq,y邮件_Mail_A.csv,93,Mail,Desc,,尊敬的守密人：\n        在V1.0.21的更新中，我们对「调查行动」困难难度、「意识潜游」战斗关卡普通和困难难度，以及「无光之境」中各界域的轮转间隙Ⅰ-Ⅳ 每关的首通奖励进行了调整。详细的调整内容可在「V1.0.21在线维护公告」中查看。\n        根据您之前的调查和挑战通关记录，我们将按调整后的奖励为你一次性发放之前未能领取的奖励内容。具体请见附件。,"Dear Keeper,\n      In the V1.0.21 update, we have adjusted the rewards for ""Investigation"" on hard difficulty, ""Psyche Deepdive"" combat levels on Normal and Hard difficulties, and the first-clear rewards for each level of Rotation Gap I-IV in the ""Lightless Realm"". Detailed changes can be found in the ""V1.0.21 Online Maintenance Notice"".\n       Based on your previous investigation and challenge progress, we will grant you the previously uncollected rewards according to the adjustments. Please see the attachments."
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_3_Normal_Content,aIrU,j界面文字表_PanelText_C.csv,47,PanelText,Content,,Ⅲ,III
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_3_Select_Content,aIrV,j界面文字表_PanelText_C.csv,48,PanelText,Content,,Ⅲ,III
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_4_Normal_Content,aIrW,j界面文字表_PanelText_C.csv,49,PanelText,Content,,Ⅳ,IV
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_4_Select_Content,aIrX,j界面文字表_PanelText_C.csv,50,PanelText,Content,,Ⅳ,IV
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_5_Normal_Content,aIrY,j界面文字表_PanelText_C.csv,51,PanelText,Content,,Ⅴ,V
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_5_Select_Content,aIrZ,j界面文字表_PanelText_C.csv,52,PanelText,Content,,Ⅴ,V
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_6_Normal_Content,aIsa,j界面文字表_PanelText_C.csv,53,PanelText,Content,,Ⅵ,VI
+PanelText_UI_Awaker_Popup_Trinket_Select_List_Text_C_6_Select_Content,aIsb,j界面文字表_PanelText_C.csv,54,PanelText,Content,,Ⅵ,VI
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_3_Normal_Content,aIrD,j界面文字表_PanelText_C.csv,878,PanelText,Content,,Ⅲ,III
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_3_Select_Content,aIrE,j界面文字表_PanelText_C.csv,879,PanelText,Content,,Ⅲ,III
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_4_Normal_Content,aIrF,j界面文字表_PanelText_C.csv,880,PanelText,Content,,Ⅳ,IV
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_4_Select_Content,aIrG,j界面文字表_PanelText_C.csv,881,PanelText,Content,,Ⅳ,IV
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_5_Normal_Content,aIrH,j界面文字表_PanelText_C.csv,882,PanelText,Content,,Ⅴ,V
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_5_Select_Content,aIrI,j界面文字表_PanelText_C.csv,883,PanelText,Content,,Ⅴ,V
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_6_Normal_Content,aIrJ,j界面文字表_PanelText_C.csv,884,PanelText,Content,,Ⅵ,VI
+PanelText_UI_Awaker_Popup_Trinket_Replace_Text_C_6_Select_Content,aIrK,j界面文字表_PanelText_C.csv,885,PanelText,Content,,Ⅵ,VI
+PanelText_UI_Alchemy_Popup_ResolveMaterials_Sift2_Text_C_Tips3_Content,aIlD,j界面文字表_PanelText_C.csv,1029,PanelText,Content,,Ⅲ,III
+PanelText_UI_Alchemy_Popup_ResolveMaterials_Sift2_Text_C_Tips4_Content,aIlE,j界面文字表_PanelText_C.csv,1030,PanelText,Content,,Ⅳ,IV
+PanelText_UI_Alchemy_Popup_ResolveMaterials_Sift2_Text_C_Tips5_Content,aIlF,j界面文字表_PanelText_C.csv,1031,PanelText,Content,,Ⅴ,V
+PanelText_UI_Alchemy_Popup_ResolveMaterials_Sift2_Text_C_Tips6_Content,aIlG,j界面文字表_PanelText_C.csv,1032,PanelText,Content,,Ⅵ,VI
+PanelText_UI_Event_Activity_Main_Text_C_Normal_3_Content,aIEb,j界面文字表_PanelText_C.csv,1633,PanelText,Content,,Ⅲ,III
+PanelText_UI_Event_Activity_Main_Text_C_Select_3_Content,aIEe,j界面文字表_PanelText_C.csv,1635,PanelText,Content,,Ⅲ,III
+Stage_8203_Name,aVxt,g关卡_Stage_A.csv,926,Stage,Name,,深海之遗·间隙Ⅶ,Aequor Legacy: Fissure VII
+Stage_7935_Name,aVhY,g关卡_Stage_A.csv,927,Stage,Name,,深海之遗·间隙Ⅷ,Aequor Legacy: Fissure VIII
+Stage_7650_Name,aUBn,g关卡_Stage_A.csv,934,Stage,Name,,血肉之沼·间隙Ⅶ,Caro Marsh: Fissure VII
+Stage_7879_Name,aVeM,g关卡_Stage_A.csv,935,Stage,Name,,血肉之沼·间隙Ⅷ,Caro Marsh: Fissure VIII
+Stage_8180_Name,aVwc,g关卡_Stage_A.csv,942,Stage,Name,,超维之旅·间隙Ⅶ,Ultra Journey: Fissure VII
+Stage_7980_Name,aVkJ,g关卡_Stage_A.csv,943,Stage,Name,,超维之旅·间隙Ⅷ,Ultra Journey: Fissure VIII
+Stage_7882_Name,aVeV,g关卡_Stage_A.csv,950,Stage,Name,,混沌之域·间隙Ⅶ,Chaos Domain: Fissure VII
+Stage_8166_Name,aVvm,g关卡_Stage_A.csv,951,Stage,Name,,混沌之域·间隙Ⅷ,Chaos Domain: Fissure VIII
+Stage_34719_Name,aScq,g关卡_Stage_A.csv,1985,Stage,Name,,Ⅶ·剧作金字塔,VII: Drama's Apex
+Stage_35100_Name,aSer,g关卡_Stage_A.csv,1986,Stage,Name,,Ⅷ·陌生化效果,VIII: Distancing Effect
+Stage_35099_Name,aSeo,g关卡_Stage_A.csv,1987,Stage,Name,,Ⅸ·戏剧的第四壁,IX: The Fourth Wall
+Task_94497_Name,bzhQ,r任务_Task_A.csv,166,Task,Name,,界域精通Ⅹ,Realm Mastery X
+Task_94489_Name,bzhA,r任务_Task_A.csv,203,Task,Name,,界域精通Ⅹ,Realm Mastery X
+Task_94492_Name,bzhG,r任务_Task_A.csv,205,Task,Name,,界域精通Ⅹ,Realm Mastery X
+Task_19752_Desc,bcOB,r任务_Task_A.csv,250,Task,Desc,,通关血肉之沼·间隙Ⅳ,Clear Caro Marsh: Interval IV
+Task_19739_Desc,bcNb,r任务_Task_A.csv,254,Task,Desc,,通关血肉之沼·间隙Ⅵ,Clear Caro Marsh: Interval VI
+Task_78723_Desc,blir,r任务_Task_A.csv,587,Task,Desc,,暗潮虫鸣Ⅱ,Songs of the Insectoids II
+Task_78726_Desc,bliJ,r任务_Task_A.csv,590,Task,Desc,,暗潮虫鸣Ⅴ,Songs of the Insectoids V
+Task_78728_Desc,bliV,r任务_Task_A.csv,591,Task,Desc,,暗潮虫鸣Ⅵ,Songs of the Insectoids VI
+Task_78725_Desc,bliD,r任务_Task_A.csv,592,Task,Desc,,暗潮虫鸣Ⅶ,Songs of the Insectoids VII
+Task_90872_Desc,byth,r任务_Task_A.csv,595,Task,Desc,,颅庭挽歌Ⅰ,Ossuary Antiphon I
+Task_90896_Desc,bytF,r任务_Task_A.csv,596,Task,Desc,,颅庭挽歌Ⅱ,Ossuary Antiphon II
+Task_90881_Desc,bytq,r任务_Task_A.csv,597,Task,Desc,,颅庭挽歌Ⅲ,Ossuary Antiphon III
+Task_90889_Desc,byty,r任务_Task_A.csv,598,Task,Desc,,颅庭挽歌Ⅳ,Ossuary Antiphon IV
+Task_90884_Desc,bytt,r任务_Task_A.csv,599,Task,Desc,,颅庭挽歌Ⅴ,Ossuary Antiphon V
+Task_90878_Desc,bytn,r任务_Task_A.csv,600,Task,Desc,,颅庭挽歌Ⅵ,Ossuary Antiphon VI
+Task_90869_Desc,byte,r任务_Task_A.csv,601,Task,Desc,,颅庭挽歌Ⅶ,Ossuary Antiphon VII
+Task_90874_Desc,bytj,r任务_Task_A.csv,609,Task,Desc,,渊海胎动Ⅵ,Abyss Gestation VI
+Task_90897_Desc,bytG,r任务_Task_A.csv,610,Task,Desc,,渊海胎动Ⅶ,Abyss Gestation VII
+Task_43828_Name,begh,r任务_Task_A.csv,5683,Task,Name,,「超越之力」Ⅲ,Transcendent Power III
+Task_43973_Name,berP,r任务_Task_A.csv,5684,Task,Name,,「超越之力」Ⅳ,Transcendent Power IV
+Task_56111_Name,bfwP,r任务_Task_A.csv,5686,Task,Name,,「超越之力」Ⅵ,Transcendent Power VI
+Task_56112_Name,bfwV,r任务_Task_A.csv,5687,Task,Name,,「超越之力」Ⅶ,Transcendent Power VII
+Task_56123_Name,bfxX,r任务_Task_A.csv,5688,Task,Name,,「超越之力」Ⅷ,Transcendent Power VIII
+Task_43873_Name,bejL,r任务_Task_A.csv,5709,Task,Name,,交错的命运Ⅵ,Intertwined Fates VI
+Task_56191_Name,bfBB,r任务_Task_A.csv,5713,Task,Name,,量子纠缠的未来Ⅳ,Quantum Entangled Future IV
+Task_56181_Name,bfAF,r任务_Task_A.csv,5715,Task,Name,,量子纠缠的未来Ⅵ,Quantum Entangled Future VI
+Task_43864_Name,bejh,r任务_Task_A.csv,5746,Task,Name,,相位重叠Ⅲ,Phase Overlap III
+Task_43863_Name,bejb,r任务_Task_A.csv,5747,Task,Name,,相位重叠Ⅳ,Phase Overlap IV
+AvgCommunicate_80100_Content_6,brMy,avg通讯器聊天表_AvgCommunicate_A_M.csv,1134,AvgCommunicate,Content,克莱门汀AF,测试的最终目的不是评判健康与否，而是观测可能出现的心理问题。,"The ultimate purpose of the test is not to judge health, but to observe potential psychological issues."
+AvgCommunicate_80100_Content_7,brMz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1135,AvgCommunicate,Content,克莱门汀AF,%player%，来到这里后，你是否会产生孤独感，是否会想念那个世界的朋友？,"%player%, after coming here, do you feel lonely? Do you miss your friends from that world?"
+AvgCommunicate_80100_Content_9,brMB,avg通讯器聊天表_AvgCommunicate_A_M.csv,1137,AvgCommunicate,Content,玩家,或许你是对的，我确实很想他们……,I suppose I do miss them...
+AvgCommunicate_80100_Content_10,brMq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1138,AvgCommunicate,Content,玩家,拉蒙娜、萝坦、奥吉尔……一个人的时候，我的脑海里总是会浮现大家的身影。,"Ramona, Lotan, Ogier... when I'm alone, their figures always float in my mind."
+AvgCommunicate_80100_Content_11,brMr,avg通讯器聊天表_AvgCommunicate_A_M.csv,1139,AvgCommunicate,Content,克莱门汀AF,不必自己一个人强撑。无论你有怎样的烦恼和困惑，都可以说给我听。,"That's it, don't bottle all of those feelings inside. If you're feeling troubled or confused, you can always tell me."
+AvgCommunicate_80100_Content_12,brMs,avg通讯器聊天表_AvgCommunicate_A_M.csv,1140,AvgCommunicate,Content,克莱门汀AF,我还特意为你准备了热茶和点心，我们可以慢慢聊。,"I even prepared hot tea and snacks for you, so we can chat as long as you want."
+AvgCommunicate_80100_Option_13,brMG,avg通讯器聊天表_AvgCommunicate_A_M.csv,1141,AvgCommunicate,Option,玩家,……我现在过去。,"...alright, I'm coming over."
+AvgCommunicate_80100_Content_13,brMt,avg通讯器聊天表_AvgCommunicate_A_M.csv,1141,AvgCommunicate,Content,玩家,……我现在过去。,"...alright, I'm coming over."
+AvgCommunicate_80101_Content_1,brMP,avg通讯器聊天表_AvgCommunicate_A_M.csv,1783,AvgCommunicate,Content,克莱门汀AF,听说你最近心情不好，不介意的话，可以来找我做个咨询。,"I heard you've been feeling down lately. If you don't mind, you can come to me for a consultation."
+AvgCommunicate_80101_Content_2,brMW,avg通讯器聊天表_AvgCommunicate_A_M.csv,1784,AvgCommunicate,Content,克莱门汀AF,不必逞强，守密人，来自专业领域的建议能帮助你更快调节压力。,"You don't need to act tough, Keeper. A professional can help relieve your stress more quickly."
+AvgCommunicate_80101_Option_3,brNm,avg通讯器聊天表_AvgCommunicate_A_M.csv,1785,AvgCommunicate,Option,玩家,你怎么会知道这些……,How did you know...?
+AvgCommunicate_80101_Content_3,brMX,avg通讯器聊天表_AvgCommunicate_A_M.csv,1785,AvgCommunicate,Content,玩家,你怎么会知道这些……,How did you know...?
+AvgCommunicate_80101_Content_4,brMY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1786,AvgCommunicate,Content,克莱门汀AF,秘密~,Secret~
+AvgCommunicate_80101_Content_5,brMZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1787,AvgCommunicate,Content,克莱门汀AF,所以，你的答案是？,"So, what's your answer?"
+AvgCommunicate_80101_Content_6,brNa,avg通讯器聊天表_AvgCommunicate_A_M.csv,1788,AvgCommunicate,Content,克莱门汀AF,我保证这次不会再做其他引导。,I promise I won't do anything else this time.
+AvgCommunicate_80101_Option_7,brNq,avg通讯器聊天表_AvgCommunicate_A_M.csv,1789,AvgCommunicate,Option,玩家,你上次、上上次也是这么说的……,You said the same last time... and the time before that...
+AvgCommunicate_80101_Content_7,brNb,avg通讯器聊天表_AvgCommunicate_A_M.csv,1789,AvgCommunicate,Content,玩家,你上次、上上次也是这么说的……,You said the same last time... and the time before that...
+AvgCommunicate_80101_Content_8,brNc,avg通讯器聊天表_AvgCommunicate_A_M.csv,1790,AvgCommunicate,Content,克莱门汀AF,那并不怪我，而是你的意识里充满了令人愉悦的记忆。,"It's not my fault; rather, your conciousness that's filled with such pleasant memories..."
+AvgCommunicate_80101_Content_9,brNd,avg通讯器聊天表_AvgCommunicate_A_M.csv,1791,AvgCommunicate,Content,克莱门汀AF,那些记忆远超常人所能承受的痛苦范畴，又带着那伟大存在的气息，是最无上的甘美。,"Those memories that far exceed the pain that an ordinary person can endure, bearing the aura of that great existence, the most supreme sweetness..."
+AvgCommunicate_80101_Content_10,brMQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1792,AvgCommunicate,Content,克莱门汀AF,啊，光是这样描述，我的白银之心就已经颤抖不止……,"Ah~, just describing it makes my silver heart tremble non-stop..."
+AvgCommunicate_80101_Option_12,brNh,avg通讯器聊天表_AvgCommunicate_A_M.csv,1794,AvgCommunicate,Option,玩家,……那你要失望了,...Then you'll be disappointed.
+AvgCommunicate_80101_Content_12,brMS,avg通讯器聊天表_AvgCommunicate_A_M.csv,1794,AvgCommunicate,Content,玩家,那你要失望了。我已经出门了。,"Then you'll be dissappointed, since I've already left."
+AvgCommunicate_80101_Content_13,brMT,avg通讯器聊天表_AvgCommunicate_A_M.csv,1795,AvgCommunicate,Content,克莱门汀AF,我知道。我的一位患者已经发消息告诉了我这件事情。,I know. One of my patients already let me know.
+AvgCommunicate_80101_Content_14,brMU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1796,AvgCommunicate,Content,克莱门汀AF,她还贴心地附上了你现在的位置，所以……,"She was even thoughtful enough to send me your location, so..."
+AvgCommunicate_70489_Content_1,acGs,avg通讯器聊天表_AvgCommunicate_A_M.csv,1830,AvgCommunicate,Content,克莱门汀,抱歉打扰，苍白的无目之瞳。,"Sorry for the interruption, Pale Blind Eye."
+AvgCommunicate_70489_Option_2,acGU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1831,AvgCommunicate,Option,玩家,你是……那个心理医生？！,The psychologist?!
+AvgCommunicate_70489_Content_4,acGE,avg通讯器聊天表_AvgCommunicate_A_M.csv,1833,AvgCommunicate,Content,克莱门汀,如我所言，一些专业领域内的小把戏。,"As I said, it's just a trick within my professional field."
+AvgCommunicate_70489_Content_5,acGF,avg通讯器聊天表_AvgCommunicate_A_M.csv,1834,AvgCommunicate,Content,克莱门汀,既能让我离开，也能让你们睡个好觉。,It lets me leave while letting you all experience a good night's rest.
+AvgCommunicate_70489_Option_6,acGY,avg通讯器聊天表_AvgCommunicate_A_M.csv,1835,AvgCommunicate,Option,玩家,无目之瞳究竟是什么意思？,"What exactly does ""Blind Eye"" mean?"
+AvgCommunicate_70489_Content_6,acGG,avg通讯器聊天表_AvgCommunicate_A_M.csv,1835,AvgCommunicate,Content,玩家,无目之瞳这个词你已经提到过不止一次。它究竟是什么意思？,"You called me ""Blind Eye"" multiple times now. What does it really mean?"
+AvgCommunicate_70489_Content_8,acGI,avg通讯器聊天表_AvgCommunicate_A_M.csv,1837,AvgCommunicate,Content,克莱门汀,相信我，你会知道的——在时机成熟之时。,"Trust me, you'll find out—when the time is right."
+AvgCommunicate_70489_Content_9,acGJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,1838,AvgCommunicate,Content,克莱门汀,总之，我没有恶意，守密人%sirormadam%。,"In any case, I mean no harm, Keeper%sirormadam%."
+AvgCommunicate_70489_Content_10,acGt,avg通讯器聊天表_AvgCommunicate_A_M.csv,1839,AvgCommunicate,Content,克莱门汀,与你联系，仅仅是出于我个人的兴趣。,Me contacting you is purely out of personal interest.
+AvgCommunicate_70489_Content_11,acGu,avg通讯器聊天表_AvgCommunicate_A_M.csv,1840,AvgCommunicate,Content,克莱门汀,等眼前的事情处理完后，我非常希望能有机会与你私下一会。,"Once I've dealt with the current matters, I hope I'll have an opportunity to meet with you privately."
+AvgCommunicate_70489_Content_12,acGv,avg通讯器聊天表_AvgCommunicate_A_M.csv,1841,AvgCommunicate,Content,克莱门汀,与你一起谈谈你的过去，以及未来。,In regards to your past and your future.
+AvgCommunicate_70489_Content_13,acGw,avg通讯器聊天表_AvgCommunicate_A_M.csv,1842,AvgCommunicate,Content,克莱门汀,当然，前提是你能从这些事件中活下来。,"Well, assuming you can survive these events."
+AvgCommunicate_70489_Content_14,acGx,avg通讯器聊天表_AvgCommunicate_A_M.csv,1843,AvgCommunicate,Content,克莱门汀,望你一切顺利，守密人%sirormadam%。,"Wishing you all the best, Keeper %sirormadam%."
+AvgCommunicate_70489_Content_16,acGz,avg通讯器聊天表_AvgCommunicate_A_M.csv,1845,AvgCommunicate,Content,玩家,你的话是什么意思？,What do you mean?
+AvgCommunicate_70488_Content_1,acFU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2029,AvgCommunicate,Content,希莱斯特,船长，身体一直在衰弱……,The Captain's health is worsening...
+AvgCommunicate_70488_Content_11,acFW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2039,AvgCommunicate,Content,希莱斯特,若有机会，请救下船长。,"If it is possible, please save the captain."
+AvgCommunicate_70488_Content_12,acFX,avg通讯器聊天表_AvgCommunicate_A_M.csv,2040,AvgCommunicate,Content,希莱斯特,这是……我的愿望。,That... is my wish.
+AvgCommunicate_80104_Option_2,brOt,avg通讯器聊天表_AvgCommunicate_A_M.csv,2249,AvgCommunicate,Option,玩家,看来你已经收到邮件了,I guess you got the email then.
+AvgCommunicate_80104_Content_2,brOb,avg通讯器聊天表_AvgCommunicate_A_M.csv,2249,AvgCommunicate,Content,玩家,那是我手抄的虫族报告删减本，不涉及泄密问题，放心收藏。,"That's a brief version of my report on insect species. There's nothing on it that's classified, so feel free to keep it."
+AvgCommunicate_80104_Option_5,brOw,avg通讯器聊天表_AvgCommunicate_A_M.csv,2252,AvgCommunicate,Option,玩家,不，这是一个礼物……,"No, this is a Gift."
+AvgCommunicate_80104_Content_5,brOe,avg通讯器聊天表_AvgCommunicate_A_M.csv,2252,AvgCommunicate,Content,玩家,这并不是什么报酬，而是礼物。,"It's a gift, not a reward."
+AvgCommunicate_80104_Content_7,brOg,avg通讯器聊天表_AvgCommunicate_A_M.csv,2254,AvgCommunicate,Content,克莱门汀AF,因为我并没有像那个世界的“她”一样，站在你的对立面？,"Because I'm not opposing you like ""her"" from the other world?"
+AvgCommunicate_80104_Content_9,brOi,avg通讯器聊天表_AvgCommunicate_A_M.csv,2256,AvgCommunicate,Content,玩家,作为守密人，我始终相信，我和唤醒体是朋友，而非敌人。,"As the Keeper, I'd like to believe that the Awakaners and I are allies, not enemies."
+AvgCommunicate_80104_Content_10,brNS,avg通讯器聊天表_AvgCommunicate_A_M.csv,2257,AvgCommunicate,Content,玩家,而能否回到那个世界，只凭我和熔毁·朵尔的力量，显然是不够的。,"As for whether it's possible to return to that world, relying solely on the power of Doll: Inferno and I is clearly not enough."
+AvgCommunicate_80104_Content_11,brNT,avg通讯器聊天表_AvgCommunicate_A_M.csv,2258,AvgCommunicate,Content,克莱门汀AF,需要我的力量么……我明白了。,So you need my power...? I understand.
+AvgCommunicate_80104_Content_12,brNU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2259,AvgCommunicate,Content,克莱门汀AF,这个礼物，我收下了。而回礼，是一次免费的心理咨询。,"I'll accept this gift. In return, I'll give you a free psychological consultation."
+AvgCommunicate_80104_Content_14,brNW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2261,AvgCommunicate,Content,克莱门汀AF,无论是作为医生还是朋友，我都有义务深入了解你的内心。,"Whether as a doctor or as a friend, I feel responsible for deeply understanding your inner self."
+AvgCommunicate_80104_Option_15,brOp,avg通讯器聊天表_AvgCommunicate_A_M.csv,2262,AvgCommunicate,Option,玩家,……信号不好,...signals cutting out...
+AvgCommunicate_80104_Content_15,brNX,avg通讯器聊天表_AvgCommunicate_A_M.csv,2262,AvgCommunicate,Content,玩家,我在出外勤……信号不好……回聊……,I'm on field duty... signal poor... will continue later...
+AvgCommunicate_80104_Content_18,brOa,avg通讯器聊天表_AvgCommunicate_A_M.csv,2265,AvgCommunicate,Content,克莱门汀AF,呵，我知道你还在。不过没关系，我们还有许多时间。,"Heh, I know you're still there. But it's okay, we still have plenty of time."
+AvgCommunicate_81325_Content_1,bxwV,avg通讯器聊天表_AvgCommunicate_A_M.csv,2708,AvgCommunicate,Content,卡斯托尔,好神奇的盒子，恩人，这真的不是用某种魔法或仪式阵驱动的吗？,"What a magical box, benefactor. Is this really not powered by some sort of magic or ritual array?"
+AvgCommunicate_81325_Option_2,bxxs,avg通讯器聊天表_AvgCommunicate_A_M.csv,2709,AvgCommunicate,Option,玩家,不是,No
+AvgCommunicate_81325_Content_2,bxxg,avg通讯器聊天表_AvgCommunicate_A_M.csv,2709,AvgCommunicate,Content,玩家,不是，这是纯正的银芯科技，另外提醒你一句，通讯器的造价昂贵，建议你不要随意拆卸哦。,"No, this is pure Silver technology. And as a reminder, the communicator was expensive, so please don't disassemble it."
+AvgCommunicate_81325_Content_3,bxxi,avg通讯器聊天表_AvgCommunicate_A_M.csv,2710,AvgCommunicate,Content,卡斯托尔,啊，真是可惜……恩人怎么知道我正想把它拆掉的？这是读心术吗？,"Ah, what a pity... How did you know I was going to take it apart, benefactor? Did you read my mind?"
+AvgCommunicate_81325_Content_4,bxxj,avg通讯器聊天表_AvgCommunicate_A_M.csv,2711,AvgCommunicate,Content,玩家,也不是……猜你的想法连心理学都用不上吧！,Not really... I just used some some basic psychology to guess.
+AvgCommunicate_81325_Content_5,bxxk,avg通讯器聊天表_AvgCommunicate_A_M.csv,2712,AvgCommunicate,Content,卡斯托尔,想必心理学又是一门高深的知识了，惭愧，我所知晓实在贫瘠……,"Psychology must be a very profound subject. Regrettably, my knowledge of this subject is indeed lacking..."
+AvgCommunicate_81325_Content_6,bxxl,avg通讯器聊天表_AvgCommunicate_A_M.csv,2713,AvgCommunicate,Content,卡斯托尔,恩人，学会这门银芯科技与心理学都需要多长时间呢？,"Benefactor, how long does it take to learn about Silver technology and psychology?"
+AvgCommunicate_81325_Option_7,bxxu,avg通讯器聊天表_AvgCommunicate_A_M.csv,2714,AvgCommunicate,Option,玩家,学会？嗯……,Learn? Hmm…
+AvgCommunicate_81325_Content_7,bxxm,avg通讯器聊天表_AvgCommunicate_A_M.csv,2714,AvgCommunicate,Content,玩家,学会？嗯……,Learn? Hmm…
+AvgCommunicate_81325_Content_8,bxxn,avg通讯器聊天表_AvgCommunicate_A_M.csv,2715,AvgCommunicate,Content,玩家,入门需要四五年，学会恐怕要钻研一辈子吧。,"It takes four to five years to learn the basics, and mastering it could take a lifetime."
+AvgCommunicate_81325_Content_9,bxxo,avg通讯器聊天表_AvgCommunicate_A_M.csv,2716,AvgCommunicate,Content,卡斯托尔,一辈子！难道这些知识竟有数千本经卷这样多吗？,A lifetime!? Is there really that much knowledge to learn these things?
+AvgCommunicate_81325_Content_10,bxwW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2717,AvgCommunicate,Content,玩家,那倒也不是，只是这两门学科现在也都在发展之中，有许许多多的学者会将这些研究拓宽、拓深，创造出新的知识来。,"Not exactly. Both of these subjects are constantly developing, with many scholars that continue to study and teach them."
+AvgCommunicate_81325_Content_11,bxwX,avg通讯器聊天表_AvgCommunicate_A_M.csv,2718,AvgCommunicate,Content,玩家,如果你将这样蓬勃发展的学科当作学习目标，当然要活到老学到老啦。,Deciding to study a subject like that would give you a neverending journey of knowledge.
+AvgCommunicate_81325_Content_12,bxwY,avg通讯器聊天表_AvgCommunicate_A_M.csv,2719,AvgCommunicate,Content,卡斯托尔,原来如此，会不断发展的知识……真是伟大啊。,"I see, knowledge that continues to develop… truly magnificent."
+AvgCommunicate_81325_Content_13,bxwZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2720,AvgCommunicate,Content,卡斯托尔,我们研习提灯的经文时，甚至不可篡改一字，所有的内容都被大家固定、重复，恒久不变。,"When we study the scriptures of the lantern, we cannot change a single word; the content must remain constant, repeated, and unchanging forever."
+AvgCommunicate_81325_Content_14,bxxa,avg通讯器聊天表_AvgCommunicate_A_M.csv,2721,AvgCommunicate,Content,卡斯托尔,但，每每学习经文时，都会有一种身处盒中，一眼望到尽头的憋闷感。,"But every time I study the scriptures, I feel like I'm trapped in a box... with the end already before me."
+AvgCommunicate_81325_Content_15,bxxb,avg通讯器聊天表_AvgCommunicate_A_M.csv,2722,AvgCommunicate,Content,卡斯托尔,果然，只有不断生长的知识，才符合生命的真谛！,"Indeed, continuing to grow ones knowledge is the true meaning of life!"
+AvgCommunicate_81325_Option_16,bxxq,avg通讯器聊天表_AvgCommunicate_A_M.csv,2723,AvgCommunicate,Option,玩家,突然好升华……,What a sudden moment of enlightenment...
+AvgCommunicate_81325_Content_16,bxxc,avg通讯器聊天表_AvgCommunicate_A_M.csv,2723,AvgCommunicate,Content,玩家,突然好升华……,What a sudden moment of enlightenment...
+AvgCommunicate_81325_Content_17,bxxd,avg通讯器聊天表_AvgCommunicate_A_M.csv,2724,AvgCommunicate,Content,玩家,说到这里，我有一个绝佳的学习机会可以免费赠予你。,"Speaking of which, I have an excellent learning opportunity for you, absolutely free."
+AvgCommunicate_81325_Content_18,bxxe,avg通讯器聊天表_AvgCommunicate_A_M.csv,2725,AvgCommunicate,Content,卡斯托尔,真的吗恩人！感激之情，难以言表。,"Really, benefactor!? I would be most grateful!"
+AvgCommunicate_81325_Content_19,bxxf,avg通讯器聊天表_AvgCommunicate_A_M.csv,2726,AvgCommunicate,Content,玩家,当然是真的，这本银芯技术使用与维修原理练习，与这本调查员心理策略必修手册，你想先写……,"Of course, of course. So, between this worksheet of Silver technology exercises and maintenance practices, or this workbook about investigator's psychology strategies, which would you like to work on first..?"
+AvgCommunicate_81325_Content_20,bxxh,avg通讯器聊天表_AvgCommunicate_A_M.csv,2727,AvgCommunicate,Content,玩家,啊不是，先学哪一本？,"Or rather, which one should I learn first?"
+AvgCommunicate_81323_Content_1,bxvP,avg通讯器聊天表_AvgCommunicate_A_M.csv,2730,AvgCommunicate,Content,卡斯托尔,恩人，什么时候将新的作业习册交予我呢？,"Benefactor, when will you hand me the next workbook?"
+AvgCommunicate_81323_Content_2,bxwa,avg通讯器聊天表_AvgCommunicate_A_M.csv,2731,AvgCommunicate,Content,卡斯托尔,以及关于上次的两本书，我已经通读完毕，一共记下了107处疑问，有劳恩人闲时指点一二。,"As for the last two books, I've finished reading them and have 107 questions to ask you about them. When you have spare time, please provide me with your guidance."
+AvgCommunicate_81323_Option_3,bxwr,avg通讯器聊天表_AvgCommunicate_A_M.csv,2732,AvgCommunicate,Option,玩家,我错了,I was wrong
+AvgCommunicate_81323_Content_3,bxwg,avg通讯器聊天表_AvgCommunicate_A_M.csv,2732,AvgCommunicate,Content,玩家,我错了,I was wrong
+AvgCommunicate_81323_Option_4,bxws,avg通讯器聊天表_AvgCommunicate_A_M.csv,2733,AvgCommunicate,Option,玩家,我真的错了,I was truly wrong
+AvgCommunicate_81323_Content_4,bxwh,avg通讯器聊天表_AvgCommunicate_A_M.csv,2733,AvgCommunicate,Content,玩家,我真的错了,I was truly wrong
+AvgCommunicate_81323_Content_6,bxwi,avg通讯器聊天表_AvgCommunicate_A_M.csv,2735,AvgCommunicate,Content,玩家,我不该把作业给你写的，自己的事就应该自己做……,I shouldn't have given you my homework. One should handle one's own affairs...
+AvgCommunicate_81323_Content_7,bxwj,avg通讯器聊天表_AvgCommunicate_A_M.csv,2736,AvgCommunicate,Content,玩家,求你了，不要再问我了，再这样下去我晚上都会做噩梦的！,"Please, don't ask me for more! If this goes on, I'll have nightmares every night!!"
+AvgCommunicate_81323_Content_8,bxwk,avg通讯器聊天表_AvgCommunicate_A_M.csv,2737,AvgCommunicate,Content,卡斯托尔,啊……抱歉，没想到我的打扰让恩人如此困扰，我真是太迟钝了。,Ah...I'm sorry. I didn't realize I was troubling my benefactor so much. I've been too inattentive.
+AvgCommunicate_81323_Option_9,bxwt,avg通讯器聊天表_AvgCommunicate_A_M.csv,2738,AvgCommunicate,Option,玩家,不是，也没有，可能是我不适合做老师吧……,"Don't apologize, it's not your fault. I don't think I'm suited to be a teacher..."
+AvgCommunicate_81323_Content_9,bxwl,avg通讯器聊天表_AvgCommunicate_A_M.csv,2738,AvgCommunicate,Content,玩家,不是，也没有，可能是我不适合做老师吧……,"Don't apologize, it's not your fault. I don't think I'm suited to be a teacher..."
+AvgCommunicate_81323_Content_10,bxvQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2739,AvgCommunicate,Content,卡斯托尔,我明白了，那么，恩人有其他精通这两门学科的教师可以推荐吗？,"I understand. In that case, are there any other teachers you can recommend for me?"
+AvgCommunicate_81323_Content_11,bxvR,avg通讯器聊天表_AvgCommunicate_A_M.csv,2740,AvgCommunicate,Content,卡斯托尔,实在无法，我也可以再去读些其他书籍，尝试自学一番。,"If there aren't any, I can self study and do my best by myself."
+AvgCommunicate_81323_Option_12,bxwm,avg通讯器聊天表_AvgCommunicate_A_M.csv,2741,AvgCommunicate,Option,玩家,有……是有。,"There is, but..."
+AvgCommunicate_81323_Content_12,bxvS,avg通讯器聊天表_AvgCommunicate_A_M.csv,2741,AvgCommunicate,Content,玩家,有……是有，但她的脾气不是很好。,"There is, but... she's not exactly the most stable..."
+AvgCommunicate_81323_Content_13,bxvT,avg通讯器聊天表_AvgCommunicate_A_M.csv,2742,AvgCommunicate,Content,卡斯托尔,没关系，我不怕。,It's okay. I'm not afraid.
+AvgCommunicate_81323_Option_14,bxwn,avg通讯器聊天表_AvgCommunicate_A_M.csv,2743,AvgCommunicate,Option,玩家,我怕！,I'm the one that's scared!
+AvgCommunicate_81323_Content_14,bxvU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2743,AvgCommunicate,Content,玩家,我怕！算了，如果去找温柯尔……呃，她恐怕也会先疯掉的。,"I'm the one that's scared! Well, if I go find Winkle... mmm, she'd probably go mad first."
+AvgCommunicate_81323_Content_15,bxvV,avg通讯器聊天表_AvgCommunicate_A_M.csv,2744,AvgCommunicate,Content,卡斯托尔,疯掉？这位温柯尔老师患有什么疾病吗？,Mad? Does this Master Winkle have some sort of illness?
+AvgCommunicate_81323_Option_16,bxwo,avg通讯器聊天表_AvgCommunicate_A_M.csv,2745,AvgCommunicate,Option,玩家,没……也不能说没有……,"Well no... well, I can't say there ISN'T but..."
+AvgCommunicate_81323_Content_16,bxvW,avg通讯器聊天表_AvgCommunicate_A_M.csv,2745,AvgCommunicate,Content,玩家,没……也不能说没有，啊啊啊！总之，我先教你一个学习的真谛！,"Well no... well, I can't say there ISN'T but... Ah, never mind! Let me first teach you a core fundamental truth of learning!"
+AvgCommunicate_81323_Option_18,bxwp,avg通讯器聊天表_AvgCommunicate_A_M.csv,2747,AvgCommunicate,Option,玩家,那就是不要什么事都刨根问底！！！,Simply put... don't question literally everything!!!
+AvgCommunicate_81323_Content_18,bxvY,avg通讯器聊天表_AvgCommunicate_A_M.csv,2747,AvgCommunicate,Content,玩家,那就是不要什么事都刨根问底！！！,Simply put... don't question literally everything!!!
+AvgCommunicate_81323_Content_19,bxvZ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2748,AvgCommunicate,Content,卡斯托尔,这又是为什么呢？恩人，我不太明白，如果不询问清楚，如何能学习透彻……,"How could that be, benefactor? I don't understand... if I don't ask enough questions, how can I truly learn a subject..?"
+AvgCommunicate_81323_Option_20,bxwq,avg通讯器聊天表_AvgCommunicate_A_M.csv,2749,AvgCommunicate,Option,玩家,你不累吗！,Aren't you tired of all this?!
+AvgCommunicate_81323_Content_20,bxwb,avg通讯器聊天表_AvgCommunicate_A_M.csv,2749,AvgCommunicate,Content,玩家,你不累吗！你有这样勤奋的精神进入知识的海洋，你做什么都会成功的……,"Aren't you tired of all this?! With your go getter attitude, you would surely succeed in anything you set out to do..."
+AvgCommunicate_81323_Content_21,bxwc,avg通讯器聊天表_AvgCommunicate_A_M.csv,2750,AvgCommunicate,Content,卡斯托尔,谢谢恩人，能够自由学习感兴趣的知识，这是多么珍贵又快乐的事。,"Thank you, benefactor. I am truly blessed to have the opportunity to learn about things that interest me."
+AvgCommunicate_81323_Content_22,bxwd,avg通讯器聊天表_AvgCommunicate_A_M.csv,2751,AvgCommunicate,Content,卡斯托尔,实在困倦的时候，休息一下也就好了，怎么会累呢？,"Tired? If I'm tired, I'll just rest for a bit and be fine."
+AvgCommunicate_81323_Content_23,bxwe,avg通讯器聊天表_AvgCommunicate_A_M.csv,2752,AvgCommunicate,Content,卡斯托尔,所以，恩人什么时候能为我介绍一下新的老师呢？我会努力不那么刨根问底的。,"So, when can you introduce me to the new teacher? I'll try not to ask too many questions."
+AvgCommunicate_81323_Content_24,bxwf,avg通讯器聊天表_AvgCommunicate_A_M.csv,2753,AvgCommunicate,Content,卡斯托尔,嗯……只问97个问题怎么样？,Is... is 97 questions enough?
+AvgCommunicate_81324_Content_1,bxwu,avg通讯器聊天表_AvgCommunicate_A_M.csv,2757,AvgCommunicate,Content,卡斯托尔,恩人，我最近读书又有了新的疑惑。,"Benefactor, I've been reading and have new questions to ask."
+AvgCommunicate_81324_Content_2,bxwE,avg通讯器聊天表_AvgCommunicate_A_M.csv,2758,AvgCommunicate,Content,卡斯托尔,之前您说过，作业是用来检验、磨砺自身知识的，只要知识已经掌握，不用拘泥于作业完成与否。,"You said before that homework is used to test and refine one's knowledge. If the knowledge is mastered, you don't need to worry about who actually does it."
+AvgCommunicate_81324_Option_3,bxwS,avg通讯器聊天表_AvgCommunicate_A_M.csv,2759,AvgCommunicate,Option,玩家,嗯……我好像是说过这种话。,Um... I may have said something like that before...
+AvgCommunicate_81324_Content_3,bxwI,avg通讯器聊天表_AvgCommunicate_A_M.csv,2759,AvgCommunicate,Content,玩家,嗯……我好像是说过这种话。,Um... I may have said something like that before...
+AvgCommunicate_81324_Content_4,bxwJ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2760,AvgCommunicate,Content,卡斯托尔,但我最近阅读的书籍又提到，让他人替自己完成作业，貌似是一种不道德的行为。,But the books I've been reading state that having other people do your work for you is unethical.
+AvgCommunicate_81324_Content_6,bxwK,avg通讯器聊天表_AvgCommunicate_A_M.csv,2762,AvgCommunicate,Content,卡斯托尔,那么，如何判断这件事究竟是否道德呢？,So how do we determine if this matter is ethical?
+AvgCommunicate_81324_Option_7,bxwT,avg通讯器聊天表_AvgCommunicate_A_M.csv,2763,AvgCommunicate,Option,玩家,呃……这个事吧，你要辩证地看。,"Uh... about this matter, you should view it dialectically."
+AvgCommunicate_81324_Content_7,bxwL,avg通讯器聊天表_AvgCommunicate_A_M.csv,2763,AvgCommunicate,Content,玩家,呃……这个事吧，你要辩证地看。,"Uh... about this matter, you should view it dialectically."
+AvgCommunicate_81324_Option_8,bxwU,avg通讯器聊天表_AvgCommunicate_A_M.csv,2764,AvgCommunicate,Option,玩家,我们不能说绝对的是，也不能说绝对的否。,We cannot say for certain yes or no.
+AvgCommunicate_81324_Content_8,bxwM,avg通讯器聊天表_AvgCommunicate_A_M.csv,2764,AvgCommunicate,Content,玩家,我们不能说绝对的是，也不能说绝对的否。,We cannot say for certain yes or no.
+AvgCommunicate_81324_Content_9,bxwN,avg通讯器聊天表_AvgCommunicate_A_M.csv,2765,AvgCommunicate,Content,玩家,判断一件事，不能只从结果来看，更要从行动的目的来看。,"When judging something, you can't only consider the result. You must also consider the purpose behind the action."
+AvgCommunicate_81324_Content_10,bxwv,avg通讯器聊天表_AvgCommunicate_A_M.csv,2766,AvgCommunicate,Content,卡斯托尔,恩人是说……要看做这件事时的想法？,So you're saying... it depends on what you were thinking while doing it?
+AvgCommunicate_81324_Option_11,bxwO,avg通讯器聊天表_AvgCommunicate_A_M.csv,2767,AvgCommunicate,Option,玩家,没错。,That's right.
+AvgCommunicate_81324_Content_11,bxww,avg通讯器聊天表_AvgCommunicate_A_M.csv,2767,AvgCommunicate,Content,玩家,没错，你想啊，我让你写那两份作业，究竟是想要剥削你为我免费工作，还是希望你获得学习的机会呢？,"That's right! Think about it. When I asked you to write those two assignments for you, was I exploiting you for free labor, or was I giving you the opportunity to learn something new?"
+AvgCommunicate_81324_Option_13,bxwP,avg通讯器聊天表_AvgCommunicate_A_M.csv,2769,AvgCommunicate,Option,玩家,这怎么会不知道呢？,What do you mean you don't know?!
+AvgCommunicate_81324_Content_13,bxwy,avg通讯器聊天表_AvgCommunicate_A_M.csv,2769,AvgCommunicate,Content,玩家,这怎么会不知道呢？当然是为了让你能够更好地学习知识！,What do you mean you don't know?! Of course I did it to teach you!
+AvgCommunicate_81324_Content_14,bxwz,avg通讯器聊天表_AvgCommunicate_A_M.csv,2770,AvgCommunicate,Content,卡斯托尔,原来是这样，是我误会了，我还以为恩人只是想让我帮您完成作业呢。,So that's how it is. It seems I misunderstood; I thought you only wanted me to help you with your homework.
+AvgCommunicate_81324_Content_16,bxwA,avg通讯器聊天表_AvgCommunicate_A_M.csv,2772,AvgCommunicate,Content,玩家,咳咳……好了，你再想一想，我们做一件事时，如果将人作为行动本身的目的，真心为对方考虑，这样可以称作道德。,"Ahaha... Well, let's think about it again. When we perform an action with the goal to help someone, sincerely help someone, that can be considered an ethical action."
+AvgCommunicate_81324_Content_17,bxwB,avg通讯器聊天表_AvgCommunicate_A_M.csv,2773,AvgCommunicate,Content,玩家,如果将人当作纯粹的工具，这当然就是不道德的。,"Treating someone purely as a tool, on the other hand, would certainly be unethical."
+AvgCommunicate_81324_Content_18,bxwC,avg通讯器聊天表_AvgCommunicate_A_M.csv,2774,AvgCommunicate,Content,卡斯托尔,我好像懂了，就像提灯将我和波吕克斯当作祭祀的工具，而不是真心考虑我们的感受，这样就是不道德的。,"I think I understand now. It's like how the Lantern used me and Pollux as tools for sacrifice, without considering our feelings. What they did was immoral."
+AvgCommunicate_81324_Option_19,bxwQ,avg通讯器聊天表_AvgCommunicate_A_M.csv,2775,AvgCommunicate,Option,玩家,没错没错，你的悟性很好！,"That's right, that's right! You understand perfectly!"
+AvgCommunicate_81324_Content_19,bxwD,avg通讯器聊天表_AvgCommunicate_A_M.csv,2775,AvgCommunicate,Content,玩家,没错没错，你的悟性很好！,"That's right, that's right! You understand perfectly!"
+AvgCommunicate_81324_Content_20,bxwF,avg通讯器聊天表_AvgCommunicate_A_M.csv,2776,AvgCommunicate,Content,卡斯托尔,我明白了，恩人真是一个很有道德的人！那么，请恩人再给我几本作业吧，我会认真做完再来请教的！,"I understand, benefactor, you are truly a moral person! Then, please give me a few more assignments. I'll dilligently complete them and come back to consult you!"
+AvgDialog_117500_Content_1,bIqt,avg星辰章4_AvgDialog_C_M.csv,329,AvgDialog,Content,,枷锁,Shackles
+Voice_67311_AwakerVoiceContent,bqke,y语音_Voice_A.csv,2080,Voice,AwakerVoiceContent,塔薇,过去、现在、未来，亿万光辉皆系于此！,"Past, present, future. A billion brilliances gather as one!"
+Voice_67310_AwakerVoiceContent,bqka,y语音_Voice_A.csv,2081,Voice,AwakerVoiceContent,塔薇,过去、现在、未来，亿万光辉皆系于此！,"Past, present, future. A billion brilliances gather as one!"
+Voice_95432_AwakerVoiceContent,bzyQ,y语音_Voice_A.csv,2315,Voice,AwakerVoiceContent,凯蒂古拉,吾乃永不遗忘的爆燃之主！宣告！万物将亡！,"I am the Living Flame—unforgettable, unstoppable! Witness now, THE ANNIHILATION OF ALL!"
+Voice_95428_AwakerVoiceContent,bzyH,y语音_Voice_A.csv,2316,Voice,AwakerVoiceContent,凯蒂古拉,吾乃永不遗忘的爆燃之主！宣告！万物将亡！,"I am the Living Flame—unforgettable, unstoppable! Witness now, THE ANNIHILATION OF ALL!"
+Voice_100369_AwakerVoiceContent,bCyD,y语音_Voice_A.csv,2404,Voice,AwakerVoiceContent,皮克曼,艺术的本质，即是疯狂……！,The true essence of art lies in madness...!
+Voice_100366_AwakerVoiceContent,bCyx,y语音_Voice_A.csv,2405,Voice,AwakerVoiceContent,皮克曼,艺术的本质，即是疯狂……！,The true essence of art lies in madness...!
