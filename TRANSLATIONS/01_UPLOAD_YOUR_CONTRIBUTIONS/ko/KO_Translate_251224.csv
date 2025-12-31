@@ -1,75 +1,346 @@
 ﻿AvgCommunicate_57993_Content_16,abGF,avg通讯器聊天表_AvgCommunicate_A_M.csv,422,AvgCommunicate,Content,艾瑞卡,当然。,물론이지.
 AvgCommunicate_66989_Content_6,abUH,avg通讯器聊天表_AvgCommunicate_A_M.csv,1187,AvgCommunicate,Content,本源拉蒙娜通讯器,我明白了。,알겠습니다.
+AvgCommunicate_67014_Content_6,achU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1565,AvgCommunicate,Content,弥利亚姆,你说什么？,뭔가 말했어?
+AvgCommunicate_67008_Content_1,aces,avg通讯器聊天表_AvgCommunicate_A_M.csv,1596,AvgCommunicate,Content,凯刻斯,唉……,하아...
 AvgDialog_15605_Content_1,adPw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,8,AvgDialog,Content,,启动测试,시동 테스트
+AvgDialog_15605_Content_2,adPH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,爽朗的女性,齿轮咬合情况，良好；液压系统，未见压力泄漏；电机MF311000运转正常，温度偏高但在允许范围内。,"기어 간 교합, 양호; 유압 시스템, 압력 누설 없음; 모터 MF311000 정상 작동 중, 온도는 높지만 허용범위 내."
+AvgDialog_15605_Content_3,adPS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,10,AvgDialog,Content,沉稳的女性,特殊能源S，情况稳定。,"특수 에너지 S, 상태 안정."
+AvgDialog_15605_Content_4,adQd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,11,AvgDialog,Content,爽朗的女性,"呼——准备好了吗？
+自动人偶嘀嗒人第十三次启动测试，开始。","후우... 준비됐어? 자동인형 「틱톡맨」 13차 시동 테스트, 시작할게."
 AvgDialog_15605_Content_5,adQo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,12,AvgDialog,Content,,睁开眼睛,눈을 뜬다.
 AvgDialog_15605_Content_6,adQv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,13,AvgDialog,Content,爽朗的女性,嘀嗒人，你能听得到我吗？,"틱톡맨, 내 목소리가 들려?"
+AvgDialog_15605_Content_7,adQw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,14,AvgDialog,Content,,……艾瑞卡？,...에리카?
+AvgDialog_15605_Content_8,adQx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,15,AvgDialog,Content,,熟悉的面容露出与你记忆中截然不同的自然表情，比起自动人偶，她看上去更像个活人。,"익숙한 얼굴. 그러나, 기억 속 자동인형과는 완전히 다른, 마치 살아있는 인간 같은 느낌이었다."
+AvgDialog_15605_Content_9,adQy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,16,AvgDialog,Content,,……这是怎么回事？,...어떻게 된 거지?
+AvgDialog_15605_Content_10,adPx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,17,AvgDialog,Content,,难道你又进入唤醒体的过去了？你记得好像是在看文件……,"설마, 또 각성체의 과거에 들어온 건가? 분명 방금 전까지 서류를 보고 있었을 텐데..."
 AvgDialog_15605_Content_11,adPy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,18,AvgDialog,Content,艾瑞卡人形,怎么没反应啊，听力模块出问题了？,어라? 반응이 없네. 청각 모듈에 이상이라도 있는 걸까?
+AvgDialog_15605_Content_12,adPz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,19,AvgDialog,Content,沉稳的女性,这就要看情况了，你昨天是不是在我走了之后又偷偷加工模块了？,그건 상황에 따라 다르겠지. 어제 내가 돌아간 뒤에 또 몰래 부품을 가공한 거 아니야?
+AvgDialog_15605_Content_13,adPA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,20,AvgDialog,Content,艾瑞卡人形,"没有没有，这次真没有，发誓！
+要不我再试一次吧，嘀嗒人，你能听得见吗？","안했어, 안했어! 이번엔 진짜 안했어! 맹세할게! 다시 한번 시도해보자... 틱톡맨, 들려?"
 AvgDialog_15605_Content_14,adPB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,21,AvgDialog,Content,,能。,들려요.
 AvgDialog_15605_Content_15,adPC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,22,AvgDialog,Content,艾瑞卡人形,看，看！它的嘴动了，我就说没问题！,"봐봐! 자, 입이 움직였어! 말했잖아, 문제 없다고!"
+AvgDialog_15605_Content_16,adPD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,23,AvgDialog,Content,艾瑞卡人形,"世上第一台能听从语音指令的全自动机械人偶！第一台！全自动！
+亲爱的父神啊，现在就带走我吧，我的人生已经没有任何遗憾！","세계 최초로 음성 지령에 따르는 전자동 기계인형의 탄생! 전자동이라고! 부신이시여, 이제 인생에 후회란 없으니, 절 데려가 주소서."
+AvgDialog_15605_Content_17,adPE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,24,AvgDialog,Content,沉稳的女性,我倒是有很多遗憾，比如没有完成指令响应测试，肢体灵活度测试，运转时间测试……,"나한텐 있지만 말이지. 명령 응답 테스트, 사지 가동 테스트, 가동 시간 테스트, 어느 것도 아직 끝나지 않았다는 게 미련이야."
+AvgDialog_15605_Content_18,adPF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,25,AvgDialog,Content,艾瑞卡人形,梅——伊——你真的是一点也不有趣。,"메이~, 정말 재미없다니까."
+AvgDialog_15605_Content_19,adPG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,26,AvgDialog,Content,梅伊,……整体协调测试，平衡测试，承重测试……,"...전체 연동 테스트, 균형 유지 테스트, 중량 부하 테스트..."
 AvgDialog_15605_Content_20,adPI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,27,AvgDialog,Content,艾瑞卡人形,好啦我知道啦！<Small:你简直比嘀嗒人还像个机械。>,알았다니까! <Small:틱톡맨보다 훨씬 기계 같아.>
+AvgDialog_15605_Content_21,adPJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,28,AvgDialog,Content,梅伊,你说什么？,뭔가 말했어?
+AvgDialog_15605_Content_22,adPK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,29,AvgDialog,Content,艾瑞卡人形,"啊——接下来进行基础指令接收与理解测试！
+嘀嗒人，眨眼。","아... 그럼 다음은 기본 지령 수신과 이해 테스트를 시작할게! 틱톡맨, 눈을 깜빡여봐."
 AvgDialog_15605_Content_23,adPL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,30,AvgDialog,Content,,眨眼,눈을 깜빡인다.
+AvgDialog_15605_Content_24,adPM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,31,AvgDialog,Content,艾瑞卡人形,"看着我的手指，很好。
+张嘴？非常好，真是我的好孩子。","내 손가락을 봐봐, 좋아. 입을 열어볼래? 잘했어요, 착한 우리 아이!"
+AvgDialog_15605_Content_25,adPN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,梅伊,……呕。,...우엑.
+AvgDialog_15605_Content_26,adPO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,33,AvgDialog,Content,艾瑞卡人形,干嘛！怎么说也是我一点一点造出来的，叫我一声妈妈也合情合理嘛。,어때서! 이래뵈도 내가 하나하나 만들어낸 거야. 엄마라고 불려도 이상할 것 없다고.
+AvgDialog_15605_Content_27,adPP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,34,AvgDialog,Content,梅伊,是的是的，齿轮狂妈妈，把你亲爱的钢铁宝贝的左手臂拿来吧，要开始进行肢体测试了。,"그래그래, 톱니광 엄마. 네 귀여운 철제 베이비의 왼팔 좀 가져와줄래? 사지 테스트를 시작할 거야."
+AvgDialog_15605_Content_28,adPQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,35,AvgDialog,Content,,由复杂的齿轮及你看不懂的机械结构构成的手臂短暂地出现在你的视野里，然后消失在你左侧，接着是右侧。,"정밀한 톱니와, 당신에겐 이해할 수 없는 복잡한 구조로 만들어진 팔다리가 시야에 잠깐 나타나 왼쪽으로 사라졌고, 이어서 오른쪽으로 사라졌다."
 AvgDialog_15605_Content_29,adPR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,36,AvgDialog,Content,,四肢的安装很顺利，你跟着指令抬手伸腿，艾瑞卡脸上的笑容越发灿烂。,"사지 부착은 순조롭게 이어져, 당신은 지시에 따라 팔을 올리고, 다리를 뻗는다. 에리카의 얼굴에 점점 웃음이 번졌다."
 AvgDialog_15605_Content_30,adPT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,37,AvgDialog,Content,艾瑞卡人形,好，接下来——啊！,"좋아, 다음엔──앗!"
+AvgDialog_15605_Content_31,adPU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,38,AvgDialog,Content,,"浓烈的黑烟从你视线下方升起：有什么东西烧起来了。
+你低头，看到自己腹腔处有电光和火花闪烁。",검은 연기가 당신의 시야 아래에서 솟아오른다. 무언가가 타고 있었다. 아래를 보자 복부에서 불꽃과 스파크가 파직파직하고 튀고 있었다.
 AvgDialog_15605_Content_32,adPV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,39,AvgDialog,Content,艾瑞卡人形,灭火器，梅伊，梅伊！,"소화기, 메이, 메이!"
 AvgDialog_15605_Content_33,adPW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,40,AvgDialog,Content,梅伊,让开！,비켜!
+AvgDialog_15605_Content_34,adPX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,41,AvgDialog,Content,,"灭火器喷出白色的泡沫，焦糊的味道随着气流弥散。
+艾瑞卡凑上前，顾不得电机的滚烫将它拆了下来。","소화기에서 하얀 거품이 뿜어졌고, 동시에 탄내가 진동했다. 에리카는 뜨거워진 모터를 개의치 않고 필사적으로 떼어냈다."
 AvgDialog_15605_Content_35,adPY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,42,AvgDialog,Content,梅伊,艾瑞卡！,에리카!
+AvgDialog_15605_Content_36,adPZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,43,AvgDialog,Content,,烧黑的电机放在工作台上，艾瑞卡喘了口气，后知后觉地对着沾了白色泡沫的手吹气。,"검게 탄 모터를 작업대 위에 올려두고, 에리카는 숨을 가다듬었다. 겨우 진정하고 나서야, 자신의 손에 묻은 거품을 후우 하고 불어낸다."
+AvgDialog_15605_Content_37,adQa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,44,AvgDialog,Content,艾瑞卡人形,烫死我了烫死我了。,뜨거워라... 화상 입을 뻔했어...
+AvgDialog_15605_Content_38,adQb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,45,AvgDialog,Content,梅伊,能源S，快看看能源S！,에너지 S는!? 에너지 S의 상태를 확인해 봐!
 AvgDialog_15605_Content_39,adQc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,46,AvgDialog,Content,,艾瑞卡凑到电机前，烫得微红的手指轻柔地拂过金属外壳。,"에리카는 모터 가까이 몸을 기울여, 열로 살짝 붉어진 손가락으로 금속 표면을 쓰다듬는다."
+AvgDialog_15605_Content_40,adQe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,47,AvgDialog,Content,艾瑞卡人形,看样子是外部线路短路起火，应该没有伤到内部。,아무래도 외부 배선 단락으로 불이 난 것 같아. 내부까지 피해가 생기진 않았을 거야.
+AvgDialog_15605_Content_41,adQf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,48,AvgDialog,Content,艾瑞卡人形,别担心，我一会儿会检查的。,걱정 마. 조금 있다 제대로 확인해볼 테니까.
+AvgDialog_15605_Content_42,adQg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,49,AvgDialog,Content,梅伊,……你又要把我赶出去？,...또 나를 내보내려고?
+AvgDialog_15605_Content_43,adQh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,50,AvgDialog,Content,艾瑞卡人形,梅伊……,메이...
+AvgDialog_15605_Content_44,adQi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,51,AvgDialog,Content,梅伊,擅自拿能源S做实验是我不对，但我们的资金状况你也知道，以S为突破口能为我们换来更多的时间和材料。,"허락 없이 에너지 S로 실험한 건 미안해. 그렇지만, 우리 자금 상황은 알고 있잖아? S를 돌파구로 쓴다면 자금을 더 얻을 수 있어."
+AvgDialog_15605_Content_45,adQj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,52,AvgDialog,Content,梅伊,"你就让我看看吧，一次就好，我发誓我不会向任何人透露它的信息。
+求你了。",부탁이니까 보게 해줘. 한 번만이라도 좋아. 절대 누구에게도 정보를 누설하지 않겠다고 맹세할게. 부탁이야.
+AvgDialog_15605_Content_46,adQk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,53,AvgDialog,Content,艾瑞卡人形,我说过的，里面什么也没有。,이미 말했잖아. 안에는 아무것도 없어.
+AvgDialog_15605_Content_47,adQl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,54,AvgDialog,Content,梅伊,"……连借口都懒得编了，有必要这么防着我吗？
+我难道不是一直都为了我们的未来着想吗？",...변명조차 하지 않네. 날 그렇게나 못 믿는 거야? 나는 계속 우리의 미래를 위해 노력해왔는데.
+AvgDialog_15605_Content_48,adQm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,55,AvgDialog,Content,艾瑞卡人形,……,...
+AvgDialog_15605_Content_49,adQn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,56,AvgDialog,Content,梅伊,"算了。
+我去乔伊餐馆坐会儿，你爱怎样就怎样吧。","이제 됐어. 조이네 레스토랑에 갔다 올 테니까, 마음대로 해."
 AvgDialog_15605_Content_50,adQp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,57,AvgDialog,Content,,房门关上，脚步声远去，艾瑞卡叹了口气。,"문이 닫히고, 발소리가 멀어진다. 에리카는 깊게 한숨을 쉬었다."
+AvgDialog_15605_Content_51,adQq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,58,AvgDialog,Content,艾瑞卡人形,"她还是……可那个人警告过我的，能源S……
+我不能让梅伊和我一起承担风险。",역시 메이는... 하지만 그 사람의 경고처럼 에너지 S는... 메이한테까지 나와 같은 위험을 지게 할 수는 없어.
+AvgDialog_15605_Content_52,adQr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,59,AvgDialog,Content,,她重新转向电机，像是振作了精神。,"그녀는 다시 모터 쪽으로 돌아서서, 기분을 바꾸려는 듯 고개를 들었다."
+AvgDialog_15605_Content_53,adQs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,60,AvgDialog,Content,艾瑞卡人形,我会搞清楚的，等我，梅伊。,"내가 반드시 해명해보일 테니까. 기다려 줘, 메이."
 AvgDialog_15605_Content_54,adQt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,61,AvgDialog,Content,,她拧开盖子，从里抽出一个黑色的圆筒。,"그녀는 뚜껑을 돌려 열고, 안에서 검은 원통을 끄집어냈다."
 AvgDialog_15605_Content_55,adQu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,62,AvgDialog,Content,,那个瞬间，你的世界陷入黑暗。,"그 순간, 당신의 세계는 암흑에 휩싸였다."
+AvgDialog_15606_Content_1,adQz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,63,AvgDialog,Content,,声音如是说,목소리가 들린다
+AvgDialog_15606_Content_2,adQK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,64,AvgDialog,Content,艾瑞卡人形,嘀嗒人，亲爱的，你听得到我吗？,"틱톡맨, 내 목소리가 들려?"
+AvgDialog_15606_Content_3,adQV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,65,AvgDialog,Content,,从恒久的黑暗中苏醒，你发现自己还在工作室里，烧黑的电机仍旧摆在工作台上，用数条粗细不一的线缆与你的躯体相连。,"깊은 어둠에서 깨어났을 때, 당신은 아직 작업실에 있었다. 타버린 모터가 작업대에 놓여져, 여러 가닥의 전선이 당신과 연결되어 있다."
 AvgDialog_15606_Content_4,adRg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,66,AvgDialog,Content,,能听见。,들려요.
 AvgDialog_15606_Content_5,adRr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,67,AvgDialog,Content,艾瑞卡人形,抱歉啊，我保证接下来就专门攻克发声模块！这阵子你先忍一下，好吗？,"미안해, 다음엔 발성 모듈에 집중할게! 그때까지 조금만 참아줄래?"
 AvgDialog_15606_Content_6,adRv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,68,AvgDialog,Content,,点头。,고개를 끄덕인다.
 AvgDialog_15606_Content_7,adRw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,69,AvgDialog,Content,艾瑞卡人形,父神保佑，太好了。我真怕哪条线被烧坏了。,"부신이시여, 감사합니다. 다행이야, 전선이 타버렸을까 걱정했어."
+AvgDialog_15606_Content_8,adRx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,70,AvgDialog,Content,,她松了口气，像是才感受到疲惫一样大大地打了个呵欠。,"그녀는 안도의 한숨을 쉬고, 이제서야 피로를 느낀 듯 크게 하품했다."
+AvgDialog_15606_Content_9,adRy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,71,AvgDialog,Content,艾瑞卡人形,我得去喝一杯咖啡，还有晚餐……,커피라도 마셔야겠어. 그리고 저녁식사도...
 AvgDialog_15606_Content_10,adQA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,72,AvgDialog,Content,,她嘟囔着离开了，留下你，和工作台上的电机与零件。,그녀는 중얼거리면서 실험실을 나섰다. 남겨진 건 당신과 작업대 위의 모터와 부품 뿐이다.
 AvgDialog_15606_Content_11,adQB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,73,AvgDialog,Content,,你看向自己的手。,당신은 자신의 손을 바라본다.
 AvgDialog_15606_Content_12,adQC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,74,AvgDialog,Content,,纤细，有力，细腻的瓷制外壳被仔细擦拭维护过，尽管冰冷，在昏暗的灯光下看上去与活人无异。,"섬세하고, 강하고, 정성스레 닦인 도자기 같은 외장. 차갑지만, 어스름한 등불 밑에선 마치 살아있는 손처럼 보인다."
+AvgDialog_15606_Content_13,adQD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,75,AvgDialog,Content,,"这是艾瑞卡的手，你认识的那个<Blue:自动人偶艾瑞卡>的手。
+你似乎占据了她后来的身体，成为了她制造的那个自动人偶。",이건 에리카의 손이다. 당신이 알고 있는 <Blue:자동인형 에리카>의 손이다. 당신은 나중에 그녀의 신체가 될 자동인형의 몸에 들어온 것 같다.
+AvgDialog_15606_Content_14,adQE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,76,AvgDialog,Content,,"刚才你看到的她分明是个人类。
+到底是什么经历，才把她变成后来那副模样？",방금 보았던 그녀는 명백히 인간이었다. 대체 그녀에게 무슨 일이 일어났기에 그 모습이 된 것일까?
 AvgDialog_15606_Content_15,adQF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,77,AvgDialog,Content,梅伊,艾瑞卡？,에리카?
+AvgDialog_15606_Content_16,adQG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,78,AvgDialog,Content,,"你眨眨眼，梅伊不知何时进来了。
+她的视线在房间内转了一圈，最终落在你身旁的电机上。","당신이 눈을 깜빡이자, 어느샌가 메이가 들어와 있었다. 그녀의 시선은 방 안을 한 바퀴 돌아, 마지막으로 당신 옆의 모터에 이르렀다."
+AvgDialog_15606_Content_17,adQH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,梅伊,……,...
+AvgDialog_15606_Content_18,adQI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,80,AvgDialog,Content,,第二次扫视了一圈房间后，她掩上门，快步朝电机走来。,"방을 다시 한번 둘러본 그녀는, 슬며시 문을 닫고 다급히 모터 쪽으로 다가간다."
 AvgDialog_15606_Content_19,adQJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,81,AvgDialog,Content,梅伊,对不起，艾瑞卡。,"미안해, 에리카."
+AvgDialog_15606_Content_20,adQL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,82,AvgDialog,Content,,盖子拧动，梅伊捏住了里面的东西。这次你看清了，那是一个直径不过5厘米，侧面刻着字母“S”的金属圆筒。,"뚜껑을 돌려, 메이는 안의 물체를 손가락으로 집어올린다. 이번엔 확실히 보였다. 직경 5cm를 넘지 않는, 측면에 「S」라는 글자가 새겨져 있는 금속 원통이었다."
+AvgDialog_15606_Content_21,adQM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,83,AvgDialog,Content,,"一旦她将圆筒完全抽出，你就会再次失去意识。
+所以在那之前，你必须——","그녀가 원통을 완전히 빼내자, 다시 의식을 잃을 것이다. 그 전에 당신은─"
+AvgDialog_15606_Content_22,adQN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,,抓住她的手,그녀의 손을 잡는다
 AvgDialog_15606_Content_23,adQO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,85,AvgDialog,Content,梅伊,啊！,앗!
 AvgDialog_15606_Content_24,adQP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,86,AvgDialog,Content,艾瑞卡人形,怎么了怎么了——,"무, 무슨 일이야─"
+AvgDialog_15606_Content_25,adQQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,87,AvgDialog,Content,,艾瑞卡撞进房间，脸上的关切在看到梅伊手里的圆筒后瞬间凝固。,"에리카가 방으로 뛰어들어왔다. 걱정스러웠던 얼굴이, 메이의 손에 들린 원통을 본 순간 굳어졌다."
+AvgDialog_15606_Content_26,adQR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,艾瑞卡人形,梅伊，你这是在干什么？,메이... 뭐 하는 거야?
+AvgDialog_15606_Content_27,adQS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,89,AvgDialog,Content,艾瑞卡人形,你在干什么！,뭘 하고 있냐고!
+AvgDialog_15606_Content_28,adQT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,梅伊,我只是在尝试……这个能源……竟然真的可以……,난 그저... 확인하고 싶었어. 이 에너지... 정말로 작동하고 있구나...
+AvgDialog_15606_Content_29,adQU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,91,AvgDialog,Content,,面对驱动了整个电机及所有联通器械的小圆筒，梅伊瞪大了双眼。,"발전기와 모든 기계를 구동시키고 있는 원통을 보며, 메이는 눈을 크게 떴다."
 AvgDialog_15606_Content_30,adQW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,92,AvgDialog,Content,梅伊,你知道这意味着什么吗，艾瑞卡？,"이게 무슨 의미인지 알겠어, 에리카?"
 AvgDialog_15606_Content_31,adQX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,93,AvgDialog,Content,艾瑞卡人形,这意味着它很危险，我说过的，梅伊，不能随便乱动——,"위험하다는 의미야. 말했잖아, 메이. 함부로 만지면 안된다고─"
+AvgDialog_15606_Content_32,adQY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,梅伊,不，不，听着，艾瑞卡——这个东西，这个小小的东西，能够做到无损耗，无排放，长时间供能，你还不明白吗？,"아니, 아니야, 에리카. 이 장치, 이 작은 장치 하나만 있으면, 소모도 배출도 없이 장시간 에너지를 공급할 수 있어. 알겠어?"
 AvgDialog_15606_Content_33,adQZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,95,AvgDialog,Content,梅伊,煤炭、石油，在它面前一无是处。如果能量产，我们将改写人类的能源结构，我们将名垂青史！,"석탄이나 석유 같은 건, 이 장치 앞에선 무가치해져. 양산할 수만 있다면 우리는 인류의 에너지 구조를 다시 세우고 역사를 만들게 될 거야!"
+AvgDialog_15606_Content_34,adRa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,梅伊,你必须告诉我你是怎么做出来的，你必须！,어떻게 만들었는지 알려줘. 알고 있을 거잖아. 부탁이야!
+AvgDialog_15606_Content_35,adRb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,梅伊,艾瑞卡，你要去哪里？什么叫你不知道怎么做的，艾瑞卡！,"에리카, 어디 가는 거야? 모른다는 게 무슨 말이야? 그걸 만든 건 에리카잖아!"
 AvgDialog_15606_Content_36,adRc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,梅伊,投资人说了，只要看到样品，他愿意为我们提供大量的资金，甚至是专属工作室。,"투자자가 말했어. 샘플을 보여주기만 한다면, 막대한 자금을 지원해줄 수 있다고, 전속 작업실까지 내줄 수 있다고."
+AvgDialog_15606_Content_37,adRd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,99,AvgDialog,Content,艾瑞卡人形,你怎么就是不听——我不知道这东西是怎么做的，我做不出来！,"왜 들어주지 않는 거야! 정말로 어떻게 만들어진 건지 몰라, 모른다고!"
+AvgDialog_15606_Content_38,adRe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,100,AvgDialog,Content,梅伊,我已经过了相信童话故事的年纪了，艾瑞卡。什么<Blue:神秘店主>，搪塞我也该找个好点的理由。,"난 이제 동화를 믿는 어린애가 아니야, 에리카. <Blue:신비한 상인>이라니, 변명할 거라면 더 제대로 해."
 AvgDialog_15606_Content_39,adRf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,101,AvgDialog,Content,梅伊,你明明做得出这么厉害的东西，为什么目光不更长远些？,"넌 이렇게 대단한 걸 만들 수 있으면서도, 왜 더 멀리까지 보지 않는 거야?"
+AvgDialog_15606_Content_40,adRh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,102,AvgDialog,Content,梅伊,为什么还要把自己困在这种地方，鼓捣这些破铜烂铁？,왜 이런 좁은 곳에서 잡동사니만 만지작거리는 거야?
+AvgDialog_15606_Content_41,adRi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,103,AvgDialog,Content,,梅伊的声音宛如一个巴掌打在了艾瑞卡脸上，她看着自己的搭档、伙伴，难以相信自己听到的东西。,메이의 그 말은 에리카의 얼굴에 따귀처럼 날아들었다. 그녀는 자신의 파트너이자 동료를 바라보며 자신의 귀를 의심했다.
+AvgDialog_15606_Content_42,adRj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,104,AvgDialog,Content,艾瑞卡人形,……破铜烂铁，这就是你真实的想法吗？,"...잡동사니, 그게 네 진심이야?"
+AvgDialog_15606_Content_43,adRk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,105,AvgDialog,Content,艾瑞卡人形,我以为我们有着共同的理想。,난 우리가 같은 꿈을 쫓고 있었다고 생각했는데.
+AvgDialog_15606_Content_44,adRl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,,梅伊咬了咬牙，握紧了手里的圆筒。,"메이는 이를 악물고, 손 안의 원통을 굳게 쥐었다."
 AvgDialog_15606_Content_45,adRm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,107,AvgDialog,Content,梅伊,看清事实吧，艾瑞卡。现在没有人愿意为自动人偶花钱了，新能源才是我们的出路。,"현실을 봐, 에리카. 지금 시대에 자동인형에 돈을 쓰려는 사람은 없어. 대체 에너지야말로 우리의 활로야."
+AvgDialog_15606_Content_46,adRn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,艾瑞卡人形,……把特殊能源放下。,...특수 에너지를 내려놔.
+AvgDialog_15606_Content_47,adRo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,109,AvgDialog,Content,梅伊,"想想我们能拥有的一切，更多的资金，更多的资源。
+有了这些你才可以继续你的梦想，有了这些，你才能——","우리가 얻을 수 있는 걸 상상해봐. 더 많은 자금, 더 많은 자원. 그것들이 있으면 너도 꿈을 이어나갈 수 있고, 그러면 너도──"
 AvgDialog_15606_Content_48,adRp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,110,AvgDialog,Content,艾瑞卡人形,我说放下！,내려놓으라고!
+AvgDialog_15606_Content_49,adRq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,111,AvgDialog,Content,,艾瑞卡上前抢夺，梅伊闪躲不及，撞到了一旁的柜子上。,"에리카가 앞으로 나가 빼앗으려 하자, 메이는 미처 피하지 못하고 옆의 선반에 부딫힌다."
 AvgDialog_15606_Content_50,adRs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,112,AvgDialog,Content,艾瑞卡人形,！！,!!
 AvgDialog_15606_Content_51,adRt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,113,AvgDialog,Content,,装满各种试剂和燃料的瓶罐倾倒而下，你扑上去挡在了两人身前，下一秒——,시약과 연료로 가득찬 병들이 일제히 선반에서 떨어진다. 당신은 둘을 감싸려 몸을 내던졌다. 그 순간──
+AvgDialog_15608_Content_1,adSb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,115,AvgDialog,Content,玩家,这里是……精神空间？,여긴... 정신 공간?
+AvgDialog_15608_Content_2,adSc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,116,AvgDialog,Content,艾瑞卡人形,我的天啊，这到底、这到底是……,"세상에, 이건 대체..."
+AvgDialog_15608_Content_3,adSd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,117,AvgDialog,Content,玩家,声音……艾瑞卡！,이 목소리는... 에리카!
+AvgDialog_15612_Content_1,adTo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,,无形的韵律围绕着你，包裹着你，星星点点的光在远处亮起，显得脆弱而且遥不可及。,"보이지 않는 운율이 당신을 둘러싸고, 먼 곳에서 별같은 빛들이 반짝이고 있다. 그 빛들은 약하고 아득하여 닿을 수 없을 것 같았다."
 AvgDialog_15612_Content_2,adTz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,119,AvgDialog,Content,艾瑞卡人形,梅伊，梅伊！你醒醒啊，梅伊！,"메이, 메이! 일어나, 메이!"
+AvgDialog_15612_Content_3,adTE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,,你赶紧靠近声音的来源。,당신은 서둘러 소리가 들리는 쪽으로 다가간다.
+AvgDialog_15612_Content_4,adTF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,121,AvgDialog,Content,,那是一个悬浮在空中的光球，透过光球，你看到了一张满是血与砂石的脸——梅伊的脸。,그곳엔 공중에 떠 있는 빛의 구체가 있었다. 그 안에서 당신은 피와 모래로 덮힌 메이의 얼굴을 보았다.
+AvgDialog_15612_Content_5,adTG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,122,AvgDialog,Content,,她似乎处于昏迷中，即使被一只苍白的手轻轻拍打，也没有任何回应。,기절한 그녀는 창백한 손으로 몇 번을 두들겨도 반응하지 않았다.
+AvgDialog_15612_Content_6,adTH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,玩家,<Gray:那只手……>,<Gray:저 손은...>
+AvgDialog_15612_Content_7,adTI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,124,AvgDialog,Content,,"你低下头，确认了心中的猜想：光球中呈现的手与你的手如出一辙。
+那是自动人偶的手，此时正遵循他人的意志而动。","당신은 고개를 내려 자신의 손을 확인한다. 빛의 구체에 비춰진 손은 당신의 것과 똑같았다. 그건 자동인형의 손이었고, 지금은 다른 누군가의 의지에 의해 움직이고 있었다."
+AvgDialog_15612_Content_8,adTJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,125,AvgDialog,Content,艾瑞卡人形,该死的，梅伊！我们得离开这里，梅伊！,"안돼, 메이! 여기서 나가야 해, 메이! 빨리!"
+AvgDialog_15612_Content_9,adTK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,机械手转而按在了梅伊肩上，光球中的画面变换，仍在燃烧的工作室映入眼帘，像是谁在四处张望。,"기계 손이 메이의 어깨에 놓이고, 빛의 구체 속 영상은 타오르고 있는 작업실로 바뀌었다. 마치 누군가를 찾는 것처럼 시선이 바쁘게 움직이고 있었다."
+AvgDialog_15612_Content_10,adTp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,玩家,<Gray:不会吧……难道……>,<Gray:설마... 에리카와 나는...>
+AvgDialog_15612_Content_11,adTq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,128,AvgDialog,Content,,"难道此时，你和艾瑞卡正共享着一具躯壳？
+难道这就是她变成机械人偶的原因？",에리카와 당신은 같은 몸을 공유하고 있는 것 같았다. 이것이 그녀가 기계인형이 된 이유인 것일까.
+AvgDialog_15612_Content_12,adTr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,129,AvgDialog,Content,玩家,<Gray:可是，普通爆炸怎么可能会有这种效果？>,<Gray:하지만 평범한 폭발로 이런 일이 생길 리가 없어...>
+AvgDialog_15612_Content_13,adTs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,？？？,你想救她吗？,그녀를 구하고 싶은가?
 AvgDialog_15612_Content_14,adTt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,131,AvgDialog,Content,玩家,？！,?!
+AvgDialog_15612_Content_15,adTu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,132,AvgDialog,Content,,"一个声音凭空出现，它无处不在，又无迹可寻。
+你四处张望，空旷的精神空间内，一个轮廓正在浮现。","한 목소리가 허공에서 들려왔으나, 어디에도 모습은 보이지 않았다. 주위를 둘러보자, 광활한 정신 공간에서 한 형체가 윤곽을 갖춰가기 시작했다."
+AvgDialog_15612_Content_16,adTv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,133,AvgDialog,Content,艾瑞卡人形,谁，谁在那儿？,누구? 거기 있는 건 누구야?
+AvgDialog_15612_Content_17,adTw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,？？？,我是给予你回应的意志，是被你赋予崭新躯体的生命。,"나는 그대에게 응답하는 의지이자, 그대에게 새로운 육신을 받은 생명."
+AvgDialog_15612_Content_18,adTx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,？？？,我可以算作你的造物，而你，是我此生的“母亲”。,"나는 그대의 피조물, 그리고 그대는 나의 「어머니」."
+AvgDialog_15612_Content_19,adTy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,,一只巨大的手凝聚在代表了艾瑞卡精神的光球之后，指尖抽搐颤动，抖下一滴滴黑色的黏液。,거대한 손이 에리카의 정신을 표상하는 빛의 구체 뒤에 나타난다. 손끝은 경련하듯 떨리며 한 방울씩 검은 점액을 떨어뜨렸다.
+AvgDialog_15612_Content_20,adTA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,137,AvgDialog,Content,艾瑞卡人形,……嘀嗒人……？,...틱톡맨...?
+AvgDialog_15612_Content_21,adTB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,？？？,"我喜欢这个名字，没错，就叫我嘀嗒人吧。
+作为给予我新生的报答，我可以帮你救她。
+你只需要放手。","좋은 이름이다. 그래, 나는 틱톡맨. 생명을 받은 보답으로, 그녀를 구해주겠다. 그러니, 손을 놓아라."
+AvgDialog_15612_Content_22,adTC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,？？？,放手，然后，把一切都交给我。,"손을 놓고, 나에게 모든 걸 맡겨라."
+AvgDialog_15612_Content_23,adTD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,,堆积在地上的黏液突然动了，它们彼此交融，凝成一个个扭曲的个体，蠕动着朝光的方向爬来。,"바닥에 쌓인 점액이 돌연 움직였고, 그것들은 서로 뒤섞이더니 뒤틀린 형태로 응결되어, 빛을 향해 꿈틀거리며 기어왔다."
+AvgDialog_15609_Content_1,adSe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,141,AvgDialog,Content,玩家,不，艾瑞卡，不要相信它！,"안돼, 에리카! 믿으면 안돼!"
 AvgDialog_15609_Content_2,adSp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,142,AvgDialog,Content,玩家,艾瑞卡，艾瑞卡！,"에리카, 에리카!"
+AvgDialog_15609_Content_3,adSq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,,趁你对抗眼前敌人的时候，一个黏液组成的怪物绕到你身后，朝代表了艾瑞卡精神的光球扑去。,"당신이 눈앞의 적과 대치하는 동안, 점액으로 구성된 괴물 중 한 개체가 당신의 뒤로 돌아 에리카의 정신적 표상인 빛의 구체로 달려들었다."
+AvgDialog_15609_Content_4,adSr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,,"如入水的颜料，黑暗在光球内扩散，并覆盖了里面的一切。
+光球开始闪烁。","물에서 번지는 물감처럼, 어둠이 빛의 구체 속에서 확산되고 내부의 모든 것을 뒤덮었다. 구체가 번뜩이기 시작했다."
+AvgDialog_15609_Content_5,adSs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,艾瑞卡,怎么回事，我的手……自己……,어떻게 된 거야? 손이... 멋대로...!
+AvgDialog_15609_Content_6,adSt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,146,AvgDialog,Content,艾瑞卡,是不是你干的？停下，<Big:停下！>,"네가 한 거야? 멈춰, <Big:멈춰!>"
+AvgDialog_15609_Content_7,adSu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,147,AvgDialog,Content,？？？,为什么，难道你不想救她了吗？,왜지? 그녀를 구하고 싶지 않은 건가?
+AvgDialog_15609_Content_8,adSv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,148,AvgDialog,Content,艾瑞卡,你根本就是要掐死她！快松手！,그녀를 죽이려는 거야?! 빨리 손을 놔!
 AvgDialog_15609_Content_9,adSw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,149,AvgDialog,Content,,黑暗与光明交错间，你看到机械手一点一点伸向梅伊的颈部。,"어둠과 빛이 교차하는 사이, 당신은 기계 팔이 메이의 목을 향해 천천히 뻗어나가는 것을 보았다."
+AvgDialog_15609_Content_10,adSf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,？？？,"血肉的躯体不过是灵魂的枷锁，只有让灵魂自由，她才能加入我们。
+唯有金属的身躯与心灵，才能让我们永恒。","피와 살로 이뤄진 몸은 영혼의 족쇄에 불과하며, 영혼이 자유로워져야만 그녀가 우리와 함께 할 수 있다. 오직 금속의 몸과 영혼만이, 우리를 영원으로 인도할 수 있다."
 AvgDialog_15609_Content_11,adSg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,151,AvgDialog,Content,,手指收紧，梅伊脸上露出了痛苦的神色。,"손가락이 조여들고, 메이의 얼굴에 고통스러운 안색이 드리워졌다."
+AvgDialog_15609_Content_12,adSh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,艾瑞卡,<Shake:你……疯……>,<Shake:넌... 미쳤어...>
+AvgDialog_15609_Content_13,adSi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,153,AvgDialog,Content,,另一只颤抖的手出现在画面中，艾瑞卡握住自己的手腕一拧，将那只不受控制的手卸下扔到一边。,"또 하나의 떨리는 손이 영상에 나타났다. 에리카는 그녀 자신의 팔을 비틀어, 통제할 수 없는 그 손을 뜯어내어 던져버린다."
 AvgDialog_15609_Content_14,adSj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,154,AvgDialog,Content,,巨手停了一瞬，像是有些不解。,거대한 손은 이해할 수 없다는 듯 멈췄다.
+AvgDialog_15609_Content_15,adSk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,155,AvgDialog,Content,？？？,为什么要抵抗我呢？我是在让她获得新生啊。,왜 저항하는가? 그녀에게 새로운 생명을 주려고 했을 뿐인데.
 AvgDialog_15609_Content_16,adSl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,156,AvgDialog,Content,艾瑞卡,幻觉，都是，幻觉。,"환각이야, 전부 환각이야."
 AvgDialog_15609_Content_17,adSm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,157,AvgDialog,Content,,艾瑞卡扶着不省人事的梅伊缓缓站起。,에리카는 의식을 잃은 메이를 부축하며 천천히 일어났다.
+AvgDialog_15609_Content_18,adSn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,158,AvgDialog,Content,艾瑞卡,我要送她去医院，我要……让她活下去。,그녀를 병원에 데려가야 해. 나는... 그녀를 살리고 싶어.
 AvgDialog_15609_Content_19,adSo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,159,AvgDialog,Content,,她将梅伊扶起架在肩上，越过炸得七零八落的工作室，朝不远处的门走去。,"그녀는 메이를 어깨에 걸친 채, 폭발로 엉망진창이 된 작업실을 지나 출구로 향했다."
+AvgDialog_15611_Content_1,adSZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,？？？,"为什么要救她？
+她用你的梦想换前程，你真的一点都不怨恨吗？","왜 그녀를 구하려는 거지? 그녀는 자신의 미래를 위해 그대의 꿈을 팔아넘겼는데, 그녀가 원망스럽지 않은가?"
+AvgDialog_15611_Content_2,adTg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,艾瑞卡,"她只是……做了个错误的决定。
+等她醒过来，我们好好谈谈，一切就都能解决。","그녀는 단지... 잘못된 결정을 했을 뿐이야. 그녀가 깨어나고, 제대로 얘기하면 분명 해결될 거야."
+AvgDialog_15611_Content_3,adTh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,？？？,最近的电话亭在一公里外，她等不起的。,가장 가까운 공중전화는 1km 밖에 있다. 그녀는 버틸 수 없겠지.
+AvgDialog_15611_Content_4,adTi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,163,AvgDialog,Content,艾瑞卡,抱歉，我宁愿相信人类的求生欲，也不相信你那什么“解放灵魂”的鬼话。,"미안하지만, 네 「영혼의 해방」이라는 거짓말을 믿느니, 인간의 생존 본능을 믿겠어."
+AvgDialog_15611_Content_5,adTj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,？？？,"若我所言为虚，你要怎么解释自己现在的状态呢？
+血肉躯体已化作碎块，精神却得以留存，甚至可以操控这具躯体继续生活。
+
+这难道不足以证明我说的话吗？","내가 말한 것이 거짓이라면, 지금의 자신을 어떻게 설명할 수 있지? 피와 살로 이루어진 몸은 이미 조각났음에도, 정신만은 남아 이 몸을 자유롭게 조종하고 있다. 이 이상의 증명이 필요한가?"
+AvgDialog_15611_Content_6,adTk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,艾瑞卡,<Big:你不能确定这是我变成这样的原因！>,<Big:그게 내가 이런 몸이 된 이유라고 단언할 수는 없어!>
+AvgDialog_15611_Content_7,adTl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,,艾瑞卡停了一下，她像是想要吸气，却已失去了能这么做的器官。,"에리카는 잠시 멈추어 숨을 고르려 했지만, 그것을 가능케 할 기관은 이미 없었다."
+AvgDialog_15611_Content_8,adTm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,艾瑞卡,我这是在干什么，和一个幻觉争辩……不要听，不要想，他是幻觉，是有毒气体产生的幻觉——,"환각과 논쟁하다니, 뭘 하고 있는 거람... 듣지 마, 떠올리지 마, 이건 독가스가 만든 환각──"
+AvgDialog_15611_Content_9,adTn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,168,AvgDialog,Content,？？？,"你害怕，所以试图逃避。
+我能理解，刚刚完成<Red:「蜕变」>的我和你一样充满恐惧。","두려움에 도망치는군. 이해할 수 있다. <Red:「탈태」>를 맞이한 직후의 나 역시, 그대처럼 두려워했지."
+AvgDialog_15611_Content_10,adTa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,169,AvgDialog,Content,？？？,但很快我就明白了：这不是灾难，不是幻觉，而是人类的机会。,"하지만 나는 곧 이해했다. 이것은 재앙도 환각도 아닌, 인류의 기회라는 것을."
+AvgDialog_15611_Content_11,adTb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,？？？,"机械中没有病痛，没有死亡；在机械中，我们能创造真正的神国，不，比你们那虚假的神国更好。
+
+我们能超越血肉的生命。",기계에게는 고통도 죽음도 없다. 기계 속에서 우리는 당신들의 거짓된 신국을 뛰어넘을 진정한 신국을 세울 수 있다. 우린 혈육의 생명을 초월할 수 있다.
+AvgDialog_15611_Content_12,adTc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,,黑色黏液再次从巨手上滴落，它们颤抖着，扭动着，一边向前爬行，一边彼此融合，为声音勾勒出的诡异图景兴奋着。,"거대한 손에서 검은 점액이 다시 떨어져 내렸다. 점액은 떨리며 꿈틀거렸고, 서로 뒤엉켜 융합되면서, 그 목소리가 그려낸 기이한 세계에 환희하는 듯했다."
+AvgDialog_15611_Content_13,adTd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,,声音高昂起来，巨手晃动，甩出更多的黏液，更多的怪物。,"목소리는 더욱 높아지고, 거대한 손은 요동치며, 더 많은 점액과 더욱 많은 괴물들이 쏟아져 나온다."
+AvgDialog_15611_Content_14,adTe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,？？？,我们，能成为神本身。,"우리는, 신이 될 수 있다."
 AvgDialog_15611_Content_15,adTf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,174,AvgDialog,Content,,黏液骤然加速，朝你身后的光球再次扑去。,"점액이 돌연 빠르게, 당신 뒤에 있는 빛의 구체로 다시 달려든다."
+AvgDialog_15610_Content_1,adSx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,,一个人的防线近乎于无，不管你打碎多少怪物，由黏液组成的身躯很快就能再次聚拢，从你身旁穿过，径直跃入光球之中。,"한 사람만의 방어는 없는 것과 다름 없었다. 당신이 아무리 괴물들을 파괴해도, 그들의 육체는 곧바로 재생되어 당신의 곁을 스쳐 지나가며 빛의 구체로 돌진한다."
+AvgDialog_15610_Content_2,adSI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,艾瑞卡,可……恶……,제길... 어떻게 해야...
+AvgDialog_15610_Content_3,adSS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,177,AvgDialog,Content,,光球再次闪烁，你看到艾瑞卡的双腿正在不住颤抖。,"빛의 구체가 다시 깜빡거리자, 당신은 에리카의 다리가 떨리는 것이 보였다."
+AvgDialog_15610_Content_4,adST,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,,齿轮彼此咬合锁紧，管道与支架之间有亮黄色的电光一闪而过。,"기어가 맞물려 단단히 잠기고, 파이프와 프레임 사이로 노란 번개가 지나간다."
+AvgDialog_15610_Content_5,adSU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,？？？,不要再抵抗了，把身体的掌控交给我吧。,"저항을 멈추고, 내게 몸의 제어를 맡겨라."
+AvgDialog_15610_Content_6,adSV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,180,AvgDialog,Content,？？？,难道你不想救她了吗？难道你不希望她和你一起获得永恒吗？,그녀를 구하고 싶지 않은가? 그녀와 함께 영원해지는 것을 원치 않는 것인가?
+AvgDialog_15610_Content_7,adSW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,181,AvgDialog,Content,,更多电光出现在画面中。,화면에 더 많은 번개가 나타났다.
+AvgDialog_15610_Content_8,adSX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,,浮光的粒子从光球中逸散而出，它们聚拢在一起，形成了一个人形的虚影。,"빛의 입자가 구체로부터 흩뿌려졌고, 그것들은 한데 모여 인간의 형태를 갖기 시작한다."
 AvgDialog_15610_Content_9,adSY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,183,AvgDialog,Content,玩家,艾、艾瑞卡？！,"에, 에리카?!"
+AvgDialog_15610_Content_10,adSy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,184,AvgDialog,Content,,金黄色的电浆在影子上劈啪作响，艾瑞卡的身形愈发凝实。,"황금빛 플라즈마가 그림자 위에서 탁탁 소리를 내며, 에리카의 모습이 서서히 명확해졌다."
+AvgDialog_15610_Content_11,adSz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,185,AvgDialog,Content,,她抬手用电浆将你身前的怪物打散。巨手动了动，发出一声叹息。,"그녀는 손을 들어 플라즈마로 당신 앞에 있던 괴물을 산산이 흩뜨린다. 거대한 손이 꿈틀거리며, 한숨 같은 소리를 내뱉는다."
+AvgDialog_15610_Content_12,adSA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,？？？,我只是想报答你把我带回来，给我一具新的身体的恩情。何必如此伤害我呢？,나는 그저 나를 데려와 새로운 몸을 준 은혜를 갚고 싶을 뿐. 어째서 이렇게까지 거절하는가?
+AvgDialog_15610_Content_13,adSB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,艾瑞卡,带回？什么带回，我从未……,데려와? 내가? 나는 그저...
+AvgDialog_15610_Content_14,adSC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,艾瑞卡,这个就能给我的人偶供能？,이런 걸로 내 인형에 전원을 공급할 수 있어?
+AvgDialog_15610_Content_15,adSD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,189,AvgDialog,Content,,艾瑞卡狐疑地拿着那根黑色的金属管，上下左右地打量。,에리카는 의심스러워하며 손에 든 검은 원통을 상하좌우로 훑어보았다.
+AvgDialog_15610_Content_16,adSE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,190,AvgDialog,Content,神秘店主,"如果你是担心它无法支撑人偶的长时间运转的话，不必多虑。
+这样的一个东西，可是足以运转更精细庞大的东西呢。","인형의 장시간 운행을 견딜 수 있을까 걱정하실 필요는 없으니 안심하세요. 이것 하나로, 더 거대하고 정교한 것들도 충분히 움직일 수 있답니다."
 AvgDialog_15610_Content_17,adSF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,191,AvgDialog,Content,艾瑞卡,你是说，还有别人在使用这种能源？,"그 말은, 이런 에너지를 쓰는 사람이 또 있다는 거야?"
+AvgDialog_15610_Content_18,adSG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,神秘店主,和它相似的东西，有，但一模一样的？绝无可能。,"비슷한 건 있을 수 있지만, 완전히 똑같은 건 존재하지 않습니다."
+AvgDialog_15610_Content_19,adSH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,193,AvgDialog,Content,神秘店主,你要的是“独一无二的能源”，而达芙黛尔的小店从不让顾客失望。,당신께서 원하셨던 건 「유일무이한 에너지」잖아요? 다포딜의 가게는 결코 고객을 실망시키지 않는답니다.
+AvgDialog_15610_Content_20,adSJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,神秘店主,"对了，一句友好提醒——不要好奇它的构造和原理。
+潘多拉的魔盒一旦打开，后果就只能你自己承担。","한 가지 충고를 드리자면, 그 물건의 구조와 원리를 알려고 하지 마시길. 판도라의 상자를 열어버리면, 후회하는 건 당신일 테니."
+AvgDialog_15610_Content_21,adSK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,神秘店主,我可不希望你这样的天才英年早逝，除了放映机，我还有很多想要实现的想法呢。,"전 당신 같은 천재가 젊은 나이에 떠나는 걸 원치 않아요. 이번 영사기 말고도, 실현시켜 주셨으면 하는 발상들이 많으니까요."
+AvgDialog_15610_Content_22,adSL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,神秘店主,期待你的下次光临哦，艾瑞卡。,"다음에 또 뵐 수 있기를 기대하죠, 에리카 씨."
+AvgDialog_15610_Content_23,adSM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,艾瑞卡,不，不可能。能源S里明明只有——,"그, 그럴 리 없어. 에너지 S 안에는 분명──"
+AvgDialog_15610_Content_24,adSN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,？？？,"一个小小的<Yellow:银色碎片>，对吧？
+神奇的小东西，不仅能驱动机械，还能保存生物的灵魂。","작은 <Yellow:은빛 조각> 하나. 그렇지? 기계를 움직일 뿐 아니라, 생물의 영혼마저 보관할 수 있는 신비로운 조각."
+AvgDialog_15610_Content_25,adSO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,？？？,"你的精神已经在黑色物质的帮助下融入这具躯体，只要在被它们侵蚀前进入<Yellow:银色的心脏>，你就能真正地不朽。你和我。
+
+作为我此生的“母亲”，你有资格与我共享。
+可惜，你偏偏那么固执。","그대의 정신은 이미 검은 물질의 도움을 받아 이 몸에 녹아들었다. 이제 그것들에 침식되기 전에 <Yellow:은빛 심장>에 도달한다면, 그대는 진정한 불멸이 된다. 당신과 나 모두. 나의 생애의 「어머니」로서, 그대는 나와 함께 할 자격이 있다. 하지만, 그대는 너무나 완강하군."
+AvgDialog_15610_Content_26,adSP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,？？？,我也只能让你被<Yellow:黑色物质>吞噬了。,"그러니, 그대가 <Yellow:검은 물질>에 삼켜지게 두는 수밖에."
+AvgDialog_15610_Content_27,adSQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,201,AvgDialog,Content,,巨手突然动作起来，它张开五指露出掌心，其中的银芯布满裂痕，却依旧闪闪发亮。,"거대한 손이 움직이기 시작한다. 다섯 개의 손가락이 펼쳐지고, 그 손바닥 안에 있는 은빛의 코어는 금이 가면서도 여전히 눈부신 빛을 내뿜고 있다."
+AvgDialog_15610_Content_28,adSR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,202,AvgDialog,Content,？？？,再见，我短暂的造物主。,작별이다. 단명할 나의 창조주여.
+AvgDialog_15607_Content_1,adRz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,203,AvgDialog,Content,,电浆炮射向巨手，银芯在冲击下剥离掌心，无声地掉落到地上。,"플라즈마 폭발이 거대한 손을 향해 날아갔다. 그 충격에 은심은 손바닥으로부터 떨어져, 소리 없이 바닥에 떨어졌다."
+AvgDialog_15607_Content_2,adRK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,,片刻的停滞后，巨手溃散瓦解，黑色黏液如大雨一般倾泻而下，它穿过了你，却染黑了艾瑞卡的虚影。,"순간의 정적이 흐른 뒤, 거대한 손은 붕괴되어 사라지고 검은 점액이 폭우처럼 쏟아진다. 그것은 당신을 스쳐 지나가 에리카의 환영만을 새까맣게 물들였다."
+AvgDialog_15607_Content_3,adRU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,艾瑞卡,结束……了……,끝났...어...
+AvgDialog_15607_Content_4,adRV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,？？？,你真的这样认为吗？,정말 그렇게 생각하는가?
 AvgDialog_15607_Content_5,adRW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,207,AvgDialog,Content,艾瑞卡,！？,!?
+AvgDialog_15607_Content_6,adRX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,208,AvgDialog,Content,？？？,我说过了，只要进入这银色的心脏就能迎来真正的不朽。,말하지 않았나. 은빛 심장에 도달하면 진정한 불멸을 손에 넣을 수 있다고.
+AvgDialog_15607_Content_7,adRY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,209,AvgDialog,Content,？？？,尽可能挣扎吧，黑色物质终会将你抹去，到时我就能给世界带来真正的<Red:「蜕变」>——人人得以不朽，人人得以永生。,"될 수 있는 한 발버둥쳐 보아라. 검은 물질은 머지않아 너를 완전히 지워버릴 것이다. 그때야말로 나는 세계에 진정한 <Red:「탈태」>를 가져오리라. ——전 인류에게 불사를, 영원의 생명을."
+AvgDialog_15607_Content_8,adRZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,艾瑞卡,那是……死……不是……,그건... 죽음이야... 불멸이 아니야...
+AvgDialog_15607_Content_9,adSa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,,黑色越来越多地占据她的身体，艾瑞卡痛苦地弯下腰，精神已经濒临溃散。,"검은색이 서서히 그녀의 몸을 뒤덮어 간다. 에리카는 고통에 일그러진 표정으로 몸을 웅크렸고, 정신은 붕괴 직전까지 몰려 있었다."
+AvgDialog_15607_Content_10,adRA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,艾瑞卡,我……到底都……做了什么……,나는... 대체... 무슨 짓을...
+AvgDialog_15607_Content_11,adRB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,213,AvgDialog,Content,？？？,"你还是不理解，不过没关系，你已经推动了这场生命与灵魂的革命，这场<Red:「蜕变」>。
+安心地死去吧，我却确保所有人都记得你的贡献。","아직 이해하지 못한 것 같지만, 상관없다. 그대는 이미 이 생명과 영혼의 혁명인 <Red:「탈태」>를 진행시켰다. 편안히 떠나도록. 그대의 공적은 내가 영원히 전하겠다."
 AvgDialog_15607_Content_12,adRC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,214,AvgDialog,Content,,艾瑞卡闭上眼。,에리카는 눈을 감았다.
+AvgDialog_15607_Content_13,adRD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,艾瑞卡人形,你是……对的，你一直都是……,"네 말이 맞을지도 몰라... 어쩌면 처음부터, 계속 그래왔던 걸지도..."
+AvgDialog_15607_Content_14,adRE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,,黑色的泪水从她眼角滑落，她皱着鼻子，突然转头看向你。,"검은 눈물이 그녀의 눈가에서 흘러내린다. 그녀는 코를 훌쩍이며, 문득 당신 쪽으로 시선을 돌린다."
+AvgDialog_15607_Content_15,adRF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,217,AvgDialog,Content,艾瑞卡人形,我一开始就……应该听……你的……我……不该拿这个东西……,"처음부터... 당신의 말을... 들었어야 했어... 이런 걸, 다루어선 안 됐어..."
+AvgDialog_15607_Content_16,adRG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,艾瑞卡人形,我的理智……我的……帮我……这最后一次……,"내 이성이... 나의... 부탁이야, 도와줘... 이게, 마지막 소원이야..."
+AvgDialog_15607_Content_17,adRH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,,这具躯体里真的有第三个意识吗，还是说，你不过是她的负罪感在融蚀影响下的具象化？你不得而知。,정말로 이 몸 안에 제3의 의식이 존재하는 것일까. 아니면 그녀의 죄책감이 융식의 영향으로 형체를 얻은 것일까? 그것은 알 수 없다.
 AvgDialog_15607_Content_18,adRI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,220,AvgDialog,Content,,她朝你伸出手。,그녀가 당신에게 손을 뻗는다.
+AvgDialog_15607_Content_19,adRJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,艾瑞卡人形,帮我……救……,도와... 줘...
+AvgDialog_15607_Content_20,adRL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,222,AvgDialog,Content,,你只知道你会帮她，见证她作为「人类」的结局。,"그럼에도 당신은 알고 있다. 당신은 그녀를 도울 수 있다. 「인간」으로서의 그녀의 결말을, 당신은 지켜볼 수 있다."
+AvgDialog_15607_Content_21,adRM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,,握住她的手,그녀의 손을 잡는다
 AvgDialog_15607_Content_22,adRN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,224,AvgDialog,Content,,她惊讶地看着你，像是没想过自己竟然能真的触碰到自己的“理智”。,"그녀는 예상치 못한, 자신의 「이성」과의 접촉에 놀라며 당신을 바라본다."
 AvgDialog_15607_Content_23,adRO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,225,AvgDialog,Content,,点头,끄덕인다.
 AvgDialog_15607_Content_24,adRP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,226,AvgDialog,Content,,她惊讶地看着你，像是根本没想到自己的“良知”能给予自己回应。,"그녀는 예상치 못한, 자신의 「양심」이 보낸 응답에 놀라며 당신을 바라본다."
+AvgDialog_15607_Content_25,adRQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,艾瑞卡人形,谢谢……,고마워...
+AvgDialog_15607_Content_26,adRR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,,虚影如气泡般炸开消散，只剩下那明灭不定的光球，还在散发着最后的光。,환영이 거품처럼 흩어져 사라졌다. 아직 희미하게 빛나고 있는 빛의 구체 하나만이 남아 있었다.
+AvgDialog_15607_Content_27,adRS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,,你将已经缩小的光球抱在怀里，望向不远处的破碎银芯。,"당신은 작아진 빛의 구체를 퓸애 안고, 위를 바라본다. 그곳에는 산산조각난 은심이 있었다."
 AvgDialog_15607_Content_28,adRT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,230,AvgDialog,Content,玩家,你会成功的。,당신은 해낼 거에요.
 AvgDialog_15613_Content_1,adTL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,231,AvgDialog,Content,,绚烂的结局,화려한 결말
 AvgDialog_15613_Content_2,adTW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,232,AvgDialog,Content,,左脚。,왼발.
 AvgDialog_15613_Content_3,adUh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,233,AvgDialog,Content,,右脚。,오른발.
+AvgDialog_15613_Content_4,adUs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,234,AvgDialog,Content,,每一步都有火花飞溅，每一步都能听到机械彼此倾轧摩擦的刺耳声响。,"걸음마다 불꽃이 튀고, 톱니바퀴가 삐걱거리며 맞부딫히는 소리가 들린다."
+AvgDialog_15613_Content_5,adUA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,235,AvgDialog,Content,,不远处的路灯下，一个公用电话亭静静地伫立。,"머지 않은 가로등 아래, 공중전화 부스가 조용히 서 있다."
 AvgDialog_15613_Content_6,adUB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,236,AvgDialog,Content,,左脚。,왼발.
 AvgDialog_15613_Content_7,adUC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,237,AvgDialog,Content,,右脚。,오른발.
+AvgDialog_15613_Content_8,adUD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,238,AvgDialog,Content,,似乎注意到你们的决心，瘫软在地上的黏液仍然在向着艾瑞卡的意识进攻，连你身上都被染得漆黑。,"당신들의 결심을 알아차린 듯, 바닥에 늘어진 점액들은 계속해서 에리카의 의식을 공격해온다. 당신의 몸 또한 시커멓게 물들어갔다."
 AvgDialog_15613_Content_9,adUE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,239,AvgDialog,Content,,左脚。,왼발.
 AvgDialog_15613_Content_10,adTM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,240,AvgDialog,Content,,右脚。,오른발.
+AvgDialog_15613_Content_11,adTN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,241,AvgDialog,Content,,艾瑞卡向前跪倒在地，过于频繁的短路让她的左腿失去动力，只能用缺少手掌的右臂勉强支撑。,"에리카가 앞으로 쓰러진다. 빈번해진 단락으로 그녀의 왼다리는 동력을 잃었고, 손 없는 오른팔로 가까스레 몸을 지지하고 있었다."
+AvgDialog_15613_Content_12,adTO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,242,AvgDialog,Content,,"她尽可能小心地将梅伊靠在电话亭旁，然后四肢并用地爬进电话亭。
+电流迫使电话箱启动，她按下报警电话，说出了电话亭的位置。","그녀는 조심스럽게 메이를 공중전화 부스 옆에 기대어 앉힌 뒤, 사지를 동원해 안으로 기어들어갔다. 전류가 흐르며 부스가 작동했고, 그녀는 긴급 호출 버튼을 눌러 자신의 위치를 전달했다."
+AvgDialog_15613_Content_13,adTP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,243,AvgDialog,Content,艾瑞卡人形,这样……她……就安全了……,이걸로... 그녀는... 안전할 거야...
+AvgDialog_15613_Content_14,adTQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,244,AvgDialog,Content,艾瑞卡人形,接下来……是……什么呢……,다음에... 는... 뭘...
 AvgDialog_15613_Content_15,adTR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,245,AvgDialog,Content,,你知道是什么。,당신은 알고 있다.
 AvgDialog_15613_Content_16,adTS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,246,AvgDialog,Content,,你想起来了，你在进入这里之前看的文件的内容。,당신은 이곳에 오기 전에 보았던 문서의 내용을 떠올렸다.
+AvgDialog_15613_Content_17,adTT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,247,AvgDialog,Content,,"A.F. 297年@1月@1日03:47分，亚格罗共和国@3州@1@2@1镇东南方发生不明爆炸。冲击波在当地引发了3.8级地震，震感明显，波及到距@1@2@1镇5公里外的村落。
+
+……
+
+A.F. 297年@1月@1日，于亚格罗共和国@3州@1@2@1镇东南方树林中回收部件13个，编号A101至A114。其中A108，A109，A113三个部件损坏严重，已交予朵尔进行设计还原。
+调查队于@2路@1号回收了一系列设计图纸，其中绘图与爆炸现场遗留部件吻合，疑似为爆炸物设计图纸，已一并交予朵尔进行分析。","A.F. 297년 @1월 @1일 03:47, 애글로 공화국 @3주 @1@2@1 마을 동남쪽에서 정체불명의 폭발 발생. 충격파는 현지에 진도 3.8의 지진을 일으켰고, 그 뚜렷한 진동은 5km 떨어진 촌락인 @1@2@1 마을까지 영향을 미침./n/n....../n/nA.F. 297년 @1월 @1일, 애글로 공화국 @3주 @1@2@1 마을 남동쪽 숲에서 13개의 부품을 회수하여 이를 A101 ~ A114로 명명. 그 중 A108, A109, A113 세 개의 부품은 손상이 심하여 설계 복원을 위해 돌에게 전달. 
+조사대는 @2번길 @1호에서 일련의 설계도면을 회수, 그 중 부품도에는 현장에 남았던 부품이 포함되어 있어 폭발물 설계도면으로 의심되는 바 돌에게 전달해 분석을 의뢰. "
 AvgDialog_15613_Content_18,adTU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,248,AvgDialog,Content,,你听到风拂过枝叶的声音。,당신은 바람이 나뭇가지와 잎을 스치는 소리를 들었다.
+AvgDialog_15613_Content_19,adTV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,249,AvgDialog,Content,,光球已经很暗淡了，几乎要融入周遭的黑暗之中。,빛의 구체는 금방이라도 사라질 듯 희미하게 빛나고 있다. 이내 어둠에 삼켜질 것만 같다.
+AvgDialog_15613_Content_20,adTX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,250,AvgDialog,Content,？？？,"就算你挽救了她的血肉躯体，那又如何？
+死亡总会到来，到时候她是会感谢你，还是怨恨你剥夺了她永生的机会？
+
+放手吧，艾瑞卡，让我接管这个身体。
+我会让她<Red:「蜕变」>，让她拥有更好的未来。","설령 그녀의 육체를 구해낸다 하더라도, 죽음은 반드시 찾아온다. 그때 그녀는 영원한 생명을 빼앗아 간 그대를 원망하게 될지도 모르지. 에리카, 이 몸을 나에게 넘겨라. 내가 <Red:「탈태」>시켜, 더 나은 미래를 주겠다."
+AvgDialog_15613_Content_21,adTY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,251,AvgDialog,Content,艾瑞卡人形,"我……一直觉得……自己会死在爆炸中……
+很抱歉……要……拉着你一起了……",내가... 죽는다면... 폭발로 죽을 줄 알았어... 끌어들여서... 미안... 해...
+AvgDialog_15613_Content_22,adTZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,252,AvgDialog,Content,？？？,……你要干什么？,...무엇을 하려는 거지?
+AvgDialog_15613_Content_23,adUa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,253,AvgDialog,Content,艾瑞卡人形,闭嘴……恶魔……我没有……在和你说话……,닥쳐... 악마... 너한테... 말하는 게 아니야...
+AvgDialog_15613_Content_24,adUb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,254,AvgDialog,Content,,光球中出现的画面，是一只已经满是焦痕的，还在不断流出电浆的机械手。,"빛의 구체 속에 비춰지는 영상에는, 이미 온통 탄 자국 투성이면서도 멈추지 않고 플라즈마를 흘리는 기계 팔이 있었다."
 AvgDialog_15613_Content_25,adUc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,255,AvgDialog,Content,,手里不知何时握了几根线，上面沾满了黑色的黏液。,"손에는 언제 쥐었는지 모를 몇 가닥의 실이 있었고, 그 위엔 검은 점액이 가득 맺혀있었다."
+AvgDialog_15613_Content_26,adUd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,256,AvgDialog,Content,艾瑞卡人形,对不起，嘀嗒人……到最后……反而……要亲手毁掉你……,"미안해, 틱톡맨... 마지막엔... 오히려... 내가 널 부수게 됐네..."
+AvgDialog_15613_Content_27,adUe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,257,AvgDialog,Content,,"沉默降临在你们之间。
+你仍不确定自己在这场梦中的身份，而她，似乎也没有在等一个回应。","정적이 찾아온다. 당신은 아직 이 꿈속에서 자신이 어떤 존재인지 확신하지 못하고 있다. 그러나 그녀 역시, 당신의 대답을 기다릴 생각은 없는 듯했다."
+AvgDialog_15613_Content_28,adUf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,258,AvgDialog,Content,艾瑞卡人形,唉……,하아...
+AvgDialog_15613_Content_29,adUg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,259,AvgDialog,Content,艾瑞卡人形,真是……可惜……,정말... 안타까워...
+AvgDialog_15613_Content_30,adUi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,260,AvgDialog,Content,,她用力一扯。,그녀는 있는 힘껏 케이블을 잡아당겼다.
+AvgDialog_15613_Content_32,adUk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,262,AvgDialog,Content,,你猛地坐起身，发现自己回到了熟悉的房间。,"당신은 갑자기 몸을 일으키고, 어느새 익숙한 방으로 돌아와 있다는 사실을 깨닫는다."
+AvgDialog_15613_Content_33,adUl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,263,AvgDialog,Content,,有人正在敲响你的房门。,누군가가 방문을 두드리고 있다.
 AvgDialog_15613_Content_34,adUm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,264,AvgDialog,Content,玩家,请进。,들어오세요.
+AvgDialog_15613_Content_35,adUn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,265,AvgDialog,Content,艾瑞卡,下午好，守密人。你有一则来自朵尔，的留言，请问是否接收？,"좋은 오후입니다, 수호자. 돌로부터, 당신께 메시지가 있습니다. 수신하시겠습니까?"
+AvgDialog_15613_Content_36,adUo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,266,AvgDialog,Content,玩家,朵尔这是又给你搞了什么新功能……接收。,돌이 또 네게 무슨 신기능을... 수신.
+AvgDialog_15613_Content_37,adUp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,267,AvgDialog,Content,艾瑞卡,哔——你还记得今天是什么日子吗，%player%？提醒你两个字：测试。,"삐──%player%, 오늘이 무슨 날인지 기억하고 있는 걸까? 힌트는 두 글자야: 시험."
+AvgDialog_15613_Content_38,adUq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,268,AvgDialog,Content,玩家,……糟了。,...아차.
+AvgDialog_15613_Content_39,adUr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,269,AvgDialog,Content,艾瑞卡,我劝你在五分钟之内出现在教室里，不然我很难保证接下来30天你的训练生活会是怎样的，或许体能方面的特训会加倍呢？,"5분 내로 교실에 나타나는 걸 권장할게. 그렇지 않으면, 앞으로 30일간 네 훈련 생활이 어떻게 될지 보장할 수 없어. 체력 특훈이 배로 늘어날 지도?"
 AvgDialog_15613_Content_40,adUt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,270,AvgDialog,Content,艾瑞卡,哔——留言结束。请问是否需要回复？,삐──메시지 종료. 회신하시겠습니까?
+AvgDialog_15613_Content_41,adUu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,271,AvgDialog,Content,玩家,回复个什么啊，赶紧出门了！！,회신하고 있을 때가 아냐! 바로 나가야 해!!
 AvgDialog_15613_Content_42,adUv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,272,AvgDialog,Content,,守密人的身影消失在楼道尽头，艾瑞卡转过身，看向桌上散落的文件。,"수호자의 그림자가 복도 끝으로 사라졌고, 에리카는 돌아서서 책상 위에 흩어진 문서를 바라보았다."
+AvgDialog_15613_Content_43,adUw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,273,AvgDialog,Content,,"洪积298年@1月@2日，弥萨格大学唤醒系，@3
+据设计图纸T-38完成自动人偶E的躯干复原，编号EA301881。
+这是我们第10次尝试进行复原了。我不得不佩服最初完成这个设计，并将它制作出来的人——这个自动人偶非常精细复杂，同时也非常优雅，成百上千个齿轮与轴承相互连接，共同演奏着名为机械结构的华丽乐章。即使现在它静止不动，我都能感到一种独特的生命力。
+可惜，我们至今没能找到电机设计图纸的关键——一个直径5厘米，长十厘米的圆筒。它理应是整个人偶的能源核心，可这样大小、又能为这样复杂的器械供能的东西，我还从未见过……
+希望朵尔教授能想到些什么，我已经等不及看到它真正运转起来的模样了。","A.F. 298년 @1월 @2일, 미사그 대학 각성학부, @3
+설계도면 T-38에 준하여 자동인형 E의 동체 복원 완료. 부여 코드는 EA301881./n이건 우리의 10회차 복원 시도였다. 나는 이 설계를 처음 완성하고, 이것들을 한데 엮어 만들어낸 이에게 감탄을 금치 못했다. 이 자동인형은 비정상적으로 섬세하고도 복잡했고, 동시에 비정상적으로 우아하다. 수백수천의 톱니와 베어링이 서로 맞물려, 기계구조라는 화려한 악장을 오케스트라처럼 연주하고 있다. 정지되있을 뿐인 지금도, 우리는 그 안에서 독특한 생명력을 느낄 수 있었다./n안타깝게도, 우리는 지금까지 전기계통의 핵심──직경 5cm, 길이 10cm의 원통을 찾지 못했다. 그것은 응당 인형 전체의 핵심 동력원이어야 하나, 이렇게나 크고 또 복잡하기까지 한 기계에 동력 공급이 가능한 물건을, 나는 아직 본 적이 없다.../n이것이 실제로 작동되는 모습이 너무나 보고 싶어 견디기 힘들다. 돌 교수가 무언가를 떠올려주길 바란다."
+AvgDialog_15613_Content_44,adUx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,274,AvgDialog,Content,,"洪积298年@1月@2日，弥萨格大学唤醒系，@3
+完成电机复原，编号MF311028。
+虽然中途经历了不少波折（父神在上，我们进行了整整28次尝试，28次！），朵尔教授的最终设想被证明是正确的——电机的供能核心是银芯。
+在尝试了多个银芯后，唯有E-1929号银芯使电机正常运转。我很难不想象这是设计者的某种遗留的意志的影响，尽管我们至今不知道这个人的去向。","A.F. 298년 @1월 @2일, 미사그 대학 각성학부, @3/n전기계통 복원 완료, 부여 코드는 MF311028./n비록 적지 않은 난항을 겪었으나(부신이시여, 저희는 무려 28번을 시도했습니다, 28번이나!), 돌 교수의 최종 구상이 정확했음을 입증했다──전기계통의 공급 능력 핵심은 은심이었다./n여러 개의 은심을 시도했고, 오직 E-1929번 은심만이 전기계통을 정상적으로 작동시켰다. 우린 여태까지 설계자의 행방을 찾을 수 없었지만, 그 사람이 남긴 어떠한 의지가 영향 주었을 것이라고 밖에 생각되지 않는다."
+AvgDialog_15613_Content_45,adUy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,275,AvgDialog,Content,,"洪积300年@2月@1日，弥萨格大学唤醒系，朵尔
+自动人偶艾瑞卡唤醒成功。
+唤醒体具有极强的攻击性与破坏欲，即使有调查员维持精神，依旧具有明显的攻击倾向，且会不受控地放出电流，对周边事物进行无差别攻击。
+阿利斯泰尔判断E-1929内含有两个精神，一个癫狂强大，另一个虽然微弱，但更具理性。应尝试将二者分离，或将癫狂压制在可控范围内。
+……
+洪积300年@2月@2日，弥萨格大学唤醒系，朵尔
+无法分离精神，积极考虑第二方案。
+精神压抑装置是个好主意。
+……
+洪积303年@1月@2日，弥萨格大学唤醒系，朵尔
+压抑装置制造完成，安装成功。
+唤醒体的癫狂得到抑制，整体状态趋向稳定，但仍有抑制短暂失效的情况出现。
+唤醒体性格、爱好等方面完全丧失，表现得更贴近人偶，而非人。
+起码她不会每时每刻都处在爆炸的边缘了。
+……","A.F. 300년 @2월 @1일, 미사그 대학 각성학부, 돌/n자동인형 에리카의 각성에 성공./n각성체는 극도의 공격성과 파괴욕구를 가지고 있었으며, 조사원의 정신 유지에도 불구하고 명백한 공격성엔 변화가 없어, 한동안 통제되지 않은 채 전류를 방출하며 주변의 사물들을 무차별적으로 공격했다./n알리스타르는 E-1929엔 두 종류의 정신이 포함되어 있다 판단했다. 하나는 크고 강한 광기였고, 또 하나는 미약하지만 이성을 갖추고 있었다. 시도할 수 있는 것은 양자의 정신를 분리, 혹은 광기를 제어가능한 범위까지 억제의 두 가지였다./n.../nA.F. 300년 @2월 @2일, 미사그 대학 각성학부, 돌/n정신을 분리할 방법이 없어, 차선책을 적극적으로 고려했다./n정신 억압 장치는 좋은 발상이다./n...\nA.F. 303년 @1월 @2일, 미사그 대학 각성학부, 돌/n억압 장치의 제작이 완료되었고, 설치에 성공했다./n각성체의 광기가 억제되어 전체적인 상태는 안정적인 경향을 보였다. 억제가 단시간 실패하는 상황만 아니라면./n각성체로서의 성격, 기호 등을 완전히 상실했으며, 표현 방법은 인간이기보단 인형에 더 가깝다./n적어도 그녀가 항시 폭발의 경계선을 넘나들려는 일은 없을 것이다./n..."
 AvgDialog_15613_Content_46,adUz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,276,AvgDialog,Content,,艾瑞卡歪歪头，将文件收拾整齐，离开了房间。,"에리카는 고개를 갸웃거리며 서류를 가지런히 정리하고는, 방을 나섰다."
 AvgDialog_21805_Content_1,ahMw,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,8,AvgDialog,Content,,寂静的白日,고요한 낮
 AvgDialog_21805_Content_2,ahMH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,玩家,咳…咳咳！,컥... 쿨럭쿨럭!
@@ -140,83 +411,174 @@ AvgDialog_21801_Content_1,ahKC,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,68
 AvgDialog_21801_Content_2,ahKN,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,69,AvgDialog,Content,奥瑞塔,哼~哼哼哼~,흥~ 흥흥흥~
 AvgDialog_21801_Content_3,ahKQ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,70,AvgDialog,Content,,奥瑞塔哼唱着轻快的小调，与你并肩走在被融蚀所消解的街道上。,"오레타는 경쾌한 콧노래를 흥얼거리며, 융식에 삼켜진 거리 위를 당신과 나란히 걸었다."
 AvgDialog_21801_Content_4,ahKR,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,71,AvgDialog,Content,,无灯的幽暗窗口昭彰着此处早已人去楼空，寂静的街道两侧，只留下房屋残破的轮廓。,불빛 없는 어두운 창문들은 이곳이 오래전부터 비어 있었음을 보여주었다. 고요한 거리의 양쪽에는 허물어진 집들의 잔해만이 남아 있었다.
+AvgDialog_21801_Content_5,ahKS,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,72,AvgDialog,Content,,那些居民呢？他们是否早在融蚀现象爆发前就离开了家，是否寻找到了新的住地，还是……,"주민들은 어디로 간 것일까? 융식 현상이 발생하기 전에 떠나 새로운 거처를 찾았거나, 아니면..."
 AvgDialog_21801_Content_6,ahKT,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,73,AvgDialog,Content,,黏稠的黑液在脚边无声流淌，你深吸了一口气，压下几乎跳出喉咙的反胃。,"발 밑에서 끈적한 검은 액체가 소리 없이 흘렀고, 당신은 깊이 숨을 들이쉬며 목구멍까지 차오른 역겨움을 간신히 참았다."
+AvgDialog_21801_Content_7,ahKU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,74,AvgDialog,Content,,还是……他们从未离开自己深爱的家园？,아니면... 그들은 애초에 자신의 소중한 고향을 떠난 적이 단 한 번도 없었던 것일까.
 AvgDialog_21801_Content_8,ahKV,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,75,AvgDialog,Content,奥瑞塔,……,...
 AvgDialog_21801_Content_9,ahKW,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,76,AvgDialog,Content,,认真思考时发出的哼唧声把你从愁绪中拉出，奥瑞塔上下打量了你一番，终于不解地开口。,"흥겨운 콧소리가 당신의 고민을 깨뜨린다. 오레타는 당신을 위아래로 훑어보더니, 마침내 의아한 듯 입을 열었다."
 AvgDialog_21801_Content_10,ahKD,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,77,AvgDialog,Content,奥瑞塔,你怎么走路歪歪扭扭的，是不是腿受伤了？,왜 비틀거리면서 걸어? 다리 다쳤어?
 AvgDialog_21801_Content_11,ahKE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,78,AvgDialog,Content,,你回头看向自己所走过的地方：为了绕开满地流溢的融蚀浆，脚印在泥地上印出了一道诡异的弧线。,"당신은 걸어온 길을 돌아보았다. 곳곳에서 흘러넘치는 융식액을 피하기 위해, 발자국은 진흙 위로 기이한 곡선을 그리고 있었다."
+AvgDialog_21801_Content_12,ahKF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,奥瑞塔,要不然，要不然奥瑞塔背你走吧！,그럼... 오레타가 업어줄까?
 AvgDialog_21801_Content_13,ahKG,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,80,AvgDialog,Content,玩家,不，不用了。我只是觉得这样走更好玩，奥瑞塔不觉得有意思吗？,"아니, 괜찮아. 이렇게 걸으면 더 재미있을 것 같아서 그랬어. 오레타는 재미없어?"
 AvgDialog_21801_Content_14,ahKH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,81,AvgDialog,Content,奥瑞塔,像跳房子！,땅따먹기 같다!
 AvgDialog_21801_Content_15,ahKI,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,82,AvgDialog,Content,玩家,对，像跳房子。,"응, 땅따먹기 같네."
 AvgDialog_21801_Content_16,ahKJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,83,AvgDialog,Content,玩家,……奥瑞塔，我们来玩踩影子游戏吧？,"...오레타, 그림자 밟기 놀이 할까?"
+AvgDialog_21801_Content_17,ahKK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,玩家,我走在前面，你踩着我的脚印走……怎么样？,"내가 먼저 가면, 내 발자국을 밟으면서 따라오는 거야... 어때?"
 AvgDialog_21801_Content_18,ahKL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,85,AvgDialog,Content,奥瑞塔,嗯…也不是不可以哦！那朋友先走，奥瑞塔来给你指路。,"음... 할 수 있을 것 같아! 그럼 친구가 먼저 가, 오레타가 길을 알려줄게."
+AvgDialog_21801_Content_19,ahKM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,86,AvgDialog,Content,,奥瑞塔乖乖后退两步为你让出了路，蹦跳间险些一脚踩进融蚀浆中。,"오레타는 순순히 두 걸음 물러나 길을 비켜주었다. 그녀가 뛰어다닐 때, 하마터면 융식액에 발을 디딜 뻔했다."
 AvgDialog_21801_Content_20,ahKO,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,87,AvgDialog,Content,,你猛地拉了她一把，她浑然不觉地眨眨眼，脸上仍洋溢着游戏开始的快乐。,"당신은 재빨리 그녀를 끌어당겼지만, 그녀는 눈치채지 못한 듯 눈을 깜빡였다. 그녀의 표정은 놀이가 시작되었다는 즐거움으로 가득 차 있었다."
+AvgDialog_21801_Content_21,ahKP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,奥瑞塔,滴滴——小火车出发！中心广场——往左边！,칙칙폭폭—— 꼬마 기차 출발! 중앙 광장——왼쪽으로!
 AvgDialog_21814_Content_1,ahNV,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,89,AvgDialog,Content,奥瑞塔,啊！是维特！,아! 베르테르다!
+AvgDialog_21814_Content_2,ahOd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,,女孩大力拍拍你的背，在她的示意下，你看向了坐在街角的少年。,소녀는 당신의 등을 힘껏 두드리며 거리 구석을 가리켰다. 그곳에는 웅크리고 앉아 있는 소년이 있었다.
 AvgDialog_21814_Content_3,ahOe,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,91,AvgDialog,Content,,"奥瑞塔兴奋地跑向他，动作间她的背后似乎露出了一块黑色的污渍。
 但还没等你看清，女孩就像风一样从你眼前掠了过去。","오레타는 신나서 그에게 달려갔다. 그녀의 등 뒤로 검은 얼룩이 살짝 보였다. 하지만 당신이 더 자세히 살펴보기도 전에, 소녀는 바람처럼 당신의 앞을 빠르게 스쳐 지나갔다."
+AvgDialog_21814_Content_4,ahOf,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,92,AvgDialog,Content,奥瑞塔,维特，快看我们的新朋友！,"베르테르, 봐봐! 새 친구야!"
 AvgDialog_21814_Content_5,ahOg,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,93,AvgDialog,Content,,男孩蜷在墙角，低垂着头，对奥瑞塔的靠近毫无反应。,"소년은 벽 모퉁이에 웅크린 채 고개를 숙이고 있었고, 오레타가 다가와도 아무런 반응을 보이지 않았다."
 AvgDialog_21814_Content_6,ahOh,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,奥瑞塔,%heorshe%比大家长得都高，等要回到海洋宫殿的时候，我们就让%heorshe%走在最前面！肯定很有气势！,"얘는 다른 친구들보다 키가 커. 나중에 바다 궁전으로 돌아갈 때, 이 친구를 맨 앞에 세우자! 분명 위풍당당할 거야!"
 AvgDialog_21814_Content_7,ahOi,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,95,AvgDialog,Content,玩家,海洋宫殿？,바다 궁전?
 AvgDialog_21814_Content_8,ahOj,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,奥瑞塔,婆婆说过，奥瑞塔是海洋的孩子，总有一天我们是要回到水里的。,할머니가 오레타는 바다의 아이라고 말했어. 언젠가는 물속으로 돌아가야 한다고.
 AvgDialog_21814_Content_9,ahOk,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,奥瑞塔,像奥瑞塔的爸爸妈妈，已经先一步回水里布置新家了！等他们做好准备，奥瑞塔会和婆婆一起回去找他们的。,"오레타의 엄마 아빠처럼! 엄마 아빠는 먼저 바다로 돌아가 새 집을 꾸미고 있대! 준비가 다 되면, 오레타는 할머니랑 같이 새 집을 찾아갈 거야."
+AvgDialog_21814_Content_10,ahNW,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,奥瑞塔,等奥瑞塔也回去了，一定会带大家去做客的。,"오레타가 돌아가면, 모두를 우리 집으로 초대해서 같이 놀 거야."
 AvgDialog_21814_Content_11,ahNX,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,99,AvgDialog,Content,,没等你仔细琢磨奥瑞塔话中透出的丝缕寒意，奥瑞塔的「朋友」突然有了动作。,"오레타의 말에서 은근히 느껴지는 차가움을 깊이 생각할 틈도 없이, 오레타의 「친구」가 갑자기 움직였다."
 AvgDialog_21814_Content_12,ahNY,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,100,AvgDialog,Content,少年维特,……@2…塔……,...@2...타......
+AvgDialog_21814_Content_13,ahNZ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,101,AvgDialog,Content,,"男孩摇摇晃晃地站了起来，黑色液体从他身上涌出。
+融蚀浆将他与地面黏合在了一起，起身时，皮肉撕裂的声音格外骇人。","소년은 비틀거리며 몸을 일으켰고, 검은 액체가 몸에서 터져 나왔다. 바닥에 퍼진 융식액에 몸이 고정되어 있었기에, 몸을 일으키는 순간 살갗이 찢어지는 소리가 섬뜩하게 들려왔다."
 AvgDialog_21814_Content_14,ahOa,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,102,AvgDialog,Content,奥瑞塔,嗯嗯！维特别急， 我一定会把最豪华的客房留给你！,"응응! 베르테르, 조급해하지 마. 가장 호화로운 객실을 너에게 남겨둘게!"
 AvgDialog_21814_Content_15,ahOb,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,103,AvgDialog,Content,,那苍白的皮肤之下，肌肉奇异地鼓动着，仿佛即将被什么冲破——,"그 창백한 피부 아래, 근육이 기이하게 꿈틀거렸다. 마치 무언가가 뚫고 나오려는 듯이——"
 AvgDialog_21814_Content_16,ahOc,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,104,AvgDialog,Content,玩家,奥瑞塔小心！,"오레타, 조심해!"
 AvgDialog_21813_Content_1,ahNE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,105,AvgDialog,Content,少年维特,"……@2…塔……
 @4……",...@2...타...... @4……
+AvgDialog_21813_Content_2,ahNN,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,,异变的身体像一张鞣制过度的牛皮般直挺挺倒在地上，与地面的融蚀浆逐渐交融，最后彻底消失在了眼前。,"변이된 몸은 과도하게 무두질된 소가죽처럼 뻣뻣하게 바닥에 쓰러졌고, 바닥의 융식액과 서서히 섞이며 결국 완전히 사라졌다."
 AvgDialog_21813_Content_3,ahNO,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,107,AvgDialog,Content,奥瑞塔,咦……？维特呢？,어...? 베르테르가 어디 갔지?
+AvgDialog_21813_Content_4,ahNP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,奥瑞塔,怎么转眼就跑掉了！奥瑞塔明明没有要和他玩躲猫猫……,어느새 사라진 거야?! 오레타는 베르테르랑 숨바꼭질을 하려던 게 아니었는데...
 AvgDialog_21813_Content_5,ahNQ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,109,AvgDialog,Content,,在「维特」曾经坐着的地方，一枚小小的陶瓷报童落在了地上。,「베르테르」가 앉아있던 자리에 도자기로 된 작은 신문팔이 인형이 떨어져 있었다.
+AvgDialog_21813_Content_6,ahNR,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,110,AvgDialog,Content,玩家,……,...
 AvgDialog_21813_Content_7,ahNS,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,111,AvgDialog,Content,玩家,奥瑞塔，维特给你留了礼物。,"오레타, 베르테르가 너에게 선물을 남겼어."
+AvgDialog_21813_Content_8,ahNT,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,112,AvgDialog,Content,奥瑞塔,哪里哪里——哇！是说好要送给奥瑞塔的摆件！,정말? 어디어디— 와! 오레타에게 주기로 약속했던 장식품이잖아!
+AvgDialog_21813_Content_9,ahNU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,113,AvgDialog,Content,奥瑞塔,奥瑞塔要把它放进朋友们的家里！谢谢，谢谢……,"친구들 집에 넣어둬야겠다! 고마워, 고마워..."
 AvgDialog_21813_Content_10,ahNF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,114,AvgDialog,Content,奥瑞塔,咦…？他叫什么名字来着……,어라...? 그 애의 이름이 뭐였더라...
 AvgDialog_21813_Content_11,ahNG,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,115,AvgDialog,Content,玩家,……,...
 AvgDialog_21813_Content_12,ahNH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,116,AvgDialog,Content,玩家,奥瑞塔，别忘了，我们要去中心广场找你的婆婆哦。,"오레타, 잊지 마. 우리는 중앙 광장에 있는 할머니를 찾아가야 해."
 AvgDialog_21813_Content_13,ahNI,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,117,AvgDialog,Content,奥瑞塔,对哦！那么走这边这边——,"맞다! 이쪽으로 가자, 이쪽——"
+AvgDialog_21813_Content_14,ahNJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,,奥瑞塔瞬间把“跑掉的”小伙伴抛在了脑后，推着你继续走向目的地。,"오레타는 순식간에 「도망친」 친구를 뒤로 하고, 당신을 밀며 목적지로 향했다."
+AvgDialog_21813_Content_15,ahNK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,119,AvgDialog,Content,,你抬脚，绕开了曾为「维特」的一滩融蚀浆，心中五味杂陈。,한때 「베르테르」였던 융식액을 피해 걷는다. 마음속에 복잡한 감정이 솟아오른다.
+AvgDialog_21813_Content_16,ahNL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,,生活在被融蚀殆尽的城镇，却无法看到、感受到融蚀的存在。,"융식에 침식된 마을에 살면서도, 융식의 존재를 보거나 느끼지 못한다."
 AvgDialog_21813_Content_17,ahNM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,121,AvgDialog,Content,,她的世界正在死去，可她却……浑然不觉。,"오레타의 세상은 죽어가고 있었지만, 그녀는... 전혀 알아차리지 못했다."
 AvgDialog_21816_Content_1,ahOz,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,122,AvgDialog,Content,奥瑞塔,白雪！是白雪！,백설! 백설이야!
+AvgDialog_21816_Content_2,ahOA,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,,奥瑞塔又一次甩开了你，径直冲向趴卧在融蚀浆中的——,"오레타는 또다시 당신을 뿌리치고, 융식액 속에 엎드려 있는——"
 AvgDialog_21816_Content_3,ahOB,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,124,AvgDialog,Content,,一条黑色小狗。,검은 강아지에게로 곧장 달려갔다.
 AvgDialog_21816_Content_4,ahOC,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,125,AvgDialog,Content,玩家,白、白雪？,"배, 백설?"
+AvgDialog_21818_Content_1,ahOM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,「白雪」发出低沉的呜咽，四肢逐渐消解在融蚀浆中，再也看不出犬类的外形。,"「백설」은 낮은 울음소리를 냈다. 사지가 융식액 속으로 녹아들어가, 더 이상 개의 형체를 알아볼 수 없었다."
+AvgDialog_21818_Content_2,ahON,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,,在「白雪」消逝的地方，一枚掌心大小的白色陶瓷小狗静静躺在原地。,"「백설」이 완전히 사라진 후, 그 자리에는 손바닥만 한 하얀 도자기 강아지가 조용히 놓여 있었다."
 AvgDialog_21818_Content_3,ahOO,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,128,AvgDialog,Content,,捡起「白雪」,「백설」을 줍는다
 AvgDialog_21818_Content_4,ahOP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,129,AvgDialog,Content,玩家,原来你真是白色的……,원래는 정말 하얀색이었구나...
+AvgDialog_21815_Content_1,ahOl,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,,奥瑞塔推着你在衰败的城镇中行走，随着时间推移，本就阴云密布的天空越发深沉。,오레타는 마치 놀이처럼 당신의 등을 밀며 무너져가는 마을을 걸었다. 시간이 지날수록 이미 흐렸던 하늘이 더더욱 어두워져갔다.
 AvgDialog_21815_Content_2,ahOr,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,131,AvgDialog,Content,玩家,奥瑞塔，我们距离广场还有多远？,"오레타, 광장까지 얼마나 남았어?"
 AvgDialog_21815_Content_3,ahOs,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,132,AvgDialog,Content,,女孩趴在你的背上，探出脑袋左顾右盼，最终指向了一个拐角。,"오레타는 당신의 등 위에 올라타 고개를 내밀고 좌우를 두리번거리다가, 마침내 한쪽 모퉁이를 가리켰다."
 AvgDialog_21815_Content_4,ahOt,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,133,AvgDialog,Content,奥瑞塔,那边！走过那边的马厩以后，再往北走五十米就到了！,저기! 저기 마구간을 지나서 북쪽으로 50미터 정도 더 가면 나와!
 AvgDialog_21815_Content_5,ahOu,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,玩家,这里以前养过马吗？,여기서 예전에 말을 키웠어?
 AvgDialog_21815_Content_6,ahOv,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,奥瑞塔,现在也有！泼尼也是奥瑞塔的朋友，奥瑞塔想带它一起回海里的家！,지금도 있어! 포니도 오레타의 친구야. 오레타는 포니를 바닷속 집으로 데려가고 싶어!
+AvgDialog_21815_Content_7,ahOw,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,奥瑞塔,到那个时候，泼尼就会变成……,"그때가 되면, 포니는 변신할 거야! 그..."
 AvgDialog_21815_Content_8,ahOx,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,137,AvgDialog,Content,奥瑞塔,变成……,음...
+AvgDialog_21815_Content_9,ahOy,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,玩家,变成海马？,해마로?
+AvgDialog_21815_Content_10,ahOm,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,奥瑞塔,对！变成海马！,응! 해마로 변신할 거야!
+AvgDialog_21815_Content_11,ahOn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,,说话间，不远处已经传来了马的嘶鸣与喘息。踱步声沉重得过分，很难通过声音判断「泼尼」是否是又一个融蚀异变体。,"말하는 도중, 멀지 않은 곳에서 말의 울음소리와 거친 숨소리가 들려왔다. 발굽 소리가 지나치게 무거워서, 소리만으로는 「포니」인지 또다른 융식 변이체인지 판단하기 어려웠다."
 AvgDialog_21815_Content_12,ahOo,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,141,AvgDialog,Content,奥瑞塔,泼尼，泼尼——,"포니, 포니——"
+AvgDialog_21815_Content_13,ahOp,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,142,AvgDialog,Content,「泼尼」,嘶————,히히-잉——
+AvgDialog_21815_Content_14,ahOq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,,这一次，早有准备的你眼疾手快抓住了奥瑞塔的衣领，阻止她冲向那只剩下骨架的大朋友。,"이번에는 준비가 되어 있던 당신은 재빨리 오레타의 옷깃을 잡아당기며, 뼈만 남은 「친구」에게 달려가려는 소녀를 막았다."
+AvgDialog_21817_Content_1,ahOD,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,玩家,前两次都留下了小玩具，这次应该也……,"지난 두 번도 작은 장난감을 남겼으니, 이번에도 분명..."
+AvgDialog_21817_Content_2,ahOE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,,你随手拿起马厩的干草叉，对着曾为「泼尼」的融蚀浆一番搅动。果不其然，一匹格外精致的陶瓷小马正反着光。,"당신은 마구간의 건초 포크를 아무렇게나 집어들고, 한때 「포니」였던 융식액을 휘저었다. 아니나 다를까, 유난히 정교한 도자기 조랑말이 빛을 반사하고 있었다."
 AvgDialog_21817_Content_3,ahOF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,146,AvgDialog,Content,,捡起「泼尼」,「포니」를 줍는다
 AvgDialog_21817_Content_4,ahOG,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,147,AvgDialog,Content,,你犹豫片刻，最终还是脱下了外套，隔着布料捡起了陶瓷小马。,"당신은 잠시 망설였지만, 결국 코트를 벗고 천으로 도자기 조랑말을 집어 들었다."
 AvgDialog_21817_Content_5,ahOH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,148,AvgDialog,Content,？？？（婆婆）,你们在做什么呢？,"너희, 뭐 하고 있니?"
 AvgDialog_21817_Content_6,ahOI,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,149,AvgDialog,Content,,在你几乎习惯了只有奥瑞塔声音填满空旷世界的时候，一个苍老的声音突然响起，让你猛地站直了身体。,"텅 빈 세상에 오로지 오레타의 목소리만 울리던 데 익숙해질 즈음, 갑자기 늙은 목소리가 들려와 당신은 놀라 벌떡 일어섰다."
+AvgDialog_21817_Content_7,ahOJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,奥瑞塔,婆婆——奥瑞塔带了新朋友来见你！,할머니—— 오레타가 새 친구를 데리고 왔어!
 AvgDialog_21817_Content_8,ahOK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,151,AvgDialog,Content,,苍老的面容荡起了慈祥的笑，她爱怜地摸了摸奥瑞塔的脑袋，这才转向你。,늙은 얼굴에 인자한 미소가 떠올랐다. 그녀는 애정어린 손길로 오레타의 머리를 쓰다듬은 후에야 당신을 향해 시선을 돌렸다.
+AvgDialog_21817_Content_9,ahOL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,贝蒂婆婆,你好，年轻人。我是奥瑞塔的婆婆贝蒂，像这孩子一样，直接叫我婆婆就好。,"안녕, 젊은이. 나는 오레타의 할머니 베티란다. 이 아이처럼 그냥 할머니라고 불러주렴."
 AvgDialog_21803_Content_1,ahKX,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,153,AvgDialog,Content,,水里的宫殿,물 속 궁전
+AvgDialog_21803_Content_2,ahLi,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,154,AvgDialog,Content,,自称贝蒂的老妇人微笑着打量你，似乎在不留痕迹地审视你作为“奥瑞塔朋友”的资格。,자신을 베티라고 소개한 노부인은 미소를 지으며 당신을 살펴보았다. 마치 당신이 「오레타의 친구」로서 자격이 있는지 살피는 듯했다.
 AvgDialog_21803_Content_3,ahLt,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,155,AvgDialog,Content,,良久，她才收起眼神，拍了拍奥瑞塔的背。,한참 후에야 그녀는 시선을 거두고 오레타의 등을 두드렸다.
+AvgDialog_21803_Content_4,ahLE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,156,AvgDialog,Content,贝蒂婆婆,"奥瑞塔，你先自己去玩一会儿，好吗。
+婆婆和这位新朋友聊会天，马上就来找你。","오레타, 잠시 혼자 가서 놀고 있을래? 할머니는 새 친구와 조금 이야기를 하고 싶구나."
+AvgDialog_21803_Content_5,ahLP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,157,AvgDialog,Content,奥瑞塔,奥瑞塔不能一起聊天吗？,오레타도 같이 얘기하면 안 돼?
 AvgDialog_21803_Content_6,ahMa,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,158,AvgDialog,Content,贝蒂婆婆,乖孩子，大人之间的话题，只怕你听着会无聊呢。我们的小奥瑞塔不是最怕无聊了吗？,어른들의 이야기는 너에게 지루할지도 몰라. 우리 오레타는 지루한 걸 제일 싫어하지 않니?
+AvgDialog_21803_Content_7,ahMl,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,159,AvgDialog,Content,奥瑞塔,呜…呜呜……可是我想和婆婆呆在一起……,우우... 그치만 할머니랑 같이 있고 싶은데...
+AvgDialog_21803_Content_8,ahMu,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,贝蒂婆婆,婆婆的好孩子，和婆婆做个游戏吧？,"우리 착한 손녀, 할머니와 같이 놀이 하나 할까?"
+AvgDialog_21803_Content_9,ahMv,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,贝蒂婆婆,奥瑞塔不是想要装饰朋友们的家吗？婆婆在这儿附近藏了好几个小陶人……只要奥瑞塔找到了，就都是奥瑞塔的了。,"오레타, 친구들의 집을 꾸며주고 싶어 했잖니? 할머니가 이 근처에 작은 도자기 인형들을 몇 개 숨겨 놓았단다... 오레타가 찾으면, 전부 오레타가 가지려무나."
+AvgDialog_21803_Content_10,ahKY,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,奥瑞塔,真的吗！谢谢婆婆！,"정말?! 고마워, 할머니!"
 AvgDialog_21803_Content_11,ahKZ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,163,AvgDialog,Content,,贝蒂婆婆三言两语哄好了奥瑞塔，目送着女孩蹦蹦跳跳地跑进了另一边的废墟，这才微笑着转向你。,"베티 할머니는 오레타를 몇 마디 말로 달래고, 소녀가 반대편으로 깡총깡총 뛰어가는 모습을 바라보다가 미소를 지으며 당신에게로 돌아섰다."
+AvgDialog_21803_Content_12,ahLa,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,玩家,您特意支开奥瑞塔，到底是想要和我说什么？,일부러 오레타를 보내시면서까지... 제게 무슨 말씀을 하고 싶으신 거죠?
+AvgDialog_21803_Content_13,ahLb,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,贝蒂婆婆,别太防备，我只是想要……讲一个故事。,그리 경계하지 않아도 괜찮아. 난 그저... 이야기를 하고 싶을 뿐이야.
+AvgDialog_21803_Content_14,ahLc,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,贝蒂婆婆,曾经，这里是个渔港。有理想的年轻人去了城里，也有人留在家乡以捕鱼为生……平静得和其他渔村没什么不同。,"한때, 이곳은 항구였단다. 꿈을 품은 젊은이들은 도시로 떠났고, 고향에 남은 이들은 어업으로 생계를 꾸렸지... 다른 어촌과 다를 바 없이 평온했어."
+AvgDialog_21803_Content_15,ahLd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,,变化发生得悄无声息，不知不觉间，这里只剩下了妇孺。,"하지만, 변화는 소리 없이 찾아왔고, 어느새 이곳에는 여자와 아이들만 남게 되었지."
 AvgDialog_21803_Content_16,ahLe,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,168,AvgDialog,Content,,一艘艘渔船离开，却只有一截截破碎的龙骨顺着洋流回到海岸。,"어선들이 하나둘 떠났지만, 조류를 따라 해안으로 돌아온 것은 부서진 뱃머리 조각뿐이었단다."
 AvgDialog_21803_Content_17,ahLf,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,169,AvgDialog,Content,,黑色的水流漫过堤坝，街道被侵蚀得支离破碎。,"검은 물살이 제방을 넘어섰고, 거리는 침식되어 산산조각이 났지."
+AvgDialog_21803_Content_18,ahLg,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,,等奥瑞塔反应过来时，她的玩伴、她的家人甚至整个小镇的居民，都已经消失得无影无踪……,"오레타가 깨달았을 때에는, 그 애의 친구들, 가족, 심지어 마을 주민들까지 전부 흔적도 없이 사라져 있었어."
+AvgDialog_21803_Content_19,ahLh,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,玩家,等等，那婆婆您呢？,그럼... 할머니는요?
+AvgDialog_21803_Content_20,ahLj,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,,她摇摇头，示意你看向她的下半身。,그녀는 고개를 저으며 자신의 하반신을 가리켰다.
+AvgDialog_21803_Content_21,ahLk,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,,"麻布长裙之下流出的，赫然是融蚀浆。
+她的下半身几乎完全浸泡在湮灭与虚无之中。",긴 치마 아래로 융식액이 흘러나왔다. 그녀의 하반신은 이미 소멸과 허무 속에 잠겨 있었다.
 AvgDialog_21803_Content_22,ahLl,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,174,AvgDialog,Content,玩家,？！,?!
+AvgDialog_21803_Content_23,ahLm,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,玩家,您、您现在身体感觉如何？,몸 상태는... 괜찮으신가요?
+AvgDialog_21803_Content_24,ahLn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,,老妇人噗嗤一声笑了出来，她拍了拍你的肩膀，就像一位真正的长辈。,"노부인은 피식 웃으며, 마치 정말 당신의 조모인 듯 당신의 어깨를 토닥였다."
 AvgDialog_21803_Content_25,ahLo,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,177,AvgDialog,Content,贝蒂婆婆,别怕，年轻人，别怕。,"무서워하지 마렴, 젊은이. 무서워하지 마."
+AvgDialog_21803_Content_26,ahLp,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,贝蒂婆婆,「贝蒂婆婆」早就消失了，是那个孩子的执念把我留在了这里。,「베티 할머니」는 오래전에 사라졌단다. 그 아이의 집념이 나를 이곳에 붙잡아두고 있을 뿐.
+AvgDialog_21803_Content_27,ahLq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,,"说话间，不知何处而来的风吹来了一张传单。
+纸面上的图样被融蚀浆涂黑了大半，但宣传语仍依稀可见。","이야기하는 동안, 어디선가 불어온 바람에 전단지 한 장을 날아왔다. 종이의 그림은 대부분 융식액으로 검게 물들어 있었지만, 희미하게나마 홍보 문구가 보였다."
 AvgDialog_21803_Content_28,ahLr,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,180,AvgDialog,Content,,「贝蒂面包房，家乡婆婆的手工面包」,"「베티 빵집, 고향 할머니의 수제 빵」"
 AvgDialog_21803_Content_29,ahLs,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,181,AvgDialog,Content,贝蒂婆婆,哎呀……看来，「贝蒂」也不一定是我真正的名字。,어이쿠... 아무래도 「베티」도 내 진짜 이름이 아닐 수 있겠구나.
+AvgDialog_21803_Content_30,ahLu,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,玩家,……您为什么要告诉我这些？,...왜 제게 이런 걸 알려주시는 거죠?
+AvgDialog_21803_Content_31,ahLv,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,183,AvgDialog,Content,,贝蒂婆婆看向了不远处歪倒的废楼，奥瑞塔正在那里“寻宝”，弄得尘灰满天。,베티 할머니는 머지 않은 곳에 허물어져 가는 건물을 바라보았다. 그곳에서는 오레타가 「보물찾기」를 하며 먼지를 잔뜩 일으키고 있었다.
 AvgDialog_21803_Content_32,ahLw,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,184,AvgDialog,Content,贝蒂婆婆,为了不让奥瑞塔伤心，我对她撒了很多谎。,"오레타가 슬퍼하지 않도록, 나는 그 애에게 많은 거짓말을 했단다."
 AvgDialog_21803_Content_33,ahLx,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,185,AvgDialog,Content,玩家,比如……,예를 들면...
+AvgDialog_21803_Content_34,ahLy,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,,“海里的家”,「바닷속 집」
+AvgDialog_21803_Content_35,ahLz,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,贝蒂婆婆,"她居然连这个都告诉你了吗？看来她真的很相信这个说辞……
+但除了编织谎言，她真正的婆婆又能做什么呢？","그 애가 그것까지 말해줬니? 정말로 그 말을 믿고 있나 보구나... 하지만 할머니가 해줄 수 있는 거라고는, 결국 이야기를 들려주는 정도지."
 AvgDialog_21803_Content_36,ahLA,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,贝蒂婆婆,"我们能告诉她，她的父母再也不会回来了吗？
 在这座没有未来的城镇，这种话太残忍了。","부모님이 다시는 돌아오지 않을 거라고 그 애에게 말할 수 있을까? 미래가 없는 이 마을에서, 그런 말은 너무 잔인하지."
 AvgDialog_21803_Content_37,ahLB,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,189,AvgDialog,Content,贝蒂婆婆,所以，我想求你一件事……请你，请你对她保守秘密。,"그래서 부탁이 있단다... 부디, 오레타에게는 비밀로 해다오."
 AvgDialog_21803_Content_38,ahLC,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,190,AvgDialog,Content,贝蒂婆婆,不要把现实中正在发生的事告诉她……至少，让她在快乐中离开。,"현실에서 무슨 일이 벌어지고 있는지 그 아이에게 말하지 말아다오... 최소한, 그 애가 행복하게 떠날 수 있도록 해주렴."
+AvgDialog_21803_Content_39,ahLD,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,191,AvgDialog,Content,贝蒂婆婆,这是我的愿望，也是……她的愿望。,이건 내 바람이자... 그 아이의 바람이기도 해.
+AvgDialog_21803_Content_40,ahLF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,,贝蒂婆婆语气诚恳，声音中甚至带上了哀求。,"베티 할머니의 목소리에는, 진지함과 슬픔, 그리고 기도하는 듯한 애원이 담겨 있었다."
 AvgDialog_21803_Content_41,ahLG,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,193,AvgDialog,Content,玩家,离开？,떠난다고요?
+AvgDialog_21803_Content_42,ahLH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,奥瑞塔,明明什——么都没有嘛！,아—무것도— 없잖아!
+AvgDialog_21803_Content_43,ahLI,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,奥瑞塔,婆婆真的把陶人藏在那边了吗？奥瑞塔已经翻得底朝天了！,정말 저기에 인형을 숨긴 거 맞아? 오레타가 이미 다 샅샅이 찾아봤는데!
+AvgDialog_21803_Content_44,ahLJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,,"奥瑞塔闷闷不乐的声音让你下意识看了过去，她站在废墟上背对着你。
+这一次，你终于看清了她背上一闪而过的黑色污渍。",오레타의 우울한 목소리에 당신은 무의식적으로 그녀를 바라보았다. 그녀는 폐허 위에서 당신을 등지고 서 있었다. 이제야 비로소 당신은 그녀의 등에 스쳐 지나가는 검은 얼룩을 분명히 보았다.
+AvgDialog_21803_Content_45,ahLK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,,小小的身体上赫然盘踞着一个空洞——那分明是一块巨大的融蚀痕。,작은 몸에 커다란 융식 흔적이 선명하게 자리잡고 있었다.
+AvgDialog_21803_Content_46,ahLL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,,"你一愣，回头看向「贝蒂婆婆」曾站立的地方。
+那里只剩下一滩黏稠的液体，与污黑的积水融为一体。","놀란 당신은 「베티 할머니」가 서 있던 곳을 돌아보았다. 그곳에는 끈적한 액체만이 남아 있었고, 더러운 물웅덩이와 하나로 섞여 있었다."
+AvgDialog_21803_Content_47,ahLM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,,污水中，陶瓷反射着温润的光。,"그 속에서, 도자기 인형 하나가 부드러운 빛을 반사하고 있다."
+AvgDialog_21803_Content_48,ahLN,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,,捡起陶偶,도자기 인형을 줍는다
 AvgDialog_21803_Content_49,ahLO,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,201,AvgDialog,Content,,出人意料的，「贝蒂婆婆」消失后，留下的竟不是老妇造型的陶偶。,"예상과 달리, 「베티 할머니」가 사라진 자리에 남은 것은 노부인 형상의 도자기 인형이 아니었다."
 AvgDialog_21803_Content_50,ahLQ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,202,AvgDialog,Content,,圆润饱满的伞盖，细而密的触须，在瓷白的底色上点缀着四叶形的蓝釉。,"부드럽고 둥근 우산 모양의 갓과 가늘고 촘촘한 촉수, 그리고 흰 도자기 바탕 위에는 네잎클로버 모양의 푸른 유약이 장식되어 있었다."
 AvgDialog_21803_Content_51,ahLR,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,203,AvgDialog,Content,奥瑞塔,哇啊——是奥瑞塔最喜欢的水母！,와아— 오레타가 제일 좋아하는 해파리다!
+AvgDialog_21803_Content_52,ahLS,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,奥瑞塔,你果然耍赖皮！居然骗奥瑞塔去那边找，明明就在你手上！,그래도 치사해! 저쪽에 있다고 거짓말했잖아! 사실은 가지고 있었으면서!
+AvgDialog_21803_Content_53,ahLT,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,玩家,别、别生气…你看，这些是什么？,"자, 잠깐... 화내지 마. 자, 이게 뭐게?"
+AvgDialog_21803_Content_54,ahLU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,,你扯出一个勉强的笑，从口袋里又拿出了「泼尼」和「白雪」，连着「水母」陶偶一起递给了奥瑞塔。,"당신은 억지로 웃음을 지으며 주머니에서 「포니」와 「백설」을 꺼내, 「해파리」 인형과 함께 오레타에게 건넸다."
+AvgDialog_21803_Content_55,ahLV,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,207,AvgDialog,Content,奥瑞塔,都是给奥瑞塔的吗？！谢谢朋友！,"전부 오레타 거야?! 와아, 고마워!"
 AvgDialog_21803_Content_56,ahLW,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,208,AvgDialog,Content,奥瑞塔,水缸~奥瑞塔的水族箱~,어항~ 오레타의 수족관~
 AvgDialog_21803_Content_57,ahLX,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,209,AvgDialog,Content,奥瑞塔,宫殿~朋友和水里的宫殿~,궁전~ 친구와 바다 속 궁전~
+AvgDialog_21803_Content_58,ahLY,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,,奥瑞塔哼着歌，沉溺在拿到新玩具的喜悦中。维特、泼尼、白雪和贝蒂婆婆似乎没能在她心里留下哪怕一丝痕迹。,"오레타는 노래를 흥얼거리며 새로운 장난감을 얻은 기쁨에 취해 있었다. 베르테르, 포니, 백설, 그리고 베티 할머니. 그 누구의 모습도 그녀의 마음에 남아있지 않은 것 같았다."
+AvgDialog_21803_Content_59,ahLZ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,奥瑞塔,嘿咻…嘿咻……大家这么站着可以吗？,읏차... 읏차... 다들 이렇게 서 있어도 괜찮을까~?
+AvgDialog_21803_Content_60,ahMb,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,玩家,把「泼尼」再往外面摆一摆吧，一匹马站在室内总感觉有点奇怪。,「포니」는 좀 더 바깥에 두는 편이 나을 것 같아. 말이 실내에 있는 건 조금 이상하잖아.
 AvgDialog_21803_Content_61,ahMc,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,213,AvgDialog,Content,奥瑞塔,好有道理！说起来，「泼尼」是你给它取的名字吗？,듣고 보니 그렇네! 그런데 「포니」는 네가 지어준 이름이야?
+AvgDialog_21803_Content_62,ahMd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,214,AvgDialog,Content,玩家,……,...
+AvgDialog_21803_Content_63,ahMe,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,奥瑞塔,奥瑞塔的宫殿布置好了！,"오레타의 궁전, 완성이야!"
+AvgDialog_21803_Content_64,ahMf,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,奥瑞塔,奥瑞塔以后的家，奥瑞塔水里的家……,"오레타의 미래의 집, 오레타의 바다 속 집..."
 AvgDialog_21803_Content_65,ahMg,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,217,AvgDialog,Content,奥瑞塔,奥瑞塔要睡在爸爸妈妈的隔壁房间，偶尔也要和他们一起睡！,오레타는 엄마아빠의 옆방에서 잘 거야! 가끔은 같이 자기도 하고!
+AvgDialog_21803_Content_66,ahMh,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,奥瑞塔,小狗要睡在奥瑞塔的床上，小马要待在客厅——待在花园里。,"강아지는 오레타의 침대에서 자고, 조랑말은 거실... 정원도 좋겠다."
+AvgDialog_21803_Content_67,ahMi,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,奥瑞塔,水母可以在任何地方漂游，还有奥瑞塔的朋友们都要在壁炉前喝热可可……,"해파리는 아무 데나 떠다녀도 되고, 친구들 다같이 벽난로 앞에서 따뜻한 코코아를 마시는 거야!"
+AvgDialog_21803_Content_68,ahMj,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,220,AvgDialog,Content,奥瑞塔,嗯…水底……可以点壁炉吗？,음~ 물 속인데 벽난로에 불이 붙을까?
+AvgDialog_21803_Content_69,ahMk,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,,奥瑞塔的眼睛一眨一眨的，竟显出几分困意来。她打了个长长的哈欠，眼神朦胧。,"오레타는 눈을 깜빡이며, 조금 졸린 듯한 얼굴을 하고 있었다. 그녀는 길게 하품을 하고는 시선이 흐려졌다."
 AvgDialog_21803_Content_70,ahMm,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,222,AvgDialog,Content,玩家,奥瑞塔困了吗？,"오레타, 졸려?"
+AvgDialog_21803_Content_71,ahMn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,奥瑞塔,奥瑞塔…还能……玩……,오레타... 아직 놀... 수 있어...
+AvgDialog_21803_Content_72,ahMo,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,224,AvgDialog,Content,玩家,放心睡吧，奥瑞塔。,"안심하고 자도 돼, 오레타."
 AvgDialog_21803_Content_73,ahMp,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,225,AvgDialog,Content,玩家,壁炉会烧得暖暖的。,벽난로는 따뜻하게 타오를 거야.
+AvgDialog_21803_Content_74,ahMq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,226,AvgDialog,Content,玩家,端上来的可可会加好多好多糖。,코코아에는 설탕을 잔뜩 넣어줄게.
+AvgDialog_21803_Content_75,ahMr,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,玩家,等你醒来，朋友们都会在。,"눈을 뜨면, 친구들도 다들 와 있을 거야."
+AvgDialog_21803_Content_76,ahMs,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,奥瑞塔,呼…朋友……,으음... 친구들...
+AvgDialog_21803_Content_77,ahMt,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,奥瑞塔,不要…丢下奥瑞塔一个人哦……,오레타를... 혼자 두고 가면 안돼...
 AvgDialog_13946_Content_35,adEK,avgV1.3戈利亚小型支线_AvgDialog_C_M.csv,42,AvgDialog,Content,戈利亚,我？,나 말이냐?
 AvgDialog_6811_Content_49,aoWB,avgV1.3本源希洛大型支线_AvgDialog_C_M.csv,56,AvgDialog,Content,萝坦,真是可怜啊，仅仅只是失去银芯链接，就衰退成如此形貌。,"참으로 가련하구나. 은심의 링크를 잃었을 뿐인데, 이런 모습으로 전락하다니."
 AvgDialog_6777_Content_68,aoRr,avgV1.3本源希洛大型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,向导,当然。,물론이지.
@@ -224,7 +586,10 @@ AvgDialog_6813_Content_29,apaf,avgV1.3本源希洛大型支线_AvgDialog_C_M.csv
 AvgDialog_6813_Content_34,apal,avgV1.3本源希洛大型支线_AvgDialog_C_M.csv,856,AvgDialog,Content,狱卒,别想了，还以为你是高贵的掌政官养女吗？,"포기해라, 아직도 자신이 고귀한 섭정의 양녀라고 생각하는 거야?"
 AvgDialog_6813_Content_35,apam,avgV1.3本源希洛大型支线_AvgDialog_C_M.csv,857,AvgDialog,Content,狱卒,肮脏的血脉，最后就只能养出你这样的<Blue:叛徒>。,"더러운 혈통을 키워봤자, 마지막에는 너 같은 <Blue:배신자>가 될 뿐이지."
 AvgDialog_48139_Content_18,amnw,avgV1.4繁衍狂欢_AvgDialog_C_M.csv,369,AvgDialog,Content,玩家,我？,나 말이냐?
+AvgDialog_22125_Content_38,ahVa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,288,AvgDialog,Content,无纸奥尔拉,谢谢……,고마워...
 AvgDialog_81527_Content_112,bscd,avgV2.0卡斯托尔小型支线_AvgDialog_C_M.csv,344,AvgDialog,Content,于丽埃特八章,……啧。,...쯧.
+AvgDialog_71794_Content_25,apsl,avgV2.0图鲁小型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,少年图鲁,唉……,하아...
+AvgDialog_75907_Content_58,aqvg,avgV2.1.1逆转回合联动_AvgDialog_C_M.csv,65,AvgDialog,Content,拉蒙娜,你说什么？,뭔가 말했어?
 AvgDialog_91726_Content_1,byww,avgV2.2罗马特别活动小型支线_AvgDialog_C_M.csv,8,AvgDialog,Content,,奴隶与奴隶主,노예와 주인
 AvgDialog_91726_Content_2,bywH,avgV2.2罗马特别活动小型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,阿格里帕,由于银芯的物理特性，调查员在使用银芯制品时应注意……以下几个……,"은심의 물리적 특성으로 인해, 조사원들은 은심 제품을 사용할 때 다음 사항에 유의해야 한다..."
 AvgDialog_91726_Content_3,bywS,avgV2.2罗马特别活动小型支线_AvgDialog_C_M.csv,10,AvgDialog,Content,阿格里帕,及格……几……,합격... 다음...
@@ -387,6 +752,7 @@ AvgDialog_91727_Content_95,byzx,avgV2.2罗马特别活动小型支线_AvgDialog_
 AvgDialog_91727_Content_96,byzy,avgV2.2罗马特别活动小型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,,只有厨师长在第二天信心满满地走进后厨后，发出了一声响彻校园的怒吼。,"다음 날, 자신만만하게 주방에 들어선 주방장의 분노 섞인 고함이 온 캠퍼스를 뒤흔들었다고 전해진다."
 AvgDialog_90537_Content_63,bydc,avgV2.4波吕克斯小型支线_AvgDialog_C_M.csv,414,AvgDialog,Content,波吕克斯,等着我，哥哥，我一定会找到机会，再次带你逃走的……,"기다려, 형. 반드시 도망칠 기회를 찾아서, 데리고 나갈 테니까..."
 AvgDialog_73787_Content_22,aqci,avg星辰章2_AvgDialog_C_M.csv,580,AvgDialog,Content,熔毁·朵尔,……啧。,...쯧.
+AvgDialog_73787_Content_104,bqxD,avg星辰章2_AvgDialog_C_M.csv,662,AvgDialog,Content,少年威廉,你说什么？,뭔가 말했어?
 AvgDialog_97173_Content_21,bALn,avg星辰章3_AvgDialog_C_M.csv,1081,AvgDialog,Content,玩家,我？,나 말이냐?
 AvgDialog_18787_Content_9,aevp,avg测试剧情_AvgDialog_C_M.csv,404,AvgDialog,Content,,你向拉蒙娜使了个眼色，拉蒙娜回以肯定的眼神。,"당신이 라모나에게 눈짓하자, 라모나는 긍정의 눈빛을 돌려주었다."
 AvgDialog_18787_Content_13,aevg,avg测试剧情_AvgDialog_C_M.csv,408,AvgDialog,Content,,萝坦拍了拍拉蒙娜的后肩，拉蒙娜露出吃了苍蝇的表情，但什么也没说。,"로탄은 라몬나의 어깨를 가볍게 쳤다. 라모나는 얼굴을 찌푸렸지만, 아무 말도 하지 않았다."
@@ -405,6 +771,7 @@ AvgDialog_18784_Content_17,aeur,avg测试剧情_AvgDialog_C_M.csv,462,AvgDialog,
 AvgDialog_50763_Content_14,amUI,avg测试剧情_AvgDialog_C_M.csv,2642,AvgDialog,Content,嘶叫的怪物,<Change>把她……交给……我！,<Change>그 아이를... 나에게!
 AvgDialog_50763_Content_19,amUN,avg测试剧情_AvgDialog_C_M.csv,2647,AvgDialog,Content,狱卒,别想了，还以为你是高贵的掌政官养女吗？,"포기해라, 아직도 자신이 고귀한 섭정의 양녀라고 생각하는 거야?"
 AvgDialog_50763_Content_20,amUP,avg测试剧情_AvgDialog_C_M.csv,2648,AvgDialog,Content,狱卒,肮脏的血脉，最后就只能养出你这样的<Blue:叛徒>。,"더러운 혈통을 키워봤자, 마지막에는 너 같은 <Blue:배신자>가 될 뿐이지."
+AvgDialog_66598_Content_42,aoJh,avg测试剧情_AvgDialog_C_M.csv,3643,AvgDialog,Content,,谢谢……,고마워...
 AvgDialog_18997_Content_1,agpM,avg章3_AvgDialog_C_M.csv,8,AvgDialog,Content,,三思而后行,생각하고 행동하라
 AvgDialog_18997_Content_2,agpX,avg章3_AvgDialog_C_M.csv,9,AvgDialog,Content,,弥萨格大学 唤醒系办公室,미사그 대학 각성학부 사무실
 AvgDialog_18997_Content_3,agqi,avg章3_AvgDialog_C_M.csv,10,AvgDialog,Content,朵尔唤醒体,"<Blue:刻耳柏洛斯>的传说，最早可以追溯到公元前8世纪的古希腊。
@@ -1682,6 +2049,7 @@ AvgDialog_19076_Content_2,agVS,avg章4_AvgDialog_C_M.csv,9,AvgDialog,Content,,�
 AvgDialog_19076_Content_3,agWd,avg章4_AvgDialog_C_M.csv,10,AvgDialog,Content,,"推开大门，粉尘在散发着古怪臭味的走廊中弥散开来。
 明明是阳光明媚的雪霁白日，走廊中却阴暗无光。","정문을 밀어 열자, 기묘한 냄새가 나는 복도에 먼지가 피어올랐다.\n눈이 갠 뒤라 햇살이 밝게 내리쬐는 날인데도, 복도는 어둡고 빛 한 점 없었다."
 AvgDialog_19076_Content_4,agWo,avg章4_AvgDialog_C_M.csv,11,AvgDialog,Content,萝坦,我不喜欢这地方。,이런 곳은 마음에 들지 않는구나.
+AvgDialog_19076_Content_5,agWz,avg章4_AvgDialog_C_M.csv,12,AvgDialog,Content,莉莉,……,...
 AvgDialog_19076_Content_6,agWE,avg章4_AvgDialog_C_M.csv,13,AvgDialog,Content,,你拍了拍莉莉的头，鼓励她继续带领众人前行。,당신은 릴리의 머리를 톡톡 두드리며 계속해서 길을 안내해 달라고 격려했다.
 AvgDialog_19076_Content_7,agWF,avg章4_AvgDialog_C_M.csv,14,AvgDialog,Content,,空寂的走廊里只有你们的脚步声回荡，闷响的回声令人心悸。,"텅 빈 복도에는 당신 일행의 발소리만이 울려 퍼졌고, 답답하게 울리는 소리가 심장을 철렁하게 했다."
 AvgDialog_19076_Content_8,agWG,avg章4_AvgDialog_C_M.csv,15,AvgDialog,Content,萝坦,消毒水快把这地方腌入味了，你们真没感觉到鼻子痒痒的？,이 복도에 소독약 냄새가 배어 있구나.\n코가 근질거리지 않느냐?
@@ -1721,6 +2089,7 @@ AvgDialog_19076_Content_33,agWh,avg章4_AvgDialog_C_M.csv,40,AvgDialog,Content,�
 AvgDialog_19076_Content_34,agWi,avg章4_AvgDialog_C_M.csv,41,AvgDialog,Content,弗朗西斯,你的眼神让我想起了那时候的自己，不过……比起昨晚，今天的你更多了一丝动摇。,"당신의 눈빛을 보고 있자니, 그 시절의 제 모습이 떠오르는군요.\n하지만…… 어젯밤에 비해, 오늘의 당신은 조금 더 흔들리는 것 같네요."
 AvgDialog_19076_Content_35,agWj,avg章4_AvgDialog_C_M.csv,42,AvgDialog,Content,弗朗西斯,"发生什么事了吗？还是说……
 你也打开了那不该打开的魔盒？","무슨 일이라도 있었나요? 아니면……\n열어서는 안 될 판도라의 상자를, 당신도 열어버렸나요?"
+AvgDialog_19076_Content_36,agWk,avg章4_AvgDialog_C_M.csv,43,AvgDialog,Content,拉蒙娜,……,...
 AvgDialog_19076_Content_37,agWl,avg章4_AvgDialog_C_M.csv,44,AvgDialog,Content,拉蒙娜,不敢和奥兹伍德教授相提并论。,오즈우드 교수님께 비할 바는 못 되죠.
 AvgDialog_19076_Content_38,agWm,avg章4_AvgDialog_C_M.csv,45,AvgDialog,Content,拉蒙娜,"奥兹伍德教授要是继续投身科研，应该能在医学领域取得更高的成就。
 可您却急流勇退，消失在了学界。","오즈우드 교수님께서 연구를 계속하셨다면, 의학 분야에서 더 높은 성과를 이루셨을 텐데요.\n하지만 당신은 갑자기 은퇴하시고, 학계에서 자취를 감추셨죠."
@@ -1799,6 +2168,7 @@ AvgDialog_19056_Content_22,agLs,avg章4_AvgDialog_C_M.csv,110,AvgDialog,Content,
 AvgDialog_19056_Content_23,agLt,avg章4_AvgDialog_C_M.csv,111,AvgDialog,Content,弗朗西斯,但年轻时我曾有一段“奇遇”，见识过一些常人闻所未闻的奇观。,"하지만 젊었을 때 저는 「기묘한 만남」을 겪었고, 보통 사람들은 들어본 적도 없는 신기한 광경들을 보았습니다."
 AvgDialog_19056_Content_24,agLu,avg章4_AvgDialog_C_M.csv,112,AvgDialog,Content,弗朗西斯,因此尽管库姆看上去有些……非同寻常，但看在莉莉喜欢它的份上，我也就留下了它。毕竟，它是莉莉好不容易找到的伙伴。,"그래서 쿰이 좀…… 비범해 보이긴 했지만, 릴리가 좋아하니 그대로 두었습니다. 어쨌든, 릴리가 겨우 찾은 친구니까요."
 AvgDialog_19056_Content_25,agLv,avg章4_AvgDialog_C_M.csv,113,AvgDialog,Content,弗朗西斯,这孩子本身就与其他人之间存在很深的隔阂，我怎么忍心分开他们呢？,"이 아이는 원래 다른 아이들과 깊은 벽이 있는데, 제가 어떻게 그들을 떼어놓겠습니까?"
+AvgDialog_19056_Content_26,agLw,avg章4_AvgDialog_C_M.csv,114,AvgDialog,Content,拉蒙娜,……,...
 AvgDialog_19056_Content_27,agLx,avg章4_AvgDialog_C_M.csv,115,AvgDialog,Content,弗朗西斯,如果这还不能打消你们的疑虑的话，我可以再陪各位在疗养院里检查一遍，包括我的办公室。,"만약 이것으로도 여러분의 의심이 풀리지 않는다면, 제 사무실을 포함해서 요양원을 다시 한번 둘러보셔도 좋습니다."
 AvgDialog_19056_Content_28,agLy,avg章4_AvgDialog_C_M.csv,116,AvgDialog,Content,弗朗西斯,放心吧，在审查会来之前，我哪儿也不会去。,"걱정 마세요.\n심사회가 오기 전까지, 저는 어디에도 가지 않을 테니까요."
 AvgDialog_19043_Content_1,agHc,avg章4_AvgDialog_C_M.csv,117,AvgDialog,Content,,飞越疯人院,뻐꾸기 둥지
@@ -1824,6 +2194,7 @@ AvgDialog_19043_Content_18,agHl,avg章4_AvgDialog_C_M.csv,134,AvgDialog,Content,
 太多巧合了。","우연히 구한 아이가, 하필이면 각성체였다고?\n우연치고는 너무 절묘해."
 AvgDialog_19043_Content_19,agHm,avg章4_AvgDialog_C_M.csv,135,AvgDialog,Content,玩家,总之，先联络弥萨格吧。,"아무튼, 우선 미사그에 연락부터 하자."
 AvgDialog_19043_Content_20,agHo,avg章4_AvgDialog_C_M.csv,136,AvgDialog,Content,,拉蒙娜点了点胸口的银色胸针，你们屏息凝神，等待通讯接通。,라모나는 가슴에 달린 은색 브로치를 톡톡 두드렸다. 당신들은 숨을 죽이고 통신이 연결되기를 기다렸다.
+AvgDialog_19043_Content_21,agHp,avg章4_AvgDialog_C_M.csv,137,AvgDialog,Content,,……,...
 AvgDialog_19043_Content_22,agHq,avg章4_AvgDialog_C_M.csv,138,AvgDialog,Content,,"十秒钟过去了，空气中回荡的只有令人窒息的寂静。
 你能感觉到自己的心砰砰跳了起来。",10초가 지났다. 주위에는 숨 막히는 정적만이 감돌았다.\n당신은 자신의 심장이 쿵쿵 뛰는 것을 느낄 수 있었다.
 AvgDialog_19043_Content_23,agHr,avg章4_AvgDialog_C_M.csv,139,AvgDialog,Content,玩家,通讯……又被切断了？,통신이…… 또 끊겼어?
@@ -1958,6 +2329,7 @@ AvgDialog_19040_Content_11,agGn,avg章4_AvgDialog_C_M.csv,229,AvgDialog,Content,
 这样的日子，什么时候是个头啊……","휴, 밥은 날 보러 오지도 않고……\n이런 날이, 언제쯤 끝날까……"
 AvgDialog_19040_Content_12,agGo,avg章4_AvgDialog_C_M.csv,230,AvgDialog,Content,平静的老人,"我来这里好几年了，可从来没见过探视的人。
 要真有那个心，他也不会把你送到这种地方来了。","나 여기 온 지 몇 년 됐는데, 면회 온 사람은 한 번도 못 봤어.\n정말 그럴 마음이 있었다면, 널 이런 곳에 보내지도 않았을 거야."
+AvgDialog_19040_Content_13,agGp,avg章4_AvgDialog_C_M.csv,231,AvgDialog,Content,咳嗽的老人,唉……,하아...
 AvgDialog_19040_Content_14,agGq,avg章4_AvgDialog_C_M.csv,232,AvgDialog,Content,,二人闲话着远去，拉蒙娜这才得空仔细观察自己躲避的房间。,"두 사람은 잡담하며 멀어져 갔고, 라모나는 그제야 자신이 숨은 방을 자세히 살필 여유가 생겼다."
 AvgDialog_19050_Content_1,agJz,avg章4_AvgDialog_C_M.csv,233,AvgDialog,Content,拉蒙娜,弗朗西斯的办公室……兜兜转转，又回到这儿来了。,"프랜시스의 사무실…… 빙빙 돌다가, 또 여기로 돌아왔네."
 AvgDialog_19050_Content_2,agJA,avg章4_AvgDialog_C_M.csv,234,AvgDialog,Content,拉蒙娜,算了，再搜一次总没坏处。,"뭐, 다시 한번 조사해서 나쁠 건 없지."
@@ -2029,24 +2401,28 @@ AvgDialog_19078_Content_5,agXB,avg章4_AvgDialog_C_M.csv,288,AvgDialog,Content,,
 AvgDialog_19078_Content_6,agXC,avg章4_AvgDialog_C_M.csv,289,AvgDialog,Content,,"你的面部完全浸没在水下，此刻却没有感觉到呼吸不畅。
 那黑色的池水仿佛母亲的羊水，提供令人安睡的呼吸。","당신의 얼굴은 완전히 물에 잠겼지만, 지금은 숨이 막히는 느낌이 들지 않았다.\n그 검은 연못의 물은 마치 어머니의 양수처럼, 편안한 호흡을 제공했다."
 AvgDialog_19078_Content_7,agXD,avg章4_AvgDialog_C_M.csv,290,AvgDialog,Content,,不能睡……不能睡过去……,잠들면 안 돼…… 잠들면 안 돼……
+AvgDialog_19078_Content_8,agXE,avg章4_AvgDialog_C_M.csv,291,AvgDialog,Content,,……,...
 AvgDialog_19078_Content_9,agXF,avg章4_AvgDialog_C_M.csv,292,AvgDialog,Content,,…………,…………
 AvgDialog_19078_Content_10,agWL,avg章4_AvgDialog_C_M.csv,293,AvgDialog,Content,,………………,………………
 AvgDialog_19078_Content_11,agWM,avg章4_AvgDialog_C_M.csv,294,AvgDialog,Content,,"仪式终于结束，为首的女人走下了高处的祭坛。
 一众黑袍的使者跟在她身后依序离去，如迁徙的蚁群。","의식이 마침내 끝나고, 선두에 섰던 여인이 높은 제단에서 내려왔다.\n\n검은 로브를 입은 사자들이 그녀의 뒤를 따라 차례로 떠나갔고, 마치 이동하는 개미 떼 같았다."
 AvgDialog_19078_Content_12,agWN,avg章4_AvgDialog_C_M.csv,295,AvgDialog,Content,,<Blue:你>勉强起身，褪去全身湿透的衣服，在一块巨石的后面找到了墨菲所说的教袍。,"<Blue:당신>은 간신히 몸을 일으켜, 흠뻑 젖은 옷을 벗고, 큰 바위 뒤에서 머피가 말했던 교단의 로브를 찾았다."
 AvgDialog_19078_Content_13,agWO,avg章4_AvgDialog_C_M.csv,296,AvgDialog,Content,,你匆忙换上，不顾严寒，朝着北方的通道摸索而去。,"당신은 서둘러 옷을 갈아입고, 혹독한 추위에도 아랑곳하지 않고 북쪽 통로를 향해 더듬거리며 나아갔다."
+AvgDialog_19078_Content_14,agWP,avg章4_AvgDialog_C_M.csv,297,AvgDialog,Content,,……,...
 AvgDialog_19078_Content_15,agWQ,avg章4_AvgDialog_C_M.csv,298,AvgDialog,Content,,…………,…………
 AvgDialog_19078_Content_16,agWR,avg章4_AvgDialog_C_M.csv,299,AvgDialog,Content,,"通道极为狭小，你不得不躬身前进。
 光无法射入这里，所见只有一片伸手不见五指的漆黑。","통로는 매우 좁아서, 허리를 굽히고 나아가야 했다.\n빛이 이곳까지 들어오지 않아, 보이는 것은 손가락 하나 보이지 않는 칠흑 같은 어둠뿐이었다."
 AvgDialog_19078_Content_17,agWS,avg章4_AvgDialog_C_M.csv,300,AvgDialog,Content,弗朗西斯？,真的…能从这里离开吗？,정말… 여기서 나갈 수 있을까?
 AvgDialog_19078_Content_18,agWT,avg章4_AvgDialog_C_M.csv,301,AvgDialog,Content,,你探了探怀中，那块会给你力量的怀表已经不知所踪。,"당신은 품속을 더듬었지만, 당신에게 힘을 주던 그 회중시계는 이미 온데간데없었다."
 AvgDialog_19078_Content_19,agWU,avg章4_AvgDialog_C_M.csv,302,AvgDialog,Content,,……那是你和@1 在这世间唯一的联系了。,……그것은 당신과 @1의 이 세상 유일한 연결고리였는데.
+AvgDialog_19078_Content_20,agWW,avg章4_AvgDialog_C_M.csv,303,AvgDialog,Content,,……,...
 AvgDialog_19078_Content_21,agWX,avg章4_AvgDialog_C_M.csv,304,AvgDialog,Content,,很幸运，仪式结束，洞窟中一个人也没有。,"운 좋게도, 의식이 끝나 동굴 안에는 아무도 없었다."
 AvgDialog_19078_Content_22,agWY,avg章4_AvgDialog_C_M.csv,305,AvgDialog,Content,,你在旧衣服中翻找了半天，没有摸到怀表，于是走到池边，在你被摆放之处摸索。,"당신은 낡은 옷 속을 한참 뒤졌지만 회중시계를 찾지 못했고, 그래서 연못가로 가서 당신이 놓여 있던 곳을 더듬었다."
 AvgDialog_19078_Content_23,agWZ,avg章4_AvgDialog_C_M.csv,306,AvgDialog,Content,,……你感觉有些不对劲。,……당신은 뭔가 이상하다고 느꼈다.
 AvgDialog_19078_Content_24,agXa,avg章4_AvgDialog_C_M.csv,307,AvgDialog,Content,,池水的高度下降了。,연못의 수위가 낮아져 있었다.
 AvgDialog_19078_Content_25,agXb,avg章4_AvgDialog_C_M.csv,308,AvgDialog,Content,,池中被作为祭品的昏迷的人，似乎一个个都在不知觉中蜷缩了起来，姿态好似母亲怀中的婴孩。,"연못 속 제물로 바쳐진 혼수상태의 사람들은, 마치 어머니 품에 안긴 아기처럼 자신도 모르게 몸을 웅크리고 있었다."
 AvgDialog_19078_Content_26,agXc,avg章4_AvgDialog_C_M.csv,309,AvgDialog,Content,,你在“淤泥”中摸到了你的怀表，准备转身离去时，注意到身侧躺着的人形。,"당신은 「진흙」 속에서 당신의 회중시계를 더듬어 찾았고, 돌아서려던 순간, 옆에 누워있는 사람의 형체를 발견했다."
+AvgDialog_19078_Content_27,agXd,avg章4_AvgDialog_C_M.csv,310,AvgDialog,Content,伯特兰,……,...
 AvgDialog_19078_Content_28,agXe,avg章4_AvgDialog_C_M.csv,311,AvgDialog,Content,,他还有呼吸……你犹豫了片刻，还是尝试着叫醒伯特兰。,"그는 아직 숨을 쉬고 있었다…… 당신은 잠시 망설였지만, 역시 베르트랑을 깨워보기로 했다."
 AvgDialog_19078_Content_29,agXf,avg章4_AvgDialog_C_M.csv,312,AvgDialog,Content,,"塞西莉已经不知所踪，你也没有一定要回去的理由。
 既然如此，能救一个算一个吧。","세실리는 이미 온데간데없었고, 당신도 꼭 돌아가야 할 이유는 없었다.\n그렇다면, 한 명이라도 구하는 게 낫겠지."
@@ -2065,6 +2441,7 @@ AvgDialog_19078_Content_40,agXs,avg章4_AvgDialog_C_M.csv,323,AvgDialog,Content,
 AvgDialog_19078_Content_41,agXt,avg章4_AvgDialog_C_M.csv,324,AvgDialog,Content,,……还能见@1 一面吗？,……@1을 다시 한번 만날 수 있을까?
 AvgDialog_19078_Content_42,agXu,avg章4_AvgDialog_C_M.csv,325,AvgDialog,Content,,……还是说，这样我们就能团圆了呢？,"……아니면, 이렇게 해서 우리가 다시 만날 수 있는 걸까?"
 AvgDialog_19078_Content_43,agXv,avg章4_AvgDialog_C_M.csv,326,AvgDialog,Content,,……如果可以的话……我还想…再见……,……만약 가능하다면…… 나 다시… 만나고 싶어……
+AvgDialog_19078_Content_44,agXw,avg章4_AvgDialog_C_M.csv,327,AvgDialog,Content,,……,...
 AvgDialog_19078_Content_45,agXx,avg章4_AvgDialog_C_M.csv,328,AvgDialog,Content,,黑色的池水中，开始泛起咕嘟咕嘟的水泡。,"검은 연못의 물이, 보글보글 끓어오르기 시작했다."
 AvgDialog_19078_Content_46,agXy,avg章4_AvgDialog_C_M.csv,329,AvgDialog,Content,,在那水泡的中央走出的，是一名纯白的少女。,"그 물거품의 중앙에서 걸어 나온 것은, 순백의 소녀였다."
 AvgDialog_19078_Content_47,agXz,avg章4_AvgDialog_C_M.csv,330,AvgDialog,Content,,她的手中，提着不知是何物的黏稠黑球，黑色眼球状的巨物裂开鲨鱼般的利齿，随着她跳跃向前。,"그녀의 손에는, 정체 모를 끈적한 검은 공이 들려 있었고, 검은 눈알 모양의 거대한 물체는 상어 같은 날카로운 이빨을 드러내며, 그녀를 따라 앞으로 뛰어올랐다."
@@ -2129,6 +2506,7 @@ AvgDialog_19045_Content_20,agIP,avg章4_AvgDialog_C_M.csv,351,AvgDialog,Content,
 AvgDialog_19037_Content_1,agGd,avg章4_AvgDialog_C_M.csv,352,AvgDialog,Content,玩家,搭把手吧朵尔！,"돌, 좀 도와줘!"
 AvgDialog_19037_Content_2,agGe,avg章4_AvgDialog_C_M.csv,353,AvgDialog,Content,朵尔,我看不用，靠那个家伙已经绰绰有余了。,그럴 필요 없어 보여. 저 녀석만으로도 충분하겠네.
 AvgDialog_19037_Content_3,agGf,avg章4_AvgDialog_C_M.csv,354,AvgDialog,Content,萝坦,我都要睡着了，就没有更强一点的对手吗？,잠이 올 지경이군. 좀 더 강한 상대는 없나?
+AvgDialog_19037_Content_4,agGg,avg章4_AvgDialog_C_M.csv,355,AvgDialog,Content,玩家,……,...
 AvgDialog_19067_Content_1,agPW,avg章4_AvgDialog_C_M.csv,356,AvgDialog,Content,萝坦,喂，大脑袋，你的改装看起来一点儿效果也没有啊。,"어이, 머리 큰 양반. 네 개조는 전혀 효과가 없는 것 같구나."
 AvgDialog_19067_Content_2,agQh,avg章4_AvgDialog_C_M.csv,357,AvgDialog,Content,朵尔,……你也太把科研主任不当回事了。这里的“隔离”很麻烦，我也不是超维界域的唤醒体，操作起来自然不太顺手。,"……너야말로 연구 주임을 너무 얕보는 거 아니야?\n\n여기의 「격리」는 아주 까다로워. 나도 초차원 영역의 각성체가 아니라서, 조작이 자연스럽지 못한 건 당연해."
 AvgDialog_19067_Content_3,agQs,avg章4_AvgDialog_C_M.csv,358,AvgDialog,Content,朵尔,%player%，试着发动精神追溯。,"%player%, 정신 추적을 시도해 봐."
@@ -2181,6 +2559,7 @@ AvgDialog_19067_Content_38,agQB,avg章4_AvgDialog_C_M.csv,393,AvgDialog,Content,
 和上次一样，医院帮我料理了@3的葬礼。
 但在我对他们两次在我悲痛欲绝的时刻出手相助表达感激时，他们面色古怪地问我，上一次是哪一次？
 ……","7월 6일\n지난번과 마찬가지로, 병원에서 @3의 장례식을 도와주었다.\n하지만 내가 그들이 두 번이나 내가 비통에 잠겨 있을 때 도와준 것에 대해 감사를 표하자, 그들은 이상한 표정으로 나에게 물었다. 지난번이 언제였냐고?\n……"
+AvgDialog_19067_Content_39,agQC,avg章4_AvgDialog_C_M.csv,394,AvgDialog,Content,,……,...
 AvgDialog_19067_Content_40,agQE,avg章4_AvgDialog_C_M.csv,395,AvgDialog,Content,,"你一目十行地阅读着。
 不知为何，笔记中的内容你似乎在哪里见过、听过。","당신은 글을 빠르게 읽어 내려갔다.\n왠지 모르게, 노트의 내용은 어디선가 보거나 들은 적이 있는 것 같았다."
 AvgDialog_19067_Content_41,agQF,avg章4_AvgDialog_C_M.csv,396,AvgDialog,Content,,你知道这些事情。,당신은 이 일들을 알고 있다.
@@ -2270,6 +2649,7 @@ AvgDialog_19064_Content_1,agNZ,avg章4_AvgDialog_C_M.csv,440,AvgDialog,Content,�
 AvgDialog_19064_Content_2,agOb,avg章4_AvgDialog_C_M.csv,441,AvgDialog,Content,宁菲亚,你是说那些失踪的人吗？那些把自己的亲人遗弃在这疗养院中一走了之的残酷之人吗？,실종된 사람들을 말씀하시는 건가요? 자신의 가족을 이 요양원에 버리고 떠난 그 잔인한 사람들을요?
 AvgDialog_19064_Content_3,agOc,avg章4_AvgDialog_C_M.csv,442,AvgDialog,Content,宁菲亚,他们让我想起很多人，很多曾经出现在我的床前却又无情消失的人。,"그들을 보면 많은 사람들이 생각납니다. 제 침대 맡에 나타났다가, 무정하게 사라져버린 많은 사람들이요."
 AvgDialog_19064_Content_4,agOd,avg章4_AvgDialog_C_M.csv,443,AvgDialog,Content,宁菲亚,他们是我的叔叔、伯伯、姨母、婶婶……他们在我的父母离去之后，只是惦记我父母留下的微薄财产，却从未过问我的想法。,"그들은 제 삼촌, 큰아버지, 이모, 숙모…… 제 부모님이 돌아가신 후, 그들은 제 부모님이 남긴 얼마 안 되는 재산만 탐냈을 뿐, 제 생각은 한 번도 물어보지 않았습니다."
+AvgDialog_19064_Content_5,agOe,avg章4_AvgDialog_C_M.csv,444,AvgDialog,Content,拉蒙娜,……,...
 AvgDialog_19064_Content_6,agOf,avg章4_AvgDialog_C_M.csv,445,AvgDialog,Content,朵尔,你是不会直接让我们进去了，对吗？,우리를 그냥 들여보내 주지는 않겠다는 거지?
 AvgDialog_19064_Content_7,agOg,avg章4_AvgDialog_C_M.csv,446,AvgDialog,Content,,宁菲亚轻轻点头。,님피아는 가볍게 고개를 끄덕였다.
 AvgDialog_19064_Content_8,agOh,avg章4_AvgDialog_C_M.csv,447,AvgDialog,Content,宁菲亚,无论如何，我都想帮奥兹伍德女士做些什么。,"어떻게든, 저는 오즈우드 부인을 돕고 싶습니다."
@@ -2343,6 +2723,7 @@ AvgDialog_19073_Content_27,agTY,avg章4_AvgDialog_C_M.csv,504,AvgDialog,Content,
 AvgDialog_19073_Content_28,agTZ,avg章4_AvgDialog_C_M.csv,505,AvgDialog,Content,朵尔,走！,가!
 AvgDialog_19073_Content_29,agUa,avg章4_AvgDialog_C_M.csv,506,AvgDialog,Content,朵尔,弥萨格大学和雕塑家协会斗了这么多年，他要是有本事搞定我们，根本就等不到现在。,"미사그 대학과 조각가 협회는 오랫동안 싸워왔어. 그가 우리를 처리할 능력이 있었다면, 지금까지 기다리지도 않았을 거야."
 AvgDialog_19073_Content_30,agUc,avg章4_AvgDialog_C_M.csv,507,AvgDialog,Content,朵尔,愿银钥指引前路。,은빛 열쇠가 앞길을 인도하기를.
+AvgDialog_19073_Content_31,agUd,avg章4_AvgDialog_C_M.csv,508,AvgDialog,Content,玩家,……,...
 AvgDialog_19073_Content_32,agUe,avg章4_AvgDialog_C_M.csv,509,AvgDialog,Content,玩家,愿银钥指引我们。,은빛 열쇠가 우리를 인도하기를.
 AvgDialog_19073_Content_33,agUf,avg章4_AvgDialog_C_M.csv,510,AvgDialog,Content,,你戴上金属单片镜，和拉蒙娜转身朝着走廊的最东侧突围。,"당신은 금속 단안경을 쓰고, 라모나와 함께 몸을 돌려 복도 가장 동쪽으로 돌파했다."
 AvgDialog_19073_Content_34,agUg,avg章4_AvgDialog_C_M.csv,511,AvgDialog,Content,,在余光中，赫伯特唤出的十来只实验体已将朵尔牢牢包围，各个垂涎欲滴，蠢蠢欲动。,"시야의 끝자락에서, 허버트가 불러낸 십여 마리의 실험체가 돌을 단단히 포위하고, 저마다 침을 흘리며 꿈틀거리고 있었다."
@@ -2417,6 +2798,7 @@ AvgDialog_19071_Content_3,agSY,avg章4_AvgDialog_C_M.csv,571,AvgDialog,Content,,
 AvgDialog_19071_Content_4,agTj,avg章4_AvgDialog_C_M.csv,572,AvgDialog,Content,,视觉消失在了粗粝的白色幻觉中，如患上了雪盲一般。,"시각은 거친 흰색 환각 속으로 사라졌고, 마치 설맹에 걸린 것 같았다."
 AvgDialog_19071_Content_5,agTu,avg章4_AvgDialog_C_M.csv,573,AvgDialog,Content,,"扭曲的混沌中，意识被拉出身体，知觉被送往了极远的、极寒的维度。
 那个<Yellow:梦境>再度造访了你……","뒤틀린 혼돈 속에서, 의식은 몸에서 빠져나갔고, 지각은 아주 멀고, 아주 추운 차원으로 보내졌다.\n그 <Yellow:꿈>이 다시 당신을 찾아왔다……"
+AvgDialog_19071_Content_6,agTz,avg章4_AvgDialog_C_M.csv,574,AvgDialog,Content,,……,...
 AvgDialog_19071_Content_7,agTA,avg章4_AvgDialog_C_M.csv,575,AvgDialog,Content,,艾尔沃斯发生的事早已超越了<Yellow:你>所知的常理，但现在你顾不上感到混乱，还有更重要的事情等着你去完成。,"아이즐워스에서 일어난 일은 이미 <Yellow:당신>이 아는 상식을 뛰어넘었지만, 지금 당신은 혼란스러워할 겨를이 없었다. 더 중요한 일이 당신을 기다리고 있었다."
 AvgDialog_19071_Content_8,agTB,avg章4_AvgDialog_C_M.csv,576,AvgDialog,Content,弗朗西斯？,帮帮我…拦住他们。,도와줘… 저들을 막아줘.
 AvgDialog_19071_Content_9,agTC,avg章4_AvgDialog_C_M.csv,577,AvgDialog,Content,纯白的少女,好的，主人。,"알겠습니다, 주인님."
@@ -2424,6 +2806,7 @@ AvgDialog_19071_Content_10,agSD,avg章4_AvgDialog_C_M.csv,578,AvgDialog,Content,
 AvgDialog_19071_Content_11,agSE,avg章4_AvgDialog_C_M.csv,579,AvgDialog,Content,纯白的少女,<Shake:@2——@1——>,<Shake:@2——@1——>
 AvgDialog_19071_Content_12,agSF,avg章4_AvgDialog_C_M.csv,580,AvgDialog,Content,,黑色的怪球向教徒扑去，人群开始骚动起来。,"검은 괴상한 공이 교도들에게 달려들자, 군중이 소란스러워지기 시작했다."
 AvgDialog_19071_Content_13,agSG,avg章4_AvgDialog_C_M.csv,581,AvgDialog,Content,,你和伯特兰上校抓紧混乱的空隙，钻入小道之中。,"당신과 베르트랑 대령은 혼란스러운 틈을 타, 좁은 길로 숨어들었다."
+AvgDialog_19071_Content_14,agSH,avg章4_AvgDialog_C_M.csv,582,AvgDialog,Content,,……,...
 AvgDialog_19071_Content_15,agSI,avg章4_AvgDialog_C_M.csv,583,AvgDialog,Content,,…………,…………
 AvgDialog_19071_Content_16,agSJ,avg章4_AvgDialog_C_M.csv,584,AvgDialog,Content,,在黑暗中行进了不知道多久，身后不远处始终有嘶吼声、怪叫声、喘息声、呢喃声和呓语声传来。,"어둠 속을 얼마나 걸었는지 모른다. 등 뒤 멀지 않은 곳에서 시종일관 울음소리, 괴성, 숨소리, 속삭임, 잠꼬대 소리가 들려왔다."
 AvgDialog_19071_Content_17,agSK,avg章4_AvgDialog_C_M.csv,585,AvgDialog,Content,伯特兰,快，踩着我的肩膀，你先爬上去！,"빨리, 내 어깨를 밟고, 네가 먼저 올라가!"
@@ -2448,6 +2831,7 @@ AvgDialog_19071_Content_31,agTa,avg章4_AvgDialog_C_M.csv,599,AvgDialog,Content,
 AvgDialog_19071_Content_32,agTb,avg章4_AvgDialog_C_M.csv,600,AvgDialog,Content,,……原来你什么都没能取回来。,……결국 당신은 아무것도 되찾지 못했다.
 AvgDialog_19071_Content_33,agTc,avg章4_AvgDialog_C_M.csv,601,AvgDialog,Content,,身体一沉，冰冷的掌心搭上了你的肩头。,"몸이 푹 가라앉으며, 차가운 손바닥이 당신의 어깨에 닿았다."
 AvgDialog_19071_Content_34,agTd,avg章4_AvgDialog_C_M.csv,602,AvgDialog,Content,纯白的少女,危险，主人。请给我命令。,"위험합니다, 주인님. 명령을 내려주십시오."
+AvgDialog_19071_Content_35,agTe,avg章4_AvgDialog_C_M.csv,603,AvgDialog,Content,,……,...
 AvgDialog_19071_Content_36,agTf,avg章4_AvgDialog_C_M.csv,604,AvgDialog,Content,,…………,…………
 AvgDialog_19071_Content_37,agTg,avg章4_AvgDialog_C_M.csv,605,AvgDialog,Content,,"经过几日跋涉，那些追赶你们的怪物和教徒都消失在了雪原中。
 你和女孩扫去了些积雪，依偎在篝火旁休息。","며칠간의 여정 끝에, 당신들을 쫓던 괴물들과 교도들은 설원 속으로 사라졌다.\n당신과 소녀는 쌓인 눈을 좀 치우고, 모닥불 옆에 기대어 쉬었다."
@@ -2457,6 +2841,7 @@ AvgDialog_19071_Content_40,agTk,avg章4_AvgDialog_C_M.csv,608,AvgDialog,Content,
 AvgDialog_19071_Content_41,agTl,avg章4_AvgDialog_C_M.csv,609,AvgDialog,Content,弗朗西斯？,你有名字吗？,이름이 있니?
 AvgDialog_19071_Content_42,agTm,avg章4_AvgDialog_C_M.csv,610,AvgDialog,Content,,她一边咀嚼汁水四溢的烤肉，一边摇头。,"그녀는 육즙이 흐르는 구운 고기를 씹으며, 고개를 저었다."
 AvgDialog_19071_Content_43,agTn,avg章4_AvgDialog_C_M.csv,611,AvgDialog,Content,弗朗西斯？,那……家人呢？你知道自己的父母在哪吗？,그럼…… 가족은? 부모님이 어디 계신지 아니?
+AvgDialog_19071_Content_44,agTo,avg章4_AvgDialog_C_M.csv,612,AvgDialog,Content,纯白的少女,……,...
 AvgDialog_19071_Content_45,agTp,avg章4_AvgDialog_C_M.csv,613,AvgDialog,Content,,她看了看你，看了看远方的雪峰，又仰头看了看无垠的高空，摇了摇头。,"그녀는 당신을 보고, 멀리 있는 설산을 보고, 다시 고개를 들어 끝없는 하늘을 보더니, 고개를 저었다."
 AvgDialog_19071_Content_46,agTq,avg章4_AvgDialog_C_M.csv,614,AvgDialog,Content,弗朗西斯？,……总归，还是需要一个名字的。,"……어쨌든, 이름은 있어야지."
 AvgDialog_19071_Content_47,agTr,avg章4_AvgDialog_C_M.csv,615,AvgDialog,Content,弗朗西斯？,就叫你<Blue:莉莉>，可以吗？,"<Blue:릴리>라고 부를게, 괜찮니?"
@@ -2543,6 +2928,7 @@ AvgDialog_19055_Content_5,agKZ,avg章4_AvgDialog_C_M.csv,682,AvgDialog,Content,�
 AvgDialog_19055_Content_6,agLa,avg章4_AvgDialog_C_M.csv,683,AvgDialog,Content,拉蒙娜,你能<Yellow:感觉到疼痛>的，对吧？,"너는 <Yellow:아픔을 느낄 수> 있잖아, 그렇지?"
 AvgDialog_19055_Content_7,agLb,avg章4_AvgDialog_C_M.csv,684,AvgDialog,Content,,“啪”地一声，寡妇甩了莉莉一个巴掌。,"「짝」 소리와 함께, 과부가 릴리의 뺨을 때렸다."
 AvgDialog_19055_Content_8,agLc,avg章4_AvgDialog_C_M.csv,685,AvgDialog,Content,,莉莉捂着脸退后两步，缩在了%player%的身后。,"릴리는 얼굴을 감싸고 두 걸음 물러나, %player%의 뒤에 숨었다."
+AvgDialog_19055_Content_9,agLd,avg章4_AvgDialog_C_M.csv,686,AvgDialog,Content,莉莉,……,...
 AvgDialog_19055_Content_10,agKA,avg章4_AvgDialog_C_M.csv,687,AvgDialog,Content,拉蒙娜,为什么不告诉母亲你已经恢复了痛觉呢？,왜 엄마에게 통각이 돌아왔다고 말하지 않는 거야?
 AvgDialog_19055_Content_11,agKB,avg章4_AvgDialog_C_M.csv,688,AvgDialog,Content,拉蒙娜,你明明已经感到疼了，为什么一次都不肯说出来呢？,"너는 분명히 아픔을 느끼고 있는데, 왜 한 번도 말하지 않는 거야?"
 AvgDialog_19055_Content_12,agKC,avg章4_AvgDialog_C_M.csv,689,AvgDialog,Content,莉莉,<Shake:母亲说…好孩子……不怕疼……>,<Shake:엄마가… 착한 아이는…… 아픈 걸 무서워하지 않는다고……>
@@ -2613,6 +2999,7 @@ AvgDialog_19066_Content_39,agPA,avg章4_AvgDialog_C_M.csv,747,AvgDialog,Content,
 莉莉想和妈妈一起，体验更多更多……","우리… 앞으로도 함께 이런 경험을 더 많이 할 수 있어.\n릴리는 엄마와 함께, 더 많은 것을 경험하고 싶어……"
 AvgDialog_19066_Content_40,agPC,avg章4_AvgDialog_C_M.csv,748,AvgDialog,Content,莉莉,所以，妈妈还像以前那样，摸摸莉莉的脸，好吗？,"그러니, 엄마, 예전처럼, 릴리의 얼굴을 쓰다듬어 줄래?"
 AvgDialog_19066_Content_41,agPD,avg章4_AvgDialog_C_M.csv,749,AvgDialog,Content,莉莉,我们重新来过，好不好？,"우리 다시 시작하자, 응?"
+AvgDialog_19066_Content_42,agPE,avg章4_AvgDialog_C_M.csv,750,AvgDialog,Content,弗朗西斯,……,...
 AvgDialog_19066_Content_43,agPF,avg章4_AvgDialog_C_M.csv,751,AvgDialog,Content,,弗朗西斯一把抱住莉莉，痛哭失声。,"프랜시스는 릴리를 꼭 껴안고, 소리 내어 울었다."
 AvgDialog_19066_Content_44,agPG,avg章4_AvgDialog_C_M.csv,752,AvgDialog,Content,弗朗西斯,莉莉……莉莉……！,릴리…… 릴리……!
 AvgDialog_19066_Content_45,agPH,avg章4_AvgDialog_C_M.csv,753,AvgDialog,Content,弗朗西斯,我到底……我到底做了些什么啊……,내가 도대체…… 내가 도대체 무슨 짓을 한 거지……
@@ -2825,6 +3212,8 @@ AvgDialog_19068_Content_28,agRs,avg章4_AvgDialog_C_M.csv,940,AvgDialog,Content,
 带离了弗朗西斯——她的母亲的葬身之所。","저항할 능력을 잃은 릴리는, 그렇게 당신들에게 이끌려 이 뒤틀린 공간을 떠났다.\n프랜시스——그녀의 어머니의 무덤을 떠났다."
 AvgDialog_19068_Content_29,agRt,avg章4_AvgDialog_C_M.csv,941,AvgDialog,Content,,离开时，你刻意看了一眼闪烁着诡谲星光的窗外。,"떠날 때, 당신은 일부러 기묘한 별빛이 반짝이는 창밖을 한번 보았다."
 AvgDialog_19068_Content_30,agRv,avg章4_AvgDialog_C_M.csv,942,AvgDialog,Content,,那里一片混沌，除了深沉的光以外，似乎什么都没有。,"그곳은 혼돈으로 가득 차 있었고, 깊은 빛 외에는 아무것도 없는 것 같았다."
+AvgDialog_19068_Content_31,agRw,avg章4_AvgDialog_C_M.csv,943,AvgDialog,Content,,……,...
+AvgDialog_19068_Content_32,agRx,avg章4_AvgDialog_C_M.csv,944,AvgDialog,Content,,……,...
 AvgDialog_19068_Content_33,agRy,avg章4_AvgDialog_C_M.csv,945,AvgDialog,Content,,弗朗西斯满身脏污，向着庞大的怪物缓步前进。,"프랜시스는 온몸이 더러워진 채, 거대한 괴물을 향해 천천히 나아갔다."
 AvgDialog_19068_Content_34,agRz,avg章4_AvgDialog_C_M.csv,946,AvgDialog,Content,弗朗西斯,达芙黛尔曾经提醒过我，凡人对时间进行的极微小的改变，都会招来名为“@4之猎犬”的怪物。,"다포딜이 예전에 내게 경고했었지. 인간이 시간에 가하는 아주 작은 변화라도, 「@4의 파수견」이라는 괴물을 불러올 것이라고."
 AvgDialog_19068_Content_35,agRA,avg章4_AvgDialog_C_M.csv,947,AvgDialog,Content,弗朗西斯,那时我一心想要改变过去，想要贪哪怕一分一秒的时间，逆转被融蚀改变的一切。,"그때 나는 과거를 바꾸고 싶다는 일념에, 단 1분 1초라도 시간을 탐내어, 융식으로 변해버린 모든 것을 되돌리고 싶었어."
@@ -2842,6 +3231,7 @@ AvgDialog_19068_Content_46,agRM,avg章4_AvgDialog_C_M.csv,958,AvgDialog,Content,
 AvgDialog_19068_Content_47,agRN,avg章4_AvgDialog_C_M.csv,959,AvgDialog,Content,莉莉,妈妈，看，地铁海报……,"엄마, 봐, 지하철 포스터……"
 AvgDialog_19068_Content_48,agRO,avg章4_AvgDialog_C_M.csv,960,AvgDialog,Content,弗朗西斯,莉莉也想去旅行吗？但我们不能离开医院，抱歉啊。,"릴리도 여행 가고 싶니? 하지만 우리는 병원을 떠날 수 없어, 미안해."
 AvgDialog_19068_Content_49,agRP,avg章4_AvgDialog_C_M.csv,961,AvgDialog,Content,弗朗西斯,手术就要到关键时刻了，等你病好了，想去哪里妈妈都带你去。,"수술이 중요한 시기야. 네 병이 다 나으면, 어디든 엄마가 데려가 줄게."
+AvgDialog_19068_Content_50,agRR,avg章4_AvgDialog_C_M.csv,962,AvgDialog,Content,,……,...
 AvgDialog_19068_Content_51,agRS,avg章4_AvgDialog_C_M.csv,963,AvgDialog,Content,弗朗西斯,所以，我做出决定了。,"그래서, 나는 결심했어."
 AvgDialog_19068_Content_52,agRT,avg章4_AvgDialog_C_M.csv,964,AvgDialog,Content,弗朗西斯,我的过失，就由我来弥补。,"내 과오는, 내가 메우겠어."
 AvgDialog_19068_Content_53,agRU,avg章4_AvgDialog_C_M.csv,965,AvgDialog,Content,弗朗西斯,你是我“唤醒”的怪物，是我的执念开启了维度的通道，让你降临在这里。,"너는 내가 「깨운」 괴물이야. 내 집념이 차원의 통로를 열어, 너를 이곳에 강림시켰지."
@@ -2855,18 +3245,22 @@ AvgDialog_19036_Content_5,agFa,avg章4_AvgDialog_C_M.csv,972,AvgDialog,Content,�
 AvgDialog_19036_Content_6,agFl,avg章4_AvgDialog_C_M.csv,973,AvgDialog,Content,病人,"也是！像她这么聪明的人，怎么能被这破疗养院所束缚呢？太浪费了！
 你要是有机会见她，记得替我祝她研究顺利呀。","그렇지! 그분처럼 똑똑한 사람이 어떻게 이 낡은 요양원에 묶여 있겠어? 너무 아깝지!\n혹시 그분을 만날 기회가 생기면, 연구가 순조롭게 진행되길 바란다고 전해줘."
 AvgDialog_19036_Content_7,agFw,avg章4_AvgDialog_C_M.csv,974,AvgDialog,Content,宁菲亚,嗯，祝她……一切顺利。,"네, 그분의…… 모든 일이 순조롭기를."
+AvgDialog_19036_Content_8,agFH,avg章4_AvgDialog_C_M.csv,975,AvgDialog,Content,,……,...
 AvgDialog_19036_Content_9,agFS,avg章4_AvgDialog_C_M.csv,976,AvgDialog,Content,金发孩子,丽莎妈妈，丽莎又来信啦！她说她和达芙黛尔夫人已经离开勒姆瓦希王国沙漠，乘大船横跨大洋到新兴的亚格罗共和国去了。,"리사 엄마, 리사한테서 또 편지가 왔어요! 리사랑 다포딜 부인은 이미 렘와시 왕국 사막을 떠나, 큰 배를 타고 대양을 건너 신흥 아그로 공화국으로 갔대요."
 AvgDialog_19036_Content_10,agDT,avg章4_AvgDialog_C_M.csv,977,AvgDialog,Content,金发孩子,真好啊，我什么时候也能去这么远的地方呢……,"좋겠다, 나도 언젠가 저렇게 먼 곳에 가볼 수 있을까……"
 AvgDialog_19036_Content_11,agEe,avg章4_AvgDialog_C_M.csv,978,AvgDialog,Content,寡妇,这孩子，希望她一到下个码头，就赶紧寄信回来……,"이 아이, 다음 항구에 도착하면, 바로 편지를 보내줬으면 좋겠는데……"
+AvgDialog_19036_Content_12,agEl,avg章4_AvgDialog_C_M.csv,979,AvgDialog,Content,,……,...
 AvgDialog_19036_Content_13,agEm,avg章4_AvgDialog_C_M.csv,980,AvgDialog,Content,,希洛孑立码头，长发随风猎猎舞动。,"히로는 부두에 홀로 서 있었고, 긴 머리카락이 바람에 세차게 흩날렸다."
 AvgDialog_19036_Content_14,agEn,avg章4_AvgDialog_C_M.csv,981,AvgDialog,Content,水手,船要开了，要登船吗？,"배 떠납니다, 타시겠어요?"
 AvgDialog_19036_Content_15,agEo,avg章4_AvgDialog_C_M.csv,982,AvgDialog,Content,,"希洛挥了挥手，示意渡船不必等待自己。
 她还没有想好下一站的地点。","히로는 손을 흔들어, 배가 자신을 기다릴 필요 없다고 신호했다.\n그녀는 아직 다음 목적지를 정하지 못했다."
 AvgDialog_19036_Content_16,agEp,avg章4_AvgDialog_C_M.csv,983,AvgDialog,Content,萝坦,有机会的话，去见识见识更广阔的世界吧。,"기회가 된다면, 더 넓은 세상을 보러 가거라."
+AvgDialog_19036_Content_17,agEq,avg章4_AvgDialog_C_M.csv,984,AvgDialog,Content,,……,...
 AvgDialog_19036_Content_18,agEr,avg章4_AvgDialog_C_M.csv,985,AvgDialog,Content,,在水手的惊呼声中，希洛锁链一钩，跃上甲板。,"선원의 놀란 외침 속에서, 히로는 쇠사슬을 한 번 휘둘러, 갑판 위로 뛰어올랐다."
 AvgDialog_19036_Content_19,agEs,avg章4_AvgDialog_C_M.csv,986,AvgDialog,Content,,汽笛声中，海岸逐渐远去。,"기적 소리 속에서, 해안은 점점 멀어져 갔다."
 AvgDialog_19036_Content_20,agEu,avg章4_AvgDialog_C_M.csv,987,AvgDialog,Content,希洛,哼…弥萨格的那些家伙……,흥… 미사그의 그 녀석들……
 AvgDialog_19036_Content_21,agEv,avg章4_AvgDialog_C_M.csv,988,AvgDialog,Content,希洛,这次，算我欠他们的。,"이번에는, 내가 그들에게 빚을 졌군."
+AvgDialog_19036_Content_22,agEw,avg章4_AvgDialog_C_M.csv,989,AvgDialog,Content,,……,...
 AvgDialog_19036_Content_23,agEx,avg章4_AvgDialog_C_M.csv,990,AvgDialog,Content,,返回弥萨格后，你在宿舍的床上躺了三天三夜，水米不进。,"미사그로 돌아온 후, 당신은 기숙사 침대에서 사흘 밤낮을 누워 있었고, 물 한 모금 마시지 않았다."
 AvgDialog_19036_Content_24,agEy,avg章4_AvgDialog_C_M.csv,991,AvgDialog,Content,,守密人的昏迷成了弥萨格大新闻，被汉娜写进了校报的头版头条，不时会有其他系的学生在你的门口张望。,"수호자의 혼수상태는 미사그의 큰 뉴스가 되었고, 한나가 교내 신문 1면에 대서특필하여, 때때로 다른 학과 학생들이 당신의 문 앞을 기웃거렸다."
 AvgDialog_19036_Content_25,agEz,avg章4_AvgDialog_C_M.csv,992,AvgDialog,Content,,所以，你苏醒的消息，也毫不意外地在第一时间内传播开来。,"그래서, 당신이 깨어났다는 소식도, 놀랍지 않게 순식간에 퍼져나갔다."
@@ -2887,6 +3281,7 @@ AvgDialog_19036_Content_38,agEN,avg章4_AvgDialog_C_M.csv,1005,AvgDialog,Content
 AvgDialog_19036_Content_39,agEO,avg章4_AvgDialog_C_M.csv,1006,AvgDialog,Content,朵尔唤醒体,因为是和达芙黛尔那个黑心商人买来的，单片的价值大概能兑换5个我的人工躯体。,"다포딜이라는 그 악덕 상인에게서 산 거라, 단안경 하나 가격이 내 인공 육체 5개랑 맞먹을 거야."
 AvgDialog_19036_Content_40,agEQ,avg章4_AvgDialog_C_M.csv,1007,AvgDialog,Content,朵尔唤醒体,所以如果你额外报销了几枚的话，我建议你卖身给德克斯特勋爵打工还债。,"그러니 만약 네가 추가로 몇 개를 더 청구했다면, 덱스터 경에게 몸을 팔아서라도 빚을 갚는 게 좋을 거야."
 AvgDialog_19036_Content_41,agER,avg章4_AvgDialog_C_M.csv,1008,AvgDialog,Content,德克斯特,不胜荣幸。,영광이군.
+AvgDialog_19036_Content_42,agES,avg章4_AvgDialog_C_M.csv,1009,AvgDialog,Content,玩家,……,...
 AvgDialog_19036_Content_43,agET,avg章4_AvgDialog_C_M.csv,1010,AvgDialog,Content,,来探望你的人潮一波又一波，甚至让你觉得比外勤调查更加疲惫。,"당신을 찾아온 문병객은 파도처럼 밀려왔고, 당신은 오히려 외부 조사보다 더 피곤하다고 느꼈다."
 AvgDialog_19036_Content_44,agEU,avg章4_AvgDialog_C_M.csv,1011,AvgDialog,Content,,直至所有人散去，你合眼喘了口气，正准备再躺下休息时，一个无比熟悉的身影悄然出现在你床前。,"모두가 떠나고, 당신은 눈을 감고 한숨을 쉬었다. 다시 누워 쉬려던 참에, 아주 익숙한 모습이 조용히 당신의 침대 앞에 나타났다."
 AvgDialog_19036_Content_45,agEV,avg章4_AvgDialog_C_M.csv,1012,AvgDialog,Content,拉蒙娜,你想…去看看莉莉吗？,릴리를… 보러 갈래?
@@ -2930,6 +3325,7 @@ AvgDialog_19036_Content_75,agFC,avg章4_AvgDialog_C_M.csv,1042,AvgDialog,Content
 AvgDialog_19036_Content_76,agFD,avg章4_AvgDialog_C_M.csv,1043,AvgDialog,Content,,A.F.290 艾尔沃斯,A.F.290 아이즐워스
 AvgDialog_19036_Content_77,agFE,avg章4_AvgDialog_C_M.csv,1044,AvgDialog,Content,,弗朗西斯轻轻擦去少女脸上交杂着油渍与黑泥的污渍。,프랜시스는 소녀의 얼굴에 묻은 기름과 검은 진흙 자국을 부드럽게 닦아주었다.
 AvgDialog_19036_Content_78,agFF,avg章4_AvgDialog_C_M.csv,1045,AvgDialog,Content,弗朗西斯,<Yellow:如果你不介意的话。从今往后，你也可以叫我妈妈。>,"<Yellow:네가 괜찮다면. 앞으로는, 나를 엄마라고 불러도 좋아.>"
+AvgDialog_19036_Content_79,agFG,avg章4_AvgDialog_C_M.csv,1046,AvgDialog,Content,,……,...
 AvgDialog_19036_Content_80,agFI,avg章4_AvgDialog_C_M.csv,1047,AvgDialog,Content,玩家,总觉得心里有块石头落了地。,마음속에 돌덩이가 하나 내려앉은 것 같아.
 AvgDialog_19036_Content_81,agFJ,avg章4_AvgDialog_C_M.csv,1048,AvgDialog,Content,玩家,有萝坦带着，多和奥瑞塔她们相处的话……莉莉应该能很快融入这里吧。,"로탄이 데리고 다니면서, 오레타 애들이랑 자주 어울리면…… 릴리도 금방 여기에 적응할 수 있겠지."
 AvgDialog_19036_Content_82,agFK,avg章4_AvgDialog_C_M.csv,1049,AvgDialog,Content,玩家,还好不是每个人都像你、朵尔和威廉那样天天板着脸，不然活在弥萨格就有点辛苦了。,"다행히 모두가 너나 돌, 윌리엄처럼 매일 굳은 표정을 짓고 있지는 않네. 안 그랬으면 미사그에서 사는 게 좀 힘들었을 거야."
@@ -2975,6 +3371,8 @@ AvgDialog_19036_Content_112,agEh,avg章4_AvgDialog_C_M.csv,1079,AvgDialog,Conten
 AvgDialog_19036_Content_113,agEi,avg章4_AvgDialog_C_M.csv,1080,AvgDialog,Content,朵尔唤醒体,你有没有想过，为什么我在自爆的时候，还要留给你一块银芯呢？,"너는 생각해 본 적 있어? 왜 내가 자폭할 때, 너에게 은심 하나를 남겨뒀는지?"
 AvgDialog_19036_Content_114,agEj,avg章4_AvgDialog_C_M.csv,1081,AvgDialog,Content,,朵尔的声音十分冰冷，但在赫伯特的耳中，却像是带着嘲讽的笑意。,"돌의 목소리는 매우 차가웠지만, 허버트의 귀에는, 마치 조롱하는 듯한 웃음소리처럼 들렸다."
 AvgDialog_19036_Content_115,agEk,avg章4_AvgDialog_C_M.csv,1082,AvgDialog,Content,,朵尔手边的速写本上，刻画着一个清晰的图案。,"돌의 손边 스케치북에는, 선명한 그림이 하나 그려져 있었다."
+AvgDialog_60212_Content_24,anRQ,avg章8_AvgDialog_C_M.csv,410,AvgDialog,Content,玩家,你说什么？,뭔가 말했어?
+AvgDialog_68329_Content_47,apfk,avg章9_AvgDialog_C_M.csv,842,AvgDialog,Content,,谢谢……,고마워...
 AvgRole_1546_RoleName,arps,avg角色_AvgRole_C.csv,551,AvgRole,RoleName,,少年维特,어린 비트
 AvgVideoCaption_90244_Content_1,bxPy,avg视频字幕_AvgVideoCaption_C_M.csv,641,AvgVideoCaption,Content,,哈……,"하아, 하아..."
 AvgVideoCaption_90244_Content_2,bxQk,avg视频字幕_AvgVideoCaption_C_M.csv,642,AvgVideoCaption,Content,,跑到这里那只怪物应该不会再追过来了,여기까지 왔다면 그 괴물은 더 쫓아오지 않겠지
@@ -3789,8 +4187,12 @@ Stage_7911_Name,aVgE,g关卡_Stage_A.csv,426,Stage,Name,,旅途愉快,좋은 여
 Stage_7914_Name,aVgN,g关卡_Stage_A.csv,427,Stage,Name,,人生无友,고독
 Stage_7910_Name,aVgB,g关卡_Stage_A.csv,429,Stage,Name,,藏于帽檐下,모자 아래에 숨겨진
 Stage_8164_Name,aVvg,g关卡_Stage_A.csv,431,Stage,Name,,船到桥头自然直,궁하면 통한다
+Stage_20442_Name,aRPc,g关卡_Stage_A.csv,1731,Stage,Name,,声音如是说,목소리가 들린다
+Stage_20443_Name,aRPf,g关卡_Stage_A.csv,1733,Stage,Name,,声音如是说,목소리가 들린다
+Stage_20440_Name,aROW,g关卡_Stage_A.csv,1734,Stage,Name,,声音如是说,목소리가 들린다
 Stage_35574_Name,aSeM,g关卡_Stage_A.csv,1750,Stage,Name,,寂静的白日,고요한 낮
 Stage_35571_Name,aSeD,g关卡_Stage_A.csv,1751,Stage,Name,,朋友大收集,친구 대모집
+Stage_35575_Name,aSeP,g关卡_Stage_A.csv,1752,Stage,Name,,水里的宫殿,물 속 궁전
 Stage_35572_Name,aSeG,g关卡_Stage_A.csv,1753,Stage,Name,,朋友大收集,친구 대모집
 Stage_35573_Name,aSeJ,g关卡_Stage_A.csv,1754,Stage,Name,,朋友大收集,친구 대모집
 Stage_91088_Name,byrI,g关卡_Stage_A.csv,1918,Stage,Name,,奴隶与奴隶主,노예와 주인
@@ -3932,6 +4334,7 @@ Voice_5005_AwakerVoiceContent,bntq,y语音_Voice_A.csv,991,Voice,AwakerVoiceCont
 Voice_5851_AwakerVoiceContent,boOm,y语音_Voice_A.csv,992,Voice,AwakerVoiceContent,泰旖丝,长大吧——,커다래져라.
 Voice_122115_AwakerVoiceContent,bLdC,y语音_Voice_A.csv,1238,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망도, 도착도, 모두 정해진 운명대로!"
 Voice_122117_AwakerVoiceContent,bLdE,y语音_Voice_A.csv,1239,Voice,AwakerVoiceContent,诞妄·墨菲,虚妄，倒错，都是命运！,"허망도, 도착도, 모두 정해진 운명대로!"
+Voice_5187_AwakerVoiceContent,bnIu,y语音_Voice_A.csv,1621,Voice,AwakerVoiceContent,本源汀克特,唉……,하아...
 Voice_61014_AwakerVoiceContent,bpjK,y语音_Voice_A.csv,2033,Voice,AwakerVoiceContent,哈姆林,它变得清晰了，那段曲折迂回，宛如灵魂的哀恸的旋律……我确定我曾经在哪听过。,"복잡하게 뒤엉킨 영혼의 비통한 선율... 확신했습니다. 저는 이걸, 어디선가 들어본 적이 있다고."
 Voice_61001_AwakerVoiceContent,bpiG,y语音_Voice_A.csv,2034,Voice,AwakerVoiceContent,哈姆林,管乐、弦乐……交错上行再交错，动机再现……我想起来了，这是我作的安魂曲，为那早逝的天才，为那陨落的明星。,"관악기와 현악기가... 얽히고, 더해지고, 다시 교차한다. 아아, 생각났습니다. 이 곡은 제가 요절한 천재, 추락한 신성을 위해 쓴 레퀴엠입니다."
 Voice_60995_AwakerVoiceContent,bpie,y语音_Voice_A.csv,2037,Voice,AwakerVoiceContent,哈姆林,音乐超越语言，超越文字，超越一切。如果这都不算完美，我不知道什么是。,"음악은 언어를 초월하고, 문자를 초월하며, 모든 것을 초월합니다. 음악이 완벽하지 않다면, 저는 완벽이란 것을 모릅니다."
@@ -3954,406 +4357,157 @@ Voice_61000_AwakerVoiceContent,bpiC,y语音_Voice_A.csv,2053,Voice,AwakerVoiceCo
 我的作品，不过是对前人的仿作罢了。","사람들로부터 찬사를 받은 적도 있지만, 제게 있었던 것은 진정한 재능이 아닙니다. 단지 전임자를 잘 모방했을 뿐, 그게 전부입니다."
 Voice_100369_AwakerVoiceContent,bCyD,y语音_Voice_A.csv,2404,Voice,AwakerVoiceContent,皮克曼,艺术的本质，即是疯狂……！,"예술의 본질은, 광기다!"
 Voice_100366_AwakerVoiceContent,bCyx,y语音_Voice_A.csv,2405,Voice,AwakerVoiceContent,皮克曼,艺术的本质，即是疯狂……！,"예술의 본질은, 광기다!"
-AvgCommunicate_67014_Content_6,achU,avg通讯器聊天表_AvgCommunicate_A_M.csv,1565,AvgCommunicate,Content,弥利亚姆,你说什么？,뭔가 말했어?
-AvgCommunicate_67008_Content_1,aces,avg通讯器聊天表_AvgCommunicate_A_M.csv,1596,AvgCommunicate,Content,凯刻斯,唉……,하아...
-AvgDialog_15605_Content_2,adPH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,9,AvgDialog,Content,爽朗的女性,齿轮咬合情况，良好；液压系统，未见压力泄漏；电机MF311000运转正常，温度偏高但在允许范围内。,"기어 간 교합, 양호; 유압 시스템, 압력 누설 없음; 모터 MF311000 정상 작동 중, 온도는 높지만 허용범위 내."
-AvgDialog_15605_Content_3,adPS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,10,AvgDialog,Content,沉稳的女性,特殊能源S，情况稳定。,"특수 에너지 S, 상태 안정."
-AvgDialog_15605_Content_4,adQd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,11,AvgDialog,Content,爽朗的女性,"呼——准备好了吗？
-自动人偶嘀嗒人第十三次启动测试，开始。","후우... 준비됐어? 자동인형 「틱톡맨」 13차 시동 테스트, 시작할게."
-AvgDialog_15605_Content_7,adQw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,14,AvgDialog,Content,,……艾瑞卡？,...에리카?
-AvgDialog_15605_Content_8,adQx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,15,AvgDialog,Content,,熟悉的面容露出与你记忆中截然不同的自然表情，比起自动人偶，她看上去更像个活人。,"익숙한 얼굴. 그러나, 기억 속 자동인형과는 완전히 다른, 마치 살아있는 인간 같은 느낌이었다."
-AvgDialog_15605_Content_9,adQy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,16,AvgDialog,Content,,……这是怎么回事？,...어떻게 된 거지?
-AvgDialog_15605_Content_10,adPx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,17,AvgDialog,Content,,难道你又进入唤醒体的过去了？你记得好像是在看文件……,"설마, 또 각성체의 과거에 들어온 건가? 분명 방금 전까지 서류를 보고 있었을 텐데..."
-AvgDialog_15605_Content_12,adPz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,19,AvgDialog,Content,沉稳的女性,这就要看情况了，你昨天是不是在我走了之后又偷偷加工模块了？,그건 상황에 따라 다르겠지. 어제 내가 돌아간 뒤에 또 몰래 부품을 가공한 거 아니야?
-AvgDialog_15605_Content_13,adPA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,20,AvgDialog,Content,艾瑞卡人形,"没有没有，这次真没有，发誓！
-要不我再试一次吧，嘀嗒人，你能听得见吗？","안했어, 안했어! 이번엔 진짜 안했어! 맹세할게! 다시 한번 시도해보자... 틱톡맨, 들려?"
-AvgDialog_15605_Content_16,adPD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,23,AvgDialog,Content,艾瑞卡人形,"世上第一台能听从语音指令的全自动机械人偶！第一台！全自动！
-亲爱的父神啊，现在就带走我吧，我的人生已经没有任何遗憾！","세계 최초로 음성 지령에 따르는 전자동 기계인형의 탄생! 전자동이라고! 부신이시여, 이제 인생에 후회란 없으니, 절 데려가 주소서."
-AvgDialog_15605_Content_17,adPE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,24,AvgDialog,Content,沉稳的女性,我倒是有很多遗憾，比如没有完成指令响应测试，肢体灵活度测试，运转时间测试……,"나한텐 있지만 말이지. 명령 응답 테스트, 사지 가동 테스트, 가동 시간 테스트, 어느 것도 아직 끝나지 않았다는 게 미련이야."
-AvgDialog_15605_Content_18,adPF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,25,AvgDialog,Content,艾瑞卡人形,梅——伊——你真的是一点也不有趣。,"메이~, 정말 재미없다니까."
-AvgDialog_15605_Content_19,adPG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,26,AvgDialog,Content,梅伊,……整体协调测试，平衡测试，承重测试……,"...전체 연동 테스트, 균형 유지 테스트, 중량 부하 테스트..."
-AvgDialog_15605_Content_21,adPJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,28,AvgDialog,Content,梅伊,你说什么？,뭔가 말했어?
-AvgDialog_15605_Content_22,adPK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,29,AvgDialog,Content,艾瑞卡人形,"啊——接下来进行基础指令接收与理解测试！
-嘀嗒人，眨眼。","아... 그럼 다음은 기본 지령 수신과 이해 테스트를 시작할게! 틱톡맨, 눈을 깜빡여봐."
-AvgDialog_15605_Content_24,adPM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,31,AvgDialog,Content,艾瑞卡人形,"看着我的手指，很好。
-张嘴？非常好，真是我的好孩子。","내 손가락을 봐봐, 좋아. 입을 열어볼래? 잘했어요, 착한 우리 아이!"
-AvgDialog_15605_Content_25,adPN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,梅伊,……呕。,...우엑.
-AvgDialog_15605_Content_26,adPO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,33,AvgDialog,Content,艾瑞卡人形,干嘛！怎么说也是我一点一点造出来的，叫我一声妈妈也合情合理嘛。,어때서! 이래뵈도 내가 하나하나 만들어낸 거야. 엄마라고 불려도 이상할 것 없다고.
-AvgDialog_15605_Content_27,adPP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,34,AvgDialog,Content,梅伊,是的是的，齿轮狂妈妈，把你亲爱的钢铁宝贝的左手臂拿来吧，要开始进行肢体测试了。,"그래그래, 톱니광 엄마. 네 귀여운 철제 베이비의 왼팔 좀 가져와줄래? 사지 테스트를 시작할 거야."
-AvgDialog_15605_Content_28,adPQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,35,AvgDialog,Content,,由复杂的齿轮及你看不懂的机械结构构成的手臂短暂地出现在你的视野里，然后消失在你左侧，接着是右侧。,"정밀한 톱니와, 당신에겐 이해할 수 없는 복잡한 구조로 만들어진 팔다리가 시야에 잠깐 나타나 왼쪽으로 사라졌고, 이어서 오른쪽으로 사라졌다."
-AvgDialog_15605_Content_31,adPU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,38,AvgDialog,Content,,"浓烈的黑烟从你视线下方升起：有什么东西烧起来了。
-你低头，看到自己腹腔处有电光和火花闪烁。",검은 연기가 당신의 시야 아래에서 솟아오른다. 무언가가 타고 있었다. 아래를 보자 복부에서 불꽃과 스파크가 파직파직하고 튀고 있었다.
-AvgDialog_15605_Content_34,adPX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,41,AvgDialog,Content,,"灭火器喷出白色的泡沫，焦糊的味道随着气流弥散。
-艾瑞卡凑上前，顾不得电机的滚烫将它拆了下来。","소화기에서 하얀 거품이 뿜어졌고, 동시에 탄내가 진동했다. 에리카는 뜨거워진 모터를 개의치 않고 필사적으로 떼어냈다."
-AvgDialog_15605_Content_36,adPZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,43,AvgDialog,Content,,烧黑的电机放在工作台上，艾瑞卡喘了口气，后知后觉地对着沾了白色泡沫的手吹气。,"검게 탄 모터를 작업대 위에 올려두고, 에리카는 숨을 가다듬었다. 겨우 진정하고 나서야, 자신의 손에 묻은 거품을 후우 하고 불어낸다."
-AvgDialog_15605_Content_37,adQa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,44,AvgDialog,Content,艾瑞卡人形,烫死我了烫死我了。,뜨거워라... 화상 입을 뻔했어...
-AvgDialog_15605_Content_38,adQb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,45,AvgDialog,Content,梅伊,能源S，快看看能源S！,에너지 S는!? 에너지 S의 상태를 확인해 봐!
-AvgDialog_15605_Content_40,adQe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,47,AvgDialog,Content,艾瑞卡人形,看样子是外部线路短路起火，应该没有伤到内部。,아무래도 외부 배선 단락으로 불이 난 것 같아. 내부까지 피해가 생기진 않았을 거야.
-AvgDialog_15605_Content_41,adQf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,48,AvgDialog,Content,艾瑞卡人形,别担心，我一会儿会检查的。,걱정 마. 조금 있다 제대로 확인해볼 테니까.
-AvgDialog_15605_Content_42,adQg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,49,AvgDialog,Content,梅伊,……你又要把我赶出去？,...또 나를 내보내려고?
-AvgDialog_15605_Content_43,adQh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,50,AvgDialog,Content,艾瑞卡人形,梅伊……,메이...
-AvgDialog_15605_Content_44,adQi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,51,AvgDialog,Content,梅伊,擅自拿能源S做实验是我不对，但我们的资金状况你也知道，以S为突破口能为我们换来更多的时间和材料。,"허락 없이 에너지 S로 실험한 건 미안해. 그렇지만, 우리 자금 상황은 알고 있잖아? S를 돌파구로 쓴다면 자금을 더 얻을 수 있어."
-AvgDialog_15605_Content_45,adQj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,52,AvgDialog,Content,梅伊,"你就让我看看吧，一次就好，我发誓我不会向任何人透露它的信息。
-求你了。",부탁이니까 보게 해줘. 한 번만이라도 좋아. 절대 누구에게도 정보를 누설하지 않겠다고 맹세할게. 부탁이야.
-AvgDialog_15605_Content_46,adQk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,53,AvgDialog,Content,艾瑞卡人形,我说过的，里面什么也没有。,이미 말했잖아. 안에는 아무것도 없어.
-AvgDialog_15605_Content_47,adQl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,54,AvgDialog,Content,梅伊,"……连借口都懒得编了，有必要这么防着我吗？
-我难道不是一直都为了我们的未来着想吗？",...변명조차 하지 않네. 날 그렇게나 못 믿는 거야? 나는 계속 우리의 미래를 위해 노력해왔는데.
-AvgDialog_15605_Content_48,adQm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,55,AvgDialog,Content,艾瑞卡人形,……,...
-AvgDialog_15605_Content_49,adQn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,56,AvgDialog,Content,梅伊,"算了。
-我去乔伊餐馆坐会儿，你爱怎样就怎样吧。","이제 됐어. 조이네 레스토랑에 갔다 올 테니까, 마음대로 해."
-AvgDialog_15605_Content_51,adQq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,58,AvgDialog,Content,艾瑞卡人形,"她还是……可那个人警告过我的，能源S……
-我不能让梅伊和我一起承担风险。",역시 메이는... 하지만 그 사람의 경고처럼 에너지 S는... 메이한테까지 나와 같은 위험을 지게 할 수는 없어.
-AvgDialog_15605_Content_52,adQr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,59,AvgDialog,Content,,她重新转向电机，像是振作了精神。,"그녀는 다시 모터 쪽으로 돌아서서, 기분을 바꾸려는 듯 고개를 들었다."
-AvgDialog_15605_Content_53,adQs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,60,AvgDialog,Content,艾瑞卡人形,我会搞清楚的，等我，梅伊。,"내가 반드시 해명해보일 테니까. 기다려 줘, 메이."
-AvgDialog_15606_Content_1,adQz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,63,AvgDialog,Content,,声音如是说,목소리가 들린다
-AvgDialog_15606_Content_2,adQK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,64,AvgDialog,Content,艾瑞卡人形,嘀嗒人，亲爱的，你听得到我吗？,"틱톡맨, 내 목소리가 들려?"
-AvgDialog_15606_Content_3,adQV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,65,AvgDialog,Content,,从恒久的黑暗中苏醒，你发现自己还在工作室里，烧黑的电机仍旧摆在工作台上，用数条粗细不一的线缆与你的躯体相连。,"깊은 어둠에서 깨어났을 때, 당신은 아직 작업실에 있었다. 타버린 모터가 작업대에 놓여져, 여러 가닥의 전선이 당신과 연결되어 있다."
-AvgDialog_15606_Content_8,adRx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,70,AvgDialog,Content,,她松了口气，像是才感受到疲惫一样大大地打了个呵欠。,"그녀는 안도의 한숨을 쉬고, 이제서야 피로를 느낀 듯 크게 하품했다."
-AvgDialog_15606_Content_9,adRy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,71,AvgDialog,Content,艾瑞卡人形,我得去喝一杯咖啡，还有晚餐……,커피라도 마셔야겠어. 그리고 저녁식사도...
-AvgDialog_15606_Content_13,adQD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,75,AvgDialog,Content,,"这是艾瑞卡的手，你认识的那个<Blue:自动人偶艾瑞卡>的手。
-你似乎占据了她后来的身体，成为了她制造的那个自动人偶。",이건 에리카의 손이다. 당신이 알고 있는 <Blue:자동인형 에리카>의 손이다. 당신은 나중에 그녀의 신체가 될 자동인형의 몸에 들어온 것 같다.
-AvgDialog_15606_Content_14,adQE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,76,AvgDialog,Content,,"刚才你看到的她分明是个人类。
-到底是什么经历，才把她变成后来那副模样？",방금 보았던 그녀는 명백히 인간이었다. 대체 그녀에게 무슨 일이 일어났기에 그 모습이 된 것일까?
-AvgDialog_15606_Content_16,adQG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,78,AvgDialog,Content,,"你眨眨眼，梅伊不知何时进来了。
-她的视线在房间内转了一圈，最终落在你身旁的电机上。","당신이 눈을 깜빡이자, 어느샌가 메이가 들어와 있었다. 그녀의 시선은 방 안을 한 바퀴 돌아, 마지막으로 당신 옆의 모터에 이르렀다."
-AvgDialog_15606_Content_17,adQH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,梅伊,……,...
-AvgDialog_15606_Content_18,adQI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,80,AvgDialog,Content,,第二次扫视了一圈房间后，她掩上门，快步朝电机走来。,"방을 다시 한번 둘러본 그녀는, 슬며시 문을 닫고 다급히 모터 쪽으로 다가간다."
-AvgDialog_15606_Content_20,adQL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,82,AvgDialog,Content,,盖子拧动，梅伊捏住了里面的东西。这次你看清了，那是一个直径不过5厘米，侧面刻着字母“S”的金属圆筒。,"뚜껑을 돌려, 메이는 안의 물체를 손가락으로 집어올린다. 이번엔 확실히 보였다. 직경 5cm를 넘지 않는, 측면에 「S」라는 글자가 새겨져 있는 금속 원통이었다."
-AvgDialog_15606_Content_21,adQM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,83,AvgDialog,Content,,"一旦她将圆筒完全抽出，你就会再次失去意识。
-所以在那之前，你必须——","그녀가 원통을 완전히 빼내자, 다시 의식을 잃을 것이다. 그 전에 당신은─"
-AvgDialog_15606_Content_22,adQN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,,抓住她的手,그녀의 손을 잡는다
-AvgDialog_15606_Content_25,adQQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,87,AvgDialog,Content,,艾瑞卡撞进房间，脸上的关切在看到梅伊手里的圆筒后瞬间凝固。,"에리카가 방으로 뛰어들어왔다. 걱정스러웠던 얼굴이, 메이의 손에 들린 원통을 본 순간 굳어졌다."
-AvgDialog_15606_Content_26,adQR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,艾瑞卡人形,梅伊，你这是在干什么？,메이... 뭐 하는 거야?
-AvgDialog_15606_Content_27,adQS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,89,AvgDialog,Content,艾瑞卡人形,你在干什么！,뭘 하고 있냐고!
-AvgDialog_15606_Content_28,adQT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,梅伊,我只是在尝试……这个能源……竟然真的可以……,난 그저... 확인하고 싶었어. 이 에너지... 정말로 작동하고 있구나...
-AvgDialog_15606_Content_29,adQU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,91,AvgDialog,Content,,面对驱动了整个电机及所有联通器械的小圆筒，梅伊瞪大了双眼。,"발전기와 모든 기계를 구동시키고 있는 원통을 보며, 메이는 눈을 크게 떴다."
-AvgDialog_15606_Content_32,adQY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,94,AvgDialog,Content,梅伊,不，不，听着，艾瑞卡——这个东西，这个小小的东西，能够做到无损耗，无排放，长时间供能，你还不明白吗？,"아니, 아니야, 에리카. 이 장치, 이 작은 장치 하나만 있으면, 소모도 배출도 없이 장시간 에너지를 공급할 수 있어. 알겠어?"
-AvgDialog_15606_Content_34,adRa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,96,AvgDialog,Content,梅伊,你必须告诉我你是怎么做出来的，你必须！,어떻게 만들었는지 알려줘. 알고 있을 거잖아. 부탁이야!
-AvgDialog_15606_Content_35,adRb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,97,AvgDialog,Content,梅伊,艾瑞卡，你要去哪里？什么叫你不知道怎么做的，艾瑞卡！,"에리카, 어디 가는 거야? 모른다는 게 무슨 말이야? 그걸 만든 건 에리카잖아!"
-AvgDialog_15606_Content_37,adRd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,99,AvgDialog,Content,艾瑞卡人形,你怎么就是不听——我不知道这东西是怎么做的，我做不出来！,"왜 들어주지 않는 거야! 정말로 어떻게 만들어진 건지 몰라, 모른다고!"
-AvgDialog_15606_Content_38,adRe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,100,AvgDialog,Content,梅伊,我已经过了相信童话故事的年纪了，艾瑞卡。什么<Blue:神秘店主>，搪塞我也该找个好点的理由。,"난 이제 동화를 믿는 어린애가 아니야, 에리카. <Blue:신비한 상인>이라니, 변명할 거라면 더 제대로 해."
-AvgDialog_15606_Content_40,adRh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,102,AvgDialog,Content,梅伊,为什么还要把自己困在这种地方，鼓捣这些破铜烂铁？,왜 이런 좁은 곳에서 잡동사니만 만지작거리는 거야?
-AvgDialog_15606_Content_41,adRi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,103,AvgDialog,Content,,梅伊的声音宛如一个巴掌打在了艾瑞卡脸上，她看着自己的搭档、伙伴，难以相信自己听到的东西。,메이의 그 말은 에리카의 얼굴에 따귀처럼 날아들었다. 그녀는 자신의 파트너이자 동료를 바라보며 자신의 귀를 의심했다.
-AvgDialog_15606_Content_42,adRj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,104,AvgDialog,Content,艾瑞卡人形,……破铜烂铁，这就是你真实的想法吗？,"...잡동사니, 그게 네 진심이야?"
-AvgDialog_15606_Content_43,adRk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,105,AvgDialog,Content,艾瑞卡人形,我以为我们有着共同的理想。,난 우리가 같은 꿈을 쫓고 있었다고 생각했는데.
-AvgDialog_15606_Content_44,adRl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,,梅伊咬了咬牙，握紧了手里的圆筒。,"메이는 이를 악물고, 손 안의 원통을 굳게 쥐었다."
-AvgDialog_15606_Content_46,adRn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,艾瑞卡人形,……把特殊能源放下。,...특수 에너지를 내려놔.
-AvgDialog_15606_Content_47,adRo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,109,AvgDialog,Content,梅伊,"想想我们能拥有的一切，更多的资金，更多的资源。
-有了这些你才可以继续你的梦想，有了这些，你才能——","우리가 얻을 수 있는 걸 상상해봐. 더 많은 자금, 더 많은 자원. 그것들이 있으면 너도 꿈을 이어나갈 수 있고, 그러면 너도──"
-AvgDialog_15606_Content_49,adRq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,111,AvgDialog,Content,,艾瑞卡上前抢夺，梅伊闪躲不及，撞到了一旁的柜子上。,"에리카가 앞으로 나가 빼앗으려 하자, 메이는 미처 피하지 못하고 옆의 선반에 부딫힌다."
-AvgDialog_15608_Content_1,adSb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,115,AvgDialog,Content,玩家,这里是……精神空间？,여긴... 정신 공간?
-AvgDialog_15608_Content_2,adSc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,116,AvgDialog,Content,艾瑞卡人形,我的天啊，这到底、这到底是……,"세상에, 이건 대체..."
-AvgDialog_15608_Content_3,adSd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,117,AvgDialog,Content,玩家,声音……艾瑞卡！,이 목소리는... 에리카!
-AvgDialog_15612_Content_1,adTo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,,无形的韵律围绕着你，包裹着你，星星点点的光在远处亮起，显得脆弱而且遥不可及。,"보이지 않는 운율이 당신을 둘러싸고, 먼 곳에서 별같은 빛들이 반짝이고 있다. 그 빛들은 약하고 아득하여 닿을 수 없을 것 같았다."
-AvgDialog_15612_Content_3,adTE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,,你赶紧靠近声音的来源。,당신은 서둘러 소리가 들리는 쪽으로 다가간다.
-AvgDialog_15612_Content_4,adTF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,121,AvgDialog,Content,,那是一个悬浮在空中的光球，透过光球，你看到了一张满是血与砂石的脸——梅伊的脸。,그곳엔 공중에 떠 있는 빛의 구체가 있었다. 그 안에서 당신은 피와 모래로 덮힌 메이의 얼굴을 보았다.
-AvgDialog_15612_Content_5,adTG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,122,AvgDialog,Content,,她似乎处于昏迷中，即使被一只苍白的手轻轻拍打，也没有任何回应。,기절한 그녀는 창백한 손으로 몇 번을 두들겨도 반응하지 않았다.
-AvgDialog_15612_Content_6,adTH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,玩家,<Gray:那只手……>,<Gray:저 손은...>
-AvgDialog_15612_Content_7,adTI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,124,AvgDialog,Content,,"你低下头，确认了心中的猜想：光球中呈现的手与你的手如出一辙。
-那是自动人偶的手，此时正遵循他人的意志而动。","당신은 고개를 내려 자신의 손을 확인한다. 빛의 구체에 비춰진 손은 당신의 것과 똑같았다. 그건 자동인형의 손이었고, 지금은 다른 누군가의 의지에 의해 움직이고 있었다."
-AvgDialog_15612_Content_8,adTJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,125,AvgDialog,Content,艾瑞卡人形,该死的，梅伊！我们得离开这里，梅伊！,"안돼, 메이! 여기서 나가야 해, 메이! 빨리!"
-AvgDialog_15612_Content_9,adTK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,机械手转而按在了梅伊肩上，光球中的画面变换，仍在燃烧的工作室映入眼帘，像是谁在四处张望。,"기계 손이 메이의 어깨에 놓이고, 빛의 구체 속 영상은 타오르고 있는 작업실로 바뀌었다. 마치 누군가를 찾는 것처럼 시선이 바쁘게 움직이고 있었다."
-AvgDialog_15612_Content_10,adTp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,玩家,<Gray:不会吧……难道……>,<Gray:설마... 에리카와 나는...>
-AvgDialog_15612_Content_11,adTq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,128,AvgDialog,Content,,"难道此时，你和艾瑞卡正共享着一具躯壳？
-难道这就是她变成机械人偶的原因？",에리카와 당신은 같은 몸을 공유하고 있는 것 같았다. 이것이 그녀가 기계인형이 된 이유인 것일까.
-AvgDialog_15612_Content_12,adTr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,129,AvgDialog,Content,玩家,<Gray:可是，普通爆炸怎么可能会有这种效果？>,<Gray:하지만 평범한 폭발로 이런 일이 생길 리가 없어...>
-AvgDialog_15612_Content_13,adTs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,？？？,你想救她吗？,그녀를 구하고 싶은가?
-AvgDialog_15612_Content_15,adTu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,132,AvgDialog,Content,,"一个声音凭空出现，它无处不在，又无迹可寻。
-你四处张望，空旷的精神空间内，一个轮廓正在浮现。","한 목소리가 허공에서 들려왔으나, 어디에도 모습은 보이지 않았다. 주위를 둘러보자, 광활한 정신 공간에서 한 형체가 윤곽을 갖춰가기 시작했다."
-AvgDialog_15612_Content_16,adTv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,133,AvgDialog,Content,艾瑞卡人形,谁，谁在那儿？,누구? 거기 있는 건 누구야?
-AvgDialog_15612_Content_17,adTw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,？？？,我是给予你回应的意志，是被你赋予崭新躯体的生命。,"나는 그대에게 응답하는 의지이자, 그대에게 새로운 육신을 받은 생명."
-AvgDialog_15612_Content_18,adTx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,？？？,我可以算作你的造物，而你，是我此生的“母亲”。,"나는 그대의 피조물, 그리고 그대는 나의 「어머니」."
-AvgDialog_15612_Content_19,adTy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,,一只巨大的手凝聚在代表了艾瑞卡精神的光球之后，指尖抽搐颤动，抖下一滴滴黑色的黏液。,거대한 손이 에리카의 정신을 표상하는 빛의 구체 뒤에 나타난다. 손끝은 경련하듯 떨리며 한 방울씩 검은 점액을 떨어뜨렸다.
-AvgDialog_15612_Content_20,adTA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,137,AvgDialog,Content,艾瑞卡人形,……嘀嗒人……？,...틱톡맨...?
-AvgDialog_15612_Content_21,adTB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,？？？,"我喜欢这个名字，没错，就叫我嘀嗒人吧。
-作为给予我新生的报答，我可以帮你救她。
-你只需要放手。","좋은 이름이다. 그래, 나는 틱톡맨. 생명을 받은 보답으로, 그녀를 구해주겠다. 그러니, 손을 놓아라."
-AvgDialog_15612_Content_22,adTC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,？？？,放手，然后，把一切都交给我。,"손을 놓고, 나에게 모든 걸 맡겨라."
-AvgDialog_15612_Content_23,adTD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,,堆积在地上的黏液突然动了，它们彼此交融，凝成一个个扭曲的个体，蠕动着朝光的方向爬来。,"바닥에 쌓인 점액이 돌연 움직였고, 그것들은 서로 뒤섞이더니 뒤틀린 형태로 응결되어, 빛을 향해 꿈틀거리며 기어왔다."
-AvgDialog_15609_Content_1,adSe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,141,AvgDialog,Content,玩家,不，艾瑞卡，不要相信它！,"안돼, 에리카! 믿으면 안돼!"
-AvgDialog_15609_Content_3,adSq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,,趁你对抗眼前敌人的时候，一个黏液组成的怪物绕到你身后，朝代表了艾瑞卡精神的光球扑去。,"당신이 눈앞의 적과 대치하는 동안, 점액으로 구성된 괴물 중 한 개체가 당신의 뒤로 돌아 에리카의 정신적 표상인 빛의 구체로 달려들었다."
-AvgDialog_15609_Content_4,adSr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,,"如入水的颜料，黑暗在光球内扩散，并覆盖了里面的一切。
-光球开始闪烁。","물에서 번지는 물감처럼, 어둠이 빛의 구체 속에서 확산되고 내부의 모든 것을 뒤덮었다. 구체가 번뜩이기 시작했다."
-AvgDialog_15609_Content_5,adSs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,艾瑞卡,怎么回事，我的手……自己……,어떻게 된 거야? 손이... 멋대로...!
-AvgDialog_15609_Content_6,adSt,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,146,AvgDialog,Content,艾瑞卡,是不是你干的？停下，<Big:停下！>,"네가 한 거야? 멈춰, <Big:멈춰!>"
-AvgDialog_15609_Content_7,adSu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,147,AvgDialog,Content,？？？,为什么，难道你不想救她了吗？,왜지? 그녀를 구하고 싶지 않은 건가?
-AvgDialog_15609_Content_8,adSv,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,148,AvgDialog,Content,艾瑞卡,你根本就是要掐死她！快松手！,그녀를 죽이려는 거야?! 빨리 손을 놔!
-AvgDialog_15609_Content_10,adSf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,？？？,"血肉的躯体不过是灵魂的枷锁，只有让灵魂自由，她才能加入我们。
-唯有金属的身躯与心灵，才能让我们永恒。","피와 살로 이뤄진 몸은 영혼의 족쇄에 불과하며, 영혼이 자유로워져야만 그녀가 우리와 함께 할 수 있다. 오직 금속의 몸과 영혼만이, 우리를 영원으로 인도할 수 있다."
-AvgDialog_15609_Content_12,adSh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,艾瑞卡,<Shake:你……疯……>,<Shake:넌... 미쳤어...>
-AvgDialog_15609_Content_13,adSi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,153,AvgDialog,Content,,另一只颤抖的手出现在画面中，艾瑞卡握住自己的手腕一拧，将那只不受控制的手卸下扔到一边。,"또 하나의 떨리는 손이 영상에 나타났다. 에리카는 그녀 자신의 팔을 비틀어, 통제할 수 없는 그 손을 뜯어내어 던져버린다."
-AvgDialog_15609_Content_15,adSk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,155,AvgDialog,Content,？？？,为什么要抵抗我呢？我是在让她获得新生啊。,왜 저항하는가? 그녀에게 새로운 생명을 주려고 했을 뿐인데.
-AvgDialog_15609_Content_18,adSn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,158,AvgDialog,Content,艾瑞卡,我要送她去医院，我要……让她活下去。,그녀를 병원에 데려가야 해. 나는... 그녀를 살리고 싶어.
-AvgDialog_15611_Content_1,adSZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,？？？,"为什么要救她？
-她用你的梦想换前程，你真的一点都不怨恨吗？","왜 그녀를 구하려는 거지? 그녀는 자신의 미래를 위해 그대의 꿈을 팔아넘겼는데, 그녀가 원망스럽지 않은가?"
-AvgDialog_15611_Content_2,adTg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,艾瑞卡,"她只是……做了个错误的决定。
-等她醒过来，我们好好谈谈，一切就都能解决。","그녀는 단지... 잘못된 결정을 했을 뿐이야. 그녀가 깨어나고, 제대로 얘기하면 분명 해결될 거야."
-AvgDialog_15611_Content_3,adTh,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,？？？,最近的电话亭在一公里外，她等不起的。,가장 가까운 공중전화는 1km 밖에 있다. 그녀는 버틸 수 없겠지.
-AvgDialog_15611_Content_4,adTi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,163,AvgDialog,Content,艾瑞卡,抱歉，我宁愿相信人类的求生欲，也不相信你那什么“解放灵魂”的鬼话。,"미안하지만, 네 「영혼의 해방」이라는 거짓말을 믿느니, 인간의 생존 본능을 믿겠어."
-AvgDialog_15611_Content_5,adTj,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,？？？,"若我所言为虚，你要怎么解释自己现在的状态呢？
-血肉躯体已化作碎块，精神却得以留存，甚至可以操控这具躯体继续生活。
-
-这难道不足以证明我说的话吗？","내가 말한 것이 거짓이라면, 지금의 자신을 어떻게 설명할 수 있지? 피와 살로 이루어진 몸은 이미 조각났음에도, 정신만은 남아 이 몸을 자유롭게 조종하고 있다. 이 이상의 증명이 필요한가?"
-AvgDialog_15611_Content_6,adTk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,艾瑞卡,<Big:你不能确定这是我变成这样的原因！>,<Big:그게 내가 이런 몸이 된 이유라고 단언할 수는 없어!>
-AvgDialog_15611_Content_7,adTl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,,艾瑞卡停了一下，她像是想要吸气，却已失去了能这么做的器官。,"에리카는 잠시 멈추어 숨을 고르려 했지만, 그것을 가능케 할 기관은 이미 없었다."
-AvgDialog_15611_Content_8,adTm,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,艾瑞卡,我这是在干什么，和一个幻觉争辩……不要听，不要想，他是幻觉，是有毒气体产生的幻觉——,"환각과 논쟁하다니, 뭘 하고 있는 거람... 듣지 마, 떠올리지 마, 이건 독가스가 만든 환각──"
-AvgDialog_15611_Content_9,adTn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,168,AvgDialog,Content,？？？,"你害怕，所以试图逃避。
-我能理解，刚刚完成<Red:「蜕变」>的我和你一样充满恐惧。","두려움에 도망치는군. 이해할 수 있다. <Red:「탈태」>를 맞이한 직후의 나 역시, 그대처럼 두려워했지."
-AvgDialog_15611_Content_10,adTa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,169,AvgDialog,Content,？？？,但很快我就明白了：这不是灾难，不是幻觉，而是人类的机会。,"하지만 나는 곧 이해했다. 이것은 재앙도 환각도 아닌, 인류의 기회라는 것을."
-AvgDialog_15611_Content_11,adTb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,？？？,"机械中没有病痛，没有死亡；在机械中，我们能创造真正的神国，不，比你们那虚假的神国更好。
-
-我们能超越血肉的生命。",기계에게는 고통도 죽음도 없다. 기계 속에서 우리는 당신들의 거짓된 신국을 뛰어넘을 진정한 신국을 세울 수 있다. 우린 혈육의 생명을 초월할 수 있다.
-AvgDialog_15611_Content_12,adTc,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,,黑色黏液再次从巨手上滴落，它们颤抖着，扭动着，一边向前爬行，一边彼此融合，为声音勾勒出的诡异图景兴奋着。,"거대한 손에서 검은 점액이 다시 떨어져 내렸다. 점액은 떨리며 꿈틀거렸고, 서로 뒤엉켜 융합되면서, 그 목소리가 그려낸 기이한 세계에 환희하는 듯했다."
-AvgDialog_15611_Content_13,adTd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,,声音高昂起来，巨手晃动，甩出更多的黏液，更多的怪物。,"목소리는 더욱 높아지고, 거대한 손은 요동치며, 더 많은 점액과 더욱 많은 괴물들이 쏟아져 나온다."
-AvgDialog_15611_Content_14,adTe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,？？？,我们，能成为神本身。,"우리는, 신이 될 수 있다."
-AvgDialog_15610_Content_1,adSx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,,一个人的防线近乎于无，不管你打碎多少怪物，由黏液组成的身躯很快就能再次聚拢，从你身旁穿过，径直跃入光球之中。,"한 사람만의 방어는 없는 것과 다름 없었다. 당신이 아무리 괴물들을 파괴해도, 그들의 육체는 곧바로 재생되어 당신의 곁을 스쳐 지나가며 빛의 구체로 돌진한다."
-AvgDialog_15610_Content_2,adSI,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,艾瑞卡,可……恶……,제길... 어떻게 해야...
-AvgDialog_15610_Content_3,adSS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,177,AvgDialog,Content,,光球再次闪烁，你看到艾瑞卡的双腿正在不住颤抖。,"빛의 구체가 다시 깜빡거리자, 당신은 에리카의 다리가 떨리는 것이 보였다."
-AvgDialog_15610_Content_4,adST,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,,齿轮彼此咬合锁紧，管道与支架之间有亮黄色的电光一闪而过。,"기어가 맞물려 단단히 잠기고, 파이프와 프레임 사이로 노란 번개가 지나간다."
-AvgDialog_15610_Content_5,adSU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,？？？,不要再抵抗了，把身体的掌控交给我吧。,"저항을 멈추고, 내게 몸의 제어를 맡겨라."
-AvgDialog_15610_Content_6,adSV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,180,AvgDialog,Content,？？？,难道你不想救她了吗？难道你不希望她和你一起获得永恒吗？,그녀를 구하고 싶지 않은가? 그녀와 함께 영원해지는 것을 원치 않는 것인가?
-AvgDialog_15610_Content_7,adSW,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,181,AvgDialog,Content,,更多电光出现在画面中。,화면에 더 많은 번개가 나타났다.
-AvgDialog_15610_Content_8,adSX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,,浮光的粒子从光球中逸散而出，它们聚拢在一起，形成了一个人形的虚影。,"빛의 입자가 구체로부터 흩뿌려졌고, 그것들은 한데 모여 인간의 형태를 갖기 시작한다."
-AvgDialog_15610_Content_10,adSy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,184,AvgDialog,Content,,金黄色的电浆在影子上劈啪作响，艾瑞卡的身形愈发凝实。,"황금빛 플라즈마가 그림자 위에서 탁탁 소리를 내며, 에리카의 모습이 서서히 명확해졌다."
-AvgDialog_15610_Content_11,adSz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,185,AvgDialog,Content,,她抬手用电浆将你身前的怪物打散。巨手动了动，发出一声叹息。,"그녀는 손을 들어 플라즈마로 당신 앞에 있던 괴물을 산산이 흩뜨린다. 거대한 손이 꿈틀거리며, 한숨 같은 소리를 내뱉는다."
-AvgDialog_15610_Content_12,adSA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,？？？,我只是想报答你把我带回来，给我一具新的身体的恩情。何必如此伤害我呢？,나는 그저 나를 데려와 새로운 몸을 준 은혜를 갚고 싶을 뿐. 어째서 이렇게까지 거절하는가?
-AvgDialog_15610_Content_13,adSB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,艾瑞卡,带回？什么带回，我从未……,데려와? 내가? 나는 그저...
-AvgDialog_15610_Content_14,adSC,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,188,AvgDialog,Content,艾瑞卡,这个就能给我的人偶供能？,이런 걸로 내 인형에 전원을 공급할 수 있어?
-AvgDialog_15610_Content_15,adSD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,189,AvgDialog,Content,,艾瑞卡狐疑地拿着那根黑色的金属管，上下左右地打量。,에리카는 의심스러워하며 손에 든 검은 원통을 상하좌우로 훑어보았다.
-AvgDialog_15610_Content_16,adSE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,190,AvgDialog,Content,神秘店主,"如果你是担心它无法支撑人偶的长时间运转的话，不必多虑。
-这样的一个东西，可是足以运转更精细庞大的东西呢。","인형의 장시간 운행을 견딜 수 있을까 걱정하실 필요는 없으니 안심하세요. 이것 하나로, 더 거대하고 정교한 것들도 충분히 움직일 수 있답니다."
-AvgDialog_15610_Content_18,adSG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,神秘店主,和它相似的东西，有，但一模一样的？绝无可能。,"비슷한 건 있을 수 있지만, 완전히 똑같은 건 존재하지 않습니다."
-AvgDialog_15610_Content_19,adSH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,193,AvgDialog,Content,神秘店主,你要的是“独一无二的能源”，而达芙黛尔的小店从不让顾客失望。,당신께서 원하셨던 건 「유일무이한 에너지」잖아요? 다포딜의 가게는 결코 고객을 실망시키지 않는답니다.
-AvgDialog_15610_Content_20,adSJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,神秘店主,"对了，一句友好提醒——不要好奇它的构造和原理。
-潘多拉的魔盒一旦打开，后果就只能你自己承担。","한 가지 충고를 드리자면, 그 물건의 구조와 원리를 알려고 하지 마시길. 판도라의 상자를 열어버리면, 후회하는 건 당신일 테니."
-AvgDialog_15610_Content_21,adSK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,神秘店主,我可不希望你这样的天才英年早逝，除了放映机，我还有很多想要实现的想法呢。,"전 당신 같은 천재가 젊은 나이에 떠나는 걸 원치 않아요. 이번 영사기 말고도, 실현시켜 주셨으면 하는 발상들이 많으니까요."
-AvgDialog_15610_Content_22,adSL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,神秘店主,期待你的下次光临哦，艾瑞卡。,"다음에 또 뵐 수 있기를 기대하죠, 에리카 씨."
-AvgDialog_15610_Content_23,adSM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,艾瑞卡,不，不可能。能源S里明明只有——,"그, 그럴 리 없어. 에너지 S 안에는 분명──"
-AvgDialog_15610_Content_24,adSN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,？？？,"一个小小的<Yellow:银色碎片>，对吧？
-神奇的小东西，不仅能驱动机械，还能保存生物的灵魂。","작은 <Yellow:은빛 조각> 하나. 그렇지? 기계를 움직일 뿐 아니라, 생물의 영혼마저 보관할 수 있는 신비로운 조각."
-AvgDialog_15610_Content_25,adSO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,？？？,"你的精神已经在黑色物质的帮助下融入这具躯体，只要在被它们侵蚀前进入<Yellow:银色的心脏>，你就能真正地不朽。你和我。
-
-作为我此生的“母亲”，你有资格与我共享。
-可惜，你偏偏那么固执。","그대의 정신은 이미 검은 물질의 도움을 받아 이 몸에 녹아들었다. 이제 그것들에 침식되기 전에 <Yellow:은빛 심장>에 도달한다면, 그대는 진정한 불멸이 된다. 당신과 나 모두. 나의 생애의 「어머니」로서, 그대는 나와 함께 할 자격이 있다. 하지만, 그대는 너무나 완강하군."
-AvgDialog_15610_Content_26,adSP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,？？？,我也只能让你被<Yellow:黑色物质>吞噬了。,"그러니, 그대가 <Yellow:검은 물질>에 삼켜지게 두는 수밖에."
-AvgDialog_15610_Content_27,adSQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,201,AvgDialog,Content,,巨手突然动作起来，它张开五指露出掌心，其中的银芯布满裂痕，却依旧闪闪发亮。,"거대한 손이 움직이기 시작한다. 다섯 개의 손가락이 펼쳐지고, 그 손바닥 안에 있는 은빛의 코어는 금이 가면서도 여전히 눈부신 빛을 내뿜고 있다."
-AvgDialog_15610_Content_28,adSR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,202,AvgDialog,Content,？？？,再见，我短暂的造物主。,작별이다. 단명할 나의 창조주여.
-AvgDialog_15607_Content_1,adRz,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,203,AvgDialog,Content,,电浆炮射向巨手，银芯在冲击下剥离掌心，无声地掉落到地上。,"플라즈마 폭발이 거대한 손을 향해 날아갔다. 그 충격에 은심은 손바닥으로부터 떨어져, 소리 없이 바닥에 떨어졌다."
-AvgDialog_15607_Content_2,adRK,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,,片刻的停滞后，巨手溃散瓦解，黑色黏液如大雨一般倾泻而下，它穿过了你，却染黑了艾瑞卡的虚影。,"순간의 정적이 흐른 뒤, 거대한 손은 붕괴되어 사라지고 검은 점액이 폭우처럼 쏟아진다. 그것은 당신을 스쳐 지나가 에리카의 환영만을 새까맣게 물들였다."
-AvgDialog_15607_Content_3,adRU,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,艾瑞卡,结束……了……,끝났...어...
-AvgDialog_15607_Content_4,adRV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,？？？,你真的这样认为吗？,정말 그렇게 생각하는가?
-AvgDialog_15607_Content_6,adRX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,208,AvgDialog,Content,？？？,我说过了，只要进入这银色的心脏就能迎来真正的不朽。,말하지 않았나. 은빛 심장에 도달하면 진정한 불멸을 손에 넣을 수 있다고.
-AvgDialog_15607_Content_7,adRY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,209,AvgDialog,Content,？？？,尽可能挣扎吧，黑色物质终会将你抹去，到时我就能给世界带来真正的<Red:「蜕变」>——人人得以不朽，人人得以永生。,"될 수 있는 한 발버둥쳐 보아라. 검은 물질은 머지않아 너를 완전히 지워버릴 것이다. 그때야말로 나는 세계에 진정한 <Red:「탈태」>를 가져오리라. ——전 인류에게 불사를, 영원의 생명을."
-AvgDialog_15607_Content_8,adRZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,艾瑞卡,那是……死……不是……,그건... 죽음이야... 불멸이 아니야...
-AvgDialog_15607_Content_9,adSa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,,黑色越来越多地占据她的身体，艾瑞卡痛苦地弯下腰，精神已经濒临溃散。,"검은색이 서서히 그녀의 몸을 뒤덮어 간다. 에리카는 고통에 일그러진 표정으로 몸을 웅크렸고, 정신은 붕괴 직전까지 몰려 있었다."
-AvgDialog_15607_Content_10,adRA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,艾瑞卡,我……到底都……做了什么……,나는... 대체... 무슨 짓을...
-AvgDialog_15607_Content_11,adRB,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,213,AvgDialog,Content,？？？,"你还是不理解，不过没关系，你已经推动了这场生命与灵魂的革命，这场<Red:「蜕变」>。
-安心地死去吧，我却确保所有人都记得你的贡献。","아직 이해하지 못한 것 같지만, 상관없다. 그대는 이미 이 생명과 영혼의 혁명인 <Red:「탈태」>를 진행시켰다. 편안히 떠나도록. 그대의 공적은 내가 영원히 전하겠다."
-AvgDialog_15607_Content_13,adRD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,艾瑞卡人形,你是……对的，你一直都是……,"네 말이 맞을지도 몰라... 어쩌면 처음부터, 계속 그래왔던 걸지도..."
-AvgDialog_15607_Content_14,adRE,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,,黑色的泪水从她眼角滑落，她皱着鼻子，突然转头看向你。,"검은 눈물이 그녀의 눈가에서 흘러내린다. 그녀는 코를 훌쩍이며, 문득 당신 쪽으로 시선을 돌린다."
-AvgDialog_15607_Content_15,adRF,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,217,AvgDialog,Content,艾瑞卡人形,我一开始就……应该听……你的……我……不该拿这个东西……,"처음부터... 당신의 말을... 들었어야 했어... 이런 걸, 다루어선 안 됐어..."
-AvgDialog_15607_Content_16,adRG,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,艾瑞卡人形,我的理智……我的……帮我……这最后一次……,"내 이성이... 나의... 부탁이야, 도와줘... 이게, 마지막 소원이야..."
-AvgDialog_15607_Content_17,adRH,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,,这具躯体里真的有第三个意识吗，还是说，你不过是她的负罪感在融蚀影响下的具象化？你不得而知。,정말로 이 몸 안에 제3의 의식이 존재하는 것일까. 아니면 그녀의 죄책감이 융식의 영향으로 형체를 얻은 것일까? 그것은 알 수 없다.
-AvgDialog_15607_Content_19,adRJ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,艾瑞卡人形,帮我……救……,도와... 줘...
-AvgDialog_15607_Content_20,adRL,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,222,AvgDialog,Content,,你只知道你会帮她，见证她作为「人类」的结局。,"그럼에도 당신은 알고 있다. 당신은 그녀를 도울 수 있다. 「인간」으로서의 그녀의 결말을, 당신은 지켜볼 수 있다."
-AvgDialog_15607_Content_21,adRM,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,,握住她的手,그녀의 손을 잡는다
-AvgDialog_15607_Content_25,adRQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,艾瑞卡人形,谢谢……,고마워...
-AvgDialog_15607_Content_26,adRR,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,,虚影如气泡般炸开消散，只剩下那明灭不定的光球，还在散发着最后的光。,환영이 거품처럼 흩어져 사라졌다. 아직 희미하게 빛나고 있는 빛의 구체 하나만이 남아 있었다.
-AvgDialog_15607_Content_27,adRS,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,,你将已经缩小的光球抱在怀里，望向不远处的破碎银芯。,"당신은 작아진 빛의 구체를 퓸애 안고, 위를 바라본다. 그곳에는 산산조각난 은심이 있었다."
-AvgDialog_15613_Content_4,adUs,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,234,AvgDialog,Content,,每一步都有火花飞溅，每一步都能听到机械彼此倾轧摩擦的刺耳声响。,"걸음마다 불꽃이 튀고, 톱니바퀴가 삐걱거리며 맞부딫히는 소리가 들린다."
-AvgDialog_15613_Content_5,adUA,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,235,AvgDialog,Content,,不远处的路灯下，一个公用电话亭静静地伫立。,"머지 않은 가로등 아래, 공중전화 부스가 조용히 서 있다."
-AvgDialog_15613_Content_8,adUD,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,238,AvgDialog,Content,,似乎注意到你们的决心，瘫软在地上的黏液仍然在向着艾瑞卡的意识进攻，连你身上都被染得漆黑。,"당신들의 결심을 알아차린 듯, 바닥에 늘어진 점액들은 계속해서 에리카의 의식을 공격해온다. 당신의 몸 또한 시커멓게 물들어갔다."
-AvgDialog_15613_Content_11,adTN,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,241,AvgDialog,Content,,艾瑞卡向前跪倒在地，过于频繁的短路让她的左腿失去动力，只能用缺少手掌的右臂勉强支撑。,"에리카가 앞으로 쓰러진다. 빈번해진 단락으로 그녀의 왼다리는 동력을 잃었고, 손 없는 오른팔로 가까스레 몸을 지지하고 있었다."
-AvgDialog_15613_Content_12,adTO,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,242,AvgDialog,Content,,"她尽可能小心地将梅伊靠在电话亭旁，然后四肢并用地爬进电话亭。
-电流迫使电话箱启动，她按下报警电话，说出了电话亭的位置。","그녀는 조심스럽게 메이를 공중전화 부스 옆에 기대어 앉힌 뒤, 사지를 동원해 안으로 기어들어갔다. 전류가 흐르며 부스가 작동했고, 그녀는 긴급 호출 버튼을 눌러 자신의 위치를 전달했다."
-AvgDialog_15613_Content_13,adTP,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,243,AvgDialog,Content,艾瑞卡人形,这样……她……就安全了……,이걸로... 그녀는... 안전할 거야...
-AvgDialog_15613_Content_14,adTQ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,244,AvgDialog,Content,艾瑞卡人形,接下来……是……什么呢……,다음에... 는... 뭘...
-AvgDialog_15613_Content_17,adTT,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,247,AvgDialog,Content,,"A.F. 297年@1月@1日03:47分，亚格罗共和国@3州@1@2@1镇东南方发生不明爆炸。冲击波在当地引发了3.8级地震，震感明显，波及到距@1@2@1镇5公里外的村落。
-
-……
-
-A.F. 297年@1月@1日，于亚格罗共和国@3州@1@2@1镇东南方树林中回收部件13个，编号A101至A114。其中A108，A109，A113三个部件损坏严重，已交予朵尔进行设计还原。
-调查队于@2路@1号回收了一系列设计图纸，其中绘图与爆炸现场遗留部件吻合，疑似为爆炸物设计图纸，已一并交予朵尔进行分析。","A.F. 297년 @1월 @1일 03:47, 애글로 공화국 @3주 @1@2@1 마을 동남쪽에서 정체불명의 폭발 발생. 충격파는 현지에 진도 3.8의 지진을 일으켰고, 그 뚜렷한 진동은 5km 떨어진 촌락인 @1@2@1 마을까지 영향을 미침./n/n....../n/nA.F. 297년 @1월 @1일, 애글로 공화국 @3주 @1@2@1 마을 남동쪽 숲에서 13개의 부품을 회수하여 이를 A101 ~ A114로 명명. 그 중 A108, A109, A113 세 개의 부품은 손상이 심하여 설계 복원을 위해 돌에게 전달. 
-조사대는 @2번길 @1호에서 일련의 설계도면을 회수, 그 중 부품도에는 현장에 남았던 부품이 포함되어 있어 폭발물 설계도면으로 의심되는 바 돌에게 전달해 분석을 의뢰. "
-AvgDialog_15613_Content_19,adTV,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,249,AvgDialog,Content,,光球已经很暗淡了，几乎要融入周遭的黑暗之中。,빛의 구체는 금방이라도 사라질 듯 희미하게 빛나고 있다. 이내 어둠에 삼켜질 것만 같다.
-AvgDialog_15613_Content_20,adTX,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,250,AvgDialog,Content,？？？,"就算你挽救了她的血肉躯体，那又如何？
-死亡总会到来，到时候她是会感谢你，还是怨恨你剥夺了她永生的机会？
-
-放手吧，艾瑞卡，让我接管这个身体。
-我会让她<Red:「蜕变」>，让她拥有更好的未来。","설령 그녀의 육체를 구해낸다 하더라도, 죽음은 반드시 찾아온다. 그때 그녀는 영원한 생명을 빼앗아 간 그대를 원망하게 될지도 모르지. 에리카, 이 몸을 나에게 넘겨라. 내가 <Red:「탈태」>시켜, 더 나은 미래를 주겠다."
-AvgDialog_15613_Content_21,adTY,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,251,AvgDialog,Content,艾瑞卡人形,"我……一直觉得……自己会死在爆炸中……
-很抱歉……要……拉着你一起了……",내가... 죽는다면... 폭발로 죽을 줄 알았어... 끌어들여서... 미안... 해...
-AvgDialog_15613_Content_22,adTZ,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,252,AvgDialog,Content,？？？,……你要干什么？,...무엇을 하려는 거지?
-AvgDialog_15613_Content_23,adUa,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,253,AvgDialog,Content,艾瑞卡人形,闭嘴……恶魔……我没有……在和你说话……,닥쳐... 악마... 너한테... 말하는 게 아니야...
-AvgDialog_15613_Content_24,adUb,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,254,AvgDialog,Content,,光球中出现的画面，是一只已经满是焦痕的，还在不断流出电浆的机械手。,"빛의 구체 속에 비춰지는 영상에는, 이미 온통 탄 자국 투성이면서도 멈추지 않고 플라즈마를 흘리는 기계 팔이 있었다."
-AvgDialog_15613_Content_26,adUd,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,256,AvgDialog,Content,艾瑞卡人形,对不起，嘀嗒人……到最后……反而……要亲手毁掉你……,"미안해, 틱톡맨... 마지막엔... 오히려... 내가 널 부수게 됐네..."
-AvgDialog_15613_Content_27,adUe,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,257,AvgDialog,Content,,"沉默降临在你们之间。
-你仍不确定自己在这场梦中的身份，而她，似乎也没有在等一个回应。","정적이 찾아온다. 당신은 아직 이 꿈속에서 자신이 어떤 존재인지 확신하지 못하고 있다. 그러나 그녀 역시, 당신의 대답을 기다릴 생각은 없는 듯했다."
-AvgDialog_15613_Content_28,adUf,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,258,AvgDialog,Content,艾瑞卡人形,唉……,하아...
-AvgDialog_15613_Content_29,adUg,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,259,AvgDialog,Content,艾瑞卡人形,真是……可惜……,정말... 안타까워...
-AvgDialog_15613_Content_30,adUi,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,260,AvgDialog,Content,,她用力一扯。,그녀는 있는 힘껏 케이블을 잡아당겼다.
-AvgDialog_15613_Content_32,adUk,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,262,AvgDialog,Content,,你猛地坐起身，发现自己回到了熟悉的房间。,"당신은 갑자기 몸을 일으키고, 어느새 익숙한 방으로 돌아와 있다는 사실을 깨닫는다."
-AvgDialog_15613_Content_33,adUl,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,263,AvgDialog,Content,,有人正在敲响你的房门。,누군가가 방문을 두드리고 있다.
-AvgDialog_15613_Content_35,adUn,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,265,AvgDialog,Content,艾瑞卡,下午好，守密人。你有一则来自朵尔，的留言，请问是否接收？,"좋은 오후입니다, 수호자. 돌로부터, 당신께 메시지가 있습니다. 수신하시겠습니까?"
-AvgDialog_15613_Content_36,adUo,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,266,AvgDialog,Content,玩家,朵尔这是又给你搞了什么新功能……接收。,돌이 또 네게 무슨 신기능을... 수신.
-AvgDialog_15613_Content_37,adUp,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,267,AvgDialog,Content,艾瑞卡,哔——你还记得今天是什么日子吗，%player%？提醒你两个字：测试。,"삐──%player%, 오늘이 무슨 날인지 기억하고 있는 걸까? 힌트는 두 글자야: 시험."
-AvgDialog_15613_Content_38,adUq,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,268,AvgDialog,Content,玩家,……糟了。,...아차.
-AvgDialog_15613_Content_39,adUr,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,269,AvgDialog,Content,艾瑞卡,我劝你在五分钟之内出现在教室里，不然我很难保证接下来30天你的训练生活会是怎样的，或许体能方面的特训会加倍呢？,"5분 내로 교실에 나타나는 걸 권장할게. 그렇지 않으면, 앞으로 30일간 네 훈련 생활이 어떻게 될지 보장할 수 없어. 체력 특훈이 배로 늘어날 지도?"
-AvgDialog_15613_Content_41,adUu,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,271,AvgDialog,Content,玩家,回复个什么啊，赶紧出门了！！,회신하고 있을 때가 아냐! 바로 나가야 해!!
-AvgDialog_15613_Content_43,adUw,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,273,AvgDialog,Content,,"洪积298年@1月@2日，弥萨格大学唤醒系，@3
-据设计图纸T-38完成自动人偶E的躯干复原，编号EA301881。
-这是我们第10次尝试进行复原了。我不得不佩服最初完成这个设计，并将它制作出来的人——这个自动人偶非常精细复杂，同时也非常优雅，成百上千个齿轮与轴承相互连接，共同演奏着名为机械结构的华丽乐章。即使现在它静止不动，我都能感到一种独特的生命力。
-可惜，我们至今没能找到电机设计图纸的关键——一个直径5厘米，长十厘米的圆筒。它理应是整个人偶的能源核心，可这样大小、又能为这样复杂的器械供能的东西，我还从未见过……
-希望朵尔教授能想到些什么，我已经等不及看到它真正运转起来的模样了。","A.F. 298년 @1월 @2일, 미사그 대학 각성학부, @3
-설계도면 T-38에 준하여 자동인형 E의 동체 복원 완료. 부여 코드는 EA301881./n이건 우리의 10회차 복원 시도였다. 나는 이 설계를 처음 완성하고, 이것들을 한데 엮어 만들어낸 이에게 감탄을 금치 못했다. 이 자동인형은 비정상적으로 섬세하고도 복잡했고, 동시에 비정상적으로 우아하다. 수백수천의 톱니와 베어링이 서로 맞물려, 기계구조라는 화려한 악장을 오케스트라처럼 연주하고 있다. 정지되있을 뿐인 지금도, 우리는 그 안에서 독특한 생명력을 느낄 수 있었다./n안타깝게도, 우리는 지금까지 전기계통의 핵심──직경 5cm, 길이 10cm의 원통을 찾지 못했다. 그것은 응당 인형 전체의 핵심 동력원이어야 하나, 이렇게나 크고 또 복잡하기까지 한 기계에 동력 공급이 가능한 물건을, 나는 아직 본 적이 없다.../n이것이 실제로 작동되는 모습이 너무나 보고 싶어 견디기 힘들다. 돌 교수가 무언가를 떠올려주길 바란다."
-AvgDialog_15613_Content_44,adUx,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,274,AvgDialog,Content,,"洪积298年@1月@2日，弥萨格大学唤醒系，@3
-完成电机复原，编号MF311028。
-虽然中途经历了不少波折（父神在上，我们进行了整整28次尝试，28次！），朵尔教授的最终设想被证明是正确的——电机的供能核心是银芯。
-在尝试了多个银芯后，唯有E-1929号银芯使电机正常运转。我很难不想象这是设计者的某种遗留的意志的影响，尽管我们至今不知道这个人的去向。","A.F. 298년 @1월 @2일, 미사그 대학 각성학부, @3/n전기계통 복원 완료, 부여 코드는 MF311028./n비록 적지 않은 난항을 겪었으나(부신이시여, 저희는 무려 28번을 시도했습니다, 28번이나!), 돌 교수의 최종 구상이 정확했음을 입증했다──전기계통의 공급 능력 핵심은 은심이었다./n여러 개의 은심을 시도했고, 오직 E-1929번 은심만이 전기계통을 정상적으로 작동시켰다. 우린 여태까지 설계자의 행방을 찾을 수 없었지만, 그 사람이 남긴 어떠한 의지가 영향 주었을 것이라고 밖에 생각되지 않는다."
-AvgDialog_15613_Content_45,adUy,avgV1.0艾瑞卡小型支线_AvgDialog_C_M.csv,275,AvgDialog,Content,,"洪积300年@2月@1日，弥萨格大学唤醒系，朵尔
-自动人偶艾瑞卡唤醒成功。
-唤醒体具有极强的攻击性与破坏欲，即使有调查员维持精神，依旧具有明显的攻击倾向，且会不受控地放出电流，对周边事物进行无差别攻击。
-阿利斯泰尔判断E-1929内含有两个精神，一个癫狂强大，另一个虽然微弱，但更具理性。应尝试将二者分离，或将癫狂压制在可控范围内。
-……
-洪积300年@2月@2日，弥萨格大学唤醒系，朵尔
-无法分离精神，积极考虑第二方案。
-精神压抑装置是个好主意。
-……
-洪积303年@1月@2日，弥萨格大学唤醒系，朵尔
-压抑装置制造完成，安装成功。
-唤醒体的癫狂得到抑制，整体状态趋向稳定，但仍有抑制短暂失效的情况出现。
-唤醒体性格、爱好等方面完全丧失，表现得更贴近人偶，而非人。
-起码她不会每时每刻都处在爆炸的边缘了。
-……","A.F. 300년 @2월 @1일, 미사그 대학 각성학부, 돌/n자동인형 에리카의 각성에 성공./n각성체는 극도의 공격성과 파괴욕구를 가지고 있었으며, 조사원의 정신 유지에도 불구하고 명백한 공격성엔 변화가 없어, 한동안 통제되지 않은 채 전류를 방출하며 주변의 사물들을 무차별적으로 공격했다./n알리스타르는 E-1929엔 두 종류의 정신이 포함되어 있다 판단했다. 하나는 크고 강한 광기였고, 또 하나는 미약하지만 이성을 갖추고 있었다. 시도할 수 있는 것은 양자의 정신를 분리, 혹은 광기를 제어가능한 범위까지 억제의 두 가지였다./n.../nA.F. 300년 @2월 @2일, 미사그 대학 각성학부, 돌/n정신을 분리할 방법이 없어, 차선책을 적극적으로 고려했다./n정신 억압 장치는 좋은 발상이다./n...\nA.F. 303년 @1월 @2일, 미사그 대학 각성학부, 돌/n억압 장치의 제작이 완료되었고, 설치에 성공했다./n각성체의 광기가 억제되어 전체적인 상태는 안정적인 경향을 보였다. 억제가 단시간 실패하는 상황만 아니라면./n각성체로서의 성격, 기호 등을 완전히 상실했으며, 표현 방법은 인간이기보단 인형에 더 가깝다./n적어도 그녀가 항시 폭발의 경계선을 넘나들려는 일은 없을 것이다./n..."
-AvgDialog_21801_Content_5,ahKS,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,72,AvgDialog,Content,,那些居民呢？他们是否早在融蚀现象爆发前就离开了家，是否寻找到了新的住地，还是……,"주민들은 어디로 간 것일까? 융식 현상이 발생하기 전에 떠나 새로운 거처를 찾았거나, 아니면..."
-AvgDialog_21801_Content_7,ahKU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,74,AvgDialog,Content,,还是……他们从未离开自己深爱的家园？,아니면... 그들은 애초에 자신의 소중한 고향을 떠난 적이 단 한 번도 없었던 것일까.
-AvgDialog_21801_Content_12,ahKF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,79,AvgDialog,Content,奥瑞塔,要不然，要不然奥瑞塔背你走吧！,그럼... 오레타가 업어줄까?
-AvgDialog_21801_Content_17,ahKK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,84,AvgDialog,Content,玩家,我走在前面，你踩着我的脚印走……怎么样？,"내가 먼저 가면, 내 발자국을 밟으면서 따라오는 거야... 어때?"
-AvgDialog_21801_Content_19,ahKM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,86,AvgDialog,Content,,奥瑞塔乖乖后退两步为你让出了路，蹦跳间险些一脚踩进融蚀浆中。,"오레타는 순순히 두 걸음 물러나 길을 비켜주었다. 그녀가 뛰어다닐 때, 하마터면 융식액에 발을 디딜 뻔했다."
-AvgDialog_21801_Content_21,ahKP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,88,AvgDialog,Content,奥瑞塔,滴滴——小火车出发！中心广场——往左边！,칙칙폭폭—— 꼬마 기차 출발! 중앙 광장——왼쪽으로!
-AvgDialog_21814_Content_2,ahOd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,90,AvgDialog,Content,,女孩大力拍拍你的背，在她的示意下，你看向了坐在街角的少年。,소녀는 당신의 등을 힘껏 두드리며 거리 구석을 가리켰다. 그곳에는 웅크리고 앉아 있는 소년이 있었다.
-AvgDialog_21814_Content_4,ahOf,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,92,AvgDialog,Content,奥瑞塔,维特，快看我们的新朋友！,"베르테르, 봐봐! 새 친구야!"
-AvgDialog_21814_Content_10,ahNW,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,98,AvgDialog,Content,奥瑞塔,等奥瑞塔也回去了，一定会带大家去做客的。,"오레타가 돌아가면, 모두를 우리 집으로 초대해서 같이 놀 거야."
-AvgDialog_21814_Content_13,ahNZ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,101,AvgDialog,Content,,"男孩摇摇晃晃地站了起来，黑色液体从他身上涌出。
-融蚀浆将他与地面黏合在了一起，起身时，皮肉撕裂的声音格外骇人。","소년은 비틀거리며 몸을 일으켰고, 검은 액체가 몸에서 터져 나왔다. 바닥에 퍼진 융식액에 몸이 고정되어 있었기에, 몸을 일으키는 순간 살갗이 찢어지는 소리가 섬뜩하게 들려왔다."
-AvgDialog_21813_Content_2,ahNN,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,106,AvgDialog,Content,,异变的身体像一张鞣制过度的牛皮般直挺挺倒在地上，与地面的融蚀浆逐渐交融，最后彻底消失在了眼前。,"변이된 몸은 과도하게 무두질된 소가죽처럼 뻣뻣하게 바닥에 쓰러졌고, 바닥의 융식액과 서서히 섞이며 결국 완전히 사라졌다."
-AvgDialog_21813_Content_4,ahNP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,108,AvgDialog,Content,奥瑞塔,怎么转眼就跑掉了！奥瑞塔明明没有要和他玩躲猫猫……,어느새 사라진 거야?! 오레타는 베르테르랑 숨바꼭질을 하려던 게 아니었는데...
-AvgDialog_21813_Content_6,ahNR,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,110,AvgDialog,Content,玩家,……,...
-AvgDialog_21813_Content_8,ahNT,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,112,AvgDialog,Content,奥瑞塔,哪里哪里——哇！是说好要送给奥瑞塔的摆件！,정말? 어디어디— 와! 오레타에게 주기로 약속했던 장식품이잖아!
-AvgDialog_21813_Content_9,ahNU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,113,AvgDialog,Content,奥瑞塔,奥瑞塔要把它放进朋友们的家里！谢谢，谢谢……,"친구들 집에 넣어둬야겠다! 고마워, 고마워..."
-AvgDialog_21813_Content_14,ahNJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,118,AvgDialog,Content,,奥瑞塔瞬间把“跑掉的”小伙伴抛在了脑后，推着你继续走向目的地。,"오레타는 순식간에 「도망친」 친구를 뒤로 하고, 당신을 밀며 목적지로 향했다."
-AvgDialog_21813_Content_15,ahNK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,119,AvgDialog,Content,,你抬脚，绕开了曾为「维特」的一滩融蚀浆，心中五味杂陈。,한때 「베르테르」였던 융식액을 피해 걷는다. 마음속에 복잡한 감정이 솟아오른다.
-AvgDialog_21813_Content_16,ahNL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,120,AvgDialog,Content,,生活在被融蚀殆尽的城镇，却无法看到、感受到融蚀的存在。,"융식에 침식된 마을에 살면서도, 융식의 존재를 보거나 느끼지 못한다."
-AvgDialog_21816_Content_2,ahOA,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,123,AvgDialog,Content,,奥瑞塔又一次甩开了你，径直冲向趴卧在融蚀浆中的——,"오레타는 또다시 당신을 뿌리치고, 융식액 속에 엎드려 있는——"
-AvgDialog_21818_Content_1,ahOM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,126,AvgDialog,Content,,「白雪」发出低沉的呜咽，四肢逐渐消解在融蚀浆中，再也看不出犬类的外形。,"「백설」은 낮은 울음소리를 냈다. 사지가 융식액 속으로 녹아들어가, 더 이상 개의 형체를 알아볼 수 없었다."
-AvgDialog_21818_Content_2,ahON,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,127,AvgDialog,Content,,在「白雪」消逝的地方，一枚掌心大小的白色陶瓷小狗静静躺在原地。,"「백설」이 완전히 사라진 후, 그 자리에는 손바닥만 한 하얀 도자기 강아지가 조용히 놓여 있었다."
-AvgDialog_21815_Content_1,ahOl,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,130,AvgDialog,Content,,奥瑞塔推着你在衰败的城镇中行走，随着时间推移，本就阴云密布的天空越发深沉。,오레타는 마치 놀이처럼 당신의 등을 밀며 무너져가는 마을을 걸었다. 시간이 지날수록 이미 흐렸던 하늘이 더더욱 어두워져갔다.
-AvgDialog_21815_Content_7,ahOw,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,136,AvgDialog,Content,奥瑞塔,到那个时候，泼尼就会变成……,"그때가 되면, 포니는 변신할 거야! 그..."
-AvgDialog_21815_Content_9,ahOy,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,玩家,变成海马？,해마로?
-AvgDialog_21815_Content_10,ahOm,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,139,AvgDialog,Content,奥瑞塔,对！变成海马！,응! 해마로 변신할 거야!
-AvgDialog_21815_Content_11,ahOn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,140,AvgDialog,Content,,说话间，不远处已经传来了马的嘶鸣与喘息。踱步声沉重得过分，很难通过声音判断「泼尼」是否是又一个融蚀异变体。,"말하는 도중, 멀지 않은 곳에서 말의 울음소리와 거친 숨소리가 들려왔다. 발굽 소리가 지나치게 무거워서, 소리만으로는 「포니」인지 또다른 융식 변이체인지 판단하기 어려웠다."
-AvgDialog_21815_Content_13,ahOp,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,142,AvgDialog,Content,「泼尼」,嘶————,히히-잉——
-AvgDialog_21815_Content_14,ahOq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,143,AvgDialog,Content,,这一次，早有准备的你眼疾手快抓住了奥瑞塔的衣领，阻止她冲向那只剩下骨架的大朋友。,"이번에는 준비가 되어 있던 당신은 재빨리 오레타의 옷깃을 잡아당기며, 뼈만 남은 「친구」에게 달려가려는 소녀를 막았다."
-AvgDialog_21817_Content_1,ahOD,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,144,AvgDialog,Content,玩家,前两次都留下了小玩具，这次应该也……,"지난 두 번도 작은 장난감을 남겼으니, 이번에도 분명..."
-AvgDialog_21817_Content_2,ahOE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,145,AvgDialog,Content,,你随手拿起马厩的干草叉，对着曾为「泼尼」的融蚀浆一番搅动。果不其然，一匹格外精致的陶瓷小马正反着光。,"당신은 마구간의 건초 포크를 아무렇게나 집어들고, 한때 「포니」였던 융식액을 휘저었다. 아니나 다를까, 유난히 정교한 도자기 조랑말이 빛을 반사하고 있었다."
-AvgDialog_21817_Content_7,ahOJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,150,AvgDialog,Content,奥瑞塔,婆婆——奥瑞塔带了新朋友来见你！,할머니—— 오레타가 새 친구를 데리고 왔어!
-AvgDialog_21817_Content_9,ahOL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,152,AvgDialog,Content,贝蒂婆婆,你好，年轻人。我是奥瑞塔的婆婆贝蒂，像这孩子一样，直接叫我婆婆就好。,"안녕, 젊은이. 나는 오레타의 할머니 베티란다. 이 아이처럼 그냥 할머니라고 불러주렴."
-AvgDialog_21803_Content_2,ahLi,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,154,AvgDialog,Content,,自称贝蒂的老妇人微笑着打量你，似乎在不留痕迹地审视你作为“奥瑞塔朋友”的资格。,자신을 베티라고 소개한 노부인은 미소를 지으며 당신을 살펴보았다. 마치 당신이 「오레타의 친구」로서 자격이 있는지 살피는 듯했다.
-AvgDialog_21803_Content_4,ahLE,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,156,AvgDialog,Content,贝蒂婆婆,"奥瑞塔，你先自己去玩一会儿，好吗。
-婆婆和这位新朋友聊会天，马上就来找你。","오레타, 잠시 혼자 가서 놀고 있을래? 할머니는 새 친구와 조금 이야기를 하고 싶구나."
-AvgDialog_21803_Content_5,ahLP,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,157,AvgDialog,Content,奥瑞塔,奥瑞塔不能一起聊天吗？,오레타도 같이 얘기하면 안 돼?
-AvgDialog_21803_Content_7,ahMl,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,159,AvgDialog,Content,奥瑞塔,呜…呜呜……可是我想和婆婆呆在一起……,우우... 그치만 할머니랑 같이 있고 싶은데...
-AvgDialog_21803_Content_8,ahMu,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,160,AvgDialog,Content,贝蒂婆婆,婆婆的好孩子，和婆婆做个游戏吧？,"우리 착한 손녀, 할머니와 같이 놀이 하나 할까?"
-AvgDialog_21803_Content_9,ahMv,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,161,AvgDialog,Content,贝蒂婆婆,奥瑞塔不是想要装饰朋友们的家吗？婆婆在这儿附近藏了好几个小陶人……只要奥瑞塔找到了，就都是奥瑞塔的了。,"오레타, 친구들의 집을 꾸며주고 싶어 했잖니? 할머니가 이 근처에 작은 도자기 인형들을 몇 개 숨겨 놓았단다... 오레타가 찾으면, 전부 오레타가 가지려무나."
-AvgDialog_21803_Content_10,ahKY,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,162,AvgDialog,Content,奥瑞塔,真的吗！谢谢婆婆！,"정말?! 고마워, 할머니!"
-AvgDialog_21803_Content_12,ahLa,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,164,AvgDialog,Content,玩家,您特意支开奥瑞塔，到底是想要和我说什么？,일부러 오레타를 보내시면서까지... 제게 무슨 말씀을 하고 싶으신 거죠?
-AvgDialog_21803_Content_13,ahLb,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,165,AvgDialog,Content,贝蒂婆婆,别太防备，我只是想要……讲一个故事。,그리 경계하지 않아도 괜찮아. 난 그저... 이야기를 하고 싶을 뿐이야.
-AvgDialog_21803_Content_14,ahLc,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,166,AvgDialog,Content,贝蒂婆婆,曾经，这里是个渔港。有理想的年轻人去了城里，也有人留在家乡以捕鱼为生……平静得和其他渔村没什么不同。,"한때, 이곳은 항구였단다. 꿈을 품은 젊은이들은 도시로 떠났고, 고향에 남은 이들은 어업으로 생계를 꾸렸지... 다른 어촌과 다를 바 없이 평온했어."
-AvgDialog_21803_Content_15,ahLd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,167,AvgDialog,Content,,变化发生得悄无声息，不知不觉间，这里只剩下了妇孺。,"하지만, 변화는 소리 없이 찾아왔고, 어느새 이곳에는 여자와 아이들만 남게 되었지."
-AvgDialog_21803_Content_18,ahLg,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,170,AvgDialog,Content,,等奥瑞塔反应过来时，她的玩伴、她的家人甚至整个小镇的居民，都已经消失得无影无踪……,"오레타가 깨달았을 때에는, 그 애의 친구들, 가족, 심지어 마을 주민들까지 전부 흔적도 없이 사라져 있었어."
-AvgDialog_21803_Content_19,ahLh,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,171,AvgDialog,Content,玩家,等等，那婆婆您呢？,그럼... 할머니는요?
-AvgDialog_21803_Content_20,ahLj,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,172,AvgDialog,Content,,她摇摇头，示意你看向她的下半身。,그녀는 고개를 저으며 자신의 하반신을 가리켰다.
-AvgDialog_21803_Content_21,ahLk,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,173,AvgDialog,Content,,"麻布长裙之下流出的，赫然是融蚀浆。
-她的下半身几乎完全浸泡在湮灭与虚无之中。",긴 치마 아래로 융식액이 흘러나왔다. 그녀의 하반신은 이미 소멸과 허무 속에 잠겨 있었다.
-AvgDialog_21803_Content_23,ahLm,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,175,AvgDialog,Content,玩家,您、您现在身体感觉如何？,몸 상태는... 괜찮으신가요?
-AvgDialog_21803_Content_24,ahLn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,176,AvgDialog,Content,,老妇人噗嗤一声笑了出来，她拍了拍你的肩膀，就像一位真正的长辈。,"노부인은 피식 웃으며, 마치 정말 당신의 조모인 듯 당신의 어깨를 토닥였다."
-AvgDialog_21803_Content_26,ahLp,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,178,AvgDialog,Content,贝蒂婆婆,「贝蒂婆婆」早就消失了，是那个孩子的执念把我留在了这里。,「베티 할머니」는 오래전에 사라졌단다. 그 아이의 집념이 나를 이곳에 붙잡아두고 있을 뿐.
-AvgDialog_21803_Content_27,ahLq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,179,AvgDialog,Content,,"说话间，不知何处而来的风吹来了一张传单。
-纸面上的图样被融蚀浆涂黑了大半，但宣传语仍依稀可见。","이야기하는 동안, 어디선가 불어온 바람에 전단지 한 장을 날아왔다. 종이의 그림은 대부분 융식액으로 검게 물들어 있었지만, 희미하게나마 홍보 문구가 보였다."
-AvgDialog_21803_Content_30,ahLu,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,182,AvgDialog,Content,玩家,……您为什么要告诉我这些？,...왜 제게 이런 걸 알려주시는 거죠?
-AvgDialog_21803_Content_31,ahLv,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,183,AvgDialog,Content,,贝蒂婆婆看向了不远处歪倒的废楼，奥瑞塔正在那里“寻宝”，弄得尘灰满天。,베티 할머니는 머지 않은 곳에 허물어져 가는 건물을 바라보았다. 그곳에서는 오레타가 「보물찾기」를 하며 먼지를 잔뜩 일으키고 있었다.
-AvgDialog_21803_Content_34,ahLy,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,186,AvgDialog,Content,,“海里的家”,「바닷속 집」
-AvgDialog_21803_Content_35,ahLz,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,187,AvgDialog,Content,贝蒂婆婆,"她居然连这个都告诉你了吗？看来她真的很相信这个说辞……
-但除了编织谎言，她真正的婆婆又能做什么呢？","그 애가 그것까지 말해줬니? 정말로 그 말을 믿고 있나 보구나... 하지만 할머니가 해줄 수 있는 거라고는, 결국 이야기를 들려주는 정도지."
-AvgDialog_21803_Content_39,ahLD,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,191,AvgDialog,Content,贝蒂婆婆,这是我的愿望，也是……她的愿望。,이건 내 바람이자... 그 아이의 바람이기도 해.
-AvgDialog_21803_Content_40,ahLF,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,192,AvgDialog,Content,,贝蒂婆婆语气诚恳，声音中甚至带上了哀求。,"베티 할머니의 목소리에는, 진지함과 슬픔, 그리고 기도하는 듯한 애원이 담겨 있었다."
-AvgDialog_21803_Content_42,ahLH,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,194,AvgDialog,Content,奥瑞塔,明明什——么都没有嘛！,아—무것도— 없잖아!
-AvgDialog_21803_Content_43,ahLI,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,195,AvgDialog,Content,奥瑞塔,婆婆真的把陶人藏在那边了吗？奥瑞塔已经翻得底朝天了！,정말 저기에 인형을 숨긴 거 맞아? 오레타가 이미 다 샅샅이 찾아봤는데!
-AvgDialog_21803_Content_44,ahLJ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,196,AvgDialog,Content,,"奥瑞塔闷闷不乐的声音让你下意识看了过去，她站在废墟上背对着你。
-这一次，你终于看清了她背上一闪而过的黑色污渍。",오레타의 우울한 목소리에 당신은 무의식적으로 그녀를 바라보았다. 그녀는 폐허 위에서 당신을 등지고 서 있었다. 이제야 비로소 당신은 그녀의 등에 스쳐 지나가는 검은 얼룩을 분명히 보았다.
-AvgDialog_21803_Content_45,ahLK,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,197,AvgDialog,Content,,小小的身体上赫然盘踞着一个空洞——那分明是一块巨大的融蚀痕。,작은 몸에 커다란 융식 흔적이 선명하게 자리잡고 있었다.
-AvgDialog_21803_Content_46,ahLL,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,198,AvgDialog,Content,,"你一愣，回头看向「贝蒂婆婆」曾站立的地方。
-那里只剩下一滩黏稠的液体，与污黑的积水融为一体。","놀란 당신은 「베티 할머니」가 서 있던 곳을 돌아보았다. 그곳에는 끈적한 액체만이 남아 있었고, 더러운 물웅덩이와 하나로 섞여 있었다."
-AvgDialog_21803_Content_47,ahLM,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,199,AvgDialog,Content,,污水中，陶瓷反射着温润的光。,"그 속에서, 도자기 인형 하나가 부드러운 빛을 반사하고 있다."
-AvgDialog_21803_Content_48,ahLN,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,200,AvgDialog,Content,,捡起陶偶,도자기 인형을 줍는다
-AvgDialog_21803_Content_52,ahLS,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,204,AvgDialog,Content,奥瑞塔,你果然耍赖皮！居然骗奥瑞塔去那边找，明明就在你手上！,그래도 치사해! 저쪽에 있다고 거짓말했잖아! 사실은 가지고 있었으면서!
-AvgDialog_21803_Content_53,ahLT,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,205,AvgDialog,Content,玩家,别、别生气…你看，这些是什么？,"자, 잠깐... 화내지 마. 자, 이게 뭐게?"
-AvgDialog_21803_Content_54,ahLU,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,206,AvgDialog,Content,,你扯出一个勉强的笑，从口袋里又拿出了「泼尼」和「白雪」，连着「水母」陶偶一起递给了奥瑞塔。,"당신은 억지로 웃음을 지으며 주머니에서 「포니」와 「백설」을 꺼내, 「해파리」 인형과 함께 오레타에게 건넸다."
-AvgDialog_21803_Content_55,ahLV,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,207,AvgDialog,Content,奥瑞塔,都是给奥瑞塔的吗？！谢谢朋友！,"전부 오레타 거야?! 와아, 고마워!"
-AvgDialog_21803_Content_58,ahLY,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,210,AvgDialog,Content,,奥瑞塔哼着歌，沉溺在拿到新玩具的喜悦中。维特、泼尼、白雪和贝蒂婆婆似乎没能在她心里留下哪怕一丝痕迹。,"오레타는 노래를 흥얼거리며 새로운 장난감을 얻은 기쁨에 취해 있었다. 베르테르, 포니, 백설, 그리고 베티 할머니. 그 누구의 모습도 그녀의 마음에 남아있지 않은 것 같았다."
-AvgDialog_21803_Content_59,ahLZ,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,211,AvgDialog,Content,奥瑞塔,嘿咻…嘿咻……大家这么站着可以吗？,읏차... 읏차... 다들 이렇게 서 있어도 괜찮을까~?
-AvgDialog_21803_Content_60,ahMb,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,212,AvgDialog,Content,玩家,把「泼尼」再往外面摆一摆吧，一匹马站在室内总感觉有点奇怪。,「포니」는 좀 더 바깥에 두는 편이 나을 것 같아. 말이 실내에 있는 건 조금 이상하잖아.
-AvgDialog_21803_Content_62,ahMd,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,214,AvgDialog,Content,玩家,……,...
-AvgDialog_21803_Content_63,ahMe,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,215,AvgDialog,Content,奥瑞塔,奥瑞塔的宫殿布置好了！,"오레타의 궁전, 완성이야!"
-AvgDialog_21803_Content_64,ahMf,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,216,AvgDialog,Content,奥瑞塔,奥瑞塔以后的家，奥瑞塔水里的家……,"오레타의 미래의 집, 오레타의 바다 속 집..."
-AvgDialog_21803_Content_66,ahMh,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,218,AvgDialog,Content,奥瑞塔,小狗要睡在奥瑞塔的床上，小马要待在客厅——待在花园里。,"강아지는 오레타의 침대에서 자고, 조랑말은 거실... 정원도 좋겠다."
-AvgDialog_21803_Content_67,ahMi,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,219,AvgDialog,Content,奥瑞塔,水母可以在任何地方漂游，还有奥瑞塔的朋友们都要在壁炉前喝热可可……,"해파리는 아무 데나 떠다녀도 되고, 친구들 다같이 벽난로 앞에서 따뜻한 코코아를 마시는 거야!"
-AvgDialog_21803_Content_68,ahMj,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,220,AvgDialog,Content,奥瑞塔,嗯…水底……可以点壁炉吗？,음~ 물 속인데 벽난로에 불이 붙을까?
-AvgDialog_21803_Content_69,ahMk,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,,奥瑞塔的眼睛一眨一眨的，竟显出几分困意来。她打了个长长的哈欠，眼神朦胧。,"오레타는 눈을 깜빡이며, 조금 졸린 듯한 얼굴을 하고 있었다. 그녀는 길게 하품을 하고는 시선이 흐려졌다."
-AvgDialog_21803_Content_71,ahMn,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,223,AvgDialog,Content,奥瑞塔,奥瑞塔…还能……玩……,오레타... 아직 놀... 수 있어...
-AvgDialog_21803_Content_72,ahMo,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,224,AvgDialog,Content,玩家,放心睡吧，奥瑞塔。,"안심하고 자도 돼, 오레타."
-AvgDialog_21803_Content_74,ahMq,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,226,AvgDialog,Content,玩家,端上来的可可会加好多好多糖。,코코아에는 설탕을 잔뜩 넣어줄게.
-AvgDialog_21803_Content_75,ahMr,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,227,AvgDialog,Content,玩家,等你醒来，朋友们都会在。,"눈을 뜨면, 친구들도 다들 와 있을 거야."
-AvgDialog_21803_Content_76,ahMs,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,228,AvgDialog,Content,奥瑞塔,呼…朋友……,으음... 친구들...
-AvgDialog_21803_Content_77,ahMt,avgV1.2奥瑞塔小型支线_AvgDialog_C_M.csv,229,AvgDialog,Content,奥瑞塔,不要…丢下奥瑞塔一个人哦……,오레타를... 혼자 두고 가면 안돼...
-AvgDialog_22125_Content_38,ahVa,avgV1.5奥尔拉大型支线_AvgDialog_C_M.csv,288,AvgDialog,Content,无纸奥尔拉,谢谢……,고마워...
-AvgDialog_71794_Content_25,apsl,avgV2.0图鲁小型支线_AvgDialog_C_M.csv,32,AvgDialog,Content,少年图鲁,唉……,하아...
-AvgDialog_75907_Content_58,aqvg,avgV2.1.1逆转回合联动_AvgDialog_C_M.csv,65,AvgDialog,Content,拉蒙娜,你说什么？,뭔가 말했어?
-AvgDialog_73787_Content_104,bqxD,avg星辰章2_AvgDialog_C_M.csv,662,AvgDialog,Content,少年威廉,你说什么？,뭔가 말했어?
-AvgDialog_66598_Content_42,aoJh,avg测试剧情_AvgDialog_C_M.csv,3643,AvgDialog,Content,,谢谢……,고마워...
-AvgDialog_19076_Content_5,agWz,avg章4_AvgDialog_C_M.csv,12,AvgDialog,Content,莉莉,……,...
-AvgDialog_19076_Content_36,agWk,avg章4_AvgDialog_C_M.csv,43,AvgDialog,Content,拉蒙娜,……,...
-AvgDialog_19056_Content_26,agLw,avg章4_AvgDialog_C_M.csv,114,AvgDialog,Content,拉蒙娜,……,...
-AvgDialog_19043_Content_21,agHp,avg章4_AvgDialog_C_M.csv,137,AvgDialog,Content,,……,...
-AvgDialog_19040_Content_13,agGp,avg章4_AvgDialog_C_M.csv,231,AvgDialog,Content,咳嗽的老人,唉……,하아...
-AvgDialog_19078_Content_8,agXE,avg章4_AvgDialog_C_M.csv,291,AvgDialog,Content,,……,...
-AvgDialog_19078_Content_14,agWP,avg章4_AvgDialog_C_M.csv,297,AvgDialog,Content,,……,...
-AvgDialog_19078_Content_20,agWW,avg章4_AvgDialog_C_M.csv,303,AvgDialog,Content,,……,...
-AvgDialog_19078_Content_27,agXd,avg章4_AvgDialog_C_M.csv,310,AvgDialog,Content,伯特兰,……,...
-AvgDialog_19078_Content_44,agXw,avg章4_AvgDialog_C_M.csv,327,AvgDialog,Content,,……,...
-AvgDialog_19037_Content_4,agGg,avg章4_AvgDialog_C_M.csv,355,AvgDialog,Content,玩家,……,...
-AvgDialog_19067_Content_39,agQC,avg章4_AvgDialog_C_M.csv,394,AvgDialog,Content,,……,...
-AvgDialog_19064_Content_5,agOe,avg章4_AvgDialog_C_M.csv,444,AvgDialog,Content,拉蒙娜,……,...
-AvgDialog_19073_Content_31,agUd,avg章4_AvgDialog_C_M.csv,508,AvgDialog,Content,玩家,……,...
-AvgDialog_19071_Content_6,agTz,avg章4_AvgDialog_C_M.csv,574,AvgDialog,Content,,……,...
-AvgDialog_19071_Content_14,agSH,avg章4_AvgDialog_C_M.csv,582,AvgDialog,Content,,……,...
-AvgDialog_19071_Content_35,agTe,avg章4_AvgDialog_C_M.csv,603,AvgDialog,Content,,……,...
-AvgDialog_19071_Content_44,agTo,avg章4_AvgDialog_C_M.csv,612,AvgDialog,Content,纯白的少女,……,...
-AvgDialog_19055_Content_9,agLd,avg章4_AvgDialog_C_M.csv,686,AvgDialog,Content,莉莉,……,...
-AvgDialog_19066_Content_42,agPE,avg章4_AvgDialog_C_M.csv,750,AvgDialog,Content,弗朗西斯,……,...
-AvgDialog_19068_Content_31,agRw,avg章4_AvgDialog_C_M.csv,943,AvgDialog,Content,,……,...
-AvgDialog_19068_Content_32,agRx,avg章4_AvgDialog_C_M.csv,944,AvgDialog,Content,,……,...
-AvgDialog_19068_Content_50,agRR,avg章4_AvgDialog_C_M.csv,962,AvgDialog,Content,,……,...
-AvgDialog_19036_Content_8,agFH,avg章4_AvgDialog_C_M.csv,975,AvgDialog,Content,,……,...
-AvgDialog_19036_Content_12,agEl,avg章4_AvgDialog_C_M.csv,979,AvgDialog,Content,,……,...
-AvgDialog_19036_Content_17,agEq,avg章4_AvgDialog_C_M.csv,984,AvgDialog,Content,,……,...
-AvgDialog_19036_Content_22,agEw,avg章4_AvgDialog_C_M.csv,989,AvgDialog,Content,,……,...
-AvgDialog_19036_Content_42,agES,avg章4_AvgDialog_C_M.csv,1009,AvgDialog,Content,玩家,……,...
-AvgDialog_19036_Content_79,agFG,avg章4_AvgDialog_C_M.csv,1046,AvgDialog,Content,,……,...
-AvgDialog_60212_Content_24,anRQ,avg章8_AvgDialog_C_M.csv,410,AvgDialog,Content,玩家,你说什么？,뭔가 말했어?
-AvgDialog_68329_Content_47,apfk,avg章9_AvgDialog_C_M.csv,842,AvgDialog,Content,,谢谢……,고마워...
-Stage_20442_Name,aRPc,g关卡_Stage_A.csv,1731,Stage,Name,,声音如是说,목소리가 들린다
-Stage_20443_Name,aRPf,g关卡_Stage_A.csv,1733,Stage,Name,,声音如是说,목소리가 들린다
-Stage_20440_Name,aROW,g关卡_Stage_A.csv,1734,Stage,Name,,声音如是说,목소리가 들린다
-Stage_35575_Name,aSeP,g关卡_Stage_A.csv,1752,Stage,Name,,水里的宫殿,물 속 궁전
-Voice_5187_AwakerVoiceContent,bnIu,y语音_Voice_A.csv,1621,Voice,AwakerVoiceContent,本源汀克特,唉……,하아...
+AvgDialog_21369_Content_11,ahIO,avgV1.1本源拉蒙娜小型支线_AvgDialog_C_M.csv,131,AvgDialog,Content,,在你面前出现的，是神情淡漠的女性面庞。,"당신 앞에 나타난 것은, 무표정한 여성의 얼굴이었다. "
+AvgDialog_21369_Content_14,ahIR,avgV1.1本源拉蒙娜小型支线_AvgDialog_C_M.csv,134,AvgDialog,Content,塔薇,你就是变数，是原初也是终末的答案。,그대야말로 변수ーー 원초이자 종말의 해답.
+AvgDialog_21369_Content_15,ahIS,avgV1.1本源拉蒙娜小型支线_AvgDialog_C_M.csv,135,AvgDialog,Content,塔薇,但愿你，是一切的转机……,"부디 그대가, 모든 것의 전환점이 되기를..."
+AvgDialog_21369_Content_18,ahIV,avgV1.1本源拉蒙娜小型支线_AvgDialog_C_M.csv,138,AvgDialog,Content,,全都化成了一滩黑水，随后消失不见。,"모든 것이 검은 물로 변하고는, 이내 자취를 감춘다."
+AvgDialog_97320_Content_22,bCPs,avgV2.3.3夏活下篇大型支线_AvgDialog_C_M.csv,29,AvgDialog,Content,拉蒙娜,立下自己的墓碑，以此证明我们为<Yellow:对抗融蚀>献出生命的决意——这不仅是弥萨格的传统，也是我们结束预科学习、成为正式调查员的标志。,"자신의 묘비를 세우고, <Yellow:융식>에 맞서기 위해 목숨을 바치겠다는 결의를 보이는 것——이건 미사그의 전통이자, 교육 과정을 마치고 정식 조사원이 되었음을 증명하는 표식이기도 해."
+AvgDialog_97106_Content_87,bCIm,avgV2.3.3夏活下篇大型支线_AvgDialog_C_M.csv,221,AvgDialog,Content,拉蒙娜,"你可不能轻易倒下哦，<Yellow:世界唯一>的守密人。
+我们还指望靠你来调查和记录所有被融蚀抹消的历史呢。","쉽게 쓰러지면 안 된다구, <Yellow:세상에 단 한 명 뿐인 수호자>님? 네게는 융식으로 인해 사라진 역사를 조사하고 기록할 사명이 있으니까."
+AvgDialog_97133_Content_20,bCID,avgV2.3.3夏活下篇大型支线_AvgDialog_C_M.csv,244,AvgDialog,Content,“塔薇”,<Shake:你……来了……>,<Shake:잘... 왔다...>
+AvgDialog_97133_Content_22,bCIF,avgV2.3.3夏活下篇大型支线_AvgDialog_C_M.csv,246,AvgDialog,Content,“塔薇”,<Shake:终于……找到……你……了……>,<Shake:드디어... 찾았... 어...>
+AvgDialog_97931_Content_37,bCQV,avgV2.3.3夏活下篇大型支线_AvgDialog_C_M.csv,283,AvgDialog,Content,诃勒特,与融蚀相关的事件总是伴随着意外、疯狂和死亡，这就是我们这条道路上必然的经历。,"융식과 관련된 사건은 항상 혼돈, 광기, 그리고 죽음을 가져옵니다. 이게 바로 우리가 걸어갈 길에서 필연적으로 겪게 될 경험입니다."
+AvgDialog_10142_Content_3,adpU,avg序章_AvgDialog_C_M.csv,14,AvgDialog,Content,拉蒙娜,立下自己的墓碑，以此证明我们为<Yellow:对抗融蚀>献出生命的决意——这不仅是弥萨格的传统，也是我们结束预科学习、成为正式调查员的标志。,"자신의 묘비를 세우고, <Yellow:융식>에 맞서기 위해 목숨을 바치겠다는 결의를 보이는 것——이건 미사그의 전통이자, 교육 과정을 마치고 정식 조사원이 되었음을 증명하는 표식이기도 해."
+AvgDialog_10130_Content_5,adnQ,avg序章_AvgDialog_C_M.csv,21,AvgDialog,Content,拉蒙娜,你的加入可以说是众望所归。不出两天，威廉就要给我们分配<Yellow:灾厄调查任务>了。,네가 합류하는 건 모두가 바라던 일이니까. 이틀만 지나면 윌리엄 선배가 우리에게 <Yellow:재앙 조사 임무>를 배정할 거야.
+AvgDialog_10130_Content_6,adnR,avg序章_AvgDialog_C_M.csv,22,AvgDialog,Content,拉蒙娜,他可不会饶过你这个百年一遇的守密人。,너처럼 백 년에 한 번 나올까 말까 한 수호자를 가만히 두진 않겠지.
+AvgDialog_10130_Content_7,adnS,avg序章_AvgDialog_C_M.csv,23,AvgDialog,Content,拉蒙娜,希望你的@1 外勤课题不像微积分课程一样依赖我这个<Blue:助手>。,@1 외근 임무에서는 미적분학 수업처럼 나라는 <Blue:조수>에게 의존하는 일은 없길 바래.
+AvgDialog_10130_Content_11,adnA,avg序章_AvgDialog_C_M.csv,27,AvgDialog,Content,,温和的声音夹杂着扭曲的嘶鸣在脑海中回荡。,"라모나의 부드러운 목소리가, 불쾌한 잡음과 뒤섞여, 머릿속에 메아리친다."
+AvgDialog_10130_Content_12,adnB,avg序章_AvgDialog_C_M.csv,28,AvgDialog,Content,拉蒙娜,我将作为你的助手，陪你抵达这条道路的终点……<Yellow:愿银钥指引前路。>,"난 수호자의 조수로서, 이 길의 끝까지 너와 함께할 거야... <Yellow:은열쇠가 앞길을 인도하길.>"
+AvgDialog_10130_Content_16,adnF,avg序章_AvgDialog_C_M.csv,32,AvgDialog,Content,拉蒙娜,"唔，保险起见，还是和我链接吧。
+作为助手，也作为你的搭档，时刻确认你的状态可是我的责任。","흠, 하지만 안전을 위해서라도, 나와 링크하는 게 좋겠어. 조수이자 파트너로서, 수호자의 상태를 확인하는 건 내 책임이니까."
+AvgDialog_10130_Content_21,adnL,avg序章_AvgDialog_C_M.csv,37,AvgDialog,Content,,细雨将指尖濡湿，微弱的电流穿透手套，顺着你的皮肤和她的指尖隐秘流淌。,"부드러운 빗방울이 손끝을 적신다. 장갑 너머로, 미약한 전류가 당신과 그녀의 피부 사이에서 조심스럽게 흐른다."
+AvgDialog_10130_Content_22,adnM,avg序章_AvgDialog_C_M.csv,38,AvgDialog,Content,,莫名的情绪顺着电流触动了你的神经，那是欣喜、雀跃、不安和……,"전류와 함께, 여러 감정이 한꺼번에 치밀어 오른다. 기쁨, 기대, 불안, 그리고..."
+AvgDialog_10127_Content_3,adnh,avg序章_AvgDialog_C_M.csv,42,AvgDialog,Content,,眼底的担忧散去，拉蒙娜半开玩笑地在嘴角勾起一个令人安心的弧度。,"라모나는 농담하듯 그렇게 말하고는, 눈동자에 어른거리던 불안을 지워내려는 듯 부드러운 미소를 지었다."
+AvgDialog_10127_Content_4,adni,avg序章_AvgDialog_C_M.csv,43,AvgDialog,Content,,淅沥的雨声填满天地。,보슬보슬 내리는 빗소리가 끊임없이 이어지며 세상을 가득 채운다.
+AvgDialog_10139_Content_3,adpI,avg序章_AvgDialog_C_M.csv,51,AvgDialog,Content,,"交谈间，漆黑的异变已在你们身边蔓延。
+惨叫声连绵不绝，昨天课堂上的同学不断化为漆黑黏液。","이야기를 나누는 사이에도, 검은 이변이 시시각각 주변으로 퍼져 나가고 있다. 이곳저곳에서 비명이 들려오고, 바로 어제 함께 수업을 들었던 친구들이 하나둘씩 검은 점액으로 변해가고 있었다."
+AvgDialog_10120_Content_1,adle,avg序章_AvgDialog_C_M.csv,53,AvgDialog,Content,拉蒙娜战损版,"保护好你手中的指令仪，小心融蚀污染。
+在接下来的战斗中，它不可或缺。","명령 디바이스가 융식에 오염되지 않도록 조심해!
+앞으로의 전투에서도 그게 필요할 거야. "
+AvgDialog_10138_Content_1,adpE,avg序章_AvgDialog_C_M.csv,55,AvgDialog,Content,拉蒙娜战损版,保持警惕，它要发动攻击了，这伤害对现在的我来说是致命的。,경계를 유지해. 적이 곧 공격할 거야. 이번 피해로 나는 치명상을 입게 되겠네...
+AvgDialog_10138_Content_2,adpF,avg序章_AvgDialog_C_M.csv,56,AvgDialog,Content,拉蒙娜战损版,相信你会做出理智的选择。这回合的行动，就选择<Yellow:「防御」>吧。,냉정하게 판단하자. 이번 턴엔 <Yellow:「방어」>를 선택해줘.
+AvgDialog_10140_Content_4,adpN,avg序章_AvgDialog_C_M.csv,62,AvgDialog,Content,拉蒙娜战损版,"释放狂气爆发，贯彻我的<Yellow:「世界演绎法」>吧！
+在对抗融蚀的过程中，<Yellow:只有合理应对攻势，才能谋得最大的生机>。","광기 폭발을 해방해서, 내 <Yellow:「세계 연역법」>을 발동해!
+융식에 맞서기 위해서는, <Yellow:적의 공세를 합리적으로 받아쳐야만 승리로의 길을 열 수 있어>."
+AvgDialog_10141_Content_1,adpO,avg序章_AvgDialog_C_M.csv,63,AvgDialog,Content,玩家,糟糕，萝坦将要释放<Yellow:狂气爆发>……只靠这些指令的话……,"안 돼, 로탄이 곧 <Yellow:광기 폭발>을 사용할 거야...
+이 명령만으로는..."
+AvgDialog_10136_Content_1,adpu,avg序章_AvgDialog_C_M.csv,67,AvgDialog,Content,拉蒙娜战损版,这是……萝坦引以为傲的的<Yellow:「桀骜之刃」>，会瞬间发起多段攻击！,"이건... 로탄이 자부하는 <Yellow:「반항의 칼날」>이네, 순식간에 다단 공격을 가해올 거야!"
+AvgDialog_10136_Content_2,adpv,avg序章_AvgDialog_C_M.csv,68,AvgDialog,Content,拉蒙娜战损版,应对这一招……用<Yellow:「攻势推演」>避开关键弱点，这样更稳妥。,이 공격에 대항하려면... 내 <Yellow:「공격 분석」>으로 약점을 회피하는 게 좋을 것 같네.
+AvgDialog_10128_Content_2,adnp,avg序章_AvgDialog_C_M.csv,74,AvgDialog,Content,朵尔唤醒体,"怕什么，我还在这里呢。
+守密人，让我执行<Yellow:「外域手术」>。","뭘 무서워하는 거야? 내가 여기 있는걸.
+수호자, 나의 <Yellow:「외부 수술」>을 사용해 봐."
+AvgDialog_10125_Content_2,admq,avg序章_AvgDialog_C_M.csv,76,AvgDialog,Content,拉蒙娜战损版,异变体在警钟敲响之前抵达钥冢，弥萨格外围的<Blue:迷雾屏障>多半已经失效。,이 변이체들은 경보가 울리기도 전에 열쇠 무덤에 나타났어. 미사그 주변의 <Blue:안개 장벽>이 무효화된 것 같아...
+AvgDialog_10125_Content_12,admi,avg序章_AvgDialog_C_M.csv,86,AvgDialog,Content,,你认识她，她是以难交流著称的教授朵尔，隶属于<Blue:唤醒系科研所>。换句话说，是非战斗人员。,"당신은 그녀를 알고 있었다. 대하기 어려운 인물로 유명한, <Blue:각성학부 연구소> 소속의 돌 교수. 다시 말해, 비전투 인원이었다."
+AvgDialog_10125_Content_15,adml,avg序章_AvgDialog_C_M.csv,89,AvgDialog,Content,朵尔唤醒体,钥冢居然也受到了袭击？这里离后门近，你们抓紧时间离开。,"열쇠 무덤도 공격을 받은 것 같네. 여기는 후문과 가까우니까, 너희도 어서 피난하도록 해."
+AvgDialog_10125_Content_17,admn,avg序章_AvgDialog_C_M.csv,91,AvgDialog,Content,朵尔唤醒体,"拉蒙娜。
+那些是我们的义务，%player%只是个刚读完预科的新人。",라모나. 그건 우리가 해야 할 일이야. %player%은(는) 아직 예비 과정을 갓 마친 신입일 뿐이고.
+AvgDialog_10125_Content_20,admr,avg序章_AvgDialog_C_M.csv,94,AvgDialog,Content,朵尔唤醒体,"如果我没猜错，宣誓仪式应该尚未完成。
+%heorshe%，还没有被授予银钥匙吧？","보아하니 서약식이 아직 끝나지 않은 모양이네, %player%. 아직 정식으로 은열쇠를 수여받지 못했지?"
+AvgDialog_10125_Content_21,adms,avg序章_AvgDialog_C_M.csv,95,AvgDialog,Content,朵尔唤醒体,接下来我们会深入弥萨格禁区，未经授权者擅入禁区是什么级别的事故，我以为你自幼在此长大，心里是有数的。,"우린 곧 미사그의 금지 구역 깊은 곳까지 들어갈 거야. 무단으로 금지 구역에 들어가는 게 얼마나 위험한지, 어릴 때부터 이곳에서 자란 너라면 잘 알고 있을 거라고 생각해."
+AvgDialog_10125_Content_25,admw,avg序章_AvgDialog_C_M.csv,99,AvgDialog,Content,朵尔唤醒体,我知道你曾经窥见过<Yellow:「门」>内之物。但无论是世界的未来，还是弥萨格的内核，或许都比你想象得更为残酷。,"나는 네가 <Yellow:「문」>의 안쪽을 엿본 적이 있다는 걸 알고 있어. 하지만 미사그의 핵이나 세계에 닥친 운명은, 네가 생각하는 것보다 더 잔혹할지도 몰라."
+AvgDialog_10125_Content_26,admx,avg序章_AvgDialog_C_M.csv,100,AvgDialog,Content,朵尔唤醒体,我们面对的是会毁灭物质存在本身的现象，一旦被<Yellow:融蚀>污染，你的一切都会烟消云散。,"우리가 마주하고 있는 건 물질의 존재 자체를 파괴하는 현상이야. 한 번 <Yellow:융식>에 오염되면, 네 모든 것이 흔적도 없이 사라져버릴 거야."
+AvgDialog_10125_Content_27,admy,avg序章_AvgDialog_C_M.csv,101,AvgDialog,Content,朵尔唤醒体,你在宣誓仪式中刻在墓碑上的名字，也会化作一滩黑泥，无人铭记。,"네가 서약식에서 묘비에 새긴 이름도, 결국 검은 진흙으로 변해, 아무도 기억하지 못하게 되겠지."
+AvgDialog_10125_Content_28,admz,avg序章_AvgDialog_C_M.csv,102,AvgDialog,Content,朵尔唤醒体,回答我，你真的做好觉悟了吗？,대답해. 정말 각오가 되어 있니?
+AvgDialog_10125_Content_29,admA,avg序章_AvgDialog_C_M.csv,103,AvgDialog,Content,,朵尔冷冰冰地望着你，语调毫无起伏。,돌은 차가운 시선으로 당신을 바라보고 있다. 그 목소리에는 아무런 감정의 기복도 없었다.
+AvgDialog_10125_Content_30,admC,avg序章_AvgDialog_C_M.csv,104,AvgDialog,Content,,她看上去没什么表情，但你从那冰霜般的瞳孔底部，窥见了熊熊燃烧的火焰。,"그녀의 표정엔 아무것도 비춰지지 않았지만, 그 얼음 같은 동공 깊은 곳에서 타오르는 불길을 엿볼 수 있었다."
+AvgDialog_10125_Content_32,admE,avg序章_AvgDialog_C_M.csv,106,AvgDialog,Content,,我的墓碑，现在正伫立于钥冢之中。,"제 묘비는, 이미 열쇠 무덤에 세워져 있어요."
+AvgDialog_10125_Content_34,admG,avg序章_AvgDialog_C_M.csv,108,AvgDialog,Content,,这里有只有我能做到的事情。,저만이 할 수 있는 일이 있어요.
+AvgDialog_10125_Content_35,admH,avg序章_AvgDialog_C_M.csv,109,AvgDialog,Content,,这决定或许稍显仓促，但谁能保证人生的每个时刻都是准备万全的呢？,성급한 결정일지도 모른다. 하지만 인생에 완벽히 준비된 순간이라는 것이 존재할까?
+AvgDialog_10125_Content_37,admJ,avg序章_AvgDialog_C_M.csv,111,AvgDialog,Content,朵尔唤醒体,我代弥萨格第六任校长<Blue:奥利弗·艾尔西>授予你这枚银钥匙，编号K-0617。,"미사그 제6대 교장 <Blue:올리버 엘시>의 이름으로, 이 은열쇠를 당신에게 수여합니다. 번호 K-0617."
+AvgDialog_10125_Content_39,admL,avg序章_AvgDialog_C_M.csv,113,AvgDialog,Content,,"朵尔从精密的小盒中取出银钥匙，佩戴在你的胸口。
+银钥匙闪过荧光，熟悉的感觉充盈胸腔。","돌이 정교한 작은 상자에서 은열쇠를 꺼내어, 당신의 가슴에 걸었다. 은열쇠가 희미하게 빛나고, 익숙한 감각이 당신의 가슴 속을 가득 채웠다."
+AvgDialog_10125_Content_40,admN,avg序章_AvgDialog_C_M.csv,114,AvgDialog,Content,朵尔唤醒体,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"이 순간부터, 너는 비밀 수호자라는 특별한 책무를 짊어지고, 많은 미사그의 교사 및 학생들과 함께하게 될 거야."
+AvgDialog_10125_Content_43,admQ,avg序章_AvgDialog_C_M.csv,117,AvgDialog,Content,,"你依照训练谨慎地发动银钥匙。
+银辉闪烁，精神链接如千缕无形丝线将你和朵尔的感官联系起来。","당신은 훈련대로 신중하게 은열쇠를 발동했다. 은빛이 반짝이며, 정신적 연결이 마치 수천 가닥의 보이지 않는 실처럼 당신과 돌의 감각을 이어 주었다."
+AvgDialog_10125_Content_44,admR,avg序章_AvgDialog_C_M.csv,118,AvgDialog,Content,,"仿佛电流接通，“啪”地一声，无数光影讯息传入脑海。
+你被强烈的心悸震慑，几乎站立不稳。","수많은 빛과 정보가 전류처럼 뇌리에 스며들었다. 심장이 강하게 뛰어, 제대로 서 있기도 힘들 정도였다."
+AvgDialog_10125_Content_46,admT,avg序章_AvgDialog_C_M.csv,120,AvgDialog,Content,朵尔唤醒体,"你来得很及时，守密人。
+我和奥吉尔……都已经是强弩之末了。","좋은 타이밍이었어, 수호자. 오지에와 난... 슬슬 한계에 다다르고 있었거든."
+AvgDialog_10125_Content_49,admW,avg序章_AvgDialog_C_M.csv,123,AvgDialog,Content,朵尔唤醒体,那孩子还能坚持一会儿，先跟我来。,오지에는 조금 더 버틸 수 있을 거야. 먼저 날 따라오도록 해.
+AvgDialog_10135_Content_3,adpn,avg序章_AvgDialog_C_M.csv,126,AvgDialog,Content,萝坦,不够看不够看！掀起狂浪吧！给我一场酣畅淋漓的战斗吧！,"부족해, 부족해! 이 정도 파도로는 날 만족시킬 수 없다! 나에게 통쾌한 전투를 선사해라!"
+AvgDialog_10135_Content_7,adpr,avg序章_AvgDialog_C_M.csv,130,AvgDialog,Content,拉蒙娜战损版,你不会是要……,"수호자, 설마...?"
+AvgDialog_10135_Content_11,adpf,avg序章_AvgDialog_C_M.csv,134,AvgDialog,Content,玩家,夸我的时候“百年一遇”，真面临危机了就把我当花瓶，这不太合适。,"칭찬할 때는 「백년에 한 번 나올 인재」 라고 하더니, 진짜 위험할 때는 나를 장식품으로 여기다니, 그건 불공평해."
+AvgDialog_10135_Content_13,adph,avg序章_AvgDialog_C_M.csv,136,AvgDialog,Content,玩家,我们别无他法。这里失控的人太多了，不反抗的话，只会被疯狂吞没。,"다른 방법이 없어. 이미 너무 많은 사람이 통제를 잃었고, 여기서 싸우지 않으면 모두 광기에 삼켜지고 말 거야."
+AvgDialog_10135_Content_14,adpi,avg序章_AvgDialog_C_M.csv,137,AvgDialog,Content,玩家,"况且，就凭你我二人，根本不可能突破钟楼那边的包围。
+我们需要帮助，需要支配唤醒体的力量。","게다가, 우리 둘만으로는 종탑 쪽 포위망을 뚫을 수 없어. 우린 도움이 필요하고, 각성체의 힘을 빌려야 해."
+AvgDialog_10121_Content_2,adlh,avg序章_AvgDialog_C_M.csv,150,AvgDialog,Content,拉蒙娜战损版,"制造银钥匙，链接唤醒体，提供精神能源……
+弥萨格的一切活动都与<Yellow:银芯>息息相关。","은열쇠 제작, 각성체와의 링크, 정신적 에너지의 공급... 미사그의 모든 활동은 <Yellow:은심>과 관련되어 있어."
+AvgDialog_10121_Content_3,adli,avg序章_AvgDialog_C_M.csv,151,AvgDialog,Content,拉蒙娜战损版,"哪怕是极微量的<Yellow:银芯>，对弥萨格的研究也有着超乎寻常的价值。
+尽量把它们都收集起来吧。",아주 적은 양의 <Yellow:은심>이라도 연구에는 엄청난 가치를 지니지. 최대한 모아두도록 해.
+AvgDialog_10137_Content_1,adpw,avg序章_AvgDialog_C_M.csv,152,AvgDialog,Content,萝坦,你们阻拦不了我！……无耻的人类……,나를 막을 수는 없다! ...수치도 모르는 인간들 같으니!
+AvgDialog_10137_Content_2,adpx,avg序章_AvgDialog_C_M.csv,153,AvgDialog,Content,,你触摸着刚刚获得的银钥匙，微弱的震动传来，催促你完成与萝坦的共鸣。,"은열쇠를 만지자, 미세한 진동이 느껴진다. 로탄과의 링크가 시작된다."
+AvgDialog_10137_Content_4,adpz,avg序章_AvgDialog_C_M.csv,155,AvgDialog,Content,萝坦,<Shake:早知如此……绝不与你们定下约定……>,<Shake:이렇게 될 줄 알았다면... 약속 같은 건 하지 않았을 거다...>
+AvgDialog_10137_Content_7,adpC,avg序章_AvgDialog_C_M.csv,158,AvgDialog,Content,拉蒙娜战损版,我们从未打算过违背约定，这个三百年，下一个三百年，我们都将为此负重前行。,"우리는 약속을 어길 생각이 없어요. 이 300년 동안도, 앞으로의 300년 동안도, 우린 그 약속의 무게를 지고 나아갈 거니까."
+AvgDialog_10137_Content_8,adpD,avg序章_AvgDialog_C_M.csv,159,AvgDialog,Content,拉蒙娜战损版,萝坦，你期待的酣畅淋漓的战斗，近在眼前。,"로탄, 당신이 바라는 대로, 원하는 만큼 싸울 수 있을 거에요."
+AvgDialog_10132_Content_1,adoc,avg序章_AvgDialog_C_M.csv,160,AvgDialog,Content,萝坦,呵，就凭你们，也想毁灭这颗星球？,"흥... 확실히 그렇지. 이 나를 두고, 융식 생물 따위가 이 행성을 파괴할 수 있다고 생각하는 거냐?"
+AvgDialog_10132_Content_2,adod,avg序章_AvgDialog_C_M.csv,161,AvgDialog,Content,萝坦,还远远不够！无论还有多少，统统放马过来吧！,"아직 한참 부족해! 수가 얼마나 되든, 모조리 덤벼라!"
+AvgDialog_10131_Content_2,adnW,avg序章_AvgDialog_C_M.csv,163,AvgDialog,Content,玩家,我能通过链接感受到，你和奥吉尔的状况还不足以……,링크를 통해 느껴져요. 교수님과 오지에의 상태는 아직...
+AvgDialog_10131_Content_3,adnX,avg序章_AvgDialog_C_M.csv,164,AvgDialog,Content,奥吉尔,"没关系的，守密人。
+骑士就是为了守护大家而存在的，奥吉尔可以撑住！","괜찮습니다, 수호자... 기사는 모두를 지키기 위해 존재합니다. 저는 아직 버틸 수 있어요!"
+AvgDialog_10131_Content_4,adnY,avg序章_AvgDialog_C_M.csv,165,AvgDialog,Content,朵尔唤醒体,不必担心，现在有你来稳定心神，我们不会失控，可以最大限度地利用狂气。,"걱정할 필요 없어. 수호자가 있으니, 우리는 통제를 잃지 않고 광기의 이점만을 취할 수 있으니까."
+AvgDialog_10131_Content_6,adoa,avg序章_AvgDialog_C_M.csv,167,AvgDialog,Content,朵尔唤醒体,"别再犹豫了，守密人。
+接下来能否突破围堵，就看你的指挥了。","더 이상 망설이지 마, 수호자. 포위망을 뚫을 수 있을지는, 네 지휘에 달려 있어."
+AvgDialog_10131_Content_7,adob,avg序章_AvgDialog_C_M.csv,168,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"그럼 보여달라고——미사그의 미래가, 도대체 어떤 녀석의 손에 맡겨졌는지."
+AvgDialog_10123_Content_2,adlw,avg序章_AvgDialog_C_M.csv,170,AvgDialog,Content,,朵尔在前方引路，脚步敲击在金属路面，发出空洞的回响。,"돌이 앞장섰고, 발걸음이 금속 바닥을 두드리며 메아리친다."
+AvgDialog_10123_Content_3,adlH,avg序章_AvgDialog_C_M.csv,171,AvgDialog,Content,奥吉尔,我还是第一次知道，钟楼下还有这样的密道……,종탑 아래에 이런 비밀 통로가 있었다니... 처음 알았습니다.
+AvgDialog_10123_Content_5,adlZ,avg序章_AvgDialog_C_M.csv,173,AvgDialog,Content,朵尔唤醒体,如果没有黑池底的被称为<Yellow:核>的<Yellow:巨型银芯>，仅靠孱弱的人类精神来维持唤醒体现世，弥萨格的唤醒体技术不知道要比现在落后几十年。,"블랙풀 바닥에는 <Yellow:핵>이라고 불리는 <Yellow:거대한 은심>이 있어. 인간의 의식만으로는 각성체를 현세에 유지하기에 충분하지 않아. 핵이 없었다면, 미사그의 각성체 기술은 지금보다 수십 년은 뒤쳐져 있었을 거야."
+AvgDialog_10123_Content_15,adlr,avg序章_AvgDialog_C_M.csv,183,AvgDialog,Content,,祂没有面孔，你却从祂伫立的身姿中读出了某种悲悯。,"그것엔 얼굴이 없었지만, 당신은 그 모습에서 알 수 없는 연민을 느꼈다."
+AvgDialog_10123_Content_17,adlt,avg序章_AvgDialog_C_M.csv,185,AvgDialog,Content,塔薇,<Shake:你……来了……>,<Shake:잘... 왔다...>
+AvgDialog_10123_Content_18,adlu,avg序章_AvgDialog_C_M.csv,186,AvgDialog,Content,,白色的怪物发出喑哑的声音，似是嘶吼，又似是悲鸣。,"하얀 괴물이 쉰 목소리를 내었다. 그것은 포효같기도, 비명같기도 했다."
+AvgDialog_10123_Content_25,adlC,avg序章_AvgDialog_C_M.csv,193,AvgDialog,Content,,"你也记得。
+在<Blue:《弥萨格校史》>中，这个名字和另外两个名字是一同出现的。",당신도 기억하고 있었다. <Blue:《미사그의 역사》>에 그 이름이 다른 두 이름과 함께 나열되어 있었다.
+AvgDialog_10123_Content_26,adlD,avg序章_AvgDialog_C_M.csv,194,AvgDialog,Content,,洪积90年，<Blue:华德·菲利普斯>，<Blue:刻拉尔克什>和<Blue:塔薇>成立了<Blue:弥萨格学院（Mythag College）>。,"홍적력 90년, <Blue:워드 필립스>, <Blue:클라르커스>, 그리고 <Blue:타비>는 <Blue:미사그 학원 (Mythag College)>을 설립했다."
+AvgDialog_10123_Content_27,adlE,avg序章_AvgDialog_C_M.csv,195,AvgDialog,Content,,那正是你现在所在的，<Blue:弥萨格大学（Mythag University）>的前身。,"그것이 당신이 지금 소속되어 있는, <Blue:미사그 대학 (Mythag University)>의 전신이다."
+AvgDialog_10123_Content_32,adlK,avg序章_AvgDialog_C_M.csv,200,AvgDialog,Content,朵尔唤醒体,"这是弥萨格大学隐藏最深的秘密。
+塔薇——这位弥萨格大学创始人——既非人类，也不是唤醒体。","타비——미사그 대학의 창립자——는 인간도, 각성체도 아니다. 이게 미사그 대학이 숨겨온 가장 깊은 비밀이야."
+AvgDialog_10123_Content_33,adlL,avg序章_AvgDialog_C_M.csv,201,AvgDialog,Content,朵尔唤醒体,祂是来自其他维度的生物，最初出现时，只是初代校长菲利普斯聆听到的一缕絮语。,"타비는 다른 차원에서 온 존재로, 처음에는 초대 교장 필립스가 들은 한 줄기의 속삭임에 불과했다고 해."
+AvgDialog_10123_Content_34,adlM,avg序章_AvgDialog_C_M.csv,202,AvgDialog,Content,朵尔唤醒体,与“塔薇是唤醒体”这个认知恰好相反，提炼银芯、<Yellow:唤醒与上位意志共鸣的亡者>的唤醒体技术，是在塔薇的引导下诞生的。,"「타비는 각성체였다」는 상식과는 정반대로, 은심을 추출하고 <Yellow:지고의 의지와 공명하여 죽은 자를 각성시키는 각성체 기술>은 타비의 인도를 통해 탄생했지."
+AvgDialog_10123_Content_35,adlN,avg序章_AvgDialog_C_M.csv,203,AvgDialog,Content,朵尔唤醒体,塔薇预言了融蚀的降临和世界毁灭的未来，传递了最初的「真理」，并在弥萨格学院建立后陷入沉睡。,"타비는 융식의 강림과 세계 붕괴의 미래를 예언하고, 최초의 「진리」를 전달한 후, 미사그 학원이 설립되자 깊은 잠에 빠졌다고 전해져."
+AvgDialog_10123_Content_36,adlO,avg序章_AvgDialog_C_M.csv,204,AvgDialog,Content,朵尔唤醒体,根据菲利普斯先生的记载，这是塔薇为了避免「受到注视」，而选择的一种「非存在的」存在方式。,"필립스의 기록에 따르면, 이는 타비가 「관측되지 않기 위해」 선택한 「존재하지 않는」존재 방식이라고 해."
+AvgDialog_10123_Content_39,adlR,avg序章_AvgDialog_C_M.csv,207,AvgDialog,Content,,仿佛预兆着某种禁忌与灾厄的降临，「塔薇」发出一声刺破耳膜的尖啸。,"마치 어떤 금기와 재앙의 도래를 예고하듯, 「타비」가 귀를 찢는 듯한 날카로운 비명을 내지른다."
+AvgDialog_10123_Content_40,adlT,avg序章_AvgDialog_C_M.csv,208,AvgDialog,Content,,伴随雏鸟破壳般的颤抖，六扇银色巨型羽翼自祂的身躯向两侧伸展开来。,"갓 부화한 새처럼 떨리는 몸짓과 함께, 여섯 개의 거대한 은빛 날개가 그 몸에서 펼쳐진다. "
+AvgDialog_10123_Content_42,adlV,avg序章_AvgDialog_C_M.csv,210,AvgDialog,Content,,银色液体融入黑池的瞬间，池中波纹激荡，漆黑扭曲的融蚀体纷纷涌出。,"은빛 액체가 블랙풀에 스며드는 순간, 수면이 출렁이며, 뒤틀린 융식체들이 우르르 쏟아져 나온다. "
+AvgDialog_10123_Content_44,adlX,avg序章_AvgDialog_C_M.csv,212,AvgDialog,Content,塔薇,<Shake:终于……找到……你……了……>,<Shake:드디어... 찾았... 어...>
+AvgDialog_10133_Content_9,adoZ,avg序章_AvgDialog_C_M.csv,222,AvgDialog,Content,,在你面前出现的，是神情淡漠的女性面庞。,"당신 앞에 나타난 것은, 무표정한 여성의 얼굴이었다. "
+AvgDialog_10133_Content_12,adoh,avg序章_AvgDialog_C_M.csv,225,AvgDialog,Content,“塔薇”,你就是变数，是原初也是终末的答案。,그대야말로 변수ーー 원초이자 종말의 해답.
+AvgDialog_10133_Content_13,adoi,avg序章_AvgDialog_C_M.csv,226,AvgDialog,Content,“塔薇”,但愿你，是一切的转机……,"부디 그대가, 모든 것의 전환점이 되기를..."
+AvgDialog_10133_Content_16,adol,avg序章_AvgDialog_C_M.csv,229,AvgDialog,Content,,全都化成了一滩黑水，随后消失不见。,"모든 것이 검은 물로 변하고는, 이내 자취를 감춘다."
+AvgDialog_10133_Content_27,adox,avg序章_AvgDialog_C_M.csv,240,AvgDialog,Content,诃勒特,有很多人再也没能回来。,"많은 사람들이, 돌아오지 못하게 되었습니다."
+AvgDialog_10133_Content_29,adoz,avg序章_AvgDialog_C_M.csv,242,AvgDialog,Content,诃勒特,与融蚀相关的事件总是伴随着意外、疯狂和死亡，这就是我们这条道路上必然的经历。,"융식과 관련된 사건은 항상 혼돈, 광기, 그리고 죽음을 가져옵니다. 이게 바로 우리가 걸어갈 길에서 필연적으로 겪게 될 경험입니다."
+AvgDialog_10133_Content_34,adoF,avg序章_AvgDialog_C_M.csv,247,AvgDialog,Content,,"“德克斯特”这个名字你很熟悉，这是拉蒙娜的姓氏。
+这位“德克斯特勋爵”是你的教授，也是拉蒙娜的养父。","「덱스터」 라는 이름은 익숙했다. 그것은 라모나의 성이기도 하다. 교수인 「덱스터 경」은, 라몬나의 양부이기도 했다."
+AvgDialog_10133_Content_46,adoS,avg序章_AvgDialog_C_M.csv,259,AvgDialog,Content,德克斯特,"哎呀，威廉还是找到这里来了。
+那我可救不了你了，小家伙。","아이쿠, 윌리엄이 결국 여기까지 찾아왔군. 이제 자네를 더 도와줄 수는 없겠네, 수호자."
+AvgDialog_18814_Content_2,aeAC,avg测试剧情_AvgDialog_C_M.csv,466,AvgDialog,Content,拉蒙娜战损版,异变体在警钟敲响之前抵达钥冢，弥萨格外围的<Blue:迷雾屏障>多半已经失效。,이 변이체들은 경보가 울리기도 전에 열쇠 무덤에 나타났어. 미사그 주변의 <Blue:안개 장벽>이 무효화된 것 같아...
+AvgDialog_18814_Content_19,aeAB,avg测试剧情_AvgDialog_C_M.csv,483,AvgDialog,Content,朵尔唤醒体,"如果我没猜错，宣誓仪式应该尚未完成。
+%heorshe%，还没有被授予银钥匙吧？","보아하니 서약식이 아직 끝나지 않은 모양이네, %player%. 아직 정식으로 은열쇠를 수여받지 못했지?"
+AvgDialog_18814_Content_24,aeAH,avg测试剧情_AvgDialog_C_M.csv,488,AvgDialog,Content,朵尔唤醒体,我知道你曾经窥见过<Yellow:「门」>内之物。但无论是世界的未来，还是弥萨格的内核，或许都比你想象得更为残酷。,"나는 네가 <Yellow:「문」>의 안쪽을 엿본 적이 있다는 걸 알고 있어. 하지만 미사그의 핵이나 세계에 닥친 운명은, 네가 생각하는 것보다 더 잔혹할지도 몰라."
+AvgDialog_18814_Content_27,aeAK,avg测试剧情_AvgDialog_C_M.csv,491,AvgDialog,Content,朵尔唤醒体,回答我，你真的做好觉悟了吗？,대답해. 정말 각오가 되어 있니?
+AvgDialog_18814_Content_28,aeAL,avg测试剧情_AvgDialog_C_M.csv,492,AvgDialog,Content,,朵尔冷冰冰地望着你，语调毫无起伏。,돌은 차가운 시선으로 당신을 바라보고 있다. 그 목소리에는 아무런 감정의 기복도 없었다.
+AvgDialog_18814_Content_29,aeAM,avg测试剧情_AvgDialog_C_M.csv,493,AvgDialog,Content,,她看上去没什么表情，但你从那冰霜般的瞳孔底部，窥见了熊熊燃烧的火焰。,"그녀의 표정엔 아무것도 비춰지지 않았지만, 그 얼음 같은 동공 깊은 곳에서 타오르는 불길을 엿볼 수 있었다."
+AvgDialog_18814_Content_31,aeAP,avg测试剧情_AvgDialog_C_M.csv,495,AvgDialog,Content,,我的墓碑，现在正伫立于钥冢之中。,"제 묘비는, 이미 열쇠 무덤에 세워져 있어요."
+AvgDialog_18814_Content_33,aeAR,avg测试剧情_AvgDialog_C_M.csv,497,AvgDialog,Content,,这里有只有我能做到的事情。,저만이 할 수 있는 일이 있어요.
+AvgDialog_18814_Content_34,aeAS,avg测试剧情_AvgDialog_C_M.csv,498,AvgDialog,Content,,这决定或许稍显仓促，但谁能保证人生的每个时刻都是准备万全的呢？,성급한 결정일지도 모른다. 하지만 인생에 완벽히 준비된 순간이라는 것이 존재할까?
+AvgDialog_18814_Content_36,aeAU,avg测试剧情_AvgDialog_C_M.csv,500,AvgDialog,Content,朵尔唤醒体,我代弥萨格第六任校长<Blue:奥利弗·艾尔西>授予你这枚银钥匙，编号K-0617。,"미사그 제6대 교장 <Blue:올리버 엘시>의 이름으로, 이 은열쇠를 당신에게 수여합니다. 번호 K-0617."
+AvgDialog_18814_Content_38,aeAW,avg测试剧情_AvgDialog_C_M.csv,502,AvgDialog,Content,,"朵尔从精密的小盒中取出银钥匙，佩戴在你的胸口。
+银钥匙闪过荧光，熟悉的感觉充盈胸腔。","돌이 정교한 작은 상자에서 은열쇠를 꺼내어, 당신의 가슴에 걸었다. 은열쇠가 희미하게 빛나고, 익숙한 감각이 당신의 가슴 속을 가득 채웠다."
+AvgDialog_18814_Content_39,aeAX,avg测试剧情_AvgDialog_C_M.csv,503,AvgDialog,Content,朵尔唤醒体,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"이 순간부터, 너는 비밀 수호자라는 특별한 책무를 짊어지고, 많은 미사그의 교사 및 학생들과 함께하게 될 거야."
+AvgDialog_66597_Content_3,aoHA,avg测试剧情_AvgDialog_C_M.csv,3533,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"그럼 보여달라고——미사그의 미래가, 도대체 어떤 녀석의 손에 맡겨졌는지."
+AvgDialog_66597_Content_4,aoHL,avg测试剧情_AvgDialog_C_M.csv,3534,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"그럼 보여달라고——미사그의 미래가, 도대체 어떤 녀석의 손에 맡겨졌는지."
+AvgDialog_66597_Content_50,aoHX,avg测试剧情_AvgDialog_C_M.csv,3580,AvgDialog,Content,,细雨将指尖濡湿，微弱的电流穿透手套，顺着你的皮肤和她的指尖隐秘流淌。,"부드러운 빗방울이 손끝을 적신다. 장갑 너머로, 미약한 전류가 당신과 그녀의 피부 사이에서 조심스럽게 흐른다."
+AvgDialog_66597_Content_51,aoHY,avg测试剧情_AvgDialog_C_M.csv,3581,AvgDialog,Content,,莫名的情绪顺着电流触动了你的神经，那是欣喜、雀跃、不安和……,"전류와 함께, 여러 감정이 한꺼번에 치밀어 오른다. 기쁨, 기대, 불안, 그리고..."
+AvgDialog_66597_Content_55,aoIc,avg测试剧情_AvgDialog_C_M.csv,3585,AvgDialog,Content,,眼底的担忧散去，拉蒙娜半开玩笑地在嘴角勾起一个令人安心的弧度。,"라모나는 농담하듯 그렇게 말하고는, 눈동자에 어른거리던 불안을 지워내려는 듯 부드러운 미소를 지었다."
+AvgDialog_66597_Content_56,aoId,avg测试剧情_AvgDialog_C_M.csv,3586,AvgDialog,Content,,淅沥的雨声填满天地。,보슬보슬 내리는 빗소리가 끊임없이 이어지며 세상을 가득 채운다.
+AvgDialog_66597_Content_57,aoIe,avg测试剧情_AvgDialog_C_M.csv,3587,AvgDialog,Content,,淅沥的雨声填满天地。,보슬보슬 내리는 빗소리가 끊임없이 이어지며 세상을 가득 채운다.
+AvgDialog_66598_Content_64,aoJF,avg测试剧情_AvgDialog_C_M.csv,3665,AvgDialog,Content,朵尔唤醒体,我代弥萨格第六任校长<Blue:奥利弗·艾尔西>授予你这枚银钥匙，编号K-0617。,"미사그 제6대 교장 <Blue:올리버 엘시>의 이름으로, 이 은열쇠를 당신에게 수여합니다. 번호 K-0617."
+AvgDialog_66598_Content_65,aoJG,avg测试剧情_AvgDialog_C_M.csv,3666,AvgDialog,Content,朵尔唤醒体,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"이 순간부터, 너는 비밀 수호자라는 특별한 책무를 짊어지고, 많은 미사그의 교사 및 학생들과 함께하게 될 거야."
+AvgDialog_65482_Content_3,aoGc,avg章9_AvgDialog_C_M.csv,281,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"그럼 보여달라고——미사그의 미래가, 도대체 어떤 녀석의 손에 맡겨졌는지."
+AvgDialog_65482_Content_4,aoGn,avg章9_AvgDialog_C_M.csv,282,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"그럼 보여달라고——미사그의 미래가, 도대체 어떤 녀석의 손에 맡겨졌는지."
+AvgDialog_65482_Content_46,aoGu,avg章9_AvgDialog_C_M.csv,324,AvgDialog,Content,,细雨将指尖濡湿，微弱的电流穿透手套，顺着你的皮肤和她的指尖隐秘流淌。,"부드러운 빗방울이 손끝을 적신다. 장갑 너머로, 미약한 전류가 당신과 그녀의 피부 사이에서 조심스럽게 흐른다."
+AvgDialog_65482_Content_47,aoGv,avg章9_AvgDialog_C_M.csv,325,AvgDialog,Content,,莫名的情绪顺着电流触动了你的神经，那是欣喜、雀跃、不安和……,"전류와 함께, 여러 감정이 한꺼번에 치밀어 오른다. 기쁨, 기대, 불안, 그리고..."
+AvgDialog_65482_Content_51,aoGA,avg章9_AvgDialog_C_M.csv,329,AvgDialog,Content,,眼底的担忧散去，拉蒙娜半开玩笑地在嘴角勾起一个令人安心的弧度。,"라모나는 농담하듯 그렇게 말하고는, 눈동자에 어른거리던 불안을 지워내려는 듯 부드러운 미소를 지었다."
+AvgDialog_65482_Content_52,aoGB,avg章9_AvgDialog_C_M.csv,330,AvgDialog,Content,,淅沥的雨声填满天地。,보슬보슬 내리는 빗소리가 끊임없이 이어지며 세상을 가득 채운다.
+AvgDialog_65482_Content_53,aoGC,avg章9_AvgDialog_C_M.csv,331,AvgDialog,Content,,淅沥的雨声填满天地。,보슬보슬 내리는 빗소리가 끊임없이 이어지며 세상을 가득 채운다.
+AvgDialog_68329_Content_70,apfK,avg章9_AvgDialog_C_M.csv,865,AvgDialog,Content,朵尔唤醒体,我代弥萨格第六任校长<Blue:奥利弗·艾尔西>授予你这枚银钥匙，编号K-0617。,"미사그 제6대 교장 <Blue:올리버 엘시>의 이름으로, 이 은열쇠를 당신에게 수여합니다. 번호 K-0617."
+AvgDialog_68329_Content_71,apfL,avg章9_AvgDialog_C_M.csv,866,AvgDialog,Content,朵尔唤醒体,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"이 순간부터, 너는 비밀 수호자라는 특별한 책무를 짊어지고, 많은 미사그의 교사 및 학생들과 함께하게 될 거야."
+CollectionHall_121391_Desc,bKJP,t图鉴_CollectionHall_A.csv,707,CollectionHall,Desc,,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"이 순간부터, 너는 비밀 수호자라는 특별한 책무를 짊어지고, 많은 미사그의 교사 및 학생들과 함께하게 될 거야."
