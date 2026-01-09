@@ -1,0 +1,1141 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,EN
+Event_7301_Desc,aAzM,s事件_Event_A.csv,403,Event,Desc,,东区的街道错综复杂，不一会儿你就丢失了孩子们的身影。\n当你一筹莫展之时，一个神秘的女人向你搭话。\n「我知道孩子们去了哪里，不过，在告诉你之前，能否帮我一个小忙呢？」\n她拿出一张纸，冲你友好地微笑。\n「我叫克莱门汀，是一名心理医生，正在进行有关伦蒂尼恩居民的心理调查。如果你能帮我填写一下这个问卷。\n如实填写的话，我会很乐意为你和你的同伴提供一些帮助。」,"The streets of the East District are intricate and complex, and you soon lose sight of the children.\nJust when you begin to lose hope, a mysterious woman approaches you.\n""I know where the children have gone, but before I tell you, could you do me a small favor?""\nShe pulls out a piece of paper and smiles at you kindly.\n""My name is Clementine. I am a psychologist conducting a psychological investigation on the residents of Londinium. If you could simply fill out this questionnaire,\nI would be more than happy to provide you and your companions with some assistance."""
+Event_7301_ChoiceDesc1,aAzH,s事件_Event_A.csv,403,Event,ChoiceDesc1,,【如实填写】,[Answer Honestly]
+Event_7425_Desc,aBoQ,s事件_Event_A.csv,404,Event,Desc,,「这样么……非常有趣。」\n她收回问卷，向你指了孩子们离开的方向。你匆匆离去，险些没有听到身后的低语。\n「期待我们的下次会面。」,"""Is that so... very interesting.""\nShe folds away the questionnaire and points you in the direction the children had gone. You hurry away, nearly missing the whisper behind you.\n""Looking forward to when we meet again."""
+Event_7304_Desc,aAAw,s事件_Event_A.csv,405,Event,Desc,,「哎呀，这……」她收回问卷，露出了有些无奈的神色，「算了，你毕竟赶时间。孩子们往那里去了，应该没走多远。」\n你匆匆转身，险些没能听清身后的低语。\n「反正，我们会再次见面的。」,"""Oh, this..."" She takes back the questionnaire with a somewhat befuddled expression. ""Oh well, you're in a hurry after all. The children went that way, shouldn't be too far.""\nYou quickly turn and dash, nearly missing the whisper behind you.\n""No matter, we will meet again."""
+Event_7341_Name,aAIZ,s事件_Event_A.csv,406,Event,Name,,病历本,Medical Records
+Event_7341_Desc,aAIY,s事件_Event_A.csv,406,Event,Desc,,一个颇为熟悉的声音叫住了你，你眯起眼睛，却怎么也看不清她的身形。\n「我知道你在赶时间，」克莱门汀医生语调轻快，「我保证不会耽误你太久。」\n两只手穿透脑中的迷雾而来，上面各拿了一本病历本，一本厚实且有磨损，一本薄而簇新。\n「根据你的问卷结果，我擅自给你做了一份病历。不过，我一时忘了哪本是你的，不如你来挑选一下？」\n不知为何，薄的病历本上传来了一股熟悉的气息，和你与唤醒体之间的精神联系隐隐共鸣。,"A rather familiar voice calls out to you. You squint, but can't quite make out the figure.\n""I know you're in a hurry,"" says Dr. Clementine cheerfully, ""I promise not to take up too much of your time.""\nTwo hands reach through the mist in your mind, each holding a medical record—one thick and worn, the other thin and pristine.\n""Based on your questionnaire results, I took the liberty of preparing a medical record for you. However, I seem to have forgotten which one belongs to you. Why don't you choose?""\nFor some reason, the thin medical record exudes a familiar aura, subtly resonating with the mental connection between you and the figure."
+Event_7341_ChoiceDesc1,aAIT,s事件_Event_A.csv,406,Event,ChoiceDesc1,,【厚实的病历本】,[Thick Record]
+Event_7341_ChoiceDesc2,aAIU,s事件_Event_A.csv,406,Event,ChoiceDesc2,,【薄薄的病历本】,[Thin Record]
+Event_7321_Name,aAEt,s事件_Event_A.csv,407,Event,Name,,病历本,Medical Records
+Event_7321_Desc,aAEs,s事件_Event_A.csv,407,Event,Desc,,你接过厚实的病历本并打开，发现扉页上写了「G·R」两个字。\n「哎呀，哎呀，这不是你的病历吗？」克莱门汀似乎毫不介意，「不过，钻研他人心理，也能提升对自己的认知呢。」\n还没等你询问，她的身影便彻底消失。,"\nYou take the thick medical record and open it to find ""G. R."" on the title page.\n""Oh dear, oh dear, this isn't your record, is it?"" Clementine says, entirely unbothered. ""No matter, studying the psyche of others can be good for one's own, after all.""\nBefore you could ask, her figure was already long gone."
+Event_7322_Name,aAEF,s事件_Event_A.csv,408,Event,Name,,病历本,Medical Records
+Event_7322_Desc,aAEE,s事件_Event_A.csv,408,Event,Desc,,你接过薄薄的病历本并打开，发现里面只有一张纸，上面只写了一句话。\n「在亘古的混沌之中，苍白的无目之眼在永恒注视。」\n你想要询问克莱门汀，却发现她早已不见了踪影。,"You take the thin medical record and open it to find a single sheet of paper inside, with only one sentence written on it.\n""In the eternal sea of chaos, a Pale, Pupilless Eye watches endlessly.""\nBefore you could ask, Clementine's figure was already long gone."
+Event_7253_Desc,aAoI,s事件_Event_A.csv,409,Event,Desc,,走过某个转角，周围的一切愈发模糊，只有可怖的吼叫仍旧清晰。\n脚步声响起，你一回头，依稀看到一个古怪的身影：那似乎是个人，同时背后有着成对的阴影，乍看上去像一只巨大的飞蛾。\n「小心，」拉蒙娜低声提醒，「密境之中，眼见不一定为实，若是贸然跟上去，恐怕会有危险。」,"As you turn a corner, your surroundings become increasingly blurry, yet the fearsome roars remain clear.\nFootsteps echo, and when you turn around, you can vaguely make out a strange figure; its humanoid shape stands as a person would, but behind them lies a pair of shadows reminiscent of the wings of a gigantic moth.\n""Be careful,"" Ramona whispers, ""In a Domain, what you may see isn't necessarily real. If you aren't careful, you may put yourself in danger."""
+Event_7253_ChoiceDesc1,aAoD,s事件_Event_A.csv,409,Event,ChoiceDesc1,,【出声试探】,[Call Out]
+Event_7253_ChoiceDesc2,aAoE,s事件_Event_A.csv,409,Event,ChoiceDesc2,,【偷偷跟上】,[Check Carefully]
+Event_7028_Desc,azpk,s事件_Event_A.csv,410,Event,Desc,,听到你的声音，人影停了下来，克莱门汀的声音穿透水雾而来。\n「是你啊，」她的模模糊糊，朦朦胧胧，像是被水化开的月光，不用担心，你会没事的，他想，但他做不到。\n「等你结束这里，我们还会再见。」,"Upon hearing your voice, the silhouette stops; Clementine's voice barely makes it through the dense fog.\n""Oh—it's you,"" she says, indistinct and hazy, like moonlight dissolving in water. ""Don't worry, you'll be fine""— it's a nice thought, but difficult to believe.\n""Once you're done here, we'll meet again."""
+Event_7062_Desc,azxc,s事件_Event_A.csv,411,Event,Desc,,朦胧的人影逐渐清晰，那不是什么融蚀体，也不是灾厄，而是没有翅膀，神色如常的克莱门汀。\n「真巧啊，你也是来欣赏月光的吗？」她笑着说，你却感到一阵晕眩，「浓雾之夜，还是要多加小心哦。\n「这儿的小家伙们，可不怎么安分。」,"The hazy figure gradually becomes clear; neither a Dissolute nor signs of Cataclysm, but a wingless, entirely ordinary Clementine.\n""What a coincidence, are you here to enjoy the moonlight too?"" she says with a smile, and you feel a wave of dizziness. ""On misty nights, do stay cautious.""\n""The little ones here aren't terribly well-behaved."""
+Event_6941_Desc,ayUk,s事件_Event_A.csv,188,Event,Desc,,强烈的被注视的感觉让你停下脚步。\n「是谁？」你在浓雾中张望，「詹金，是你吗？」\n雾气茫茫，庭院深处隐隐传来融蚀体的尖叫。你一无所获，只能回头，却险些撞上一只悬在空中的眼睛。,"A strong feeling of being watched makes you stop in your tracks.\n""Who is it?"" you look around in the dense fog, ""Jenkin, is that you?""\nThe mist is thick, and faint screams of the Dissoluted can be heard from deep within the courtyard. You come up empty-handed, and as you turn around, you nearly bump into an eye hanging in the air."
+Event_7314_Desc,aACM,s事件_Event_A.csv,189,Event,Desc,,眼睛缓慢地眨了一下，不知道是否听懂了你的问话。\n一滴金红相间的泪水从眼角滴落，像一颗微小的星星，散发着太阳一样的暖光。它下落，下落，带着悲伤，带着哀悯，在砖石上碎成一小片尘埃。\n你猛地回过神，那个眼睛已经不见了。,"The eyes blink slowly, unsure if they had understood your question.\nA single, golden-red tear drops from the corner of the eye, like a tiny star radiating warm sunlight. Its fall carries sadness and pity, until it shatters to dust on the bricks.\nYou snap back to reality—the eyes are gone."
+Event_7084_Desc,azCg,s事件_Event_A.csv,190,Event,Desc,,它就那么静静地悬在空中，一眨不眨，目光恳切，似乎是想告诉你什么。\n眼睛或许寄宿了灵魂，但如果没有言语，你也只能感到一丝急切，一丝悲伤。\n它凭空消散了。,"It hovers silently in the air, unblinking, its gaze earnest—as if trying to tell you something.\nEyes may harbor a soul, but without words, you can only sense a trace of urgency and a hint of sorrow.\nIt vanishes into thin air."
+Event_7252_Desc,aAow,s事件_Event_A.csv,215,Event,Desc,,融蚀体在你面前消散，黑冷的飞灰融入迷雾，凭空凝聚出一个古怪的天平。天平的一端是一只沉睡的老鼠，另一端则是一根雕刻成男孩模样的蜡烛。\n冥冥中你知道，你必须做出选择。,"The Dissolute dissipates before you. From it, black ashes coalesce in the mist to form a strange pair of scales. On one side, a rat lies in sleep. On the other sits a small candle, carved into the shape of a young boy.\nYou instinctively know that you must make a choice."
+Event_7252_ChoiceDesc1,aAor,s事件_Event_A.csv,215,Event,ChoiceDesc1,,【选择老鼠】随机1张指令卡获得刻印：「(EnchantConfig.Arg1)」,"[The Rat] Engrave the Orison ""(EnchantConfig.Arg1)"" on a random Command Card."
+Event_7252_ChoiceDesc2,aAos,s事件_Event_A.csv,215,Event,ChoiceDesc2,,【选择蜡烛】提升 Arg1 点最大生命，感染「(Skill.Arg2)」,"[The Candle] Increase Max HP by Arg1, but develop the Symptom ""(Skill.Arg2)""."
+Event_7406_Desc,aAYw,s事件_Event_A.csv,216,Event,Desc,,你小心地将老鼠从天平上取下，它平缓地呼吸着，毛茸茸的躯体温暖了你的掌心。,"You carefully lift the rodent from the scale. Its breathing is steady, its furry body warm in your palm."
+Event_7611_Desc,aCgw,s事件_Event_A.csv,217,Event,Desc,,蜡烛离开天平的瞬间就自动点燃，它流下乳白的泪水，迅速从你的指缝间滴落，消失不见。,"The candle ignites the moment it leaves the scale, shedding milky-white tears that swiftly drip through your fingers and disappear."
+Event_7229_Desc,aAjg,s事件_Event_A.csv,233,Event,Desc,,「我好痛苦，好痛苦啊……」\n「为什么是我，为什么我要经历这个？」\n「仁慈的父神啊，我到底做错了什么？」\n悲伤、痛苦、愤怒、不甘……「病人」们的情感沉重地压在你的身上，你捂着胸口，无法呼吸。,"""I'm in such pain, so much pain...""\n""Why me? Why must I endure this?""\n""Merciful Father, what have I done wrong?""\nSorrow, pain, anger, frustration... drowning in empathy, the emotions of these ""patients"" weigh heavily on you. Clutching your chest, you find it difficult to breathe."
+Event_7229_ChoiceDesc2,aAjc,s事件_Event_A.csv,233,Event,ChoiceDesc2,,【沉沦】获得白银造物「(RelicConfig.Arg1)」，感染「(Skill.Arg2)」,"[Wallow] Acquire the Silver Relic ""(RelicConfig.Arg1)"", but develop ""(Skill.Arg2)""."
+Event_7082_Desc,azBI,s事件_Event_A.csv,234,Event,Desc,,你也会欢喜，也会忧愁，但此刻淹没你的不是你的情感。你捂住耳朵，银钥匙闪烁耀眼的光。\n终于，你能呼吸了。,"You've felt joy. You've felt sorrow. You recognize now it is not your own emotions overwhelming you.\nClosing your eyes and covering your ears, the Silver Key shines with a dazzling light.\nIt'll be okay. Finally, you can take a deep breath."
+Event_7509_Desc,aBIU,s事件_Event_A.csv,412,Event,Desc,,融蚀体哀嚎着倒下，你惊讶地发现克莱门汀站在其后。\n「我是来道别的，」面对你的质问，她不予回答，「为了表达对你的感谢，我可以告诉你一些线索。不过……那将需要你的信任。\n让我催眠你，你就能知道我知道的一切。」\n你能相信她吗？\n「小心，」拉蒙娜警告道，「她不可能别无所图。」,"The Dissolute cried out as it fell, and you're surprised to find Clementine standing behind it.\n""I'm here to say goodbye,"" she says. ""As a show of thanks, I can give you some clues. However... that will require your trust.\nAllow me to hypnotize you, and I will share with you all that I know.""\nCan you trust her?\n""Be careful,"" Ramona warned, ""She must have ulterior motives."""
+Event_7509_ChoiceDesc1,aBIP,s事件_Event_A.csv,412,Event,ChoiceDesc1,,【欣然同意】,[Hesitantly Agree]
+Event_7509_ChoiceDesc2,aBIQ,s事件_Event_A.csv,412,Event,ChoiceDesc2,,【抱有戒心】,[Express Caution]
+Event_7259_Desc,aAqc,s事件_Event_A.csv,413,Event,Desc,,奇异的振翅声萦绕在你周围，恍惚间你看到，罗杰斯抱着玩偶乔治躺在诊疗床上，双手满是鲜血。\n你睁开眼，发现克莱门汀已经不见了踪迹。\n苏醒过来，克莱门汀已经离开。,"An eerie fluttering sound lingers around you. In a daze, you see Rogers holding the doll George, lying on the treatment bed with bloodstained hands.\nYou open your eyes and realize Clementine is nowhere to be found.\nBy the time you awake, Clementine is long gone."
+Event_7514_Desc,aBKc,s事件_Event_A.csv,414,Event,Desc,,在周围嘈杂的声音之中，你依稀听到了奇异的振翅声。银钥匙在你胸口猛然振动，你被某种力量驱使着仰头，看到空中出现的巨大黑洞。\n「可惜，可惜，不过没关系。我们还会再次相见，我尊敬的无目之眼。」,"Through the cacophony of noises, you can barely make out a strange buzzing, like the wings of an insect. The Silver Key vibrates fiercely against your chest; compelled by some force, you look up to see a huge, black hole appear in the sky.\n""What a pity, to be sure, but it's alright. We will meet again, my esteemed Pupilless Eye."""
+Event_7401_Desc,aAWQ,s事件_Event_A.csv,88,Event,Desc,,橙黄色的网在空中静静地漂浮，它孔洞稀疏，远不如墙根上栖息了一只蜘蛛的远亲来得精致。\n你忍不住伸手触碰，脆弱的网瞬间溶解，孩子们的欢笑在你耳边响起。\n「金的银的黄的红的，所有钱包的都是我们的！」,"A yellow-orange web floats quietly in the air, its sparse holes far less intricate than those of its spider-weft relatives nesting by the wall.\nYou can't resist but to reach out; the fragile web dissolves instantly, and children's laughter echoes in your ears.\n""Gold, silver, yellow, red, all the wallets are ours!"""
+Event_7626_Desc,aCjU,s事件_Event_A.csv,89,Event,Desc,,一阵不属于你的失望在你心头漫起，虚幻的网缓缓消散，让出了一条通路。,"A wave of unfamiliar disappointment wells up in your heart as the illusory web gradually dissipates, revealing the path forward."
+Event_7561_Desc,aBUU,s事件_Event_A.csv,267,Event,Desc,,怪物的哀鸣在你的脑海中回荡，不成人形的黑色黏液中，一个声音微弱地呢喃着「莎莎姐姐」，「莎莎姐姐」。\n「莎莎姐姐，你在哪里？」,"The screams of Dissolutes echo in your mind. A faint but familiar voice emerges from the blackness, weakly whispering:\n""Sister Sasha,"" ""Sister Sasha...""\n""Sister Sasha, where are you?"""
+Event_6990_Desc,azgw,s事件_Event_A.csv,268,Event,Desc,,「我好痛，好痛啊……莎莎姐姐……」\n你看向莎拉，她紧张地护着两个孩子，似乎是没有听见。\n声音逐渐消散。,"""I'm in so much pain... Sister Sasha...""\nYou glance at Sarah. She is—nervously—shielding two of the children, pretending not to hear anything.\nThe voice gradually fades away."
+Event_7570_Desc,aBWY,s事件_Event_A.csv,269,Event,Desc,,「不可能，我不相信！」声音尖叫起来，「这个把我送给恶魔的女人，才不是我的莎莎姐姐！」,"""Impossible, unbelievable!"" The voice screamed, ""That woman who sent me to this demon is NOT Sister Sasha!"""
+Event_7180_Desc,azYA,s事件_Event_A.csv,321,Event,Desc,,「两个固执的家伙，济贫院已经很危险了，」通讯器里突然传来朵尔的声音，「你们打算下一步怎么行动，帮她把头缝上？」\n「现在不是说风凉话的时候，朵尔！」\n「我知道，我听得出来。」朵尔说，「冷静一点，知道成功的关键是什么吗？」,"""Two stubborn people? The Workhouse is already dangerous—"" Doll's voice suddenly comes through the communicator, ""What's your plan here? Sew her head back on?""\n""Now's not the time for sarcastic remarks, Doll!""\n""I know, I can tell."" Doll said, ""Calm down. Do you know what the key to success is?"""
+Event_7180_ChoiceDesc2,azYw,s事件_Event_A.csv,321,Event,ChoiceDesc2,,【是对成功的渴望】获得黄金造物「(RelicConfig.Arg1)」，感染「(Skill.Arg2)」,"[Desire to Succeed] Acquire the Golden Relic ""(RelicConfig.Arg1)"", but develop ""(Skill.Arg2)""."
+Event_7481_Desc,aBCw,s事件_Event_A.csv,323,Event,Desc,,「……我竟然觉得你说的有一丝道理，但渴望可不能帮你解决融蚀体。还是干点实际的吧。」,"""...I can't say there's not some truth to that, but desire alone won't solve your Dissoluted Entity problem. Let's do something practical."""
+Event_7577_Name,aBYF,s事件_Event_A.csv,333,Event,Name,,童年的旋律,Nursery Rhyme
+Event_7577_ChoiceDesc2,aBYA,s事件_Event_A.csv,333,Event,ChoiceDesc2,,【将盖子盖上】获得3选1刻印,[Close the Lid] Engrave 1 out of 3 Orisons
+Event_7380_Name,aARZ,s事件_Event_A.csv,334,Event,Name,,童年的旋律,Nursery Rhyme
+Event_7380_Desc,aARY,s事件_Event_A.csv,334,Event,Desc,,孩子们的声音从琴键下流出。\n「老查理有一只他很爱的虎斑猫……」\n孩子们的歌声之下，一个年轻女性的声音也在轻轻温柔歌唱。\n是你听错了吗？,"Children's voices flow from beneath the piano keys.\n<Italic:""Old Charlie's tabby, fat and dear..."">\nBeneath the children's singing, a young woman's gentle voice softly joins in.\nAre you hearing things...?"
+Event_7320_Name,aAEh,s事件_Event_A.csv,335,Event,Name,,童年的旋律,Nursery Rhyme
+Event_7320_Desc,aAEg,s事件_Event_A.csv,335,Event,Desc,,钢琴轻轻地发出一声叹息，似是宽慰，又似是留恋，像极了什么人在一曲终了时的笑容。\n「只要孩子们……只要……」\n你还没来得及听清，钢琴的幻影便随风飘散。,"The piano lets out a soft sigh, lingering but comforting, resembling the smile of someone at the end of their melody.\n""So long as the children... so long...""\nBefore you could make out the words clearly, the piano's phantasm vanished with the wind."
+Event_7404_Desc,aAXA,s事件_Event_A.csv,387,Event,Desc,,三个人影拦住了你的去路。\n「你可以放过她，」双手抱着沾满融蚀浆的小熊玩偶的人影开口，「她只是胆怯，而不邪恶。她不想伤害任何人。」\n「你可以帮助她，」双手捧着一把包装精致的糖果的人影开口，「你能够做到她不能做到的事情，你能够结束这一切。」\n「你不需要听我们的，」双手空空如也的人影开口，「你有你自己的路。」,"Three dark, ephemeral figures block your way.\n""You can let her go,"" says the one holding a teddy bear dripping with D-Slime, ""she is just timid, not evil. She doesn't want to harm anyone.""\n""You can help her,"" says the one holding a beautifully wrapped bag of candy, ""you can do what she cannot. You can end all of this.""\n""You don't have to listen to us,"" says the one with empty hands, ""you have your own path."""
+Event_7404_ChoiceDesc3,aAXx,s事件_Event_A.csv,387,Event,ChoiceDesc3,,【我要走自己的路】获得50黑印,[Walk My Own Path] Receive 50 Black Sigils
+Event_7358_Desc,aAMU,s事件_Event_A.csv,388,Event,Desc,,「这也是我的选择。」抱着小熊的人影说，「但她会成为他的傀儡，而他们都会死去。\n你，将是那个罪恶的帮凶。」\n强烈的愧疚将你淹没。人影消散，你扶着心口，不知刚才的究竟是投影，还是精神在重压下产生的幻觉。,"""This, too, was my decision,"" says the figure holding a bear. ""But she will become his puppet, and they will all die.\nAnd you will have been complicit in this tragedy.""\nIntense guilt overwhelms you. The silhouettes vanish, leaving you clutching your chest, unsure if it was a projection or a phantasm brought on by mental stress."
+Event_7302_Desc,aAzY,s事件_Event_A.csv,389,Event,Desc,,「这也是我的选择。」捧着糖果的人影说，「但她会成为他的筹码，你将必须选择。\n世上并不存在完美的结局。」\n深重的悲伤将你淹没。人影消散，你扶着心口，不知刚才的究竟是投影，还是精神在重压下产生的幻觉。,"""This, too, was my decision,"" says the figure holding candies. ""But she will become his pawn, and you will be forced to make a choice eventually.\nThere are no perfect endings in this world.""\nProfound sorrow overwhelms you. The silhouettes vanish, leaving you clutching your chest, unsure if it was a projection or a phantasm brought on by mental stress."
+Event_7541_Desc,aBQo,s事件_Event_A.csv,390,Event,Desc,,「明智的决定。」两手空空的人影说，「已经被验证的选择有着既定的结局，未知的行为则会导向新的未来。」\n细微的希望将你温柔笼罩。人影消散，你扶着心口，不知刚才的究竟是投影，还是精神在重压下产生的幻觉。,"""A wise decision,"" says the empty-handed figure. ""Preordained choices lead to predetermined outcomes, while unpredictable actions pave the way to new futures.""\nA subtle sense of hope gently envelops you. The silhouettes vanish, leaving you clutching your chest, unsure if it was a projection or a phantasm brought on by mental stress."
+Event_7409_Desc,aAZg,s事件_Event_A.csv,462,Event,Desc,,手提箱内的便携打字机忽然自己活动起来，打出半页歪歪扭扭的文字。\n 「你已经看见祂了，祂就在你的身侧，那些被疯狂污染的，狂热的影子……不要直视祂的轮廓。」,"The portable typewriter inside your suitcase suddenly started typing on its own, producing a half page of crooked text before you could notice.\n""You have seen It. It has always been just beside you—those shadows tainted by madness and zeal... Do not gaze directly at Its outline."""
+Event_7409_ChoiceDesc1,aAZb,s事件_Event_A.csv,462,Event,ChoiceDesc1,,【把纸抽出来】删除1张卡牌,[Pull The Paper] Destroy a Card
+Event_7409_ChoiceDesc2,aAZc,s事件_Event_A.csv,462,Event,ChoiceDesc2,,【现在不是时候】获得「(RelicConfig.Arg1)」，感染「(Skill.Arg2)」,"[Not Now] Acquire the Relic ""(RelicConfig.Arg1)"", but develop the Symptom ""(Skill.Arg2)""."
+Event_7612_Desc,aCgI,s事件_Event_A.csv,463,Event,Desc,,你一把将纸抽了出来，打字机却仍在运转。它将一张指令卡卷入，在上面糊满了油墨。\n你仔细辨认，上面好像反复写着「不要直视不要直视不要直视不要直视不要直视」。,"Hastily, you pull the paper from the typewriter—but it continues to run. In this moment of panic, a Command Card falls in and becomes unusably smeared with the blackest of ink.\nYou take a moment to dispose of it carefully, but can't help but to notice the ominous, repeated text now written upon it;\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>\n<Bold:DO NOT GAZE DIRECTL>"
+Event_6838_Desc,ayww,s事件_Event_A.csv,464,Event,Desc,,更重要的事情就在你面前，你合上箱子打定主意不去理会，而打字机也渐渐沉默。,"There are more important matters to tend to right now. You close the box, determined to ignore it, and the typewriter gradually falls silent."
+AvgDialog_18899_Content_10,afpF,avg章1新_AvgDialog_C_M.csv,17,AvgDialog,Content,？？？,<Italic:他翻了翻衣柜。他看了看床底。>,"<Italic:He searched the wardrobe, checked the bed,>"
+AvgDialog_18899_Content_12,afpH,avg章1新_AvgDialog_C_M.csv,19,AvgDialog,Content,？？？,<Italic:他在烧着锅炉的地下室转了转。>,"<Italic:Check the basement, his friend had said,>"
+AvgDialog_18899_Content_13,afpI,avg章1新_AvgDialog_C_M.csv,20,AvgDialog,Content,,"只剩下眼球和喉咙勉强运转。
+周身如同被虫蚁噬咬，传来细碎的疼痛。","Only your eyes and throat still function.\nAll around you, a faint, prickling pain spreads, as if insects were nibbling at your skin."
+AvgDialog_18899_Content_14,afpJ,avg章1新_AvgDialog_C_M.csv,21,AvgDialog,Content,？？？,<Italic:老查理在哪里都找不到他的虎斑猫。>,"<Italic:No tabby where he looked, anywhere!>"
+AvgDialog_18899_Content_18,afpN,avg章1新_AvgDialog_C_M.csv,25,AvgDialog,Content,？？？,<Italic:——直到自己也消失掉。>,"<Italic:—'Til Charlie, too, was never there.>"
+AvgDialog_18899_Content_27,afpX,avg章1新_AvgDialog_C_M.csv,34,AvgDialog,Content,,"从<Yellow:阿库特>回来之后，你就频繁地做梦。
+梦见自己的梦，梦见他人的梦，梦见过去，甚至有时候……梦见未来。","Since returning from <Yellow:Yakutsk>, the dreams haunt you—\nyour own, others', dreams of the past, even... glimpses of the future."
+AvgDialog_18899_Content_34,afqf,avg章1新_AvgDialog_C_M.csv,41,AvgDialog,Content,拉蒙娜,"发现你是我和弥萨格的幸运。
+如果不是你，在场所有人都会被阿库特的<Yellow:融蚀灾厄>湮没。","Finding you was a blessing for me and Mythag.\nWithout you, everyone here would have been engulfed by Yakutsk's <Yellow:Dissolution Cataclysm>."
+AvgDialog_18899_Content_47,afqt,avg章1新_AvgDialog_C_M.csv,54,AvgDialog,Content,威廉,"事不宜迟，肖恩还在等待你们的救援，赶紧出发吧。
+愿银钥指引前路。","Time's critical, and Sean's survival window narrows. Now go.\nMay the Silver Key light your path."
+AvgDialog_18906_Content_3,afvg,avg章1新_AvgDialog_C_M.csv,57,AvgDialog,Content,,"一股强烈的眩晕感伴随着剧烈的耳鸣突然向你袭来。
+模糊的画面在你脑中一闪而过，似乎某个时候，你看过类似的场景。","Dizziness strikes, ears ringing.\nBlurry images flash—have you seen this before?"
+AvgDialog_18906_Content_13,afuR,avg章1新_AvgDialog_C_M.csv,67,AvgDialog,Content,奥吉尔,"不是的，我是想请教一下……
+请问你知不知道莉莉安济贫院怎么走？","No, I just wanted to ask...\nDo you know the way to Lilian's Workhouse?"
+AvgDialog_18906_Content_23,afvc,avg章1新_AvgDialog_C_M.csv,77,AvgDialog,Content,,"奥吉尔转头看向刚才孩子所在的阶梯，那里空空如也。
+不知何时，兜帽已经溜到了街道的尽头，手中还抓着奥吉尔的钱包。","When Ogier turns back, the stairs are empty—\nthe hooded figure now lurks at the street's end, clutching his stolen wallet."
+AvgDialog_18906_Content_26,afvf,avg章1新_AvgDialog_C_M.csv,80,AvgDialog,Content,拉蒙娜,"看来，我们得帮帮奥吉尔了。
+走吧，守密人。","Looks like we need to help Ogier.\nLet's go, Keeper."
+AvgDialog_18883_Content_12,afiK,avg章1新_AvgDialog_C_M.csv,101,AvgDialog,Content,,"克莱门汀露出了一个柔和的笑容，轻轻拂去衣摆上并不存在的尘灰。
+她点头致意，然后翩然离去。","Clementine offers a gentle smile, brushing imaginary dust from her clothes.\nShe nods and graciously glides away."
+AvgDialog_18883_Content_13,afiL,avg章1新_AvgDialog_C_M.csv,102,AvgDialog,Content,,"你们抬头看去，巨大铁牌上赫然写着“莉莉安济贫院”几个锈蚀大字。
+大字下，一个保安百无聊赖地闲坐着。","Above, a rusted iron sign reads ""Lilian's Workhouse.""\nA bored guard slouches beneath it."
+AvgDialog_18883_Content_14,afiM,avg章1新_AvgDialog_C_M.csv,103,AvgDialog,Content,拉蒙娜,"事已至此，我们先进去看看吧。
+还记得你们的伪装身份吗，艾什%lordorlady%，艾什小少爷？","So we're here. Let's go inside and take a look.\nDo you remember your disguise, {Male=Lord Ashe and his younger brother,Female=Lady Ashe and her younger brother}?"
+AvgDialog_18885_Content_3,afjl,avg章1新_AvgDialog_C_M.csv,115,AvgDialog,Content,拉蒙娜,"<Yellow:融蚀初期侵蚀>。
+不应该这么早发作……甚至不该发作。",<Yellow:Early Dissolution Erosion>.\nIt shouldn't happen this early... it shouldn't happen at all.
+AvgDialog_18885_Content_6,afjo,avg章1新_AvgDialog_C_M.csv,118,AvgDialog,Content,威廉,"融蚀的异常发展…恐怕与<Yellow:肖恩·安德森调查员的失踪>脱不了干系。
+只怕已经有人盯上济贫院……甚至盯上你们了。",The anomalous Dissolution patterns... potentially correlate with <Yellow:Investigator Anderson's disappearance>.\nThe workhouse may be targeted... possibly you as well.
+AvgDialog_18909_Content_3,afxZ,avg章1新_AvgDialog_C_M.csv,132,AvgDialog,Content,莎拉,"济贫院事务繁杂，我们有失远迎了，尊敬的艾什%lordorlady%、玛丽小姐。
+我是这儿的管理人莎拉。","Good day, {Male=Lord,Female=Lady} Ashe, Miss Mary. I'm Sarah, the matron here.\nThe workhouse demands much of us, and I'm sorry we couldn't greet you at the gate."
+AvgDialog_18909_Content_4,afyk,avg章1新_AvgDialog_C_M.csv,133,AvgDialog,Content,,"见身边人没接上话头，她眉头一皱，拍了拍女孩的背。
+女孩似乎在走神，这会儿像是被吓了一跳，赶紧向你们鞠了一躬。","Irritated by the lack of echoes, she frowns and nudges a distracted girl.\nThe girl jolts, then bows to all of you hastily."
+AvgDialog_18909_Content_10,afxE,avg章1新_AvgDialog_C_M.csv,139,AvgDialog,Content,,"拉蒙娜面不改色，语句流畅如背诵过千百遍台词的话剧演员。
+奥吉尔在一旁早已涨红了脸。","Ramona remains composed, delivering rehearsed lines flawlessly.\nYet Ogier's face has turned completely red."
+AvgDialog_18909_Content_11,afxF,avg章1新_AvgDialog_C_M.csv,140,AvgDialog,Content,莎拉,"真不愧是艾什勋爵家的少爷，这么早就能承担重大的责任。
+济贫院里有不少和他差不多大的孩子，能帮忙盛粥擦地就不错了……","As expected of Lord Ashe's young heir, taking on such significant responsibilities at such a young age.\nIn the workhouse, we have children around his age merely capable of serving porridge..."
+AvgDialog_18909_Content_14,afxI,avg章1新_AvgDialog_C_M.csv,143,AvgDialog,Content,拉蒙娜,"因此，我们会在东区进行一批实地考察，通过长期资助来掌握当地情况。
+莉莉安济贫院是我们的第一站，也希望院长能对我们坦诚相待……","Hence our longitudinal field study in the East District.\nLilian Workhouse serves as our initial research site, where we expect full transparency from the matron..."
+AvgDialog_18909_Content_17,afxL,avg章1新_AvgDialog_C_M.csv,146,AvgDialog,Content,莎拉,"居然还有这种事！那个保、保安，肯定不是我们济贫院的人。
+我们这儿又没有什么值得偷啊抢啊的，请保安做什么呢？","I can't believe it! That guard, h-he definitely isn't from our workhouse.\nWe don't have anything worth stealing, so why hire security?"
+AvgDialog_18909_Content_33,afyd,avg章1新_AvgDialog_C_M.csv,162,AvgDialog,Content,,"说罢，莎拉引着你们，朝着济贫院内走去。
+在你们的身后，工人安静地排成两列，似是护卫，又仿佛看守。","Having said that, Sarah leads you into the workhouse.\nBehind you, the workers quietly formed two lines, flanking you like wardens... Or jail guards."
+AvgDialog_18909_Content_37,afyh,avg章1新_AvgDialog_C_M.csv,166,AvgDialog,Content,,"静悄悄的走廊里，镶嵌了金属铭牌的门缓缓打开。
+一只老鼠从门缝间溜出来，它左右看看，朝走廊的阴影吱吱叫了两声。","In the silent corridor, a door with a metal nameplate slowly opened.\nA mouse slips through the crack, glances around, and squeaks twice into the shadows."
+AvgDialog_18909_Content_44,afyp,avg章1新_AvgDialog_C_M.csv,173,AvgDialog,Content,詹金,"让我看看这臭女人都藏了什么秘密。
+戒指，项链……这都是金的吧？","Let's see what that witch's hiding.\nRings, necklaces... Are these all gold?"
+AvgDialog_18909_Content_46,afyr,avg章1新_AvgDialog_C_M.csv,175,AvgDialog,Content,詹金,"钥匙，好，看来出入其他地方也省事了。
+真得谢谢那什么<Yellow:“自助人”>，我们可以自助调查济贫院了。","Key, perfect. Now we can get in and out of other places easy.\nWe should really thank that <Yellow:""sponsor"">; now we can investigate this place proper."
+AvgDialog_18909_Content_49,afyu,avg章1新_AvgDialog_C_M.csv,178,AvgDialog,Content,詹金,"咦……这是……账本？
+麦克，男，5岁，10雷欧坊；戴安娜，女，23岁，5雷欧坊……","Huh... This is... a ledger?\nMac, male, 5 years old, 10 Florins; Diana, female, 23 years old, 5 Florins..."
+AvgDialog_18909_Content_59,afyF,avg章1新_AvgDialog_C_M.csv,188,AvgDialog,Content,詹金,"学生证？<Blue:肖恩……安德森>……
+这上面的符号，是不是跟早上那个冤大头金毛皮夹上的一样？",Student ID? <Blue:Sean... Anderson>...\nAren't these the same marks on that dandy boy's fancy wallet?
+AvgDialog_18909_Content_61,afyI,avg章1新_AvgDialog_C_M.csv,190,AvgDialog,Content,詹金,"别急，布朗。
+我必须冷静……冷静……","Shhh, Brown.\nStay cool... gotta keep my head straight..."
+AvgDialog_18909_Content_68,afyP,avg章1新_AvgDialog_C_M.csv,197,AvgDialog,Content,詹金,"黑漆漆的，什么都没有。
+我们要无功而返了，布朗。","Pitch black and empty as a politician's promise.\nWe're leaving with nothing, Brown."
+AvgDialog_18909_Content_73,afyV,avg章1新_AvgDialog_C_M.csv,202,AvgDialog,Content,,"詹金撬开两枚钉子，掀起木板。
+木板下是一个25英寸见方的铁质盖板。",Jenkin pries off a few nails and lifts the plank.\nUnderneath lies a 25-inch square iron cover.
+AvgDialog_18909_Content_75,afyX,avg章1新_AvgDialog_C_M.csv,204,AvgDialog,Content,詹金,"该死，全都打不开。
+这女人还藏了其他钥匙？",None of these work!\nDid she hide another key somewhere?
+AvgDialog_18909_Content_82,afzf,avg章1新_AvgDialog_C_M.csv,211,AvgDialog,Content,詹金,"没办法了，布朗。
+如果那个臭女人还在济贫院里养了幽灵，光凭我们可打不过她。","That's it, Brown.\nWe can't handle her alone if she got a ghost in her pocket."
+AvgDialog_18891_Content_11,afku,avg章1新_AvgDialog_C_M.csv,228,AvgDialog,Content,詹金,"记住啦，要是那个什么资助人对我们不利，你就去报信儿。
+那臭女人一定会让艾继丝去<Yellow:病疯子>那边帮忙，你带她过来就好。","Remember—if the sponsor's no good, you run and bring Aigis.\nShe's definitely sent to the <Yellow:Sick Madmen> by that wench."
+AvgDialog_18891_Content_17,afkA,avg章1新_AvgDialog_C_M.csv,234,AvgDialog,Content,詹金,别以为我看不出来，你才是说了算的那个。毕竟，这里面装的可不是少爷证书。,"Think I can't tell? You're the boss. After all, there's no ""young master certificate"" in that purse of yours."
+AvgDialog_18891_Content_23,afkH,avg章1新_AvgDialog_C_M.csv,240,AvgDialog,Content,詹金,"太没礼貌了，小金毛。
+你们弥萨格大学的人都是这么欺负流落街头的小女孩的吗？","That's rude, blondie.\nIs this how Mythag boys treat girls from the streets?"
+AvgDialog_18891_Content_32,afkR,avg章1新_AvgDialog_C_M.csv,249,AvgDialog,Content,拉蒙娜,"你应该是来调查济贫院附近的<Yellow:失踪案>的吧？
+我们也是，帮你一起调查不过是举手之劳。","You're investigating the <Yellow:workhouse disappearances>, yes?\nOur objectives align. Mutual cooperation would prove beneficial."
+AvgDialog_18891_Content_39,afkY,avg章1新_AvgDialog_C_M.csv,256,AvgDialog,Content,拉蒙娜,"这，加上附近最近频发的失踪案，共同导向一个猜想：
+你的亲人或者朋友失踪了，而你怀疑他们的失踪与济贫院有关。","This pattern, combined with recent disappearances, suggests one conclusion:\nSomeone you care about has vanished, and you suspect workhouse involvement."
+AvgDialog_18891_Content_42,aflc,avg章1新_AvgDialog_C_M.csv,259,AvgDialog,Content,拉蒙娜,"算上你借用奥吉尔钱包的那会儿，你一共和我们说了十六句话。
+加上对现实的观察，这些话已经足够分析、推理出你的生平了。","Including the wallet incident, we've documented sixteen interactions.\nCombined with field observations, this provides sufficient data for comprehensive profiling."
+AvgDialog_18891_Content_50,afll,avg章1新_AvgDialog_C_M.csv,267,AvgDialog,Content,詹金,"正好济贫院请了医生，她就顺道过来检查。
+前段时间，她说要来接受治疗，然后再也没有回家。","Some charity doctor came by.\nNext thing I knew, she said she's getting treatment and then disappeared."
+AvgDialog_18891_Content_65,aflB,avg章1新_AvgDialog_C_M.csv,282,AvgDialog,Content,詹金,"我知道，这么长时间了，你们肯定觉得没希望了。
+但我觉得姐姐肯定还活着……街头孩子的直觉很准的。",I know it's been long enough to lose hope.\nBut we street kids have instincts. I KNOW she's still alive out there.
+AvgDialog_18891_Content_68,aflE,avg章1新_AvgDialog_C_M.csv,285,AvgDialog,Content,,"拉蒙娜没有接话。
+你在她略显忧郁的注视下，回忆起朵尔在课堂上讲述的内容。","Ramona remains silent.\nUnder her melancholic gaze, you recall the content Doll narrated in class:"
+AvgDialog_18907_Content_3,afvJ,avg章1新_AvgDialog_C_M.csv,289,AvgDialog,Content,,"从窗外望去，就能看见艾继丝的奔忙身影。
+她抱着铁盆，匆匆忙忙地将满是脏污的绷带从病床边端去脏衣堆。","Through the window, you see Aigis bustling about.\nShe carries a metal basin, hurriedly moving soiled bandages from the bedside to a pile of dirty laundry."
+AvgDialog_18907_Content_5,afvR,avg章1新_AvgDialog_C_M.csv,291,AvgDialog,Content,,"似乎是听见了某人的呼唤，她放下铁盆，躬下腰凑在床边。
+从你们的角度，已经看不见她的小小身影，只有细声细气的话语传来。","She seems to hear someone's call. She puts down the basin, bends over, and leans by the bedside.\nFrom your angle, only her soft voice remains audible."
+AvgDialog_18907_Content_7,afvT,avg章1新_AvgDialog_C_M.csv,293,AvgDialog,Content,艾继丝,"别这么说，您的病一定会好起来的。
+那时候，我们就能去德莱尔公园玩，再一起喂鸽子了。",Don't say that. You will definitely get better.\nThen we can go to Drell Park and feed the pigeons together.
+AvgDialog_18907_Content_8,afvU,avg章1新_AvgDialog_C_M.csv,294,AvgDialog,Content,,"“砰”地一下，詹金推开了小屋的门。
+艾继丝吓了一跳，慌乱地差点把水洒到病人身上。","""Bang!"" Jenkin pushes open the cabin door.\nAigis startles, almost spilling water on the patient in her panic."
+AvgDialog_18907_Content_17,afvv,avg章1新_AvgDialog_C_M.csv,303,AvgDialog,Content,拉蒙娜,"艾继丝，这次视察会决定我们是否对莉莉安济贫院提供经济资助。
+你应该能明白，没有资助人愿意让自己的钱流入骗子手中。","Aigis, this inspection will determine whether we will provide financial support.\nSurely you understand that no patron wants their money wasted on fraud."
+AvgDialog_18907_Content_31,afvL,avg章1新_AvgDialog_C_M.csv,317,AvgDialog,Content,悠远的声音,"看吧，他们能“看见”。
+把一切都告诉他们，他们是最后的转机。","See, they can ""see.""\nTell them everything. They are our last hope."
+AvgDialog_18881_Content_2,afiq,avg章1新_AvgDialog_C_M.csv,325,AvgDialog,Content,,"这时你才看清楚，冲出来的是个头发凌乱的男人。
+他光着脚，穿着济贫院的衣服，手腕和脚腕上有明显捆绑过的痕迹。","You focus on him:\na disheveled man, barefoot, in charity clothes, his wrists and ankles marked by bindings."
+AvgDialog_18881_Content_3,afir,avg章1新_AvgDialog_C_M.csv,326,AvgDialog,Content,,"几个似乎是护工的人追在他身后，试图将他拉开。
+男人丝毫不为所动，他向后仰头，然后猛地将头砸在冷硬的墙面上。","A few attendants chase after him, trying to pull him away.\nThe man remains unfazed. He leans back and slams his head into the cold, hard wall."
+AvgDialog_18881_Content_7,afiv,avg章1新_AvgDialog_C_M.csv,330,AvgDialog,Content,,"血液飞溅，在墙面上和地上留下了深色的斑点。
+你向前迈出一步准备帮忙，男人却突然停下动作。","Blood splatters, leaving dark spots on the walls and floor.\nYou step forward to help, but the man suddenly stops moving."
+AvgDialog_18890_Content_2,afka,avg章1新_AvgDialog_C_M.csv,335,AvgDialog,Content,,"奥吉尔迅速上前，在拉蒙娜的帮助下用布条捆住了他的手脚。
+男人仍不住挣扎扭动着，敞开的衣襟间露出了一道古怪的伤痕。","Ogier quickly steps forward and, with Ramona's help, binds his hands and feet with cloth strips.\nThe man continues struggling, exposing a peculiar scar through his open collar."
+AvgDialog_18890_Content_6,afko,avg章1新_AvgDialog_C_M.csv,339,AvgDialog,Content,莎拉,"艾继丝！不是说了不准让资助人到医护区来吗？
+要是资助人在我们这里出了什么意外，以后谁还……",Aigis! Didn't I say no sponsors are allowed in the ward?\nWho would sponsor us if something happens to...
+AvgDialog_18890_Content_8,afkq,avg章1新_AvgDialog_C_M.csv,341,AvgDialog,Content,,"你循着声音回头望去，发现身后不知何时站了两个人。
+其中一个你认得：那是奥吉尔曾经撞上的白衣女人。",You turn toward the sound and find two people behind you.\nOne you recognize: the woman in white whom Ogier once encountered.
+AvgDialog_18890_Content_9,afkr,avg章1新_AvgDialog_C_M.csv,342,AvgDialog,Content,莎拉,"罗杰斯先生，菲尔费克斯医生！
+抱歉，您在休息区吃些茶点等我就好，我料理完这边就去招待您……","Mr. Rogers, Dr. Fairfax!\nI'm sorry, please have some refreshments in the lounge while you wait. I'll come and greet you once I'm done here."
+AvgDialog_18890_Content_10,afjQ,avg章1新_AvgDialog_C_M.csv,343,AvgDialog,Content,罗杰斯,"我对这里已经很熟、熟悉了，莎拉小姐，不用那么劳烦的。
+比起那个，小艾、艾继丝怎么哭得这样伤心？是有谁欺负她了吗？","I'm n-not a stranger to this place, Miss Sarah. You don't have to.\nBy the way, why is Little Aigis crying so sadly? Did someone bully her?"
+AvgDialog_18890_Content_12,afjS,avg章1新_AvgDialog_C_M.csv,345,AvgDialog,Content,,"在院长略带急促的眼神下，艾继丝猛地把话吞回了肚子里。
+她对着所有人鞠了一躬，最后看了你们一眼，小小的身影消失在了门后。","The pressure of the matron's gaze makes Aigis swallow her words.\nShe bows to everyone, looks at you, then disappears behind the door."
+AvgDialog_18890_Content_17,afjX,avg章1新_AvgDialog_C_M.csv,350,AvgDialog,Content,,"他腾出一只手与你轻轻一握。
+掌心相触的瞬间，一股强烈的晕眩感朝你袭来。","He frees one hand to gently shake yours.\nThe instant your palms touch, intense dizziness washes over you."
+AvgDialog_18890_Content_27,afki,avg章1新_AvgDialog_C_M.csv,360,AvgDialog,Content,玩家,"啊，抱歉，可能是昨晚没休息好，有点走神。幸会，罗杰斯先生。
+鄙姓艾什，这我的弟弟奥吉尔和管家玛丽。这是詹金……","Um, beg your pardon, I was distracted. Nice to meet you, Mr. Rogers.\nI am Ashe. This is my younger brother Ogier and our housekeeper Mary. This is Jenkin..."
+AvgDialog_18908_Content_1,afvW,avg章1新_AvgDialog_C_M.csv,363,AvgDialog,Content,,非礼勿言,Unspoken Etiquette
+AvgDialog_18908_Content_13,afwa,avg章1新_AvgDialog_C_M.csv,375,AvgDialog,Content,,"10日前，伦蒂尼恩东区
+莉莉安济贫院","10 days ago, East District, Londinium\nLilian's Workhouse"
+AvgDialog_18908_Content_15,afwc,avg章1新_AvgDialog_C_M.csv,377,AvgDialog,Content,,"白色少女怀抱着罪恶与恐惧，在昏暗空旷的济贫院前院中奔跑。
+直至撞上阴影中潜藏的陌生之物，才疼痛得惊呼出声。","The girl in white, clutching guilt and fear, ran through the dim, empty courtyard of the workhouse...\nUntil she bumped into something hidden in the shadows and cried out in pain."
+AvgDialog_18908_Content_23,afwl,avg章1新_AvgDialog_C_M.csv,385,AvgDialog,Content,詹金,"幽灵？什么乱七八糟的。我老实和你说了吧，我确实不是这破地方的人。
+我叫詹金，这是布朗。","Ghost? Nonsense. But I'll be honest with you, I'm not from this shitty place.\nI'm Jenkin, and this is Brown."
+AvgDialog_18908_Content_25,afwn,avg章1新_AvgDialog_C_M.csv,387,AvgDialog,Content,詹金,"我进来是为了找我姐姐的。她叫<Blue:梅森>，两个星期前在这附近失踪了。
+你们这儿最近有多出个叫梅森的人吗？",I'm here looking for my sister. Her name is <Blue:Mason>. Disappeared around here two weeks ago.\nYou seen her?
+AvgDialog_18908_Content_29,afwr,avg章1新_AvgDialog_C_M.csv,391,AvgDialog,Content,？？,"<Shake:病、病人？>
+抱、抱歉…我也没见过年轻的女病人……",<Shake:P-patient?>\nS-Sorry... I haven't seen any young female patients...
+AvgDialog_18908_Content_30,afwt,avg章1新_AvgDialog_C_M.csv,392,AvgDialog,Content,詹金,"啧，不管了，我也没觉得能幸运到直接撞上知情人。
+不过你差点害我被发现了，这责任得你来负。","Tch, whatever. Didn't expect much anyway.\nBut you almost got me caught—that's on you."
+AvgDialog_18908_Content_32,afwv,avg章1新_AvgDialog_C_M.csv,394,AvgDialog,Content,詹金,"说实话，那天撞到的人是艾继丝你，真是太幸运了。
+不然我肯定得被揪着兜帽丢出去。","Got lucky bumping into you, Aigis.\nWould've been dragged out by my hood otherwise."
+AvgDialog_18908_Content_38,afwB,avg章1新_AvgDialog_C_M.csv,400,AvgDialog,Content,詹金,"既然你把我当朋友，那为什么不肯跟我说出真相呢？
+艾继丝，不要对我撒谎了。","Then why do you lie to your friend?\nTell me the truth, Aigis."
+AvgDialog_18908_Content_43,afwH,avg章1新_AvgDialog_C_M.csv,405,AvgDialog,Content,,"女孩嗫嚅着，声音逐渐减小。
+她面色苍白，看上去像是经受着莫大的痛苦。","The girl mumbles, her voice fading.\nHer face is pale, as if suffering immense pain."
+AvgDialog_18908_Content_50,afwP,avg章1新_AvgDialog_C_M.csv,412,AvgDialog,Content,詹金,"是啊，就是你跟我说的的那个传说。
+<Yellow:起雾的晚上不能到处乱走，会被拿着刀徘徊的幽灵抓走>。","Yeah, it's the legend you told me about.\n<Yellow:Don't wander around on foggy nights, or you'll be taken by a ghost with a knife>."
+AvgDialog_18908_Content_52,afwR,avg章1新_AvgDialog_C_M.csv,414,AvgDialog,Content,詹金,"别替莎拉开脱了！我已经找到<Yellow:藏着幽灵的地下室>了，还听到了<Yellow:刀的声音>。
+我的姐姐是不是就在里面？",Stop making excuses for Sarah! I've already found the <Yellow:basement with the ghost> and heard the <Yellow:sound of a knife>.\nIs my sister inside?
+AvgDialog_18908_Content_59,afwY,avg章1新_AvgDialog_C_M.csv,421,AvgDialog,Content,,"不知何时，济贫院内起了雾气。
+这雾气突如其来，周围的一切都笼上了一层水气，显得影影绰绰的。","Before she notices, mist appears in the workhouse.\nIt comes so suddenly, shrouding everything in moisture and making all indistinct."
+AvgDialog_18908_Content_65,afxf,avg章1新_AvgDialog_C_M.csv,427,AvgDialog,Content,詹金,"谁、谁在那里？
+出来！我、我警告你，我可是有武器的！","W-who goes there?\nShow yourself! I'm armed, mind you!"
+AvgDialog_18908_Content_77,afxs,avg章1新_AvgDialog_C_M.csv,439,AvgDialog,Content,罗杰斯,"作为安慰，要不要摸摸看呢？
+<Blue:乔治>会很高兴的。",How about a touch? You'll feel much better.\nAnd <Blue:George> will be happy.
+AvgDialog_18908_Content_83,afxz,avg章1新_AvgDialog_C_M.csv,445,AvgDialog,Content,罗杰斯,"噢，天真的小老鼠。其实，美和艺术从、从不分贫富、贵贱。
+将苦难凝结于美中，是很、很好的。","Oh, my naive little mouse. In fact, beauty and art never differentiate be-between rich and poor, noble and humble.\nEncapsulating suffering within beauty is tru-truly wonderful."
+AvgDialog_18908_Content_85,afxB,avg章1新_AvgDialog_C_M.csv,447,AvgDialog,Content,罗杰斯,"如果有机会，我也会将你、你们制作成蜡像。
+就叫“布朗与詹金”，如、如何？","Maybe one day, I'll turn you both into wax statues as well.\nHow about naming it ""Brown and Jenkin""?"
+AvgDialog_18895_Content_5,afnZ,avg章1新_AvgDialog_C_M.csv,452,AvgDialog,Content,拉蒙娜,"等夜再深一些，莎拉睡下，我们再去搜索。
+在那之前，先养精蓄锐。","We'll wait deeper into the night and take action when Sarah is asleep.\nBefore that, let's rest and regain some strength."
+AvgDialog_18895_Content_7,afob,avg章1新_AvgDialog_C_M.csv,454,AvgDialog,Content,,"就在你们交谈间，四周弥漫起了异常的浓雾。
+本应轻薄漂浮的水雾，如同粘稠的重压附着在你们身上。","An unusually thick fog spreads around the area just as you speak.\nThe mist, which should be light and floating, now clings to you like a heavy, sticky weight."
+AvgDialog_18895_Content_13,afnx,avg章1新_AvgDialog_C_M.csv,460,AvgDialog,Content,,"眼皮像灌了铅一般沉重，无法承受地闭合。
+在遁入黑暗的世界中，只有浓稠的雾气盘绕。","Your eyelids feel leaden, forcing them shut.\nIn the dark world, only thick fog swirls."
+AvgDialog_18895_Content_14,afny,avg章1新_AvgDialog_C_M.csv,461,AvgDialog,Content,？？？,<Italic:老查理在哪里都找不到他的虎斑猫。>,"<Italic:No tabby where he looked, anywhere!>"
+AvgDialog_18895_Content_15,afnz,avg章1新_AvgDialog_C_M.csv,462,AvgDialog,Content,,"黑暗的虚空之中，你独自一人。
+无垠高空之上，蜜色的眼睛溢出糖浆色的泪水，俯视着你。","In the dark void, you stand alone.\nAbove boundless skies, honey-colored eyes shed syrupy tears, gazing down."
+AvgDialog_18895_Content_18,afnC,avg章1新_AvgDialog_C_M.csv,465,AvgDialog,Content,？？？,<Italic:——直到自己也消失掉。>,"<Italic:—'Til Charlie, too, was never there.>"
+AvgDialog_18895_Content_21,afnG,avg章1新_AvgDialog_C_M.csv,468,AvgDialog,Content,,"蜜色的眼瞳颤抖着眨眼。
+泪水抖落，落在你的脸颊，散发出浓烈的甜香。","The honey-colored eyes tremble and blink.\nTears fall, landing on your cheek with a strong sweet scent."
+AvgDialog_18895_Content_22,afnH,avg章1新_AvgDialog_C_M.csv,469,AvgDialog,Content,,"歌声戛然而止，黑暗迅速褪去，知觉返回神经。
+在你迷失的时间里，浓雾似乎也淡薄了些许。","In an instant, the singing stops and the darkness fades. You come back to your senses once more.\nYou find the fog has grown somewhat thinner while you were lost."
+AvgDialog_18895_Content_29,afnO,avg章1新_AvgDialog_C_M.csv,476,AvgDialog,Content,拉蒙娜,"让我猜猜……会失踪，是吗？
+你知道那些受害者是谁，也知道他们去了哪里，对吗？","Let me guess... or we'll be taken, right?\nYou know who the victims are and where they went, don't you?"
+AvgDialog_18914_Content_4,afBM,avg章1新_AvgDialog_C_M.csv,488,AvgDialog,Content,艾瑞卡,"关键词读取成功，“缝合状融蚀”，相关事件共计37起。
+事件关键词：恶性组织行动，<Blue:雕塑家协会>。","Keyword matched, ""Stitched D-Mark,"" with a total of 37 related incidents.\nEvent Keywords: Malignant Organization Activity, <Blue:The Sculptors' Association>."
+AvgDialog_18911_Content_4,afzR,avg章1新_AvgDialog_C_M.csv,495,AvgDialog,Content,拉蒙娜,"艾继丝，他们也对你做了一样的实验。
+他们把你捆起来，强行进行手术，为你植入了一些……<Yellow:异物>，对吗？","Aigis, they conducted the same experiments on you.\nThey bound you and forcibly performed surgery, implanting some... <Yellow:foreign objects>, right?"
+AvgDialog_18911_Content_12,afzt,avg章1新_AvgDialog_C_M.csv,503,AvgDialog,Content,,"刀尖越来越近，越来越近，直到占据了全部视野。
+然后——",The blade drew nearer until it consumed her vision.\nIn that instant—
+AvgDialog_18911_Content_27,afzJ,avg章1新_AvgDialog_C_M.csv,518,AvgDialog,Content,克莱门汀,"真遗憾。如果改变主意了，随时欢迎你加入我们寻找内心的旅程。
+走吧，艾继丝。","What a shame. If you change your mind, you're always welcome to our journey of self-discovery.\nLet's go, Aigis."
+AvgDialog_18903_Content_5,afsQ,avg章1新_AvgDialog_C_M.csv,529,AvgDialog,Content,,"模糊中，有一个熟悉的身影奔跑而来。
+她抓着你的手，牵着你飞速奔跑起来，口中还焦急地呼喊着。","In the blur, a familiar figure runs toward you.\nShe grabs your hand and pulls urgently, calling out."
+AvgDialog_18880_Content_9,afin,avg章1新_AvgDialog_C_M.csv,540,AvgDialog,Content,,"那缎带是你攒了一年的零花钱，亲自为她定制的。
+你未曾见过你的亲生父母，她就是你最亲近的人。",The ribbon was custom-made for your sister. It cost you a year's savings.\nYou never knew your parents; she was your closest person.
+AvgDialog_18892_Content_16,aflQ,avg章1新_AvgDialog_C_M.csv,561,AvgDialog,Content,,"她的动作异常敏捷，利刃在空中划出冰冷的弧线。
+没有给你更多思考的机会，女孩再次向你扑来。","Her movements are alarmingly agile, blade carving cold arcs.\nBefore you can think, she lunges again."
+AvgDialog_18892_Content_17,aflR,avg章1新_AvgDialog_C_M.csv,562,AvgDialog,Content,玩家,"看来只能制服她再问话了。
+拉蒙娜，奥吉尔，把她引到空旷空间去！","Guess we'll have to subdue her before questioning.\nRamona, Ogier, lure her to an open area!"
+AvgDialog_18878_Content_3,afhu,avg章1新_AvgDialog_C_M.csv,567,AvgDialog,Content,拉蒙娜,"不，%player%，她的精神正在躁动。
+银钥匙的精神力或许能有安抚的效果。","No. %player%, her spirit is restless.\nThe mental power of the Silver Key might have a calming effect."
+AvgDialog_18878_Content_6,afhQ,avg章1新_AvgDialog_C_M.csv,570,AvgDialog,Content,,"你站在其中，又悬于其上。你是其中一个，却又与他们格格不入。
+你不知道他们具体是什么，你只知道，你是来找人的。",You're part of this yet separate. You belong but feel misplaced.\nYou don't know what they are; only that you're here to find someone.
+AvgDialog_18878_Content_8,afhS,avg章1新_AvgDialog_C_M.csv,572,AvgDialog,Content,,"你朝声音的方向望去，一个格外暗淡的光点在星海之中闪烁。
+泛着诡异金属光泽的黑色丝线缠绕着它，牵扯着它，让它动弹不得。","You look toward the sound—a dim light flickers among the stars,\nentangled and immobilized by black threads with an eerie metallic sheen."
+AvgDialog_18878_Content_10,afgZ,avg章1新_AvgDialog_C_M.csv,574,AvgDialog,Content,,老查理有一只他很爱很爱的虎斑猫……,"<Italic:Old Charlie's tabby, fat and dear...>"
+AvgDialog_18878_Content_13,afhc,avg章1新_AvgDialog_C_M.csv,577,AvgDialog,Content,,"你顿时明白了，有人、或者有东西，正在操纵她。
+你正想帮她摆脱束缚，就见那些黑色丝线突然变细，最终彻底消失。","You realize something, or someone, is controlling her.\nAs you move to help, the threads thin and vanish."
+AvgDialog_18878_Content_22,afhm,avg章1新_AvgDialog_C_M.csv,586,AvgDialog,Content,玩家,"抱歉，情况紧急，我们不得不做一点防护措施。
+你……还记得你刚才做了些什么吗？","Sorry, something went wrong and we had to take some protective measures.\nDo you... remember what you just did?"
+AvgDialog_18878_Content_33,afhy,avg章1新_AvgDialog_C_M.csv,597,AvgDialog,Content,克莱门汀,"我不过是一个热心的第三方罢了，虽然，我确实有一点私心。
+你让我很感兴趣呢，特殊的调查员。","I'm just a helpful third party, though I do have some personal interest.\nYou intrigue me, special Investigator."
+AvgDialog_18878_Content_42,afhI,avg章1新_AvgDialog_C_M.csv,606,AvgDialog,Content,,"拉蒙娜手中的细剑垂了下来，她的头微微摇晃，几乎睁不开双眼。
+詹金则躺在地上，一动不动，似乎是直接睡着了。","Ramona's rapier droops, head swaying, eyes barely open.\nJenkin lies motionless, seemingly asleep."
+AvgDialog_18878_Content_44,afhK,avg章1新_AvgDialog_C_M.csv,608,AvgDialog,Content,克莱门汀,"一点小把戏，让我能够从这里离开罢了。
+以你们的能力，应该很快就能清醒过来吧。","Just a small trick to get away.\nYou're good, and I believe you'll be fine soon enough."
+AvgDialog_18878_Content_46,afhM,avg章1新_AvgDialog_C_M.csv,610,AvgDialog,Content,,"她向你们鞠了一躬，走出房门。
+你再也支撑不住，跌坐回椅子上。","She bows and exits.\nYou collapse into the chair, unable to hold on."
+AvgDialog_18878_Content_48,afhO,avg章1新_AvgDialog_C_M.csv,612,AvgDialog,Content,,"黑暗之中，穿着裙子的女孩安静得像一尊塑像。
+她低垂着头，手里死死地捏着白色的眼罩。","In darkness, the dress-clad girl stands statue-still.\nHead hung low, she clutches a white blindfold tightly."
+AvgDialog_18901_Content_3,afsq,avg章1新_AvgDialog_C_M.csv,615,AvgDialog,Content,,"奥吉尔留在房间中以防万一，牵制莎拉。
+你和拉蒙娜则跟着詹金摸到了“济贫院幽灵”所在的地下室前。","Ogier stays behind to handle Sarah.\nYou and Ramona follow Jenkin to the ""Ghost of the Workhouse"" basement."
+AvgDialog_18901_Content_4,afsr,avg章1新_AvgDialog_C_M.csv,616,AvgDialog,Content,詹金,"声音小点，别让莎拉发现了。
+她会带着一队工人把我们打出去的。","Quiet, before Sarah hears.\nShe'll send her goons after us."
+AvgDialog_18901_Content_5,afss,avg章1新_AvgDialog_C_M.csv,617,AvgDialog,Content,拉蒙娜,"奥吉尔正在监视莎拉的行动，有他在，我们不会被发现。
+你再说说，上次在莎拉办公室的发现。","Ogier is keeping an eye on Sarah's movements. With him there, we be fine.\nTell me again what you discovered in Sarah's office last time."
+AvgDialog_18901_Content_9,afsw,avg章1新_AvgDialog_C_M.csv,621,AvgDialog,Content,詹金,"好了，就在这个房间里。
+走最后的，关门。","Alright, this room.\nLast one in closes the door."
+AvgDialog_18887_Content_1,afju,avg章1新_AvgDialog_C_M.csv,634,AvgDialog,Content,,"与此同时——
+奥吉尔透过窗户，观察着济贫院庭院中的景象。",Meanwhile—\nOgier observes the workhouse courtyard through the window.
+AvgDialog_18887_Content_2,afjA,avg章1新_AvgDialog_C_M.csv,635,AvgDialog,Content,,"铁门吱呀一声被打开，一群白衣怪人鱼贯而入。
+孩子们在灰蒙蒙的雾气中排成小队，任由他们挑选。","The iron door creaks open. White-clad figures file in.\nChildren line up in gray mist, waiting for selection."
+AvgDialog_18887_Content_3,afjB,avg章1新_AvgDialog_C_M.csv,636,AvgDialog,Content,,"在孩子之中，奥吉尔辨认出了一个熟悉的身影：
+那天来迎接大家的，小小的白色女孩。","Among them, Ogier recognizes a familiar figure:\nthe small white girl who welcomed you all."
+AvgDialog_18887_Content_6,afjE,avg章1新_AvgDialog_C_M.csv,639,AvgDialog,Content,,"争执爆发了。
+白衣怪人拉住女孩的胳膊，似在强迫她服从自己。","Conflict erupts.\nThe white-clad stranger grabs her arm, forcing compliance."
+AvgDialog_18887_Content_11,afjw,avg章1新_AvgDialog_C_M.csv,644,AvgDialog,Content,维克,"这位小朋友，你是不是误会了什么？
+我们是济贫院聘请的医生，要带她去进行定期检查。","You must have misunderstood us, little one.\nWe are doctors hired by the workhouse, and she's coming for a regular check-up."
+AvgDialog_18915_Content_3,afCm,avg章1新_AvgDialog_C_M.csv,652,AvgDialog,Content,维克,"既然小艾继丝不情愿，那我们也不强求了。
+我们会将其他选中的病人带回诊所治疗，疗程结束再送回。",We won't force Aigis if she's not willing.\nWe'll take the other selected patients back to the clinic for treatment and return them after the therapy is complete.
+AvgDialog_18915_Content_23,afCf,avg章1新_AvgDialog_C_M.csv,672,AvgDialog,Content,奥吉尔,"是、是的，勋爵家的幼子都会被授、授予“骑士”之名。
+总之，我要带艾继丝等%brotherorsister1%和管家小姐回来，你不要再为难她了。","Y-Yes, the youngest son of our house is always knighted.\nAnyway, I need to take Aigis, and wait for {Male=my brother,Female=my sister} and the housekeeper. Don't make things harder for her."
+AvgDialog_18915_Content_24,afCg,avg章1新_AvgDialog_C_M.csv,673,AvgDialog,Content,,"说着，奥吉尔抓住艾继丝的手，一路跑回了房间。
+女孩子始终低着头，似在轻声抽泣。","Speaking, Ogier grabs Aigis's hand and runs back to the room.\nThe girl keeps her head down, seemingly sobbing."
+AvgDialog_18915_Content_30,afCn,avg章1新_AvgDialog_C_M.csv,679,AvgDialog,Content,,"奥吉尔支吾着，努力装出庄重严肃的模样。
+艾继丝抬眼看他，犹豫了半天，终于噗嗤笑了出来。","Ogier stammers, trying for solemnity.\nAigis looks at him, hesitates, then bursts into laughter."
+AvgDialog_18915_Content_31,afCo,avg章1新_AvgDialog_C_M.csv,680,AvgDialog,Content,艾继丝,"你别骗我，我在书里看过，骑士都是保护公主的。
+你看我这样，哪里像个公主呀。","Stop it, Ogier. I've read in the books that knights always protect princesses.\nJust look at me. Do I look like a princess?"
+AvgDialog_18915_Content_33,afCq,avg章1新_AvgDialog_C_M.csv,682,AvgDialog,Content,奥吉尔,"不是这样的，书里说的不对。
+骑士不仅会保护公主，也会保护普通民众，保护所有人。",Then those books aren't telling the truth.\nKnights don't just protect princesses; they protect commoners as well. They protect everyone.
+AvgDialog_18915_Content_44,afCC,avg章1新_AvgDialog_C_M.csv,693,AvgDialog,Content,奥吉尔,"骑士不会守护犯罪者。
+因为，骑士需要制裁犯罪者，从他们手中守护民众。",Knights do not protect criminals.\nBecause knights punish criminals and protect people from them.
+AvgDialog_18915_Content_53,afCM,avg章1新_AvgDialog_C_M.csv,702,AvgDialog,Content,,"艾继丝一怔，似乎是在回味这句话。
+半晌，她慢慢地、有些艰难地开口了。","Aigis pauses, savoring his words.\nHesitant, she begins speaking slowly."
+AvgDialog_18915_Content_54,afCN,avg章1新_AvgDialog_C_M.csv,703,AvgDialog,Content,艾继丝,"我相信你，奥吉尔。我愿意为你再赌一把。
+所以，我会告诉你……那些治疗的真相。","I trust you, Ogier. I am willing to give it another shot.\nSo, I will tell you... the truth about those treatments."
+AvgDialog_18902_Content_11,afsz,avg章1新_AvgDialog_C_M.csv,714,AvgDialog,Content,詹金,"那就是济贫院的幽灵……
+我的姐姐在哪里！是你把她藏起来了吧！",That's got to be the Ghost of the Workhouse...\nWhere's my sis? Where'd you hide her?!
+AvgDialog_18916_Content_4,afDz,avg章1新_AvgDialog_C_M.csv,725,AvgDialog,Content,幽灵珊,"完成了。
+不过，这次的结果依然不太理想呢。","Done.\nBut once again, not good enough."
+AvgDialog_18916_Content_25,afDj,avg章1新_AvgDialog_C_M.csv,746,AvgDialog,Content,詹金,"里面没有姐姐。
+<Big:我的姐姐究竟在哪里，你说啊！>",She's not here...\n<Big:WHERE'S MY SISTER? TELL ME!>
+AvgDialog_18916_Content_35,afDu,avg章1新_AvgDialog_C_M.csv,756,AvgDialog,Content,玩家,"而这些人体，被融化成糖浆，又凝固成雕像……
+这种能力，更像是<Yellow:血肉界域唤醒体>的手笔，他们往往更精通肉体的改变。","These bodies were melted into syrup and then solidified into statues...\nThis ability is more like the work of a <Yellow:Caro Realm Awakener>, who are often more skilled in transforming flesh."
+AvgDialog_18916_Content_40,afDA,avg章1新_AvgDialog_C_M.csv,761,AvgDialog,Content,珊,"走吧，不是要去那什么协定审查会吗？
+能不能帮我把这些雕像也打包走？","Let's go, aren't you taking me to some committee?\nCan you help me pack up these statues as well?"
+AvgDialog_18916_Content_48,afDI,avg章1新_AvgDialog_C_M.csv,769,AvgDialog,Content,珊,"好心如我，为你们指一条明路吧。
+去问那个院长和那些医生。","I feel generous today, lucky you.\nGo ask the matron and those doctors."
+AvgDialog_18916_Content_49,afDJ,avg章1新_AvgDialog_C_M.csv,770,AvgDialog,Content,詹金,"莎拉！我就知道，是那个臭女人搞的鬼！
+看我这次不把她、把她……","Sarah! I knew that woman was behind this!\nJust wait, I'll... I'll..."
+AvgDialog_18916_Content_52,afDN,avg章1新_AvgDialog_C_M.csv,773,AvgDialog,Content,玩家,"人还没找到不是坏事，只要……
+事情就还有一线转机。",No news is good news. As long as...\nthere's still hope.
+AvgDialog_18916_Content_53,afDO,avg章1新_AvgDialog_C_M.csv,774,AvgDialog,Content,玩家,"不必再顾忌打草惊蛇了。
+拉蒙娜，你去通知审查会介入。詹金，把莎拉叫来吧。","We don't need to disguise anymore.\nRamona, call the Committee. Jenkin, bring Sarah here."
+AvgDialog_18905_Content_6,afuJ,avg章1新_AvgDialog_C_M.csv,781,AvgDialog,Content,詹金,"我们怎么能？这句话该送给你。
+不是你在地下室里藏的济贫院幽灵吗？她都告诉我们了。","""How could you?"" That's for us to say.\nWasn't it you who hid the Ghost of the Workhouse in this basement? She told us everything."
+AvgDialog_18905_Content_32,afuk,avg章1新_AvgDialog_C_M.csv,807,AvgDialog,Content,莎拉,"……孩子？
+你是说……",...Children?\nYou mean...
+AvgDialog_18905_Content_37,afup,avg章1新_AvgDialog_C_M.csv,812,AvgDialog,Content,珊,"别去看那些未完成品了。
+匍匐于真正的美吧。","Stop looking at those imperfections.\nNow, behold the true beauty."
+AvgDialog_18905_Content_50,afuE,avg章1新_AvgDialog_C_M.csv,825,AvgDialog,Content,,"周遭宛如沉入水底一般，一瞬间陷入了阴冷的死寂之中。
+无形的压力突如其来，你猛地喘了一口气，意识到事情不对。","As if submerged underwater, the surroundings plunge into cold silence.\nAn invisible pressure strikes unexpectedly, making you gasp as you realize something is wrong."
+AvgDialog_18905_Content_52,afuG,avg章1新_AvgDialog_C_M.csv,827,AvgDialog,Content,,"来不及了。
+年轻的院长头部如花一般开裂，黑色的黏液喷溅在地上。","Too late.\nThe young matron's head splits open like a flower, spraying black goo onto the ground."
+AvgDialog_18904_Content_13,afsX,avg章1新_AvgDialog_C_M.csv,850,AvgDialog,Content,艾继丝,"莎拉小姐，你可以再唱一次那首歌吗，就一次？
+我是说，如果这样不会给你添麻烦的话……","Miss Sarah, could you please sing that song again, just one more time?\nI mean, if it's not too much trouble..."
+AvgDialog_18904_Content_17,aftb,avg章1新_AvgDialog_C_M.csv,854,AvgDialog,Content,莎拉,"没问题。
+<Italic:老查理有一只他很爱很爱的虎斑猫……>","No problem.\n<Italic:Old Charlie's tabby, fat and dear...>"
+AvgDialog_18904_Content_20,aftf,avg章1新_AvgDialog_C_M.csv,857,AvgDialog,Content,,"你强忍着晕眩点头。这时，你的余光捕捉到了一个白色的身影。
+女孩不知何时越过了你们身边，进入了一片狼藉的战场。","You nod despite dizziness. From the corner of your eye, you catch a white figure.\nAigis has slipped past you into the fray."
+AvgDialog_18904_Content_22,afth,avg章1新_AvgDialog_C_M.csv,859,AvgDialog,Content,,"艾继丝怔怔地望着倒地不起的莎拉。
+爆裂的伤痕旁，黏液仍在汩汩流出，汇成黑色的小溪。","Aigis stares blankly at the fallen Sarah.\nSlime keeps gushing out from the gaping wound, forming a black stream."
+AvgDialog_18904_Content_23,afti,avg章1新_AvgDialog_C_M.csv,860,AvgDialog,Content,,"然后，她趟入漆黑的水潭，在黏液中央席地而坐。
+女孩让莎拉躺在了自己腿上，又动作熟稔地拍着莎拉的后背。","Then she wades into the pitch-black pool and sits in the slime,\nletting Sarah lie on her lap and patting her back skillfully."
+AvgDialog_18904_Content_31,aftr,avg章1新_AvgDialog_C_M.csv,868,AvgDialog,Content,艾继丝,看看从夫人小姐们那里求来的首饰能换多少钱。,Trying to figure out what the jewelry those ladies gave her can sell for.
+AvgDialog_18904_Content_32,afts,avg章1新_AvgDialog_C_M.csv,869,AvgDialog,Content,艾继丝,"他们都笑她，说很伤人的话，莎拉小姐从不生气。
+还会安慰我，给我们唱歌。","They all laughed at her and said mean things, but Miss Sarah is never upset.\nShe even consoled me and sang for us."
+AvgDialog_18904_Content_41,aftC,avg章1新_AvgDialog_C_M.csv,878,AvgDialog,Content,艾继丝,"放了莎拉小姐吧。
+我会告诉你们他的下落。",Let Miss Sarah go.\nI'll tell you where he is.
+AvgDialog_18900_Content_6,afrC,avg章1新_AvgDialog_C_M.csv,887,AvgDialog,Content,莎拉,"艾继丝，你的幻觉越来越严重了。
+这儿根本没有什么黑色痕迹。","Aigis, your hallucinations are getting worse.\nThere's no black mark here at all."
+AvgDialog_18900_Content_8,afrY,avg章1新_AvgDialog_C_M.csv,889,AvgDialog,Content,莎拉,"那真的只是幻觉。不信，你问问小麦克？
+他才只有五岁，这么小的孩子，肯定不会说谎吧？","Don't worry. It's not real, honey. Don't believe me? Ask Little Mac.\nHe's only five years old. He won't lie."
+AvgDialog_18900_Content_9,afsb,avg章1新_AvgDialog_C_M.csv,890,AvgDialog,Content,小麦克,"艾继丝姐姐，生病了要好好听医生的话哦。
+上次我发烧的时候，你也是这么对我说的吧？","Yeah, Aigis, we should be good and listen to the doctor when we're sick.\nThat's what you told me when I had that fever!"
+AvgDialog_18900_Content_10,afqA,avg章1新_AvgDialog_C_M.csv,891,AvgDialog,Content,,"我们列着队，等待着医生的挑选。
+我感觉自己轻飘飘的，像是不存在于这个世界上。","We lined up, waiting for the doctor's selection.\nI felt weightless. Like air. Like nothing."
+AvgDialog_18900_Content_16,afqG,avg章1新_AvgDialog_C_M.csv,897,AvgDialog,Content,提尤格,"我没有不舒服，能跑能跳，健康着呢！
+但我能看到东西。","I don't feel unwell; I can run and jump, perfectly healthy!\nBut I can see things."
+AvgDialog_18900_Content_18,afqI,avg章1新_AvgDialog_C_M.csv,899,AvgDialog,Content,提尤格,"我和艾继丝一样，都会看到黑色的幻觉。
+能不能请你帮帮我呢？","Like Aigis, I also see black things.\nCould you please help me?"
+AvgDialog_18900_Content_29,afqU,avg章1新_AvgDialog_C_M.csv,910,AvgDialog,Content,,"自从病人越来越多，莎拉小姐就把医护区搬到了济贫院东边的小楼。
+那里地方宽敞，能容纳更多临时床位。",More sick people came. Miss Sarah moved the ward to the east building.\nMore space. More makeshift beds.
+AvgDialog_18900_Content_30,afqW,avg章1新_AvgDialog_C_M.csv,911,AvgDialog,Content,艾继丝,"姐姐，你能不能不要去医护区？
+那里、那里很危险……",C-could you please not go there?\nIt's... it's really dangerous...
+AvgDialog_18900_Content_32,afqY,avg章1新_AvgDialog_C_M.csv,913,AvgDialog,Content,艾继丝,"我不知道，我不知道，对不起……
+医护区在东边。","I don't know, I-I'm really sorry...\nThe ward is to the east."
+AvgDialog_18900_Content_33,afqZ,avg章1新_AvgDialog_C_M.csv,914,AvgDialog,Content,？？？（梅森）,"谢谢你。
+你看起来有很多烦恼，如果想要诉说的话，欢迎来找我哦。","Thank you.\nYou seem to have a lot on your mind. If you feel like talking, I'm all ears."
+AvgDialog_18900_Content_38,afre,avg章1新_AvgDialog_C_M.csv,919,AvgDialog,Content,,我小心地用眼罩将眼睛遮挡起来。,So I covered it with an eye patch. It was the bad eye.
+AvgDialog_18900_Content_48,afrp,avg章1新_AvgDialog_C_M.csv,929,AvgDialog,Content,,"好黑，好冷，就像在十二月的伊希斯河里泡了一夜那么冷。
+我想爬起来，但全身发麻，根本没办法动弹。","Dark. Cold. Like drowning in the Aethis River in December.\nI wanted to get up, but couldn't."
+AvgDialog_18900_Content_50,afrs,avg章1新_AvgDialog_C_M.csv,931,AvgDialog,Content,,"医生把什么东西塞进了我的眼睛里，然后，然后，我看见了颜色。
+像小麦克打翻的调色盘一样，混在一起的颜色。","Doctor stuffed something in my eye, and then I saw colors.\nColors blending together, like Little Mac's spilled palette."
+AvgDialog_18900_Content_61,afrE,avg章1新_AvgDialog_C_M.csv,942,AvgDialog,Content,悠远的声音,"这不重要，孩子。
+来，跟随我的节奏，我们一起抵抗<Yellow:异物>的控制。","Who I am doesn't matter.\nNow, follow my pace. Together we'll resist the control of that <Yellow:foreign thing>."
+AvgDialog_18900_Content_64,afrH,avg章1新_AvgDialog_C_M.csv,945,AvgDialog,Content,米勒博士,"能看见@2的眼睛，简直就是最好的素材。
+要不是这个小子总挡着，早就该拿来做实验了。",An eye that can see @2... This is the best research subject I've ever found.\nI would have sourced her for experiments long ago if not for that stupid boy.
+AvgDialog_18900_Content_71,afrP,avg章1新_AvgDialog_C_M.csv,952,AvgDialog,Content,,"他们将一把椅子推到了我的面前。
+被束缚在椅子上的，是我最好的朋友——",They brought a chair.\nTied to it was my best friend...
+AvgDialog_18900_Content_76,afrU,avg章1新_AvgDialog_C_M.csv,957,AvgDialog,Content,,"提尤格哭喊，挣扎，但无济于事。
+他的动作逐渐僵硬，像跑不动的时针一样慢慢停了下来。","T'yog cried and struggled, but it didn't help.\nHe moved slower and slower, like a broken clock."
+AvgDialog_18894_Content_9,afns,avg章1新_AvgDialog_C_M.csv,971,AvgDialog,Content,艾继丝,"莎拉小姐，一定也已经发现了什么吧？
+所以她那么急切、那么急切地想让医生治好我。","Miss Sarah must have noticed something, I guess?\nThat's why she's so desperate, so eager to have the doctor cure me."
+AvgDialog_18894_Content_11,afni,avg章1新_AvgDialog_C_M.csv,973,AvgDialog,Content,艾继丝,"我不想看见莎拉小姐、小麦克、詹金、你们……
+我认识的每个人，一个个变成像提尤格那样，不会动的石头。","I won't let Miss Sarah, Little Mac, Jenkin, or any of you...\nI won't let people I know turn into motionless stones like T'yog."
+AvgDialog_18913_Content_2,afBv,avg章1新_AvgDialog_C_M.csv,983,AvgDialog,Content,艾继丝,"别这样，求求你……
+我知道……","Please, don't do this...\nI know..."
+AvgDialog_18913_Content_12,afBn,avg章1新_AvgDialog_C_M.csv,993,AvgDialog,Content,,"奥吉尔扭头看向仍在坚持的守密人和拉蒙娜。
+他们的体表，正在渗出异色的汗水——那不是汗水，是细密的糖浆。","Ogier turns to the struggling Keeper and Ramona.\nTheir bodies exude sweat in strange colors—not sweat, but fine syrup."
+AvgDialog_18913_Content_17,afBs,avg章1新_AvgDialog_C_M.csv,998,AvgDialog,Content,艾继丝,"奥吉尔，你不是骑士吗？那你应该明白的。
+即使我留下来，也注定是被骑士审判的罪人。","Ogier, aren't you a knight? Then you understand.\nIf I stay, I'm a criminal awaiting the knights' judgement."
+AvgDialog_18896_Content_2,afof,avg章1新_AvgDialog_C_M.csv,1008,AvgDialog,Content,神秘声音,"放弃吧，闭上眼，一切都交给我。
+莎拉，小麦克……济贫院的所有人都会成为美，成为永恒。","Just give in. Close your eyes, and leave everything to me.\nSarah, little Mac... everyone at the workhouse will become beautiful and eternal."
+AvgDialog_18897_Content_5,afov,avg章1新_AvgDialog_C_M.csv,1019,AvgDialog,Content,艾继丝,"因为我……已经不是一个人了……
+我会……相信他们！",Because I... am no longer alone...\nI... trust them!
+AvgDialog_18897_Content_6,afow,avg章1新_AvgDialog_C_M.csv,1020,AvgDialog,Content,艾继丝,"%player%%brotherorsister1%、拉蒙娜姐姐、奥吉尔……
+他们和济贫院里的人不一样，他们很强大，一定可以消灭……","{Male=Mr.,Female=Miss} %player%, Miss Ramona, Ogier...\nThey are different. They are strong, and will eliminate..."
+AvgDialog_18897_Content_8,afoy,avg章1新_AvgDialog_C_M.csv,1022,AvgDialog,Content,神秘声音,"消灭我……？他们连我在那里都找不到吧？
+毕竟，连你都不知道我的所在。","Eliminate me...? They can't even find where I am, can they?\nAfter all, even you don't know where I am."
+AvgDialog_18912_Content_12,afAa,avg章1新_AvgDialog_C_M.csv,1040,AvgDialog,Content,朵尔,"精神力透支了吧？总是乱来的话，你可见证不到弥萨格的未来。
+坐下休息吧，精神力透支会影响你的感知能力。",Have you overused your mental power? You won't live long enough to witness Mythag's future like that.\nSit down and rest. Overusing your mental power will affect your perception ability.
+AvgDialog_18912_Content_14,afAc,avg章1新_AvgDialog_C_M.csv,1042,AvgDialog,Content,,"液体蒸发一般的声音逐渐减弱，不一会儿就彻底消散。
+沾染了黑色黏液的地板上，女孩捂着单眼，静静地坐着。","The sound of evaporating liquid weakens and vanishes.\nOn the slime-stained floor, the girl sits quietly, covering one eye."
+AvgDialog_18912_Content_15,afAd,avg章1新_AvgDialog_C_M.csv,1043,AvgDialog,Content,艾继丝,"拉蒙娜小姐……还有……%player%%sirormadam%。
+你们没事真是太好了。","Miss Ramona... and... {Male=Mr.,Female=Miss} %player%.\nI'm so glad you're all right."
+AvgDialog_18912_Content_19,afAh,avg章1新_AvgDialog_C_M.csv,1047,AvgDialog,Content,,"艾继丝轻轻地、轻轻地搭上了你的手掌。
+她的指尖冰冷如石头，这个瞬间却像是钟楼外金黄的落日般温暖。","Gently, Aigis places her hand on yours.\nHer fingertips are cold as stone, yet in that moment, they feel as warm as the golden sunset outside."
+AvgDialog_18912_Content_42,afAH,avg章1新_AvgDialog_C_M.csv,1070,AvgDialog,Content,艾继丝2,"如果我像他一样聪明，像詹金一样勇敢，大概早就查清真相了吧。
+但我不是什么魔女，我只是一个胆小鬼，一个怪物。","If I were as smart as him and as brave as Jenkin, I would have uncovered the truth.\nBut I'm no witch; I'm just a coward, a monster."
+AvgDialog_18898_Content_10,afoB,avg章1新_AvgDialog_C_M.csv,1103,AvgDialog,Content,,"资助人罗杰斯不知所踪，济贫院后续生计难以为继。
+最终，德克斯特勋爵慷慨解囊，派人接管了济贫院的运营工作。","Rogers the sponsor vanished, leaving the workhouse's future uncertain.\nIn time, Lord Dexter generously provided funding and arranged the workhouse's takeover."
+AvgDialog_18898_Content_18,afoJ,avg章1新_AvgDialog_C_M.csv,1111,AvgDialog,Content,,"有些人离开，有些人消失，有些人的噩梦结束，有些人的病情未缓。
+但生活还在继续，丝毫不留给人喘息的余地。","Some left, some disappeared. Some nightmares ended, some conditions persisted.\nBut life goes on, giving no break."
+AvgDialog_18898_Content_38,afpf,avg章1新_AvgDialog_C_M.csv,1131,AvgDialog,Content,,"詹金接住了一截缎带，你拾到了一片糖纸，而已然陷入癫狂的莎拉……
+循着本能，触摸到了女孩的灵魂。","Jenkin caught a ribbon, you picked up a candy wrapper, and the already insane Sarah...\nFollowing instinct, she touched what remained of the girl's soul."
+AvgDialog_18898_Content_41,afpj,avg章1新_AvgDialog_C_M.csv,1134,AvgDialog,Content,拉蒙娜,"……唤醒初期的唤醒体，生前的记忆会发生混乱。
+有些完全失忆，有些只记得情绪深刻的瞬间，要随着时间慢慢恢复。","...Initial Awakening phases induce memory fragmentation.\nSome experience complete amnesia, others retain only emotionally charged fragments requiring reconstruction."
+AvgDialog_18898_Content_42,afpk,avg章1新_AvgDialog_C_M.csv,1135,AvgDialog,Content,拉蒙娜,"何况艾继丝本就是被改造的，银芯结构并不稳定。
+即使我们成功完成唤醒，她可能也认不出詹金来……","Aigis was modified, and her Silver Core structure is unstable.\nEven if we succeed in Awakening her, she might not recognize Jenkin..."
+AvgDialog_18898_Content_55,afpy,avg章1新_AvgDialog_C_M.csv,1148,AvgDialog,Content,拉蒙娜,"我们要去拯救，去改变。
+但，即使最终什么也没能实现……","We must do something. Save people. Bring change.\nBut, even if nothing is achieved in the end..."
+AvgDialog_18893_Content_27,afmv,avg章1新_AvgDialog_C_M.csv,1176,AvgDialog,Content,,她将报纸展开，指向一篇题为《立体的画作》的本地奇闻。,"She quickly smooths one out, pointing to a local oddity: ""Three-Dimensional Paintings""."
+AvgDialog_18893_Content_35,afmE,avg章1新_AvgDialog_C_M.csv,1184,AvgDialog,Content,拉蒙娜,考虑到对方可能很危险，我更希望你愿意在这里等我们的消息。不过——你一定有别的想法吧。,"Since he's probably highly dangerous, I'm going to have to ask that you stay behind while we resolve the issue. Though, I'm sure you have other ideas."
+AvgDialog_18893_Content_49,afmT,avg章1新_AvgDialog_C_M.csv,1198,AvgDialog,Content,警探1,"这不行，先生，上头的命令很明确，要我们陪同你进行调查。
+再说了，罗杰斯也是我们的嫌疑人，可不能让你一个人辛苦。","This won't do, sir. The orders are clear: we must accompany you in the investigation.\nBesides, Rogers is also our suspect; we can't let you handle it alone."
+AvgDialog_18893_Content_55,afna,avg章1新_AvgDialog_C_M.csv,1204,AvgDialog,Content,艾瑞卡,"任务地点抵达确认，调查目标确认。
+愿银钥指引前路。","Location confirmed, investigation target identified.\nMay the Silver Key light your path."
+Item_9556_Desc,aFQH,d道具_Item_A.csv,12,Item,Desc,,经验达到一定值时，守密人等级提升。可在调查关卡、幕间演习等玩法中消耗灵啡肽获得。,"When EXP reaches certain thresholds, Keeper Level increases. Menophin can be consumed in Event Investigations or Interlude stages to gain EXP."
+Item_9916_Desc,aGqT,d道具_Item_A.csv,13,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。\n由银芯与秘药调配而成，呈现出一种特殊的颜色。,"Formulated by the founder of Mythag University, this preparation can be used to enhance the abilities of Awakeners.\nComposed of Silver and secret elixirs, it exhibits a peculiar hue."
+Item_9615_Desc,aFVb,d道具_Item_A.csv,17,Item,Desc,,它沉淀未知。\n根源浮沫脱水后的沉淀物。仔细保管，这可是弥萨格商店的硬通货。,Its composition is unknown.\nDessicated sediment from the froth of the Black Pool.\nHandle with care. Highly sought-after in the Mythag Store.
+Item_118305_Desc,bJxb,d道具_Item_A.csv,21,Item,Desc,,深潜经验达到一定值时，深潜等级提升。可在幻梦深潜中获得。,"Deep Dive Level increases upon reaching a certain amount of Deep Dive EXP, obtainable in Phantasmal Dive."
+Item_9542_Desc,aFPH,d道具_Item_A.csv,22,Item,Desc,,被灾厄打磨的奇迹。\n通过每周试炼获得的稀有融蚀结晶，通体散发月光般的光泽。用以在交换商店中兑换物资。,"Miracles polished by Cataclysms.\nA rare Dissolution crystal obtained from Weekly Trial, glowing with a moonlight-like luster.\nOften used as currency in the Mythag Store."
+Item_20482_Desc,aCRT,d道具_Item_A.csv,23,Item,Desc,,金闪闪的徽章，上面篆刻象征雷欧王国的蔷薇。在地下市场能卖个不错的好价钱。\n用以表彰在调查行动中取得优异成绩的守密人，用以在交换商店中兑换物资。,A shiny gold badge engraved with the Rose of the Kingdom of Leo. It can be sold for a good price on the black market.\nAwarded to Keepers who achieve outstanding results in investigation operations; a familiar currency in the Mythag Store.
+Item_20481_Desc,aCRP,d道具_Item_A.csv,24,Item,Desc,,扑通，扑通。\n散落在无光之境中的小小心脏，是「祂们」最爱的食物。\n用以交换命轮和无垢之芯等物资。,"Thump, thump.\nThe small hearts scattered in the Lightless Realm are ""Their"" favorite food.\nAn unusual but valuable currency in the Mythag Store."
+Item_9719_Desc,aGcP,d道具_Item_A.csv,32,Item,Desc,,无瑕的银芯结晶。\n提纯银芯后获得，可链接高位存在的意志。,A flawless Silver crystal.\nRefined Silver. Aids in the process of linking to the will of higher beings.
+Item_9802_Desc,aGjb,d道具_Item_A.csv,33,Item,Desc,,流光溢彩的银芯结晶。\n反复提纯银芯后获得，可链接高位存在的意志。,A shining Silver crystal.\nPurified Silver. Aids in the process of linking to the will of higher beings.
+Item_10064_Desc,aCNn,d道具_Item_A.csv,36,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。\n由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供500经验值。,"Formulated by the founder of Mythag University, this preparation can be used to enhance the abilities of Awakeners.\nComposed of Silver and secret elixirs, it exhibits a peculiar hue.\nProvides 500 EXP to an Awakener."
+Item_9834_Desc,aGkX,d道具_Item_A.csv,37,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供2000经验值。,"Formulated by the founder of Mythag University, this preparation can be used to enhance the abilities of Awakeners.\nComposed of Silver and secret elixirs, it exhibits a peculiar hue.\nProvides 2000 EXP to an Awakener."
+Item_9762_Desc,aGfX,d道具_Item_A.csv,38,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供10000经验值。,"Formulated by the founder of Mythag University, this preparation can be used to enhance the abilities of Awakeners.\nComposed of Silver and secret elixirs, it exhibits a peculiar hue.\nProvides 10,000 EXP to an Awakener."
+Item_10030_Desc,aCLb,d道具_Item_A.csv,39,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9758_Desc,aGfH,d道具_Item_A.csv,40,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9971_Desc,aGuL,d道具_Item_A.csv,41,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9755_Desc,aGfv,d道具_Item_A.csv,42,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9740_Desc,aGer,d道具_Item_A.csv,43,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nEmotions preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9925_Desc,aGrD,d道具_Item_A.csv,44,Item,Desc,,为了人类存续。\n被保存在画框里的意识。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nSentience preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_10044_Desc,aCMb,d道具_Item_A.csv,45,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9904_Desc,aGqb,d道具_Item_A.csv,46,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Bestow upon us an unfathomable spirit.\nA special film from the Feilin Poetry Society, suitable for the transcription of the human psyche.\nA material used in the Edification of Ultra Awakeners."
+Item_9768_Desc,aGgv,d道具_Item_A.csv,47,Item,Desc,,给予我们未可知晓的灵知。\n源自菲林诗社的特殊胶片，能转写人的灵知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us the unknowable Gnosis.\nA special film from the Feilin Poetry Society, suitable for the transcription of a human Gnosis.\nA material used in the Edification of Ultra Awakeners."
+Item_9940_Desc,aGsv,d道具_Item_A.csv,48,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9793_Desc,aGir,d道具_Item_A.csv,49,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nDocuments inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9799_Desc,aGiP,d道具_Item_A.csv,50,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的秘篇，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nScrolls inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9825_Desc,aGkv,d道具_Item_A.csv,51,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9621_Desc,aFVv,d道具_Item_A.csv,52,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,Its wings now have no purpose aside from jewelry. They'll likely sell for five... of something.\nA shining crystal butterfly. Most of its body has been mineralized.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9769_Desc,aGgz,d道具_Item_A.csv,53,Item,Desc,,扇动的翅膀有助于产生龙卷风，或是花粉过敏。\n成群的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,The flapping of wings can begin chain reactions that could end in inconveniences like tornadoes or calamities like pollen allergies.\nSwarms of crystal butterflies.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9771_Desc,aGgH,d道具_Item_A.csv,54,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_10117_Desc,aCRn,d道具_Item_A.csv,55,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Dominant in warm oceans millions of years ago.\nThe fossil of a high-stemmed crinoid.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9812_Desc,aGjH,d道具_Item_A.csv,56,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,They agreed to slaughter together in the spring when sea lilies bloom.\nThe fossil of a creature from the Eocene epoch.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9549_Desc,aFQf,d道具_Item_A.csv,57,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9601_Desc,aFTX,d道具_Item_A.csv,58,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Wriggling, twisting, we crawl in the shadows... hiss... hiss...\nA now parasitized cocoon.\nA material used for enhancing the abilities of Caro Awakeners."
+Item_9671_Desc,aFZj,d道具_Item_A.csv,59,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,What have the spores done wrong? They simply want a home.\nA chrysalis and its spore neighbors.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9726_Desc,aGdr,d道具_Item_A.csv,60,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_10013_Desc,aCJT,d道具_Item_A.csv,61,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Allegedly, debris from a meteorite that fell in the Cambrian Valley.\nA curious mineral that emits a mysterious purplish glimmer.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9756_Desc,aGfz,d道具_Item_A.csv,62,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"In some parallel universes, it possesses the power to destroy the world.\nA flawless crystal from a distant tropical region.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9776_Desc,aGhb,d道具_Item_A.csv,63,Item,Desc,,甜甜的，硬硬的。它们在孩童的絮语间传递，成为友谊的象征，童年的珍藏。\n小孩爱吃的糖果。用以提升唤醒体技能等级。,"Sweet and hard, they are passed around alongside the whispers of children, becoming symbols of friendship and cherished treasures of childhood.\nCandies loved by children. Can be used to enhance the skills of certain Awakeners."
+Item_9779_Desc,aGhn,d道具_Item_A.csv,64,Item,Desc,,所有蜡像最初都只是粗糙的坯体。它们不会哭，也不会笑。\n未完的蜡像泥坯。用以提升唤醒体技能等级。,All wax sculptures start as rough molds. They neither cry nor smile.\nUnfinished wax sculpture molds. Can be used to enhance the skills of certain Awakeners.
+Item_9778_Desc,aGhj,d道具_Item_A.csv,65,Item,Desc,,吾名希洛，是永不屈从之人。从今往后，我将打破枷锁，踏上旅程。\n漆黑的金属锁扣。用以提升唤醒体技能等级。,"I am Helot, the one who never yields. Today, I shall break these chains and embark on a journey of my own.\nA dark metal clasp. Can be used to enhance the skills of certain Awakeners."
+Item_9781_Desc,aGhv,d道具_Item_A.csv,66,Item,Desc,,掉落自名为刻耳柏洛斯的高维生物。以人类当前文明发展程度，尚无法解析其成分。\n神秘的紫色晶体。用以提升唤醒体技能等级。,Dropped from a high-dimensional being named Cerberus. Current human civilization cannot analyze its components.\nA mysterious purple crystal. Can be used to enhance the skills of certain Awakeners.
+Item_9780_Desc,aGhr,d道具_Item_A.csv,67,Item,Desc,,纵使胚胎诞生之刻即是消亡之时，她亦当甘之如饴。\n闪耀着虔诚之心的神秘摆件。用以提升唤醒体技能等级。,"Even if the moment of an Embryo's birth is the moment it is consigned to death, she would still cherish it.\nA mysterious ornament that shines with a devout heart. Can be used to enhance the skills of certain Awakeners."
+Item_9783_Desc,aGhD,d道具_Item_A.csv,68,Item,Desc,,天生佩戴王冠之人，难以理解竞逐者的热衷。\n沉重的冠冕。用以提升唤醒体技能等级。,"When one is born with a crown, it is difficult to understand the fervor of those who seek to attain one.\nA heavy crown. Can be used to enhance the skills of certain Awakeners."
+Item_9782_Desc,aGhz,d道具_Item_A.csv,69,Item,Desc,,一截树的遗骨，时至今日，或可象征亚兰文明的残骸。\n丰穰母树折断的枝桠。用于提升唤醒体技能等级。,"A piece of the tree's bone, which may symbolize the remnants of the Aram civilization today.\nThe broken branch of the Mother Tree. Can be used to enhance the skills of certain Awakeners."
+Item_9785_Desc,aGhL,d道具_Item_A.csv,70,Item,Desc,,象征着不详的捕梦网，传说能够链接通向永恒的大门。\n提灯教会用来捕捉神明梦中呓语的工具。用于提升唤醒体技能等级。,"The dreamcatcher, a symbol of omen, is rumored to hold a link to the eternal door.\nA tool used by the Church of the Lightbearers to capture divine whispers in dreams. Can be used to enhance the skills of certain Awakeners."
+Item_9966_Desc,aGur,d道具_Item_A.csv,72,Item,Desc,,不要小看这一颗冰冰凉的眼泪——它能创造世界。\n泪滴状的液态晶体，可用于合成「超验存在」中的掉落物。,"Don't underestimate this ice-cold tear—it can create worlds.\nA teardrop-shaped liquid crystal, used in the Synthesis of other Advanced Skill Materials."
+Item_9676_Desc,aFZD,d道具_Item_A.csv,73,Item,Desc,,一百二十分之一的奇迹。\n暗红色的宝石碎屑，可用于合成贤者之石。,It is but one out of one-hundred-twenty miracles.\nDark red gem shards that can be used to synthesize Aetheric Stones.
+Item_9543_Desc,aFPL,d道具_Item_A.csv,74,Item,Desc,,无数战争因它而起。\n被称作「第五元素」的红色晶体，其炼造方式早已失传。\n通用的唤醒体技能提升材料。,"Countless wars have arisen because of it.\nThe red crystal known as the ""Fifth Element"", its forging method has long been lost.\nUniversal material for enhancing Awakener skills."
+Item_9837_Desc,aGlj,d道具_Item_A.csv,77,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至10级,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nWhen used, choose an Awakener to be advanced to the following:\nLevel 10"
+Item_9844_Desc,aGlL,d道具_Item_A.csv,78,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n守密人达到10级后，可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至20级\n·突破等阶提升至1阶,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nAfter reaching Keeper Level 10, can be used to choose an Awakener to be advanced to the following:\nLevel 20\nEdify Tier 1"
+Item_10070_Desc,aCNL,d道具_Item_A.csv,79,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n守密人达到20级后，可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至30级\n·突破等阶提升至2阶,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nAfter reaching Keeper Level 20, can be used to choose an Awakener to be advanced to the following:\nLevel 30\nEdify Tier 2"
+Item_9833_Desc,aGkT,d道具_Item_A.csv,80,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n守密人达到30级后，可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至40级\n·所有技能提升至2级\n·突破等阶提升至3阶,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nAfter reaching Keeper Level 30, can be used to choose an Awakener to be advanced to the following:\nLevel 40\nEdify Tier 3\nAll Skills to Lv. 2"
+Item_10066_Desc,aCNv,d道具_Item_A.csv,81,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n守密人达到40级后，可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至50级\n·所有技能提升至3级\n·突破等阶提升至4阶,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nAfter reaching Keeper Level 40, can be used to choose an Awakener to be advanced to the following:\nLevel 50\nEdify Tier 4\nAll Skills to Lv. 3"
+Item_10068_Desc,aCND,d道具_Item_A.csv,82,Item,Desc,,当灵知被无限放大，它将触及真相的一角。\n由银芯驱动的特殊仪器，能按照预设值永久提升唤醒体的能力。\n守密人达到50级后，可以选择任一唤醒体，使其获得以下增幅：\n·等级提升至60级\n·所有技能提升至4级\n·突破等阶提升至5阶,"When Gnosis is infinitely magnified, it may touch upon a corner of the truth.\nA special device powered by Silver that can permanently enhance an Awakener's Ability according to preset values.\nAfter reaching Keeper Level 40, can be used to choose an Awakener to be advanced to the following:\nLevel 60\nEdify Tier 5\nAll Skills to Lv. 4"
+Item_9791_Desc,aGij,d道具_Item_A.csv,83,Item,Desc,,每个命轮都渴望回归，亦或是新生。\n被记载于教科书内的轨迹规律。用以进行命轮叠位。,"Each Wheel of Destiny yearns for return or rebirth.\nThe patterns of their trajectories are documented in textbooks.\nCan be used for Wheel of Destiny ascension, as substitute for a duplicate WoD."
+Item_9597_Desc,aFTH,d道具_Item_A.csv,84,Item,Desc,,请勿以手触碰。\n封装在特制培养皿内的珍惜灵识。可从中选择1个已解锁SSR角色的唤醒体残片。,Do not touch with bare hands.\nA precious spiritual consciousness sealed within a specialized culture dish.\nAllows you to acquire 1 Enlighten Shard for a currently unlocked SSR Awakener of your choice.
+Item_21775_Desc,aCSb,d道具_Item_A.csv,85,Item,Desc,,它们的肉体、灵识和记忆都被封装于此，直到被唤醒的那一刻。\n可从中选择1个「界域研习」中的以下唤醒体唤醒：\n诺缔拉、宁菲亚、潘狄娅、艾尔瓦、珈伦；戈利亚、法洛思、凯刻斯、珊、希莱斯特；希洛、阿格里帕、尤乌哈希、雷娅、菲茵特；莉兹、汀克特、温柯尔、詹金、卡茜亚。,"Their physical bodies, souls, and memories are all sealed within until the moment they are awakened.\nYou may choose 1 of the following Awakeners from ""Realm Study"" to awaken:\nNautila, Nymphaea, Pandia, Alva, Karen; Goliath, Faros, Caecus, Sanga, Celeste; Helot, Agrippa, Uvhash, Leigh, Faint; Liz, Tinct, Winkle, Jenkin, Casiah."
+Item_9553_Desc,aFQv,d道具_Item_A.csv,107,Item,Desc,,用于呼唤「环行·拉蒙娜」回头的道具，使用后可解锁「拉蒙娜」的本源形态。\n完成意识潜游「环行·拉蒙娜」普通模式后获取。\n\n你不会成为她新的梦魇，只因你不会离她而去。,"An item used to call back ""Ramona: Timeworn"", unlocks ""Ramona""'s Genesis form after use.\nObtained after completing the Psyche Deepdive ""One Step Away"".\n\nYou will not become her next nightmare, simply because you will not leave her."
+Item_25218_Desc,aCXn,d道具_Item_A.csv,108,Item,Desc,,它将改写世界的规则。不可直视，不可接触。\n产自弥萨格地底黑池的神秘灵核，能帮助唤醒体提升至难以想象的高度，唤醒体达到60级后可使用。,"It will rewrite the rules of the world. Do not look at it or touch it.\nA mysterious core from the Black Pool beneath Mythag, capable of enhancing Awakeners to unimaginable heights. Usable at Awakener Level 60."
+Item_25219_Desc,aCXr,d道具_Item_A.csv,109,Item,Desc,,它们散落在黑池中，渴望着神圣完整的伟大时刻。\n产自弥萨格地底的神秘碎片，能合成原初灵核。,"They are scattered in the Black Pool, yearning for that sacred and momentous occasion.\nMysterious fragments from the depths of Mythag. Can be synthesized into Gnosis Primer."
+Item_69985_Desc,aFin,d道具_Item_A.csv,110,Item,Desc,,穷极的门扉开启，带来更加接近原初的力量——无人不畏惧祂，无人不向往祂。\n产自弥萨格地底黑池的神秘灵核，受到门扉之后力量的精炼，更加接近原初的本质，能帮助唤醒体提升至难以想象的高度。,"The Door opens to bring it closer to the primal Power—none fear Him not, and none yearn for Him not.\nA mysterious core from the Black Pool beneath Mythag, tempered by the power beyond the Door, drawing ever nearer to the primal essence, aiding Awakeners in ascending to unfathomable heights."
+Item_69986_Desc,aFir,d道具_Item_A.csv,111,Item,Desc,,散落于黑池中的碎片，在穷极门扉的照耀中，等待着来自原初的力量诞临的时刻。\n产自弥萨格地底的神秘碎片，受到门扉之后力量的精炼，能合成精粹原初灵核。,"Fragments scattered in the Black Pool, awaiting the moment when the power of the Source is born under the illumination of the Infinite Door.\nMysterious fragments from the depths of Mythag, tempered by the power beyond the Door. Can be synthesized into Refined Gnosis Primer."
+Item_74093_Desc,aFzv,d道具_Item_A.csv,112,Item,Desc,,遥远群星于闪烁时留下的破碎梦境。感知其中的灵性，便能窥见肉眼无法观测的未来。,Shattered remnants of Dreams left by the distant stars as they twinkle. Perceiving the spirituality within allows a glimpse of the future that the naked eye cannot observe.
+Item_34703_Desc,aCXP,d道具_Item_A.csv,114,Item,Desc,,由奇异的材质制成的特殊装置，用于进行唤醒体与命轮的「回溯」。\n它将洗去灵魂的印记，抹除精神的疮疤，它将归还一切于原点，唤回最初的灵知。\n可以为唤醒体或常驻命轮开启「回溯」功能。,"A special device made of strange material, used to Reset Awakeners and Wheels of Destiny.\nIt will erase the marks on the soul, remove the scars on the spirit, return everything to its inception and awaken the immaculate Gnosis.\nActivates the Reset functions for an Awakener or a permanent Wheel of Destiny."
+Item_36863_Desc,aDaX,d道具_Item_A.csv,115,Item,Desc,,触摸它，然后投身一场新的冒险；\n拥抱它，然后沉入最荒诞的梦境。\n保存未提纯银芯的新装置，用于解锁特遣纪录和意识潜游。,"Touch it, and embark on a new adventure; embrace it, and sink into a dream most absurd.\nA device utilized for the storage of unrefined Silver.\nUsed to unlock side story content such as Special Ops and Psyche Deepdive."
+Item_34700_Name,aCXF,d道具_Item_A.csv,176,Item,Name,,中阶升格匣子,Intermediate Edify Coffer
+Item_34704_Desc,aCXT,d道具_Item_A.csv,178,Item,Desc,,有着精致绣花的束口袋，内含初阶补给。 小心，里面的东西可能还保有活性。,"A drawstring pouch with delicate embroidery, containing basic supplies.\nBe cautious, as the contents may still be active."
+Item_34705_Name,aCXZ,d道具_Item_A.csv,179,Item,Name,,中阶技能补给,Intermediate Skill Supplies
+Item_89652_Desc,bxvt,d道具_Item_A.csv,361,Item,Desc,,释放钥令后提高装备者临时暴击率的命轮,Wheel of Destiny with the Crit. Rate attribute.
+Item_89651_Desc,bxvp,d道具_Item_A.csv,362,Item,Desc,,探索过程中爆发性获取狂气的命轮。,Wheel of Destiny with the Sigil Yield attribute.
+Item_122106_Name,bKVQ,d道具_Item_A.csv,363,Item,Name,,盒中童趣,Dear Papa Noel
+Item_122106_Desc,bKVP,d道具_Item_A.csv,363,Item,Desc,,可以在探索中免费购买一次刻印的功能型命轮。,Wheel of Destiny with the Death Resistance attribute.
+Item_122107_Name,bKVT,d道具_Item_A.csv,364,Item,Name,,倒数时刻,Countdown Moment
+Item_122107_Desc,bKVS,d道具_Item_A.csv,364,Item,Desc,,进行倒计时后获得增益的功能型命轮。,Wheel of Destiny with the Keyflare Regen Level attribute.
+Item_122107_StoryDesc,bKVU,d道具_Item_A.csv,364,Item,StoryDesc,,新的一年，你决定举办一场前所未有的仪式，以最庄重的方式，迎接时间的更迭。\n为此，你筹备良久。点燃蜡烛，让温暖的光晕照亮冬夜的校园；在训练场中央搭起高台，铺上缀满花纹的深红绒毯。你甚至亲手裁出无数条金箔与银纱缠绕的彩带，只愿这倒数的时刻超越告别的怅然，化作岁末与新年相拥时永不褪色的印记。\n可是……还差些什么。\n你走进旧仓库深处，拂去层层尘埃，终于寻出那座古董时钟。它的外壳斑驳，指针早已在时光的侵蚀下断裂、脱落，显然不能使用了。\n就在一筹莫展之际，泰旖丝出现了，身后悄然立着一座崭新的时钟。\n那座时钟无比熟悉。她依旧轻佻地笑着，眼底却藏着某种温柔的笃定。\n「怎么样，这座时钟，配上我的舞蹈，一定是最盛大的仪式。」\n「这……不会是塔薇的时钟吧？」\n「哎呀，您也知道她孤零零地待在池水里，太沉闷了。」\n「这样让她加入我们的仪式，感受我的爱意，或许能让她有点兴致呢～」\n午夜悄然降临，泰旖丝立在巨大的时钟前，像被时间亲手包装的赠礼。\n彩带如未烬的烟花缠绕她的身躯，在流转的灯光下漾出金红与银蓝的波纹。腰际那只饱满的蝴蝶结，恰是新年亲手系上的最后一个绳扣——她就是岁末最盛大的献礼，裹着欢愉的绸缎，等待被时间拆封。\n她的手臂缓缓升起，指尖溯着光影游走，最终指向身后那枚悬垂的时钟。十二个数字在表盘上连成光晕，在她的指尖跃动。\n弥撒格的众人仰望着泰旖丝纵情的舞蹈，仿佛被欢愉的气氛感染，开始随着她的韵律一同荡漾。\n而当钟声落下，她指尖轻点，触向永恒的起始。那被捆缚的礼物张开双臂，将储存在岁末的所有欢庆化作漫天纷扬的祝福，洒向人间。,"In the new year, you decide to hold an unprecedented ceremony to solemnly welcome the passage of time.\nTo this end, you have been preparing for a long time. You light candles, letting their warm glow illuminate the winter night on campus; you set up a high platform in the center of the training ground, covered with a deep red velvet cloth adorned with intricate patterns. you even cut countless colorful ribbons wrapped in gold foil and silver gauze by hand, hoping that this countdown moment transcends the melancholy of farewell, transforming into an everlasting mark embraced by the year-end and the new year.\nBut... something is still missing.\nYou walk deep into the old warehouse, brushing away layers of dust, and finally find that antique clock. Its shell is worn, the hands have long since broken and fallen due to the erosion of time, and it is clearly unusable.\nJust when you are at your wits end, Thais appears, quietly standing behind a brand new clock.\nThat clock feels incredibly familiar. She still smiles playfully, but there is a certain gentle certainty hidden in her eyes.\n""What do you think? This clock, paired with my dance, will surely be the grandest ceremony.""\n""This... can't be Tavi's clock, can it?""\n""Oh, you know she has been all alone in the pool, it's too dull for her.""\n""Letting her join our ceremony and feel my love might spark her interest a bit~""\nMidnight quietly arrives, and Thais stands before the giant clock, like a gft wrapped by time itself.\nThe ribbons swirl around her body like unburned fireworks, creating golden-red and silver-blue ripples in the flowing light. The plump bow at her waist is the last knot tied by the new year—she is the grandest gift of the year-end, wrapped in joyful satin, waiting to be unsealed by time.\nHer arms slowly rise, her fingertips tracing the light and shadow, ultimately pointing to the hanging clock behind her. Twelve numbers connect in a halo on the clock face, dancing at her fingertips.\nThe congregation gazes at Thais's exuberant dance, seemingly infected by the joyous atmostphere, beginning to sway in rhythm with her.\nAnd as the chime falls, she lightly taps with her fingertip, touching the beginning of eternity. The bound gift opens its arms, transforming all the celebration stored at year-end into a shower of blessings that scatter across the world."
+Item_97317_Desc,bARH,d道具_Item_A.csv,424,Item,Desc,,属性为银钥充能等级的命轮。,Wheel of Destiny with the Keyflare Regen Level attribute.
+Item_78874_Desc,aFKH,d道具_Item_A.csv,432,Item,Desc,,属性为狂气回充等级的命轮。,Wheel of Destiny with the Aliemus Regen Level attribute.
+Item_10007_StoryDesc,aCJy,d道具_Item_A.csv,446,Item,StoryDesc,,积蓄良久，于此宣告——,"After a great many years of amassing tremendous power, we hereby declare—"
+Item_10004_StoryDesc,aCJm,d道具_Item_A.csv,449,Item,StoryDesc,,赐予萌芽与胚胎的祝福。,Blessings for the birds and the bees.
+Item_10012_StoryDesc,aCJS,d道具_Item_A.csv,450,Item,StoryDesc,,见不可视者，听不可闻者。,See that which cannot be seen; hear that which cannot be heard.
+Item_9550_StoryDesc,aFQm,d道具_Item_A.csv,456,Item,StoryDesc,,我们是空心人，我们是稻草人。,We are as hollow as the scarecrows.
+Item_10033_StoryDesc,aCLm,d道具_Item_A.csv,457,Item,StoryDesc,,嘘……止于此，止于我。\n不可试探其来历。,"Shh... let it end here, with me.\nAnd do not seek its origins."
+Item_9867_Desc,aGnz,d道具_Item_A.csv,514,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9867_StoryDesc,aGnC,d道具_Item_A.csv,514,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_10059_Desc,aCMT,d道具_Item_A.csv,515,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10059_StoryDesc,aCMW,d道具_Item_A.csv,515,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_10029_Desc,aCKX,d道具_Item_A.csv,516,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_10029_StoryDesc,aCLa,d道具_Item_A.csv,516,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_9872_Desc,aGnT,d道具_Item_A.csv,517,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9872_StoryDesc,aGnW,d道具_Item_A.csv,517,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_9893_Desc,aGpv,d道具_Item_A.csv,518,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9893_StoryDesc,aGpy,d道具_Item_A.csv,518,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_10110_Desc,aCQL,d道具_Item_A.csv,519,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_10110_StoryDesc,aCQO,d道具_Item_A.csv,519,Item,StoryDesc,,机械是绝对纯净。,Machinery is the purest of forms.
+Item_9682_Desc,aFZX,d道具_Item_A.csv,520,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9682_StoryDesc,aGaa,d道具_Item_A.csv,520,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_9978_Desc,aGvj,d道具_Item_A.csv,521,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9978_StoryDesc,aGvm,d道具_Item_A.csv,521,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_9891_Desc,aGpn,d道具_Item_A.csv,522,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9891_StoryDesc,aGpq,d道具_Item_A.csv,522,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_9582_Name,aFSB,d道具_Item_A.csv,523,Item,Name,,诅咒兔Ⅳ,Cursed Rabbit IV
+Item_9582_Desc,aFSz,d道具_Item_A.csv,523,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9582_StoryDesc,aFSC,d道具_Item_A.csv,523,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_10016_Name,aCKd,d道具_Item_A.csv,524,Item,Name,,诅咒兔Ⅴ,Cursed Rabbit V
+Item_10016_Desc,aCKb,d道具_Item_A.csv,524,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_10016_StoryDesc,aCKe,d道具_Item_A.csv,524,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_9706_Name,aGbR,d道具_Item_A.csv,525,Item,Name,,诅咒兔Ⅵ,Cursed Rabbit VI
+Item_9706_Desc,aGbP,d道具_Item_A.csv,525,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9706_StoryDesc,aGbS,d道具_Item_A.csv,525,Item,StoryDesc,,所有人都会喜欢白色绒绒兔。,Everyone loves a fluffy white rabbit.
+Item_9961_Desc,aGub,d道具_Item_A.csv,526,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9961_StoryDesc,aGue,d道具_Item_A.csv,526,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_10091_Desc,aCPr,d道具_Item_A.csv,527,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10091_StoryDesc,aCPu,d道具_Item_A.csv,527,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_9747_Desc,aGeT,d道具_Item_A.csv,528,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9747_StoryDesc,aGeW,d道具_Item_A.csv,528,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_9990_Desc,aGwf,d道具_Item_A.csv,529,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9990_StoryDesc,aGwi,d道具_Item_A.csv,529,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_9507_Desc,aFMX,d道具_Item_A.csv,530,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9507_StoryDesc,aFNa,d道具_Item_A.csv,530,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_9564_Desc,aFRn,d道具_Item_A.csv,531,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9564_StoryDesc,aFRq,d道具_Item_A.csv,531,Item,StoryDesc,,漂浮在环形时间的罅隙里。,Suspended in the crevices of cyclical time.
+Item_9980_Desc,aGvr,d道具_Item_A.csv,532,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9980_StoryDesc,aGvu,d道具_Item_A.csv,532,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_10051_Desc,aCMr,d道具_Item_A.csv,533,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10051_StoryDesc,aCMu,d道具_Item_A.csv,533,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_9631_Desc,aFWj,d道具_Item_A.csv,534,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9631_StoryDesc,aFWm,d道具_Item_A.csv,534,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_9659_Desc,aFYn,d道具_Item_A.csv,535,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9659_StoryDesc,aFYq,d道具_Item_A.csv,535,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_9854_Desc,aGmz,d道具_Item_A.csv,536,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9854_StoryDesc,aGmC,d道具_Item_A.csv,536,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_9519_Desc,aFNT,d道具_Item_A.csv,537,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9519_StoryDesc,aFNW,d道具_Item_A.csv,537,Item,StoryDesc,,传说中最初的魔像创造者，以双手杀死魔像。,Legends say the creator of the first golem destroyed it with his own hands.
+Item_10103_Desc,aCQn,d道具_Item_A.csv,538,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_10103_StoryDesc,aCQq,d道具_Item_A.csv,538,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_10115_Desc,aCRf,d道具_Item_A.csv,539,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10115_StoryDesc,aCRi,d道具_Item_A.csv,539,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_9655_Desc,aFXX,d道具_Item_A.csv,540,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9655_StoryDesc,aFYa,d道具_Item_A.csv,540,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_9554_Desc,aFQz,d道具_Item_A.csv,541,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9554_StoryDesc,aFQC,d道具_Item_A.csv,541,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_10102_Desc,aCQj,d道具_Item_A.csv,542,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_10102_StoryDesc,aCQm,d道具_Item_A.csv,542,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_9627_Desc,aFVT,d道具_Item_A.csv,543,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9627_StoryDesc,aFVW,d道具_Item_A.csv,543,Item,StoryDesc,,传说中最初的魔像创造者，以血液滋养魔像。,Legends say the creator of the first golem nourished it with his own blood.
+Item_9962_Desc,aGuf,d道具_Item_A.csv,544,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9962_StoryDesc,aGui,d道具_Item_A.csv,544,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_10041_Desc,aCLP,d道具_Item_A.csv,545,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10041_StoryDesc,aCLS,d道具_Item_A.csv,545,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_9894_Desc,aGpz,d道具_Item_A.csv,546,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9894_StoryDesc,aGpC,d道具_Item_A.csv,546,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_9879_Desc,aGov,d道具_Item_A.csv,547,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9879_StoryDesc,aGoy,d道具_Item_A.csv,547,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_9650_Desc,aFXD,d道具_Item_A.csv,548,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9650_StoryDesc,aFXG,d道具_Item_A.csv,548,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_9797_Desc,aGiH,d道具_Item_A.csv,549,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9797_StoryDesc,aGiK,d道具_Item_A.csv,549,Item,StoryDesc,,浓黑的血祭。,A dark and bloody sacrifice.
+Item_9883_Desc,aGoL,d道具_Item_A.csv,550,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9992_Desc,aGwn,d道具_Item_A.csv,551,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9700_Desc,aGbr,d道具_Item_A.csv,552,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9956_Desc,aGtH,d道具_Item_A.csv,553,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9841_Desc,aGlz,d道具_Item_A.csv,554,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9906_Desc,aGqj,d道具_Item_A.csv,555,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9865_Desc,aGnr,d道具_Item_A.csv,556,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9951_Desc,aGtn,d道具_Item_A.csv,557,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9636_Desc,aFWD,d道具_Item_A.csv,558,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9672_Desc,aFZn,d道具_Item_A.csv,559,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9861_Desc,aGnb,d道具_Item_A.csv,560,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9749_Desc,aGfb,d道具_Item_A.csv,561,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9576_Desc,aFSb,d道具_Item_A.csv,562,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9576_StoryDesc,aFSe,d道具_Item_A.csv,562,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9731_Desc,aGdH,d道具_Item_A.csv,563,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9731_StoryDesc,aGdK,d道具_Item_A.csv,563,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9648_Desc,aFXv,d道具_Item_A.csv,564,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9648_StoryDesc,aFXy,d道具_Item_A.csv,564,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9952_Desc,aGtr,d道具_Item_A.csv,565,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9952_StoryDesc,aGtu,d道具_Item_A.csv,565,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9665_Desc,aFYL,d道具_Item_A.csv,566,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9665_StoryDesc,aFYO,d道具_Item_A.csv,566,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9509_Desc,aFNf,d道具_Item_A.csv,567,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9509_StoryDesc,aFNi,d道具_Item_A.csv,567,Item,StoryDesc,,雾白的祝祷。,A blessing from the white mists.
+Item_9813_Desc,aGjL,d道具_Item_A.csv,568,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9813_StoryDesc,aGjO,d道具_Item_A.csv,568,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9662_Desc,aFYz,d道具_Item_A.csv,569,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9662_StoryDesc,aFYC,d道具_Item_A.csv,569,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9968_Desc,aGuz,d道具_Item_A.csv,570,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9968_StoryDesc,aGuC,d道具_Item_A.csv,570,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9953_Desc,aGtv,d道具_Item_A.csv,571,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9953_StoryDesc,aGty,d道具_Item_A.csv,571,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9923_Desc,aGrv,d道具_Item_A.csv,572,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9923_StoryDesc,aGry,d道具_Item_A.csv,572,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9724_Desc,aGdj,d道具_Item_A.csv,573,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9724_StoryDesc,aGdm,d道具_Item_A.csv,573,Item,StoryDesc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world."
+Item_9742_Desc,aGez,d道具_Item_A.csv,574,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9742_StoryDesc,aGeC,d道具_Item_A.csv,574,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9705_Desc,aGbL,d道具_Item_A.csv,575,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9705_StoryDesc,aGbO,d道具_Item_A.csv,575,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9759_Desc,aGfL,d道具_Item_A.csv,576,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9759_StoryDesc,aGfO,d道具_Item_A.csv,576,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9942_Desc,aGsD,d道具_Item_A.csv,577,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9942_StoryDesc,aGsG,d道具_Item_A.csv,577,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9994_Desc,aGwv,d道具_Item_A.csv,578,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9994_StoryDesc,aGwy,d道具_Item_A.csv,578,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9752_Desc,aGfj,d道具_Item_A.csv,579,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9752_StoryDesc,aGfm,d道具_Item_A.csv,579,Item,StoryDesc,,必然的，偶然的。有限的，无限的。,"Inevitable, but accidental. Shackled, but unbound."
+Item_9917_Desc,aGqX,d道具_Item_A.csv,580,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9599_Desc,aFTP,d道具_Item_A.csv,581,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9526_Desc,aFOv,d道具_Item_A.csv,582,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9666_Desc,aFYP,d道具_Item_A.csv,583,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9824_Name,aGkt,d道具_Item_A.csv,584,Item,Name,,光合祭礼Ⅴ,Photosynthesis Ritual V
+Item_9824_Desc,aGkr,d道具_Item_A.csv,584,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9760_Desc,aGfP,d道具_Item_A.csv,585,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9640_Desc,aFWP,d道具_Item_A.csv,586,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9640_StoryDesc,aFWS,d道具_Item_A.csv,586,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_9922_Desc,aGrr,d道具_Item_A.csv,587,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9922_StoryDesc,aGru,d道具_Item_A.csv,587,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_9931_Desc,aGsb,d道具_Item_A.csv,588,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9931_StoryDesc,aGse,d道具_Item_A.csv,588,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_9831_Desc,aGkP,d道具_Item_A.csv,589,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9831_StoryDesc,aGkS,d道具_Item_A.csv,589,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_9587_Desc,aFST,d道具_Item_A.csv,590,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9587_StoryDesc,aFSW,d道具_Item_A.csv,590,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_9996_Desc,aGwD,d道具_Item_A.csv,591,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9996_StoryDesc,aGwG,d道具_Item_A.csv,591,Item,StoryDesc,,归来吧，那终将重现的失落之城。,"Rise again, O lost city of prophesied return."
+Item_10111_Desc,aCQP,d道具_Item_A.csv,592,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_10045_Desc,aCMf,d道具_Item_A.csv,593,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9722_Desc,aGdb,d道具_Item_A.csv,594,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9569_Desc,aFRD,d道具_Item_A.csv,595,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9852_Desc,aGmr,d道具_Item_A.csv,596,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_10055_Desc,aCMD,d道具_Item_A.csv,597,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_10099_Desc,aCPX,d道具_Item_A.csv,598,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_10099_StoryDesc,aCQa,d道具_Item_A.csv,598,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_9535_Desc,aFPf,d道具_Item_A.csv,599,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9535_StoryDesc,aFPi,d道具_Item_A.csv,599,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_10094_Desc,aCPD,d道具_Item_A.csv,600,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_10094_StoryDesc,aCPG,d道具_Item_A.csv,600,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_10116_Desc,aCRj,d道具_Item_A.csv,601,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_10116_StoryDesc,aCRm,d道具_Item_A.csv,601,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_9635_Desc,aFWz,d道具_Item_A.csv,602,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9635_StoryDesc,aFWC,d道具_Item_A.csv,602,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_9815_Desc,aGjT,d道具_Item_A.csv,603,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9815_StoryDesc,aGjW,d道具_Item_A.csv,603,Item,StoryDesc,,脐带连接着无穷无尽的未来。,The umbilical cord is one's first connection to an endless future.
+Item_9836_Desc,aGlf,d道具_Item_A.csv,604,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9723_Desc,aGdf,d道具_Item_A.csv,605,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9520_Desc,aFNX,d道具_Item_A.csv,606,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9652_Desc,aFXL,d道具_Item_A.csv,607,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9645_Desc,aFXj,d道具_Item_A.csv,608,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9868_Desc,aGnD,d道具_Item_A.csv,609,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9634_Desc,aFWv,d道具_Item_A.csv,610,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9634_StoryDesc,aFWy,d道具_Item_A.csv,610,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9517_Desc,aFNL,d道具_Item_A.csv,611,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9517_StoryDesc,aFNO,d道具_Item_A.csv,611,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9860_Desc,aGmX,d道具_Item_A.csv,612,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9860_StoryDesc,aGna,d道具_Item_A.csv,612,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9871_Desc,aGnP,d道具_Item_A.csv,613,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9871_StoryDesc,aGnS,d道具_Item_A.csv,613,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9853_Desc,aGmv,d道具_Item_A.csv,614,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9853_StoryDesc,aGmy,d道具_Item_A.csv,614,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9626_Desc,aFVP,d道具_Item_A.csv,615,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9626_StoryDesc,aFVS,d道具_Item_A.csv,615,Item,StoryDesc,,鳞翅目正死于孤独、爱与绝望。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera."
+Item_9718_Desc,aGcL,d道具_Item_A.csv,616,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9718_StoryDesc,aGcO,d道具_Item_A.csv,616,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_10003_Desc,aCJf,d道具_Item_A.csv,617,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_10003_StoryDesc,aCJi,d道具_Item_A.csv,617,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_9796_Desc,aGiD,d道具_Item_A.csv,618,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9796_StoryDesc,aGiG,d道具_Item_A.csv,618,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_9620_Desc,aFVr,d道具_Item_A.csv,619,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9620_StoryDesc,aFVu,d道具_Item_A.csv,619,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_10021_Desc,aCKv,d道具_Item_A.csv,620,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_10021_StoryDesc,aCKy,d道具_Item_A.csv,620,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_9988_Desc,aGvX,d道具_Item_A.csv,621,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9988_StoryDesc,aGwa,d道具_Item_A.csv,621,Item,StoryDesc,,甜甜的，黏黏的。,"So very sweet, and so very sticky."
+Item_9683_Desc,aGab,d道具_Item_A.csv,622,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9900_Desc,aGpL,d道具_Item_A.csv,623,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9525_Desc,aFOr,d道具_Item_A.csv,624,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9889_Desc,aGpf,d道具_Item_A.csv,625,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9573_Desc,aFRP,d道具_Item_A.csv,626,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9788_Desc,aGhX,d道具_Item_A.csv,627,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_10105_Desc,aCQv,d道具_Item_A.csv,628,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_10105_StoryDesc,aCQy,d道具_Item_A.csv,628,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_9679_Desc,aFZL,d道具_Item_A.csv,629,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9679_StoryDesc,aFZO,d道具_Item_A.csv,629,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_10087_Desc,aCPb,d道具_Item_A.csv,630,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_10087_StoryDesc,aCPe,d道具_Item_A.csv,630,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_10071_Desc,aCNP,d道具_Item_A.csv,631,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_10071_StoryDesc,aCNS,d道具_Item_A.csv,631,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_9858_Desc,aGmP,d道具_Item_A.csv,632,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9858_StoryDesc,aGmS,d道具_Item_A.csv,632,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_9976_Desc,aGvb,d道具_Item_A.csv,633,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9976_StoryDesc,aGve,d道具_Item_A.csv,633,Item,StoryDesc,,为您奉上纯洁的躯壳。,"I offer you my chrysalis, a vessel most pure."
+Item_10057_Desc,aCML,d道具_Item_A.csv,634,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_10057_StoryDesc,aCMO,d道具_Item_A.csv,634,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_9790_Desc,aGif,d道具_Item_A.csv,635,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9790_StoryDesc,aGii,d道具_Item_A.csv,635,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_10119_Desc,aCRv,d道具_Item_A.csv,636,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_10119_StoryDesc,aCRy,d道具_Item_A.csv,636,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_9969_Desc,aGuD,d道具_Item_A.csv,637,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9969_StoryDesc,aGuG,d道具_Item_A.csv,637,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_9663_Desc,aFYD,d道具_Item_A.csv,638,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9663_StoryDesc,aFYG,d道具_Item_A.csv,638,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_9869_Desc,aGnH,d道具_Item_A.csv,639,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_9869_StoryDesc,aGnK,d道具_Item_A.csv,639,Item,StoryDesc,,尽情享受欢宴吧，于歌声中。,"Enjoy this feast, from amidst the songs."
+Item_9513_Desc,aFNv,d道具_Item_A.csv,640,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9513_StoryDesc,aFNy,d道具_Item_A.csv,640,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_9565_Desc,aFRr,d道具_Item_A.csv,641,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9565_StoryDesc,aFRu,d道具_Item_A.csv,641,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_9596_Desc,aFTD,d道具_Item_A.csv,642,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9596_StoryDesc,aFTG,d道具_Item_A.csv,642,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_9656_Desc,aFYb,d道具_Item_A.csv,643,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9656_StoryDesc,aFYe,d道具_Item_A.csv,643,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_9960_Desc,aGtX,d道具_Item_A.csv,644,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9960_StoryDesc,aGua,d道具_Item_A.csv,644,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_10090_Desc,aCPn,d道具_Item_A.csv,645,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_10090_StoryDesc,aCPq,d道具_Item_A.csv,645,Item,StoryDesc,,那是永恒无垢的真实一瞥。,"It is a glimpse of the eternal, untainted truth."
+Item_9774_Desc,aGgT,d道具_Item_A.csv,646,Item,Desc,,主属性从暴击率、暴击伤害、银钥充能等级和狂气回充等级中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_9524_Desc,aFOn,d道具_Item_A.csv,647,Item,Desc,,主属性从暴击率、暴击伤害、界域精通和黑印掉落中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_9657_Desc,aFYf,d道具_Item_A.csv,648,Item,Desc,,主属性从暴击率、暴击伤害、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_9585_Desc,aFSL,d道具_Item_A.csv,649,Item,Desc,,主属性从界域精通、狂气回充等级、黑印掉落和银钥充能中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_9628_Desc,aFVX,d道具_Item_A.csv,650,Item,Desc,,主属性从狂气回充等级、死亡抵抗、银钥充能等级和伤害强效中随机获得1个。,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_9918_Desc,aGrb,d道具_Item_A.csv,651,Item,Desc,,主属性从界域精通、黑印掉落、死亡抵抗和伤害强效中随机获得1个。,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_99217_Desc,bHDQ,d道具_Item_A.csv,652,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_99231_Desc,bHED,d道具_Item_A.csv,653,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_99220_Desc,bHDY,d道具_Item_A.csv,654,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_99219_Desc,bHDV,d道具_Item_A.csv,655,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_99215_Desc,bHDK,d道具_Item_A.csv,656,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_99214_Desc,bHDH,d道具_Item_A.csv,657,Item,Desc,,临时文本,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_99213_Desc,bHDE,d道具_Item_A.csv,658,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_99216_Desc,bHDN,d道具_Item_A.csv,659,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_99223_Desc,bHEg,d道具_Item_A.csv,660,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_99224_Desc,bHEj,d道具_Item_A.csv,661,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_99233_Desc,bHEJ,d道具_Item_A.csv,662,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_99225_Desc,bHEm,d道具_Item_A.csv,663,Item,Desc,,临时文本,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_99230_Name,bHEB,d道具_Item_A.csv,664,Item,Name,,飞升Ⅰ,Ascension I
+Item_99230_Desc,bHEA,d道具_Item_A.csv,664,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Keyflare Regen Level, or Aliemus Regen Level."
+Item_99222_Name,bHEe,d道具_Item_A.csv,665,Item,Name,,飞升Ⅱ,Ascension II
+Item_99222_Desc,bHEd,d道具_Item_A.csv,665,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, Realm Mastery, or Sigil Yield."
+Item_99226_Name,bHEq,d道具_Item_A.csv,666,Item,Name,,飞升Ⅲ,Ascension III
+Item_99226_Desc,bHEp,d道具_Item_A.csv,666,Item,Desc,,临时文本,"Mainstat chosen at random from Crit. Rate, Crit. DMG, DMG Amplification, or Death Resistance."
+Item_99229_Name,bHEy,d道具_Item_A.csv,667,Item,Name,,飞升Ⅳ,Ascension IV
+Item_99229_Desc,bHEx,d道具_Item_A.csv,667,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, Realm Mastery, or Sigil Yield."
+Item_99227_Name,bHEt,d道具_Item_A.csv,668,Item,Name,,飞升Ⅴ,Ascension V
+Item_99227_Desc,bHEs,d道具_Item_A.csv,668,Item,Desc,,临时文本,"Mainstat chosen at random from Keyflare Regen Level, Aliemus Regen Level, DMG Amplification, or Death Resistance."
+Item_99232_Name,bHEH,d道具_Item_A.csv,669,Item,Name,,飞升Ⅵ,Ascension VI
+Item_99232_Desc,bHEG,d道具_Item_A.csv,669,Item,Desc,,临时文本,"Mainstat chosen at random from DMG Amplification, Death Resistance, Realm Mastery, or Sigil Yield."
+Item_51840_Name,aDGN,d道具_Item_A.csv,670,Item,Name,,机械降神·残本,Remnants: Deus Ex Machina
+Item_51840_Desc,aDGL,d道具_Item_A.csv,670,Item,Desc,,用于「机械降神」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Deus Ex Machina Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51858_Name,aDIh,d道具_Item_A.csv,671,Item,Name,,诅咒兔·残本,Remnants: Cursed Rabbit
+Item_51858_Desc,aDIf,d道具_Item_A.csv,671,Item,Desc,,用于「诅咒兔」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Cursed Rabbit Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51855_Name,aDHV,d道具_Item_A.csv,672,Item,Name,,环形诗篇·残本,Remnants: Circular Psalm
+Item_51855_Desc,aDHT,d道具_Item_A.csv,672,Item,Desc,,用于「环形诗篇」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Circular Psalm Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51843_Name,aDGZ,d道具_Item_A.csv,673,Item,Name,,猩红之拥·残本,Remnants: Scarlet Embrace
+Item_51843_Desc,aDGX,d道具_Item_A.csv,673,Item,Desc,,用于「猩红之拥」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Scarlet Embrace Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51841_Name,aDGR,d道具_Item_A.csv,674,Item,Name,,猩红之悸·残本,Remnants: Crimson Pulse
+Item_51841_Desc,aDGP,d道具_Item_A.csv,674,Item,Desc,,用于「猩红之悸」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Crimson Pulse Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51856_Name,aDHZ,d道具_Item_A.csv,675,Item,Name,,扭曲双子·黑·残本,Remnants: Twisted Twins: Black
+Item_51856_Desc,aDHX,d道具_Item_A.csv,675,Item,Desc,,用于「扭曲双子·黑」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Twisted Twins: Black Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51852_Name,aDHJ,d道具_Item_A.csv,676,Item,Name,,剧院猫·残本,Remnants: Theater Cat
+Item_51852_Desc,aDHH,d道具_Item_A.csv,676,Item,Desc,,用于「剧院猫」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Theater Cat Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51861_Name,aDIt,d道具_Item_A.csv,677,Item,Name,,埋骨地絮语·残本,Remnants: Burial Ground's Sighs
+Item_51861_Desc,aDIr,d道具_Item_A.csv,677,Item,Desc,,用于「埋骨地絮语」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Burial Ground's Sighs Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51854_Name,aDHR,d道具_Item_A.csv,678,Item,Name,,扭曲双子·白·残本,Remnants: Twisted Twins: White
+Item_51854_Desc,aDHP,d道具_Item_A.csv,678,Item,Desc,,用于「扭曲双子·白」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Twisted Twins: White Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51850_Name,aDHB,d道具_Item_A.csv,679,Item,Name,,再衍化·残本,Remnants: Re-evolution
+Item_51850_Desc,aDHz,d道具_Item_A.csv,679,Item,Desc,,用于「再衍化」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Re-evolution Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51860_Name,aDIp,d道具_Item_A.csv,680,Item,Name,,二律背反·残本,Remnants: Paradox
+Item_51860_Desc,aDIn,d道具_Item_A.csv,680,Item,Desc,,用于「二律背反」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Paradox Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51845_Name,aDHh,d道具_Item_A.csv,681,Item,Name,,光合祭礼·残本,Remnants: Photosynthesis Ritual
+Item_51845_Desc,aDHf,d道具_Item_A.csv,681,Item,Desc,,用于「光合祭礼」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Photosynthesis Ritual Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51848_Name,aDHt,d道具_Item_A.csv,682,Item,Name,,海归线·残本,Remnants: Returnal Line
+Item_51848_Desc,aDHr,d道具_Item_A.csv,682,Item,Desc,,用于「海归线」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Returnal Line Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51844_Name,aDHd,d道具_Item_A.csv,683,Item,Name,,36室之环·残本,Remnants: Ring of Chamber 36
+Item_51844_Desc,aDHb,d道具_Item_A.csv,683,Item,Desc,,用于「36室之环」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Ring of Chamber 36 Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51859_Name,aDIl,d道具_Item_A.csv,684,Item,Name,,生机榨取·残本,Remnants: Life Drain
+Item_51859_Desc,aDIj,d道具_Item_A.csv,684,Item,Desc,,用于「生机榨取」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Life Drain Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51847_Name,aDHp,d道具_Item_A.csv,685,Item,Name,,四月礼赞·残本,Remnants: April Tribute
+Item_51847_Desc,aDHn,d道具_Item_A.csv,685,Item,Desc,,用于「四月礼赞」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing April Tribute Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51851_Name,aDHF,d道具_Item_A.csv,686,Item,Name,,有机形态·残本,Remnants: Organic Form
+Item_51851_Desc,aDHD,d道具_Item_A.csv,686,Item,Desc,,用于「有机形态」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Organic Form Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51846_Name,aDHl,d道具_Item_A.csv,687,Item,Name,,甜蜜蛞蝓·残本,Remnants: Sweet Slug
+Item_51846_Desc,aDHj,d道具_Item_A.csv,687,Item,Desc,,用于「甜蜜蛞蝓」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Sweet Slug Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51849_Name,aDHx,d道具_Item_A.csv,688,Item,Name,,入药之梦·残本,Remnants: Dream of Medicine
+Item_51849_Desc,aDHv,d道具_Item_A.csv,688,Item,Desc,,用于「入药之梦」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Dream of Medicine Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51857_Name,aDId,d道具_Item_A.csv,689,Item,Name,,远方的欢宴·残本,Remnants: Feast from Afar
+Item_51857_Desc,aDIb,d道具_Item_A.csv,689,Item,Desc,,用于「远方的欢宴」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Feast from Afar Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51853_Name,aDHN,d道具_Item_A.csv,690,Item,Name,,无垢启示录·残本,Remnants: Unstained Chronicle
+Item_51853_Desc,aDHL,d道具_Item_A.csv,690,Item,Desc,,用于「无垢启示录」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Unstained Chronicle Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51862_Name,aDIx,d道具_Item_A.csv,691,Item,Name,,荒原狼·残本,Remnants: Steppenwolf
+Item_51862_Desc,aDIv,d道具_Item_A.csv,691,Item,Desc,,用于「荒原狼」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Steppenwolf Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_51842_Name,aDGV,d道具_Item_A.csv,692,Item,Name,,少女之蛹·残本,Remnants: Cocoon of the Maiden
+Item_51842_Desc,aDGT,d道具_Item_A.csv,692,Item,Desc,,用于「少女之蛹」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Cocoon of the Maiden Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_99221_Name,bHEc,d道具_Item_A.csv,693,Item,Name,,腐殖质·残本,Remnants: Humus
+Item_99221_Desc,bHEb,d道具_Item_A.csv,693,Item,Desc,,用于「腐殖质」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Humus Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_99228_Name,bHEw,d道具_Item_A.csv,694,Item,Name,,斯提克斯·残本,Remnants: Styx
+Item_99228_Desc,bHEv,d道具_Item_A.csv,694,Item,Desc,,用于「斯提克斯」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Styx Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_99218_Name,bHDU,d道具_Item_A.csv,695,Item,Name,,飞升·残本,Remnants: Ascension
+Item_99218_Desc,bHDT,d道具_Item_A.csv,695,Item,Desc,,用于「飞升」密契转录时锁定一个副属性，也可以在材料置换中置换为「千面印章」。\n\n残缺的密契碎片，以勉强拼接的方式收藏于拼贴册内。,"Can be used to lock a substat when transcribing Ascension Covenants, or consumed in Material Substitution to create ""Thousand Faces Seal"".\n\nIncomplete Covenant fragments, precariously patched together to be stored in a collage book."
+Item_9903_Desc,aGpX,d道具_Item_A.csv,696,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9544_Desc,aFPP,d道具_Item_A.csv,697,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9805_Desc,aGjj,d道具_Item_A.csv,698,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nDocuments inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9649_Desc,aFXz,d道具_Item_A.csv,699,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9593_Desc,aFTr,d道具_Item_A.csv,700,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nDocuments inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9613_Desc,aFUT,d道具_Item_A.csv,701,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9560_Desc,aFQX,d道具_Item_A.csv,702,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nDocuments inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9949_Desc,aGtf,d道具_Item_A.csv,703,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nPages inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9698_Desc,aGbj,d道具_Item_A.csv,704,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nDocuments inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9668_Desc,aFYX,d道具_Item_A.csv,705,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的秘篇，用以升格混沌界域唤醒体的材料。,"History repeats itself, but perhaps the universe does not.\nScrolls inscribed with mysterious text.\nA material used in the Edification of Chaos Awakeners."
+Item_9510_Desc,aFNj,d道具_Item_A.csv,706,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9935_Desc,aGsn,d道具_Item_A.csv,707,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_10084_Desc,aCOP,d道具_Item_A.csv,708,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9527_Desc,aFOz,d道具_Item_A.csv,709,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9622_Desc,aFVz,d道具_Item_A.csv,710,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9866_Desc,aGnv,d道具_Item_A.csv,711,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9639_Desc,aFWL,d道具_Item_A.csv,712,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_10002_Desc,aCJb,d道具_Item_A.csv,713,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9823_Desc,aGkn,d道具_Item_A.csv,714,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9555_Desc,aFQD,d道具_Item_A.csv,715,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Yes, anything can be distilled.\nYour instincts, your reason, even your spirit...\nIn the end, you'll find that you're no different from them.\nA material used in the Edification of Aequor Awakeners."
+Item_9711_Desc,aGcj,d道具_Item_A.csv,716,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9559_Desc,aFQT,d道具_Item_A.csv,717,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9800_Desc,aGiT,d道具_Item_A.csv,718,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nEmotions preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9508_Desc,aFNb,d道具_Item_A.csv,719,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9592_Desc,aFTn,d道具_Item_A.csv,720,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nEmotions preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9729_Desc,aGdz,d道具_Item_A.csv,721,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9910_Desc,aGqz,d道具_Item_A.csv,722,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nEmotions preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_10095_Desc,aCPH,d道具_Item_A.csv,723,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nMemories preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9946_Desc,aGsT,d道具_Item_A.csv,724,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nEmotions preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9669_Desc,aFZb,d道具_Item_A.csv,725,Item,Desc,,为了人类存续。\n被保存在画框里的意识。用以升格血肉界域唤醒体的材料。,For the conservation and longevity of humanity.\nSentience preserved within a frame.\nA material used in the Edification of Caro Awakeners.
+Item_9798_Desc,aGiL,d道具_Item_A.csv,726,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9928_Desc,aGrP,d道具_Item_A.csv,727,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9838_Desc,aGln,d道具_Item_A.csv,728,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Bestow upon us an unfathomable spirit.\nA special film from the Feilin Poetry Society, suitable for the transcription of the human psyche.\nA material used in the Edification of Ultra Awakeners."
+Item_10096_Desc,aCPL,d道具_Item_A.csv,729,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9632_Desc,aFWn,d道具_Item_A.csv,730,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Bestow upon us an unfathomable spirit.\nA special film from the Feilin Poetry Society, suitable for the transcription of the human psyche.\nA material used in the Edification of Ultra Awakeners."
+Item_9890_Desc,aGpj,d道具_Item_A.csv,731,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9707_Desc,aGbT,d道具_Item_A.csv,732,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Bestow upon us an unfathomable spirit.\nA special film from the Feilin Poetry Society, suitable for the transcription of the human psyche.\nA material used in the Edification of Ultra Awakeners."
+Item_9701_Desc,aGbv,d道具_Item_A.csv,733,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us cognition yet unknown.\nA special film from the Feilin Poetry Society, suitable for the transcription of human cognition.\nA material used in the Edification of Ultra Awakeners."
+Item_9604_Desc,aFUj,d道具_Item_A.csv,734,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Bestow upon us an unfathomable spirit.\nA special film from the Feilin Poetry Society, suitable for the transcription of the human psyche.\nA material used in the Edification of Ultra Awakeners."
+Item_9563_Desc,aFRj,d道具_Item_A.csv,735,Item,Desc,,给予我们未可知晓的灵知。\n源自菲林诗社的特殊胶片，能转写人的灵知。\n用以升格超维界域唤醒体的材料。,"Bestow upon us the unknowable Gnosis.\nA special film from the Feilin Poetry Society, suitable for the transcription of a human Gnosis.\nA material used in the Edification of Ultra Awakeners."
+Item_9770_Desc,aGgD,d道具_Item_A.csv,736,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9717_Desc,aGcH,d道具_Item_A.csv,737,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9551_Desc,aFQn,d道具_Item_A.csv,738,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,Its wings now have no purpose aside from jewelry. They'll likely sell for five... of something.\nA shining crystal butterfly. Most of its body has been mineralized.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9541_Desc,aFPD,d道具_Item_A.csv,739,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9919_Desc,aGrf,d道具_Item_A.csv,740,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,Its wings now have no purpose aside from jewelry. They'll likely sell for five... of something.\nA shining crystal butterfly. Most of its body has been mineralized.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9633_Desc,aFWr,d道具_Item_A.csv,741,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9775_Desc,aGgX,d道具_Item_A.csv,742,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,Its wings now have no purpose aside from jewelry. They'll likely sell for five... of something.\nA shining crystal butterfly. Most of its body has been mineralized.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_34911_Desc,aCYH,d道具_Item_A.csv,743,Item,Desc,,扇动的翅膀有助于产生龙卷风，或是花粉过敏。\n成群的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,The flapping of wings can begin chain reactions that could end in inconveniences like tornadoes or calamities like pollen allergies.\nSwarms of crystal butterflies.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9848_Desc,aGmb,d道具_Item_A.csv,744,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Not a product of craftsmanship, but the tragic end of a butterfly encountering an alchemist.\nA simple crystalline butterfly.\nA material used for enhancing the abilities of Chaos Awakeners."
+Item_9737_Desc,aGef,d道具_Item_A.csv,745,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,Its wings now have no purpose aside from jewelry. They'll likely sell for five... of something.\nA shining crystal butterfly. Most of its body has been mineralized.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9658_Desc,aFYj,d道具_Item_A.csv,746,Item,Desc,,扇动的翅膀有助于产生龙卷风，或是花粉过敏。\n成群的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,The flapping of wings can begin chain reactions that could end in inconveniences like tornadoes or calamities like pollen allergies.\nSwarms of crystal butterflies.\nA material used for enhancing the abilities of Chaos Awakeners.
+Item_9950_Desc,aGtj,d道具_Item_A.csv,747,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9927_Desc,aGrL,d道具_Item_A.csv,748,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_10048_Desc,aCMn,d道具_Item_A.csv,749,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Dominant in warm oceans millions of years ago.\nThe fossil of a high-stemmed crinoid.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_10097_Desc,aCPP,d道具_Item_A.csv,750,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_10020_Desc,aCKr,d道具_Item_A.csv,751,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Dominant in warm oceans millions of years ago.\nThe fossil of a high-stemmed crinoid.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9907_Desc,aGqn,d道具_Item_A.csv,752,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9629_Desc,aFWb,d道具_Item_A.csv,753,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Dominant in warm oceans millions of years ago.\nThe fossil of a high-stemmed crinoid.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_34909_Desc,aCYz,d道具_Item_A.csv,754,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,They agreed to slaughter together in the spring when sea lilies bloom.\nThe fossil of a creature from the Eocene epoch.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9885_Desc,aGoT,d道具_Item_A.csv,755,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Flower Language: Stay away.\nThe fossil of a low-stem sea lily.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9675_Desc,aFZz,d道具_Item_A.csv,756,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,Dominant in warm oceans millions of years ago.\nThe fossil of a high-stemmed crinoid.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9915_Desc,aGqP,d道具_Item_A.csv,757,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,They agreed to slaughter together in the spring when sea lilies bloom.\nThe fossil of a creature from the Eocene epoch.\nA material used for enhancing the abilities of Aequor Awakeners.
+Item_9963_Desc,aGuj,d道具_Item_A.csv,758,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9965_Desc,aGun,d道具_Item_A.csv,759,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9875_Desc,aGof,d道具_Item_A.csv,760,Item,Desc,,蠕动，扭曲，我们阴暗爬行……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Wriggling, twisting, we crawl in the shadows... hiss... hiss...\nA now parasitized cocoon.\nA material used for enhancing the abilities of Caro Awakeners."
+Item_10113_Desc,aCQX,d道具_Item_A.csv,761,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9521_Desc,aFOb,d道具_Item_A.csv,762,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Wriggling, twisting, we crawl in the shadows... hiss... hiss...\nA now parasitized cocoon.\nA material used for enhancing the abilities of Caro Awakeners."
+Item_9660_Desc,aFYr,d道具_Item_A.csv,763,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_10081_Desc,aCOD,d道具_Item_A.csv,764,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Wriggling, twisting, we crawl in the shadows... hiss... hiss...\nA now parasitized cocoon.\nA material used for enhancing the abilities of Caro Awakeners."
+Item_34908_Desc,aCYv,d道具_Item_A.csv,765,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,What have the spores done wrong? They simply want a home.\nA chrysalis and its spore neighbors.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9586_Desc,aFSP,d道具_Item_A.csv,766,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Drafty house. Better than nothing.\nAn abandoned chrysalis shell.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9733_Desc,aGdP,d道具_Item_A.csv,767,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Wriggling, twisting, we crawl in the shadows... hiss... hiss...\nA now parasitized cocoon.\nA material used for enhancing the abilities of Caro Awakeners."
+Item_9743_Desc,aGeD,d道具_Item_A.csv,768,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,What have the spores done wrong? They simply want a home.\nA chrysalis and its spore neighbors.\nA material used for enhancing the abilities of Caro Awakeners.
+Item_9924_Desc,aGrz,d道具_Item_A.csv,769,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_9534_Desc,aFPb,d道具_Item_A.csv,770,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_9571_Desc,aFRL,d道具_Item_A.csv,771,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Allegedly, debris from a meteorite that fell in the Cambrian Valley.\nA curious mineral that emits a mysterious purplish glimmer.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_10062_Desc,aCNf,d道具_Item_A.csv,772,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_9511_Desc,aFNn,d道具_Item_A.csv,773,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Allegedly, debris from a meteorite that fell in the Cambrian Valley.\nA curious mineral that emits a mysterious purplish glimmer.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9694_Desc,aGaT,d道具_Item_A.csv,774,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_10092_Desc,aCPv,d道具_Item_A.csv,775,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Allegedly, debris from a meteorite that fell in the Cambrian Valley.\nA curious mineral that emits a mysterious purplish glimmer.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_34910_Desc,aCYD,d道具_Item_A.csv,776,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"In some parallel universes, it possesses the power to destroy the world.\nA flawless crystal from a distant tropical region.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9575_Desc,aFRX,d道具_Item_A.csv,777,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,No one would dare use it for divination now.\nA purple gemstone that drips with D-Slime.\nA material used for enhancing the abilities of Ultra Awakeners.
+Item_9806_Desc,aGjn,d道具_Item_A.csv,778,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Allegedly, debris from a meteorite that fell in the Cambrian Valley.\nA curious mineral that emits a mysterious purplish glimmer.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9720_Desc,aGcT,d道具_Item_A.csv,779,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"In some parallel universes, it possesses the power to destroy the world.\nA flawless crystal from a distant tropical region.\nA material used for enhancing the abilities of Ultra Awakeners."
+Item_9600_Desc,aFTT,d道具_Item_A.csv,780,Item,Desc,,套装：\n机械降神Ⅰ\n机械降神Ⅱ\n机械降神Ⅲ\n机械降神Ⅳ\n机械降神Ⅴ\n机械降神Ⅵ,Set:\nDeus Ex Machina I\nDeus Ex Machina II\nDeus Ex Machina III\nDeus Ex Machina IV\nDeus Ex Machina V\nDeus Ex Machina VI
+Item_9664_Desc,aFYH,d道具_Item_A.csv,781,Item,Desc,,套装：\n扭曲双子·黑Ⅰ\n扭曲双子·黑Ⅱ\n扭曲双子·黑Ⅲ\n扭曲双子·黑Ⅳ\n扭曲双子·黑Ⅴ\n扭曲双子·黑Ⅵ,Set:\nTwisted Twins: Black I\nTwisted Twins: Black II\nTwisted Twins: Black III\nTwisted Twins: Black IV\nTwisted Twins: Black V\nTwisted Twins: Black VI
+Item_9584_Desc,aFSH,d道具_Item_A.csv,782,Item,Desc,,套装：\n扭曲双子·白Ⅰ\n扭曲双子·白Ⅱ\n扭曲双子·白Ⅲ\n扭曲双子·白Ⅳ\n扭曲双子·白Ⅴ\n扭曲双子·白Ⅵ,Set:\nTwisted Twins: White I\nTwisted Twins: White II\nTwisted Twins: White III\nTwisted Twins: White IV\nTwisted Twins: White V\nTwisted Twins: White VI
+Item_10026_Desc,aCKP,d道具_Item_A.csv,783,Item,Desc,,套装：\n猩红之悸Ⅰ\n猩红之悸Ⅱ\n猩红之悸Ⅲ\n猩红之悸Ⅳ\n猩红之悸Ⅴ\n猩红之悸Ⅵ,Set:\nCrimson Pulse I\nCrimson Pulse II\nCrimson Pulse III\nCrimson Pulse IV\nCrimson Pulse V\nCrimson Pulse VI
+Item_9598_Desc,aFTL,d道具_Item_A.csv,784,Item,Desc,,套装：\n猩红之拥Ⅰ\n猩红之拥Ⅱ\n猩红之拥Ⅲ\n猩红之拥Ⅳ\n猩红之拥Ⅴ\n猩红之拥Ⅵ,Set:\nScarlet Embrace I\nScarlet Embrace II\nScarlet Embrace III\nScarlet Embrace IV\nScarlet Embrace V\nScarlet Embrace VI
+Item_9989_Desc,aGwb,d道具_Item_A.csv,785,Item,Desc,,套装：\n36室之环Ⅰ\n36室之环Ⅱ\n36室之环Ⅲ\n36室之环Ⅳ\n36室之环Ⅴ\n36室之环Ⅵ,Set:\nRing of Chamber 36 I\nRing of Chamber 36 II\nRing of Chamber 36 III\nRing of Chamber 36 IV\nRing of Chamber 36 V\nRing of Chamber 36 VI
+Item_9708_Desc,aGbX,d道具_Item_A.csv,787,Item,Desc,,套装：\n埋骨地絮语Ⅰ\n埋骨地絮语Ⅱ\n埋骨地絮语Ⅲ\n埋骨地絮语Ⅳ\n埋骨地絮语Ⅴ\n埋骨地絮语Ⅵ,Set:\nBurial Ground's Sighs I\nBurial Ground's Sighs II\nBurial Ground's Sighs III\nBurial Ground's Sighs IV\nBurial Ground's Sighs V\nBurial Ground's Sighs VI
+Item_9738_Desc,aGej,d道具_Item_A.csv,788,Item,Desc,,套装：\n二律背反Ⅰ\n二律背反Ⅱ\n二律背反Ⅲ\n二律背反Ⅳ\n二律背反Ⅴ\n二律背反Ⅵ,Set:\nParadox I\nParadox II\nParadox III\nParadox IV\nParadox V\nParadox VI
+Item_9730_Desc,aGdD,d道具_Item_A.csv,789,Item,Desc,,套装：\n环形诗篇Ⅰ\n环形诗篇Ⅱ\n环形诗篇Ⅲ\n环形诗篇Ⅳ\n环形诗篇Ⅴ\n环形诗篇Ⅵ,Set:\nCircular Psalm I\nCircular Psalm II\nCircular Psalm III\nCircular Psalm IV\nCircular Psalm V\nCircular Psalm VI
+Item_9874_Desc,aGob,d道具_Item_A.csv,790,Item,Desc,,套装：\n诅咒兔Ⅰ\n诅咒兔Ⅱ\n诅咒兔Ⅲ\n诅咒兔Ⅳ\n诅咒兔Ⅴ\n诅咒兔Ⅵ,Set:\nCursed Rabbit I\nCursed Rabbit II\nCursed Rabbit III\nCursed Rabbit IV\nCursed Rabbit V\nCursed Rabbit VI
+Item_9895_Desc,aGpD,d道具_Item_A.csv,791,Item,Desc,,套装：\n光合祭礼Ⅰ\n光合祭礼Ⅱ\n光合祭礼Ⅲ\n光合祭礼Ⅳ\n光合祭礼Ⅴ\n光合祭礼Ⅵ,Set:\nPhotosynthesis Ritual I\nPhotosynthesis Ritual II\nPhotosynthesis Ritual III\nPhotosynthesis Ritual IV\nPhotosynthesis Ritual V\nPhotosynthesis Ritual VI
+Item_9688_Desc,aGav,d道具_Item_A.csv,792,Item,Desc,,套装：\n海归线Ⅰ\n海归线Ⅱ\n海归线Ⅲ\n海归线Ⅳ\n海归线Ⅴ\n海归线Ⅵ,Set:\nReturnal Line I\nReturnal Line II\nReturnal Line III\nReturnal Line IV\nReturnal Line V\nReturnal Line VI
+Item_9702_Desc,aGbz,d道具_Item_A.csv,793,Item,Desc,,套装：\n少女之蛹Ⅰ\n少女之蛹Ⅱ\n少女之蛹Ⅲ\n少女之蛹Ⅳ\n少女之蛹Ⅴ\n少女之蛹Ⅵ,Set:\nCocoon of the Maiden I\nCocoon of the Maiden II\nCocoon of the Maiden III\nCocoon of the Maiden IV\nCocoon of the Maiden V\nCocoon of the Maiden VI
+Item_10061_Desc,aCNb,d道具_Item_A.csv,794,Item,Desc,,套装：\n生机榨取Ⅰ\n生机榨取Ⅱ\n生机榨取Ⅲ\n生机榨取Ⅳ\n生机榨取Ⅴ\n生机榨取Ⅵ,Set:\nLife Drain I\nLife Drain II\nLife Drain III\nLife Drain IV\nLife Drain V\nLife Drain VI
+Item_9753_Name,aGfp,d道具_Item_A.csv,795,Item,Name,,四月礼赞,April Tribute
+Item_9753_Desc,aGfn,d道具_Item_A.csv,795,Item,Desc,,套装：\n四月礼赞Ⅰ\n四月礼赞Ⅱ\n四月礼赞Ⅲ\n四月礼赞Ⅳ\n四月礼赞Ⅴ\n四月礼赞Ⅵ,Set:\nApril Tribute I\nApril Tribute II\nApril Tribute III\nApril Tribute IV\nApril Tribute V\nApril Tribute VI
+Item_9612_Desc,aFUP,d道具_Item_A.csv,797,Item,Desc,,套装：\n甜蜜蛞蝓Ⅰ\n甜蜜蛞蝓Ⅱ\n甜蜜蛞蝓Ⅲ\n甜蜜蛞蝓Ⅳ\n甜蜜蛞蝓Ⅴ\n甜蜜蛞蝓Ⅵ,Set:\nSweet Slug I\nSweet Slug II\nSweet Slug III\nSweet Slug IV\nSweet Slug V\nSweet Slug VI
+Item_9934_Desc,aGsj,d道具_Item_A.csv,798,Item,Desc,,套装：\n入药之梦Ⅰ\n入药之梦Ⅱ\n入药之梦Ⅲ\n入药之梦Ⅳ\n入药之梦Ⅴ\n入药之梦Ⅵ,Set:\nDream of Medicine I\nDream of Medicine II\nDream of Medicine III\nDream of Medicine IV\nDream of Medicine V\nDream of Medicine VI
+Item_9709_Desc,aGcb,d道具_Item_A.csv,799,Item,Desc,,套装：\n远方的欢宴Ⅰ\n远方的欢宴Ⅱ\n远方的欢宴Ⅲ\n远方的欢宴Ⅳ\n远方的欢宴Ⅴ\n远方的欢宴Ⅵ,Set:\nFeast from Afar I\nFeast from Afar II\nFeast from Afar III\nFeast from Afar IV\nFeast from Afar V\nFeast from Afar VI
+Item_10018_Desc,aCKj,d道具_Item_A.csv,800,Item,Desc,,套装：\n无垢启示录Ⅰ\n无垢启示录Ⅱ\n无垢启示录Ⅲ\n无垢启示录Ⅳ\n无垢启示录Ⅴ\n无垢启示录Ⅵ,Set:\nUnstained Chronicle I\nUnstained Chronicle II\nUnstained Chronicle III\nUnstained Chronicle IV\nUnstained Chronicle V\nUnstained Chronicle VI
+Item_9721_Desc,aGcX,d道具_Item_A.csv,801,Item,Desc,,套装：\n再衍化Ⅰ\n再衍化Ⅱ\n再衍化Ⅲ\n再衍化Ⅳ\n再衍化Ⅴ\n再衍化Ⅵ,Set:\nRe-evolution I\nRe-evolution II\nRe-evolution III\nRe-evolution IV\nRe-evolution V\nRe-evolution VI
+Item_9851_Desc,aGmn,d道具_Item_A.csv,802,Item,Desc,,套装：\n荒原狼Ⅰ\n荒原狼Ⅱ\n荒原狼Ⅲ\n荒原狼Ⅳ\n荒原狼Ⅴ\n荒原狼Ⅵ,Set:\nSteppenwolf I\nSteppenwolf II\nSteppenwolf III\nSteppenwolf IV\nSteppenwolf V\nSteppenwolf VI
+Item_99535_Desc,bHEM,d道具_Item_A.csv,805,Item,Desc,,套装：\n飞升Ⅰ\n飞升Ⅱ\n飞升Ⅲ\n飞升Ⅳ\n飞升Ⅴ\n飞升Ⅵ,Set:\nAscension I\nAscension II\nAscension III\nAscension IV\nAscension V\nAscension VI
+Item_9987_Desc,aGvT,d道具_Item_A.csv,807,Item,Desc,,嗷呜，嗷呜。\n随机掉落荒原狼密契套装部件。,"Awoo, awoo.\nContains a random Covenant piece for the Steppenwolf set."
+Item_10067_Desc,aCNz,d道具_Item_A.csv,808,Item,Desc,,传说中最初的魔偶创造者，以双手杀死魔偶。\n随机掉落猩红之拥密契套装部件。,Legends say the creator of the first golem destroyed it with his own hands.\nContains a random Covenant piece for the Scarlet Embrace set.
+Item_9985_Desc,aGvL,d道具_Item_A.csv,809,Item,Desc,,所有人都会喜欢白色绒绒兔。\n随机掉落诅咒兔密契套装部件。,Everyone loves a fluffy white rabbit.\nContains a random Covenant piece for the Cursed Rabbit set.
+Item_9982_Desc,aGvz,d道具_Item_A.csv,810,Item,Desc,,传说中最初的魔偶创造者，以血液滋养魔偶。\n随机掉落猩红之悸密契套装部件。,Legends say the creator of the first golem nourished it with his own blood.\nContains a random Covenant piece for the Crimson Pulse set.
+Item_9983_Desc,aGvD,d道具_Item_A.csv,811,Item,Desc,,尽情享受欢宴吧，于歌声中。\n随机掉落远方的欢宴密契套装部件。,"Enjoy this feast, from amidst the songs.\nContains a random Covenant piece for the Feast from Afar set."
+Item_22244_Desc,aCSH,d道具_Item_A.csv,812,Item,Desc,,繁衍吧，繁衍吧。让流淌着母树鲜血的灵魂遍及世界。\n随机掉落再衍化密契套装部件。,"Proliferate, proliferate! Let the souls infused with the blood of the Mother Tree spread across the world.\nContains a random Covenant piece for the Re-evolution set."
+Item_54015_Desc,aDSr,d道具_Item_A.csv,813,Item,Desc,,鳞翅目正死于孤独、爱与绝望。\n随机掉落有机形态密契套装部件。,"Loneliness, love, despair, then death. Such is the fate of Lepidoptera.\nContains a random Covenant piece for the Organic Form set."
+Item_54017_Desc,aDSz,d道具_Item_A.csv,814,Item,Desc,,必然的，偶然的。\n有限的，无限的。\n随机掉落二律背反密契套装部件。,"Inevitable, but accidental. Shackled, but unbound.\nContains a random Covenant piece for the Paradox set."
+Item_54018_Desc,aDSD,d道具_Item_A.csv,815,Item,Desc,,一千年前，五分钟等于四十盎司细沙。\n随机掉落入药之梦密契套装部件。,"A thousand years ago, five minutes was equivalent to forty ounces of fine sand.\nContains a random Covenant piece for the Dream of Medicine set."
+Item_54016_Desc,aDSv,d道具_Item_A.csv,816,Item,Desc,,旋转，然后遗忘——这是她生命的全部。\n随机掉落36室之环密契套装部件。,"Spin, then forget — that's her entire life.\nContains a random Covenant piece for the Ring of Chamber 36 set."
+Item_99150_Desc,bHDy,d道具_Item_A.csv,817,Item,Desc,,世界的水是循环的。下一场新生的源头，来自上一具腐烂的尸体。\n随机掉落腐殖质密契套装部件。,The waters of the world are cyclical. The source of the next rebirth comes from the last rotting corpse. \nContains a random Covenant piece for the Humus set.
+Item_99163_Desc,bHDC,d道具_Item_A.csv,818,Item,Desc,,投入此水，告别人间。\n随机掉落斯提克斯密契套装部件。,Entering this water means bidding farewell to the mortal realm.\nContains a random Covenant piece for the Styx set.
+Item_99158_Desc,bHDA,d道具_Item_A.csv,819,Item,Desc,,超越肉体，向永生进化。\n随机掉落飞升密契套装部件。,"Transcend the flesh, evolve towards immortality.\nContains a random Covenant piece for the Ascension set."
+Item_120472_Name,bKrq,d道具_Item_A.csv,820,Item,Name,,光合祭礼,Photosynthesis Ritual
+Item_120472_Desc,bKrp,d道具_Item_A.csv,820,Item,Desc,,科学是光谱分析，艺术是光合作用。\n随机掉落光合祭礼密契套装部件。,"Science is spectral analysis, art is photosynthesis.\nContains a random Covenant piece for the Photosynthesis Ritual set."
+Item_120471_Name,bKro,d道具_Item_A.csv,821,Item,Name,,少女之蛹,Cocoon of the Maiden
+Item_120471_Desc,bKrn,d道具_Item_A.csv,821,Item,Desc,,为您奉上纯洁的躯壳。\n随机掉落少女之蛹密契套装部件。,"I offer you my chrysalis, a vessel most pure.\nContains a random Covenant piece for the Cocoon of the Maiden set."
+Item_120473_Desc,bKrr,d道具_Item_A.csv,822,Item,Desc,,甜甜的，黏黏的。\n随机掉落甜蜜蛞蝓密契套装部件。,"So very sweet, and so very sticky.\nContains a random Covenant piece for the Sweet Slug set."
+Item_23731_Desc,aCSP,d道具_Item_A.csv,1502,Item,Desc,,通过「幻梦深潜」和「相位对弈」可以获取守密人经验，每日通过该途径最多可以获取{s1}点，今日已获取{s2}点。,"Gain Keeper EXP through ""Phantasmal Dive"" and ""Traphase""; up to {s1} points can be obtained daily. You have obtained {s2} points today."
+ItemGets_74096_Desc,aCHT,h获取途径_ItemGets_C.csv,66,ItemGets,Desc,,主线关卡首通-星辰篇第1章,Main Story First Clear: Astral Reign Chapter 1
+ItemGets_118171_Desc,bJwR,h获取途径_ItemGets_C.csv,69,ItemGets,Desc,,主线关卡首通-星辰篇第4章,Main Story First Clear: Astral Reign Chapter 4
+ItemGets_74097_Desc,aCHU,h获取途径_ItemGets_C.csv,85,ItemGets,Desc,,主线困难首通-星辰篇第1章,Main Story Hard First Clear: Astral Reign Chapter 1
+ItemGets_80272_Desc,bsul,h获取途径_ItemGets_C.csv,86,ItemGets,Desc,,主线困难首通-星辰篇第2章,Main Story Hard First Clear: Astral Reign Chapter 2
+ItemGets_95551_Desc,bzTr,h获取途径_ItemGets_C.csv,87,ItemGets,Desc,,主线困难首通-星辰篇第3章,Main Story Hard First Clear: Astral Reign Chapter 3
+ItemGets_118166_Desc,bJwM,h获取途径_ItemGets_C.csv,88,ItemGets,Desc,,主线困难首通-星辰篇第4章,Main Story Hard First Clear: Astral Reign Chapter 4
+ItemGets_116337_Desc,bHuy,h获取途径_ItemGets_C.csv,107,ItemGets,Desc,,主线普通1-15,Main Story Normal 1-15
+ItemGets_95560_Desc,bzTA,h获取途径_ItemGets_C.csv,262,ItemGets,Desc,,星辰篇普通3-1,Astral Reign Normal 3-1
+ItemGets_95550_Desc,bzTq,h获取途径_ItemGets_C.csv,263,ItemGets,Desc,,星辰篇普通3-2,Astral Reign Normal 3-2
+ItemGets_95559_Desc,bzTz,h获取途径_ItemGets_C.csv,264,ItemGets,Desc,,星辰篇普通3-3,Astral Reign Normal 3-3
+ItemGets_95549_Desc,bzTp,h获取途径_ItemGets_C.csv,265,ItemGets,Desc,,星辰篇普通3-4,Astral Reign Normal 3-4
+ItemGets_95552_Desc,bzTs,h获取途径_ItemGets_C.csv,266,ItemGets,Desc,,星辰篇普通3-5,Astral Reign Normal 3-5
+ItemGets_95558_Desc,bzTy,h获取途径_ItemGets_C.csv,267,ItemGets,Desc,,星辰篇普通3-6,Astral Reign Normal 3-6
+ItemGets_95556_Desc,bzTw,h获取途径_ItemGets_C.csv,268,ItemGets,Desc,,星辰篇普通3-7,Astral Reign Normal 3-7
+ItemGets_95561_Desc,bzTB,h获取途径_ItemGets_C.csv,269,ItemGets,Desc,,星辰篇普通3-8,Astral Reign Normal 3-8
+ItemGets_95553_Desc,bzTt,h获取途径_ItemGets_C.csv,270,ItemGets,Desc,,星辰篇普通3-9,Astral Reign Normal 3-9
+ItemGets_95555_Desc,bzTv,h获取途径_ItemGets_C.csv,271,ItemGets,Desc,,星辰篇普通3-10,Astral Reign Normal 3-10
+ItemGets_95554_Desc,bzTu,h获取途径_ItemGets_C.csv,272,ItemGets,Desc,,星辰篇普通3-11,Astral Reign Normal 3-11
+ItemGets_51685_Desc,aCHd,h获取途径_ItemGets_C.csv,349,ItemGets,Desc,,通关意识潜游-燃烧的群宴,Psyche Deepdive: Feast of Flames
+ItemGets_51680_Desc,aCGY,h获取途径_ItemGets_C.csv,357,ItemGets,Desc,,通关意识潜游-巨人的陨落,Psyche Deepdive: The Fall of Giant
+ItemGets_52064_Desc,aCHf,h获取途径_ItemGets_C.csv,359,ItemGets,Desc,,通关异梦视界-亵渎,Dreamscape: Desecrate
+ItemGets_78944_Desc,aCIk,h获取途径_ItemGets_C.csv,365,ItemGets,Desc,,通关多维连接-逆转回合,Multidimensional Link: My Turn!
+ItemGets_81755_Desc,bsuE,h获取途径_ItemGets_C.csv,366,ItemGets,Desc,,通关意识潜游-最后的引航,Psyche Deepdive: Final Steersmanship
+ItemGets_90259_Desc,bxSf,h获取途径_ItemGets_C.csv,367,ItemGets,Desc,,通关异梦视界-天边之外·上,Dreamscape: Beyond the Skies: Part I
+ItemGets_94569_Desc,byFW,h获取途径_ItemGets_C.csv,368,ItemGets,Desc,,通关异梦视界-征厨房记,Dreamscape: Culinary Dominion
+ItemGets_98318_Desc,bBVG,h获取途径_ItemGets_C.csv,369,ItemGets,Desc,,通关意识潜游-不朽极昼,Psyche Deepdive: Everburning Vex
+ItemGets_97738_Desc,bBca,h获取途径_ItemGets_C.csv,370,ItemGets,Desc,,通关异梦视界-再见永无乡,Dreamscape: See You in Neverland
+ItemGets_99735_Desc,bCpS,h获取途径_ItemGets_C.csv,371,ItemGets,Desc,,通关意识潜游-畸世绘,Psyche Deepdive: Ghastly Canvas
+ItemGets_117490_Desc,bIjq,h获取途径_ItemGets_C.csv,372,ItemGets,Desc,,通关异梦视界-天边之外·下,Dreamscape: Beyond the Skies: Part II
+ItemGets_97951_Desc,bBhR,h获取途径_ItemGets_C.csv,375,ItemGets,Desc,,凯蒂古拉试玩,Kathigu-Ra Trial
+ItemGets_100584_Desc,bCDt,h获取途径_ItemGets_C.csv,376,ItemGets,Desc,,通关异梦视界-再见，永无乡,"Dreamscape: See You, Neverland"
+ItemGets_120497_Desc,bKtu,h获取途径_ItemGets_C.csv,391,ItemGets,Desc,,「调查行动」星辰篇第四章,"""Investigation"" Astral Reign Chapter 4"
+ItemGets_117103_Desc,bIdX,h获取途径_ItemGets_C.csv,397,ItemGets,Desc,,「意识潜游」如歌的雕琢,"""Psyche Deepdive"" Sculpted Like a Song"
+ItemGets_117111_Desc,bIef,h获取途径_ItemGets_C.csv,401,ItemGets,Desc,,「特遣纪录」故事的魔法,"""Special Ops"" The Magic of Storytelling"
+ItemGets_117101_Desc,bIdV,h获取途径_ItemGets_C.csv,404,ItemGets,Desc,,「意识潜游」巨人的陨落,"""Psyche Deepdive"" The Fall of Giant"
+ItemGets_117123_Desc,bIer,h获取途径_ItemGets_C.csv,406,ItemGets,Desc,,「异梦视界」亵渎,"""Dreamscape"" Desecrate"
+ItemGets_117092_Desc,bIdM,h获取途径_ItemGets_C.csv,410,ItemGets,Desc,,「意识潜游」加冕之日,"""Psyche Deepdive"" Coronation Day"
+ItemGets_117122_Desc,bIeq,h获取途径_ItemGets_C.csv,412,ItemGets,Desc,,「多维连接」逆转回合,"""Multidimensional Link"" My Turn!"
+ItemGets_117094_Desc,bIdO,h获取途径_ItemGets_C.csv,415,ItemGets,Desc,,「异梦视界」征厨房记,"""Dreamscape"" Culinary Dominion"
+ItemGets_120992_Desc,bKxV,h获取途径_ItemGets_C.csv,422,ItemGets,Desc,,通关特遣纪录-群星咏叹调,Special Ops: Celestial Aria
+ItemGets_120993_Desc,bKxW,h获取途径_ItemGets_C.csv,423,ItemGets,Desc,,「特遣纪录」群星咏叹调,"""Special Ops"" Celestial Aria"
+ItemGets_122708_Desc,bLjl,h获取途径_ItemGets_C.csv,424,ItemGets,Desc,,通关特遣记录-群星咏叹调,Special Ops: Celestial Aria
+LanguageConfig_Monster_B0005_1_CN,aGRB,d多语言_LanguageConfig_C.csv,1426,LanguageConfig,CN,,「可恶的…不敬之人…」,"""You despicable... Insolent..."""
+LanguageConfig_AutocConversion_Title_CN,bCca,d多语言_LanguageConfig_C.csv,3026,LanguageConfig,CN,,选择要置换千面印章的材料,Select Automatic Conversion Materials
+LanguageConfig_ExchangePlanSaveTips_CN,bCRM,d多语言_LanguageConfig_C.csv,3037,LanguageConfig,CN,,已保存「千面印章」不足时的置换设置,Thousand Faces Seal Conversion Settings Saved
+LanguageConfig_TrinketStrengCostItemNotEnoughTips_CN,bLfI,d多语言_LanguageConfig_C.csv,3038,LanguageConfig,CN,,「千面印章」不足,Insufficient Thousand Faces Seal
+PanelText_UI_Awaker_Popup_Trinket_Conversion_Text_C_Empty_Content,aIrk,j界面文字表_PanelText_C.csv,800,PanelText,Content,,点击转录获得新副属性,Transcribe to roll new Substats
+PanelText_UI_Awaker_Popup_Trinket_Conversion_Text_C_Name_1_Content,aIrn,j界面文字表_PanelText_C.csv,802,PanelText,Content,,转录,Transcribe
+RelicConfig_100539_Name,bCCD,z造物_RelicConfig_A.csv,664,RelicConfig,Name,,<WhiteQuality:染血鹅卵石>,<WhiteQuality:Painted Bloody Pebble>
+RelicConfig_100540_Name,bCCH,z造物_RelicConfig_A.csv,665,RelicConfig,Name,,<OrangeQuality:染血鹅卵石+>,<OrangeQuality:Painted Bloody Pebble+>
+RelicConfig_100405_Name,bCvK,z造物_RelicConfig_A.csv,666,RelicConfig,Name,,<WhiteQuality:临摹的恶童>,<WhiteQuality:Painted Malignant Child>
+Stage_8126_Desc,aVsY,g关卡_Stage_A.csv,70,Stage,Desc,,你与拉蒙娜前往伦蒂尼恩东区的莉莉安济贫院，展开你作为新晋守密人的第一次调查。\n一切都会很顺利，对吧？,"You and Ramona head to Lilian's Workhouse, located in the eastern district of\nLondinium for your first investigation as a new Keeper.\nEverything will go smoothly, right?"
+Stage_8185_Desc,aVwq,g关卡_Stage_A.csv,72,Stage,Desc,,我们一定会找回重要之人。\n这是小侦探与小小侦探的约定。,We will stop at nothing to find her.\nThus is the promise the Little Detective made to the Even Littler Detective.
+Stage_8187_Name,aVwx,g关卡_Stage_A.csv,74,Stage,Name,,非礼勿言,Unspoken Etiquette
+Stage_8188_Desc,aVwz,g关卡_Stage_A.csv,75,Stage,Desc,,在笼罩济贫院的浓厚迷雾之中，触碰切割、消失与死亡。,"Scalpels, disappearances, and death await those who wander\nwithin the dense mist shrouding the Workhouse."
+Stage_8121_Desc,aVsJ,g关卡_Stage_A.csv,77,Stage,Desc,,我多想永远不用长大，每一天都和你这样看星星。\n我多想快一点快一点长大，就能保护你们所有人。,"Oh how I wish I could never grow up, so I could spend every night stargazing with you.\nOh how I wish I could grow up faster, so I could protect all of you."
+Stage_7685_Desc,aUDF,g关卡_Stage_A.csv,79,Stage,Desc,,良心的负重，和誓言等同。,The weight of conscience can be as heavy as a solemn vow.
+Stage_8030_Desc,aVnC,g关卡_Stage_A.csv,83,Stage,Desc,,谁能诠释“春天”的含义？\n蛰伏于静寂虚空重的死亡与遗忘，融入朦胧的春日蜃景。,"Who could possibly determine the true meaning behind ""Primavera""?\nDeath and oblivion lie dormant in the silent void, merging into the hazy mirage of a spring day."
+Stage_7837_Desc,aVcj,g关卡_Stage_A.csv,207,Stage,Desc,,你与拉蒙娜前往伦蒂尼恩东区的莉莉安济贫院，展开你作为新晋守密人的第一次调查。\n一切都会很顺利，对吧？,"You and Ramona head to Lilian's Workhouse, located in the eastern district of\nLondinium for your first investigation as a new Keeper.\nEverything will go smoothly, right?"
+Stage_7835_Desc,aVca,g关卡_Stage_A.csv,209,Stage,Desc,,在笼罩济贫院的浓厚迷雾之中，触碰切割、消失与死亡。,"Scalpels, disappearances, and death await those who wander\nwithin the dense mist shrouding the Workhouse."
+Stage_7841_Desc,aVcv,g关卡_Stage_A.csv,211,Stage,Desc,,我多想永远不用长大，每一天都和你这样看星星。\n我多想快一点快一点长大，就能保护你们所有人。,"Oh how I wish I could never grow up, so I could spend every night stargazing with you.\nOh how I wish I could grow up faster, so I could protect all of you."
+Stage_7839_Desc,aVcp,g关卡_Stage_A.csv,213,Stage,Desc,,良心的负重，和誓言等同。,The weight of conscience can be as heavy as a solemn vow.
+Stage_7900_Desc,aVfW,g关卡_Stage_A.csv,403,Stage,Desc,,你与拉蒙娜前往伦蒂尼恩东区的莉莉安济贫院，展开你作为新晋守密人的第一次调查。\n一切都会很顺利，对吧？,"You and Ramona head to Lilian's Workhouse, located in the eastern district of\nLondinium for your first investigation as a new Keeper.\nEverything will go smoothly, right?"
+Stage_7898_Desc,aVfQ,g关卡_Stage_A.csv,405,Stage,Desc,,在笼罩济贫院的浓厚迷雾之中，触碰切割、消失与死亡。,"Scalpels, disappearances, and death await those who wander\nwithin the dense mist shrouding the Workhouse."
+Stage_7903_Desc,aVgf,g关卡_Stage_A.csv,407,Stage,Desc,,我多想永远不用长大，每一天都和你这样看星星。\n我多想快一点快一点长大，就能保护你们所有人。,"Oh how I wish I could never grow up, so I could spend every night stargazing with you.\nOh how I wish I could grow up faster, so I could protect all of you."
+Stage_7901_Desc,aVfZ,g关卡_Stage_A.csv,409,Stage,Desc,,良心的负重，和誓言等同。,The weight of conscience can be as heavy as a solemn vow.
+Stage_8203_Name,aVxt,g关卡_Stage_A.csv,926,Stage,Name,,深海之遗·间隙Ⅶ,Aequor Legacy: Fissure Ⅶ
+Stage_7935_Name,aVhY,g关卡_Stage_A.csv,927,Stage,Name,,深海之遗·间隙Ⅷ,Aequor Legacy: Fissure Ⅷ
+Stage_7650_Name,aUBn,g关卡_Stage_A.csv,934,Stage,Name,,血肉之沼·间隙Ⅶ,Caro Marsh: Fissure Ⅶ
+Stage_7879_Name,aVeM,g关卡_Stage_A.csv,935,Stage,Name,,血肉之沼·间隙Ⅷ,Caro Marsh: Fissure Ⅷ
+Stage_8180_Name,aVwc,g关卡_Stage_A.csv,942,Stage,Name,,超维之旅·间隙Ⅶ,Ultra Journey: Fissure Ⅶ
+Stage_7980_Name,aVkJ,g关卡_Stage_A.csv,943,Stage,Name,,超维之旅·间隙Ⅷ,Ultra Journey: Fissure Ⅷ
+Stage_7882_Name,aVeV,g关卡_Stage_A.csv,950,Stage,Name,,混沌之域·间隙Ⅶ,Chaos Domain: Fissure Ⅶ
+Stage_8166_Name,aVvm,g关卡_Stage_A.csv,951,Stage,Name,,混沌之域·间隙Ⅷ,Chaos Domain: Fissure Ⅷ
+Task_122110_Name,bKVm,r任务_Task_A.csv,5336,Task,Name,,拓梦先驱<size=20><color=#747474>每日首次游玩 获得 500 分 </color></size>,Pioneer<size=20><color=#747474>Earn 500 pts by clearing P-Dive on the first attempt each day.</color></size>
+Task_122110_Desc,bKVl,r任务_Task_A.csv,5336,Task,Desc,,每日首次游玩 获得 500 分。,Earn 500 pts by clearing P-Dive on the first attempt each day.
+TipsType_20084_Title,bmVb,t提示信息_TipsType_C.csv,107,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_20084_Desc,bmUY,t提示信息_TipsType_C.csv,107,TipsType,Desc,,队伍平均等级低于关卡推荐等级，出场唤醒体的属性将受到削弱，是否依然选择调查？,Your team's average level is too low for this stage. The investigation may encounter significant challenges. Proceed anyway?
+TipsType_20084_LeftBtnDesc,bmUZ,t提示信息_TipsType_C.csv,107,TipsType,LeftBtnDesc,,前往提升,Enhance Awakeners
+TipsType_20105_Title,bmWD,t提示信息_TipsType_C.csv,115,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20105_Desc,bmWA,t提示信息_TipsType_C.csv,115,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20105_LeftBtnDesc,bmWB,t提示信息_TipsType_C.csv,115,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20111_Title,bmXb,t提示信息_TipsType_C.csv,120,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20111_Desc,bmWY,t提示信息_TipsType_C.csv,120,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20111_LeftBtnDesc,bmWZ,t提示信息_TipsType_C.csv,120,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20111_RightBtnDesc,bmXa,t提示信息_TipsType_C.csv,120,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20112_Title,bmXf,t提示信息_TipsType_C.csv,121,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20112_Desc,bmXc,t提示信息_TipsType_C.csv,121,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20112_LeftBtnDesc,bmXd,t提示信息_TipsType_C.csv,121,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20112_RightBtnDesc,bmXe,t提示信息_TipsType_C.csv,121,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_10618_Title,bmDf,t提示信息_TipsType_C.csv,743,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_10618_Desc,bmDc,t提示信息_TipsType_C.csv,743,TipsType,Desc,,当前队伍平均等级{s1}低于推荐等级{s2}，调查可能会遇到较大的挑战，是否确认？,The current team's average level {s1} is lower than the recommended level {s2}. The investigation may encounter significant challenges. Proceed anyway?
+TipsType_10618_LeftBtnDesc,bmDd,t提示信息_TipsType_C.csv,743,TipsType,LeftBtnDesc,,前往提升,Enhance Awakeners
+TipsType_10740_Title,bmIf,t提示信息_TipsType_C.csv,744,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_10740_Desc,bmIc,t提示信息_TipsType_C.csv,744,TipsType,Desc,,当前调查等级{s1}低于推荐等级{s2}，调查可能会遇到较大的挑战，是否确认？,Your team's average level {s1} is lower than the recommended level {s2}. The investigation may encounter significant challenges. Proceed anyway?
+TipsType_10741_Title,bmIj,t提示信息_TipsType_C.csv,745,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_10741_Desc,bmIg,t提示信息_TipsType_C.csv,745,TipsType,Desc,,当前队伍平均等级{s1}和守密人调查等级{s2}均低于推荐等级，调查会遇到非常大的挑战，是否确认？,Your team's average level {s1} and your Keeper level {s2} are both too low for this stage. The investigation may encounter significant challenges. Proceed anyway?
+TipsType_10742_Title,bmIn,t提示信息_TipsType_C.csv,746,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_10799_Title,bmJL,t提示信息_TipsType_C.csv,749,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_20094_Title,bmVP,t提示信息_TipsType_C.csv,800,TipsType,Title,,替换确认,Replace Substats?
+TipsType_20094_Desc,bmVM,t提示信息_TipsType_C.csv,800,TipsType,Desc,,原副属性中存在较好的属性，替换后将不会保存，是否确认替换？,"This Covenant has a Max-Value Substat that was not locked. If you continue, it will be overwritten."
+TipsType_20094_RightBtnDesc,bmVO,t提示信息_TipsType_C.csv,800,TipsType,RightBtnDesc,,确认,Replace
+TipsType_20095_Title,bmVT,t提示信息_TipsType_C.csv,801,TipsType,Title,,转录确认,Continue Transcribing?
+TipsType_20095_Desc,bmVQ,t提示信息_TipsType_C.csv,801,TipsType,Desc,,当前转录出的副属性中存在较好的属性，继续转录将不会保存，是否确认？,"There is a Max-Value Substat pending. If you continue Transcription, it will be lost."
+TipsType_20095_RightBtnDesc,bmVS,t提示信息_TipsType_C.csv,801,TipsType,RightBtnDesc,,确认,Transcribe
+TipsType_10707_Desc,bmGc,t提示信息_TipsType_C.csv,802,TipsType,Desc,,转录材料不足,Insufficient Materials
+TipsType_10719_Desc,bmGY,t提示信息_TipsType_C.csv,803,TipsType,Desc,,千面印章不足，可在「置换设置」中选择材料置换,"Insufficient Thousand Faces Seal. You can auto-convert materials in ""Exchange Settings"""
+TipsType_20129_Title,bmYv,t提示信息_TipsType_C.csv,918,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20129_Desc,bmYs,t提示信息_TipsType_C.csv,918,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20129_LeftBtnDesc,bmYt,t提示信息_TipsType_C.csv,918,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20129_RightBtnDesc,bmYu,t提示信息_TipsType_C.csv,918,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20130_Title,bmYz,t提示信息_TipsType_C.csv,919,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20130_Desc,bmYw,t提示信息_TipsType_C.csv,919,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20130_LeftBtnDesc,bmYx,t提示信息_TipsType_C.csv,919,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20130_RightBtnDesc,bmYy,t提示信息_TipsType_C.csv,919,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20131_Title,bmYD,t提示信息_TipsType_C.csv,920,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20131_Desc,bmYA,t提示信息_TipsType_C.csv,920,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20131_LeftBtnDesc,bmYB,t提示信息_TipsType_C.csv,920,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20131_RightBtnDesc,bmYC,t提示信息_TipsType_C.csv,920,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20132_Title,bmYH,t提示信息_TipsType_C.csv,921,TipsType,Title,,自动补足,Auto-Substitution
+TipsType_20132_Desc,bmYE,t提示信息_TipsType_C.csv,921,TipsType,Desc,,勾选后，若<TipsHighlightText:密契残本>充足，则优先消耗残本。\n若残本不足，则自动消耗 <TipsHighlightText:「{s1}」> 补足残本。,"If sufficient <TipsHighlightText:Covenant Fragments> are available, they will be used first.\nIf supply is insufficient, <TipsHighlightText:""{s1}""> will be consumed instead."
+TipsType_20132_RightBtnDesc,bmYG,t提示信息_TipsType_C.csv,921,TipsType,RightBtnDesc,,仍要勾选,Confirm
+TipsType_20134_Title,bKAB,t提示信息_TipsType_C.csv,923,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20134_Desc,bKAy,t提示信息_TipsType_C.csv,923,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20134_LeftBtnDesc,bKAz,t提示信息_TipsType_C.csv,923,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20134_RightBtnDesc,bKAA,t提示信息_TipsType_C.csv,923,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_100020_Title,blHT,t提示信息_TipsType_C.csv,1020,TipsType,Title,,提示,Investigation in Progress
+TipsType_100020_Desc,blHQ,t提示信息_TipsType_C.csv,1020,TipsType,Desc,,尚在战斗中，是否继续之前的战斗？,Would you like to continue the ongoing investigation?
+TipsType_100020_RightBtnDesc,blHS,t提示信息_TipsType_C.csv,1020,TipsType,RightBtnDesc,,确认,Continue
+TipsType_20162_Title,bnaf,t提示信息_TipsType_C.csv,1031,TipsType,Title,,养成回溯,Development Reset
+TipsType_20210_Title,bxWf,t提示信息_TipsType_C.csv,1075,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20210_Desc,bxWc,t提示信息_TipsType_C.csv,1075,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20210_LeftBtnDesc,bxWd,t提示信息_TipsType_C.csv,1075,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20210_RightBtnDesc,bxWe,t提示信息_TipsType_C.csv,1075,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20356_Title,bAks,t提示信息_TipsType_C.csv,1098,TipsType,Title,,调查确认,Begin Investigation?
+TipsType_20230_Title,bBNV,t提示信息_TipsType_C.csv,1102,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20230_Desc,bBNS,t提示信息_TipsType_C.csv,1102,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20230_LeftBtnDesc,bBNT,t提示信息_TipsType_C.csv,1102,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20230_RightBtnDesc,bBNU,t提示信息_TipsType_C.csv,1102,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20231_Title,bBNZ,t提示信息_TipsType_C.csv,1103,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20231_Desc,bBNW,t提示信息_TipsType_C.csv,1103,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20231_LeftBtnDesc,bBNX,t提示信息_TipsType_C.csv,1103,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20231_RightBtnDesc,bBNY,t提示信息_TipsType_C.csv,1103,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20232_Title,bCbO,t提示信息_TipsType_C.csv,1104,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20232_Desc,bCbL,t提示信息_TipsType_C.csv,1104,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20232_LeftBtnDesc,bCbM,t提示信息_TipsType_C.csv,1104,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20232_RightBtnDesc,bCbN,t提示信息_TipsType_C.csv,1104,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20235_Title,bIas,t提示信息_TipsType_C.csv,1110,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20235_Desc,bIar,t提示信息_TipsType_C.csv,1110,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20235_LeftBtnDesc,bIaF,t提示信息_TipsType_C.csv,1110,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20235_RightBtnDesc,bIaG,t提示信息_TipsType_C.csv,1110,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20236_Title,bIau,t提示信息_TipsType_C.csv,1111,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20236_Desc,bIat,t提示信息_TipsType_C.csv,1111,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20236_LeftBtnDesc,bIaH,t提示信息_TipsType_C.csv,1111,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20236_RightBtnDesc,bIaI,t提示信息_TipsType_C.csv,1111,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20237_Title,bIaw,t提示信息_TipsType_C.csv,1112,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20237_Desc,bIav,t提示信息_TipsType_C.csv,1112,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20237_LeftBtnDesc,bIaJ,t提示信息_TipsType_C.csv,1112,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20237_RightBtnDesc,bIaK,t提示信息_TipsType_C.csv,1112,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20238_Title,bIay,t提示信息_TipsType_C.csv,1113,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20238_Desc,bIax,t提示信息_TipsType_C.csv,1113,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20238_LeftBtnDesc,bIaL,t提示信息_TipsType_C.csv,1113,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20238_RightBtnDesc,bIaM,t提示信息_TipsType_C.csv,1113,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20239_Title,bIaQ,t提示信息_TipsType_C.csv,1114,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20239_Desc,bIaN,t提示信息_TipsType_C.csv,1114,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20239_LeftBtnDesc,bIaO,t提示信息_TipsType_C.csv,1114,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20239_RightBtnDesc,bIaP,t提示信息_TipsType_C.csv,1114,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20250_Title,bIaU,t提示信息_TipsType_C.csv,1115,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20250_Desc,bIaR,t提示信息_TipsType_C.csv,1115,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20250_LeftBtnDesc,bIaS,t提示信息_TipsType_C.csv,1115,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20250_RightBtnDesc,bIaT,t提示信息_TipsType_C.csv,1115,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20251_Title,bIaY,t提示信息_TipsType_C.csv,1116,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20251_Desc,bIaV,t提示信息_TipsType_C.csv,1116,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20251_LeftBtnDesc,bIaW,t提示信息_TipsType_C.csv,1116,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20251_RightBtnDesc,bIaX,t提示信息_TipsType_C.csv,1116,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_20252_Title,bIMM,t提示信息_TipsType_C.csv,1117,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_20252_Desc,bIMJ,t提示信息_TipsType_C.csv,1117,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_20252_LeftBtnDesc,bIMK,t提示信息_TipsType_C.csv,1117,TipsType,LeftBtnDesc,,退出,Return
+TipsType_20252_RightBtnDesc,bIML,t提示信息_TipsType_C.csv,1117,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_SubBestExperienceTips_Chapter5_Title,bKDx,t提示信息_TipsType_C.csv,1132,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_SubBestExperienceTips_Chapter5_Desc,bKDu,t提示信息_TipsType_C.csv,1132,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_SubBestExperienceTips_Chapter5_LeftBtnDesc,bKDv,t提示信息_TipsType_C.csv,1132,TipsType,LeftBtnDesc,,退出,Return
+TipsType_SubBestExperienceTips_Chapter5_RightBtnDesc,bKDw,t提示信息_TipsType_C.csv,1132,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_BestExperienceTips_Chapter7_Title,bImX,t提示信息_TipsType_C.csv,1133,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_BestExperienceTips_Chapter7_Desc,bImU,t提示信息_TipsType_C.csv,1133,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_BestExperienceTips_Chapter7_LeftBtnDesc,bImV,t提示信息_TipsType_C.csv,1133,TipsType,LeftBtnDesc,,退出,Return
+TipsType_BestExperienceTips_Chapter7_RightBtnDesc,bImW,t提示信息_TipsType_C.csv,1133,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_BestExperienceTips_Chapter8_Title,bInb,t提示信息_TipsType_C.csv,1134,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_BestExperienceTips_Chapter8_Desc,bImY,t提示信息_TipsType_C.csv,1134,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_BestExperienceTips_Chapter8_LeftBtnDesc,bImZ,t提示信息_TipsType_C.csv,1134,TipsType,LeftBtnDesc,,退出,Return
+TipsType_BestExperienceTips_Chapter8_RightBtnDesc,bIna,t提示信息_TipsType_C.csv,1134,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_BestExperienceTips_ChapterS2_Title,bInf,t提示信息_TipsType_C.csv,1135,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_BestExperienceTips_ChapterS2_Desc,bInc,t提示信息_TipsType_C.csv,1135,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_BestExperienceTips_ChapterS2_LeftBtnDesc,bInd,t提示信息_TipsType_C.csv,1135,TipsType,LeftBtnDesc,,退出,Return
+TipsType_BestExperienceTips_ChapterS2_RightBtnDesc,bIne,t提示信息_TipsType_C.csv,1135,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_BestExperienceTips_ChapterS3_Title,bInj,t提示信息_TipsType_C.csv,1136,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_BestExperienceTips_ChapterS3_Desc,bIng,t提示信息_TipsType_C.csv,1136,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_BestExperienceTips_ChapterS3_LeftBtnDesc,bInh,t提示信息_TipsType_C.csv,1136,TipsType,LeftBtnDesc,,退出,Return
+TipsType_BestExperienceTips_ChapterS3_RightBtnDesc,bIni,t提示信息_TipsType_C.csv,1136,TipsType,RightBtnDesc,,仍要调查,Proceed
+TipsType_BestExperienceTips_ChapterS4_Title,bLgx,t提示信息_TipsType_C.csv,1137,TipsType,Title,,调查确认,Spoiler Warning
+TipsType_BestExperienceTips_ChapterS4_Desc,bLgu,t提示信息_TipsType_C.csv,1137,TipsType,Desc,,为确保最佳剧情体验，建议完成以下调查关卡。,"To ensure the best story experience, it is recommended to complete the following stages before proceeding."
+TipsType_BestExperienceTips_ChapterS4_LeftBtnDesc,bLgv,t提示信息_TipsType_C.csv,1137,TipsType,LeftBtnDesc,,退出,Return
+TipsType_BestExperienceTips_ChapterS4_RightBtnDesc,bLgw,t提示信息_TipsType_C.csv,1137,TipsType,RightBtnDesc,,仍要调查,Proceed
