@@ -1,0 +1,76 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,EN
+RelicConfig_74832_Name,aJPn,z造物_RelicConfig_A.csv,531,RelicConfig,Name,,千面邀请函,Shapeshifter's Invitation
+RelicConfig_74832_Desc,aJPm,z造物_RelicConfig_A.csv,531,RelicConfig,Desc,,手牌上限+1。 回合开始时获得一张自定义的「禁忌的交易」，打出「禁忌的交易」后下回合可再次触发。 持有「禁忌的交易」时打出不同类型的「指令卡」会升级其中的对应效果。,"Hand Limit +1. Create a customized ""Taboo Trade"" at the start of battle. Play ""Taboo Trade"" to create another on your next turn.\n""Taboo Trade"" has 4 Arithmetica Cost, Retain, Prepare, & Exhaust, and has 3 custom effects. Playing ""Strike"", ""Defense"", or ""Skill"" Command Cards will enhance its 1st, 2nd, or 3rd effects respectively."
+RelicConfig_74832_BattleDesc,aJPl,z造物_RelicConfig_A.csv,531,RelicConfig,BattleDesc,,手牌上限+1。 回合开始时获得一张自定义的「禁忌的交易」，打出「禁忌的交易」后下回合可再次触发。 持有「禁忌的交易」时打出不同类型的「指令卡」会升级其中的对应效果。,"Hand Limit +1. Create a customized ""Taboo Trade"" at the start of battle. Play ""Taboo Trade"" to create another on your next turn.\n""Taboo Trade"" has 4 Arithmetica Cost, Retain, Prepare, & Exhaust, and has 3 custom effects. Playing ""Strike"", ""Defense"", or ""Skill"" Command Cards will enhance its 1st, 2nd, or 3rd effects respectively."
+LanguageConfig_DaFuDaiErHuodong1_CN,aGHF,d多语言_LanguageConfig_C.csv,2852,LanguageConfig,CN,,获得一张自定义的「禁忌的交易」。,"Customize your ""Taboo Trade""."
+State_74932_Name,baak,z状态表_State_A.csv,4305,State,Name,,禁忌的交易,Taboo Trade
+State_74932_Desc,baaj,z状态表_State_A.csv,4305,State,Desc,,打出「打击」卡、「防御」卡、「技能」卡时会升级「禁忌的交易」中的对应效果。,"Playing a ""Strike"" Command, ""Defense"" Command, or ""Skill"" Command will enhance Taboo Trade's 1st, 2nd, or 3rd effects respectively."
+Skill_74834_Name,aQQx,j技能表_Skill_A.csv,2419,Skill,Name,,禁忌的交易,Taboo Trade
+Skill_74821_Name,aQPV,j技能表_Skill_A.csv,2421,Skill,Name,,以物易物,Barter
+Skill_74821_Desc,aQPT,j技能表_Skill_A.csv,2421,Skill,Desc,,随机造成 [Arg1] 点伤害 [Arg2] 次（该伤害受到1倍力量加成）,Randomly deal [Arg1] <RealDamage:Fixed DMG> [Arg2] times. This DMG benefits from <PowerIconKeywords:STR>
+Skill_74821_BattleDesc,aQPS,j技能表_Skill_A.csv,2421,Skill,BattleDesc,,随机造成 [Arg1] 点伤害 [Arg2] 次（该伤害受到1倍力量加成）,Randomly deal [Arg1] <RealDamage:Fixed DMG> [Arg2] times. This DMG benefits from <PowerIconKeywords:STR>
+State_74826_Name,aZYE,z状态表_State_A.csv,4312,State,Name,,随机造成 [DescArg1] 点固定伤害 [DescArg2] 次（该伤害受到1倍力量加成）,\nRandomly deal [DescArg1] <RealDamage:Fixed DMG> [DescArg2] times (benefits from <PowerIconKeywords:STR>)
+Skill_74820_Name,aQPO,j技能表_Skill_A.csv,2422,Skill,Name,,原质的污染,Primordial Pollution
+Skill_74820_Desc,aQPM,j技能表_Skill_A.csv,2422,Skill,Desc,,对全体敌方造成 [Arg1] 点中毒,Inflict [Arg1] <IntoxicationIconKeywords:Poison> on all enemies
+Skill_74820_BattleDesc,aQPL,j技能表_Skill_A.csv,2422,Skill,BattleDesc,,对全体敌方造成 [Arg1] 点中毒,Inflict [Arg1] <IntoxicationIconKeywords:Poison> on all enemies
+State_74828_Name,aZYK,z状态表_State_A.csv,4313,State,Name,,对全体敌方造成 [DescArg1] 点中毒,\nInflict [DescArg1] <IntoxicationIconKeywords:Poison> on all enemies
+Skill_74819_Name,aQPH,j技能表_Skill_A.csv,2423,Skill,Name,,交易完成,Transaction Completed
+Skill_74819_Desc,aQPF,j技能表_Skill_A.csv,2423,Skill,Desc,,本回合所有唤醒体暴击和暴击伤害提高 [Arg1]%,All Awakeners gain +[Arg1]% Temporary Crit. Rate & Crit. DMG
+Skill_74819_BattleDesc,aQPE,j技能表_Skill_A.csv,2423,Skill,BattleDesc,,本回合所有唤醒体暴击和暴击伤害提高 [Arg1]%,All Awakeners gain +[Arg1]% Temporary Crit. Rate & Crit. DMG
+State_74827_Name,aZYH,z状态表_State_A.csv,4314,State,Name,,本回合所有唤醒体暴击和暴击伤害提高 [DescArg1]%,\nGain +[DescArg1]% Temporary Crit. Rate & Crit. DMG
+Skill_74824_Name,aQQq,j技能表_Skill_A.csv,2424,Skill,Name,,欣赏头颅藏品,Admire the Skull Collection
+Skill_74824_Desc,aQQo,j技能表_Skill_A.csv,2424,Skill,Desc,,获得 [Arg1] 点力量,Gain [Arg1] <PowerIconKeywords:STR>
+Skill_74824_BattleDesc,aQQn,j技能表_Skill_A.csv,2424,Skill,BattleDesc,,获得 [Arg1] 点力量,Gain [Arg1] <PowerIconKeywords:STR>
+State_74830_Name,aZYQ,z状态表_State_A.csv,4315,State,Name,,获得 [DescArg1] 点力量,\nGain [DescArg1] <PowerIconKeywords:STR>
+Skill_74823_Name,aQQj,j技能表_Skill_A.csv,2425,Skill,Name,,跨越维度的低喃,Dimensional Whispers
+Skill_74823_Desc,aQQh,j技能表_Skill_A.csv,2425,Skill,Desc,,对全体敌方造成已损失生命  [Arg1]% 的伤害,Deal <RealDamage:Fixed DMG> to all enemies equal to [Arg1]% of their missing HP
+Skill_74823_BattleDesc,aQQg,j技能表_Skill_A.csv,2425,Skill,BattleDesc,,对全体敌方造成已损失生命  [Arg1]% 的伤害,Deal <RealDamage:Fixed DMG> to all enemies equal to [Arg1]% of their missing HP
+State_74829_Name,aZYN,z状态表_State_A.csv,4316,State,Name,,对全体敌方造成已损失生命 [DescArg1]% 的固定伤害,\nDeal <RealDamage:Fixed DMG> to all enemies equal to [DescArg1]% of their missing HP
+Skill_74822_Name,aQQc,j技能表_Skill_A.csv,2426,Skill,Name,,请尽情挑选,Be My Guest!
+Skill_74822_Desc,aQQa,j技能表_Skill_A.csv,2426,Skill,Desc,,所有唤醒体获得 [Arg1] 点狂气,Grant all Awakeners <Energy:[Arg1]> Aliemus
+Skill_74822_BattleDesc,aQPZ,j技能表_Skill_A.csv,2426,Skill,BattleDesc,,所有唤醒体获得 [Arg1] 点狂气,Grant all Awakeners <Energy:[Arg1]> Aliemus
+State_74831_Name,aZYT,z状态表_State_A.csv,4317,State,Name,,所有唤醒体获得 [DescArg1] 点狂气,\nGrant all Awakeners <Energy:[DescArg1]> Aliemus
+Skill_74896_Name,aQQZ,j技能表_Skill_A.csv,2429,Skill,Name,,银货两讫,Transaction Complete
+Skill_74896_Desc,aQQX,j技能表_Skill_A.csv,2429,Skill,Desc,,随机造成 [Arg1] 点伤害 [Arg2] 次（该伤害受到1倍力量加成）,Randomly deal [Arg1] <RealDamage:Fixed DMG> [Arg2] times. This DMG benefits from <PowerIconKeywords:STR>
+Skill_74896_BattleDesc,aQQW,j技能表_Skill_A.csv,2429,Skill,BattleDesc,,随机造成 [Arg1] 点伤害 [Arg2] 次（该伤害受到1倍力量加成）,Randomly deal [Arg1] <RealDamage:Fixed DMG> [Arg2] times. This DMG benefits from <PowerIconKeywords:STR>
+State_74891_Name,aZZV,z状态表_State_A.csv,4319,State,Name,,随机造成 [DescArg1] 点固定伤害 [DescArg2] 次（该伤害受到1倍力量加成）,\nRandomly deal [DescArg1] <RealDamage:Fixed DMG> [DescArg2] times (benefits from <PowerIconKeywords:STR>)
+Skill_74897_Name,aQRg,j技能表_Skill_A.csv,2430,Skill,Name,,小店杜绝赊欠,No Credit at This Shop
+Skill_74897_Desc,aQRe,j技能表_Skill_A.csv,2430,Skill,Desc,,获得 [Arg1] 层反击,Gain [Arg1] <RetaliateIconKeywords:Counter>
+Skill_74897_BattleDesc,aQRd,j技能表_Skill_A.csv,2430,Skill,BattleDesc,,获得 [Arg1] 层反击,Gain [Arg1] <RetaliateIconKeywords:Counter>
+State_74889_Name,aZZP,z状态表_State_A.csv,4320,State,Name,,获得 [DescArg1] 层反击,\nGain [DescArg1] <RetaliateIconKeywords:Counter>
+Skill_74898_Name,aQRn,j技能表_Skill_A.csv,2431,Skill,Name,,你的头颅已预订,Your Head Is Reserved
+Skill_74898_Desc,aQRl,j技能表_Skill_A.csv,2431,Skill,Desc,,<TouquKeywords:偷取>所有敌人 [Arg1] 点力量,<TouquKeywords:Steal> [Arg1] Temp. <PowerIconKeywords:STR> from all enemies
+Skill_74898_BattleDesc,aQRk,j技能表_Skill_A.csv,2431,Skill,BattleDesc,,临时降低所有敌人 [Arg1] 点<PowerIconKeywords:力量>，每有 1 名敌人获得 [Arg1] 点<PowerIconKeywords:临时力量>。,<TouquKeywords:Steal> [Arg1] Temp. <PowerIconKeywords:STR> from all enemies
+State_74890_Name,aZZS,z状态表_State_A.csv,4321,State,Name,,偷取所有敌人 [DescArg1] 点临时力量,"\nFor each enemy, inflict [DescArg1] Temp. <ExhaustionIconKeywords:STR▼> on them & gain [DescArg1] Temp. <PowerIconKeywords:STR>"
+Skill_74893_Name,aQQE,j技能表_Skill_A.csv,2432,Skill,Name,,万千门扉的守护,Guardians of Myriad Gates
+Skill_74893_Desc,aQQC,j技能表_Skill_A.csv,2432,Skill,Desc,,获得 [Arg1] 点护盾,Gain <Block:[Arg1]> Shield
+Skill_74893_BattleDesc,aQQB,j技能表_Skill_A.csv,2432,Skill,BattleDesc,,获得 [Arg1] 点护盾,Gain <Block:[Arg1]> Shield
+State_74887_Name,aZZJ,z状态表_State_A.csv,4322,State,Name,,获得 [DescArg1] 点护盾,\nGain <Block:[DescArg1]> Shield
+Skill_74894_Name,aQQL,j技能表_Skill_A.csv,2433,Skill,Name,,死亡亦可被贩售,Death for Sale
+Skill_74894_Desc,aQQJ,j技能表_Skill_A.csv,2433,Skill,Desc,,获得 [Arg1] 点死亡抵抗,Increase <DeathResistanceIconKeywords:Death Resistance> by +[Arg1]%
+Skill_74894_BattleDesc,aQQI,j技能表_Skill_A.csv,2433,Skill,BattleDesc,,获得 [Arg1] 点死亡抵抗,Increase <DeathResistanceIconKeywords:Death Resistance> by +[Arg1]%
+State_74888_Name,aZZM,z状态表_State_A.csv,4323,State,Name,,获得 [DescArg1] 点死亡抵抗,\nIncrease <DeathResistanceIconKeywords:Death Resistance> by +[DescArg1]%
+Skill_74895_Name,aQQS,j技能表_Skill_A.csv,2434,Skill,Name,,新的藏品已入库,New Collectible Added
+Skill_74895_Desc,aQQQ,j技能表_Skill_A.csv,2434,Skill,Desc,,获得 [Arg1] 点算力,Gain [Arg1] Arithmetica
+Skill_74895_BattleDesc,aQQP,j技能表_Skill_A.csv,2434,Skill,BattleDesc,,获得 [Arg1] 点算力,Gain [Arg1] Arithmetica
+State_74879_Name,aZZl,z状态表_State_A.csv,4324,State,Name,,获得 [DescArg1] 点算力,\nGain [DescArg1] Arithmetica
+Skill_74903_Name,aQRW,j技能表_Skill_A.csv,2437,Skill,Name,,价格好商量,Price Negotiable
+Skill_74903_Desc,aQRU,j技能表_Skill_A.csv,2437,Skill,Desc,,下 [Arg1] 张打出的指令卡额外获得 [Arg2] 点钥能,The next [Arg1] Command Cards played will grant an extra <Posse:[Arg2]> Keyflare
+Skill_74903_BattleDesc,aQRT,j技能表_Skill_A.csv,2437,Skill,BattleDesc,,下 [Arg1] 张打出的指令卡额外获得 [Arg2] 点钥能,The next [Arg1] Command Cards played will grant an extra <Posse:[Arg2]> Keyflare
+State_74883_Name,aZZx,z状态表_State_A.csv,4326,State,Name,,下 [DescArg1] 张打出的指令卡额外获得 [DescArg2] 点钥能,\nThe next [DescArg1] Command Cards played will grant an extra <Posse:[DescArg2]> Keyflare
+Skill_74901_Name,aQRI,j技能表_Skill_A.csv,2438,Skill,Name,,请勿贪得无厌,Please Don't Be Greedy...
+Skill_74901_Desc,aQRG,j技能表_Skill_A.csv,2438,Skill,Desc,,本回合造成的中毒、反击、出血提高 [Arg1]%,<RetaliateIconKeywords:Counter> gained and <IntoxicationIconKeywords:Poison> & <BleedingIconKeywords:Bleed> inflicted each +[Arg1]% this turn
+Skill_74901_BattleDesc,aQRF,j技能表_Skill_A.csv,2438,Skill,BattleDesc,,本回合造成的中毒、反击、出血提高 [Arg1]%,<RetaliateIconKeywords:Counter> gained and <IntoxicationIconKeywords:Poison> & <BleedingIconKeywords:Bleed> inflicted each +[Arg1]% this turn
+State_74884_Name,aZZA,z状态表_State_A.csv,4327,State,Name,,本回合造成的中毒、反击、出血提高 [DescArg1]%,\n<RetaliateIconKeywords:Counter> gained and <IntoxicationIconKeywords:Poison> & <BleedingIconKeywords:Bleed> inflicted each +[DescArg1]% this turn
+Skill_74902_Name,aQRP,j技能表_Skill_A.csv,2439,Skill,Name,,小店今日打折,Shop Discounts Today
+Skill_74902_Desc,aQRN,j技能表_Skill_A.csv,2439,Skill,Desc,,所有唤醒体获得 [Arg1] 点狂气,Grant all Awakeners <Energy:[Arg1]> Aliemus
+Skill_74902_BattleDesc,aQRM,j技能表_Skill_A.csv,2439,Skill,BattleDesc,,所有唤醒体获得 [Arg1] 点狂气,Grant all Awakeners <Energy:[Arg1]> Aliemus
+State_74885_Name,aZZD,z状态表_State_A.csv,4328,State,Name,,所有唤醒体获得 [DescArg1] 点狂气,\nGrant all Awakeners <Energy:[DescArg1]> Aliemus
+Skill_74899_Name,aQRu,j技能表_Skill_A.csv,2440,Skill,Name,,您所期待之物,Here's What You Longed For
+Skill_74899_Desc,aQRs,j技能表_Skill_A.csv,2440,Skill,Desc,,选择一名唤醒体获得 [Arg1] 点狂气,Grant a chosen Awakener <Energy:[Arg1]> Aliemus
+Skill_74899_BattleDesc,aQRr,j技能表_Skill_A.csv,2440,Skill,BattleDesc,,选择一名唤醒体获得 [Arg1] 点狂气,Grant a chosen Awakener <Energy:[Arg1]> Aliemus
+State_74881_Name,aZZr,z状态表_State_A.csv,4329,State,Name,,选择一名唤醒体获得 [DescArg1] 点狂气,\nGrant a chosen Awakener <Energy:[DescArg1]> Aliemus
+Skill_74900_Name,aQRB,j技能表_Skill_A.csv,2441,Skill,Name,,千年的学识,Millennial Wisdom
+Skill_74900_Desc,aQRz,j技能表_Skill_A.csv,2441,Skill,Desc,,获得 [Arg1] 点界域精通,Gain [Arg1] <ProficientInRealmsIconKeywords:Realm Mastery>
+Skill_74900_BattleDesc,aQRy,j技能表_Skill_A.csv,2441,Skill,BattleDesc,,获得 [Arg1] 点界域精通,Gain [Arg1] <ProficientInRealmsIconKeywords:Realm Mastery>
+State_74882_Name,aZZu,z状态表_State_A.csv,4330,State,Name,,获得 [DescArg1] 点界域精通,\nGain [DescArg1] <ProficientInRealmsIconKeywords:Realm Mastery>
