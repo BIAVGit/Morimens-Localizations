@@ -1,0 +1,244 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,ES
+FeatureUnlock_21452_FeatureName,aCtC,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,FeatureName,,超验存在,Existencia Transcendental
+FeatureUnlock_21452_UnlockDesc,aCtE,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,UnlockDesc,,<FeatureUnlockTitle:超验存在已开启>\n\n<FeatureUnlockDesc:祂们是无视一切规则与因果的禁忌存在。\n消耗灵啡肽进行挑战，可以获得更珍稀的唤醒体技能升级材料。>,<FeatureUnlockTitle: Existencia Transcendental ya está abierta>\n\n<FeatureUnlockDesc: Entidades tabú que ignoran la causalidad.\nConsumir morfina para participar en desafíos puede otorgar materiales más raros para mejorar las habilidades del despertador.>
+FeatureUnlock_21452_LockTip,aCtD,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,LockTip,,完成 「调查行动」3-10·普通 后解锁,Se desbloquea tras completar la Historia Principal 3-10: Normal
+FeatureUnlock_17072_FeatureName,aCsu,g功能解锁_FeatureUnlock_A.csv,97,FeatureUnlock,FeatureName,,玩偶之泪,Lágrimas de la Muñeca
+FeatureUnlock_16982_FeatureName,aCnk,g功能解锁_FeatureUnlock_A.csv,98,FeatureUnlock,FeatureName,,蜡像之秘,Secretos Esculpidos
+FeatureUnlock_16982_LockTip,aCnl,g功能解锁_FeatureUnlock_A.csv,98,FeatureUnlock,LockTip,,完成 「调查行动」3-10·普通 后解锁,Se desbloquea tras completar la Historia Principal 3-10: Normal
+FeatureUnlock_16964_FeatureName,aCmi,g功能解锁_FeatureUnlock_A.csv,99,FeatureUnlock,FeatureName,,漆黑之链,Cadena de Oscuridad
+FeatureUnlock_16964_LockTip,aCmj,g功能解锁_FeatureUnlock_A.csv,99,FeatureUnlock,LockTip,,完成 「调查行动」第3章·普通 后解锁,Se desbloquea tras completar el Capítulo 3 de la Historia Principal: Normal
+FeatureUnlock_17011_FeatureName,aCoT,g功能解锁_FeatureUnlock_A.csv,100,FeatureUnlock,FeatureName,,界外之影,Sombra del Más Allá
+FeatureUnlock_17011_LockTip,aCoU,g功能解锁_FeatureUnlock_A.csv,100,FeatureUnlock,LockTip,,完成 「调查行动」第4章·普通 后解锁,Se desbloquea tras completar el Capítulo 4 de la Historia Principal: Normal
+FeatureUnlock_16996_FeatureName,aCoa,g功能解锁_FeatureUnlock_A.csv,101,FeatureUnlock,FeatureName,,虔诚之握,Garra Piadosa
+FeatureUnlock_16996_LockTip,aCob,g功能解锁_FeatureUnlock_A.csv,101,FeatureUnlock,LockTip,,完成 「调查行动」第5章·普通 后解锁,Se desbloquea tras completar el Capítulo 5 de la Historia Principal: Normal
+FeatureUnlock_17039_FeatureName,aCqz,g功能解锁_FeatureUnlock_A.csv,102,FeatureUnlock,FeatureName,,圣胎之咏,Himno del Feto Sagrado
+FeatureUnlock_17039_LockTip,aCqA,g功能解锁_FeatureUnlock_A.csv,102,FeatureUnlock,LockTip,,完成 「调查行动」第6章·普通 后解锁,Se desbloquea tras completar el Capítulo 6 de la Historia Principal: Normal
+FeatureUnlock_49170_FeatureName,aCwq,g功能解锁_FeatureUnlock_A.csv,103,FeatureUnlock,FeatureName,,沙海遗存,Reliquias de la Arena
+FeatureUnlock_49170_LockTip,aCwr,g功能解锁_FeatureUnlock_A.csv,103,FeatureUnlock,LockTip,,完成 「调查行动」第7章·普通 后解锁,Se desbloquea tras completar el Capítulo 7 de la Historia Principal: Normal
+FeatureUnlock_58914_LockTip,aCzP,g功能解锁_FeatureUnlock_A.csv,104,FeatureUnlock,LockTip,,完成 「调查行动」第8章·普通 后解锁,Se desbloquea tras completar el Capítulo 7 de la Historia Principal: Normal
+LanguageConfig_MainInterface_Btn_BOSS_CN,aGPZ,d多语言_LanguageConfig_C.csv,322,LanguageConfig,CN,,超验存在,Dominio Arcano
+LanguageConfig_WeeklyBossInstructions_CN,aHpd,d多语言_LanguageConfig_C.csv,1351,LanguageConfig,CN,,\n<Title:奖励次数>\n·每周一9点(GMT+8)奖励次数重置，通关任意「超验存在」的关卡后将消耗1次奖励次数获得任务报酬奖励。\n·未使用的奖励次数将不会继承到下一周。\n\n<Title:重现>\n·首次完成「超验存在」关卡挑战后将解锁重现，重现将消耗1次奖励次数并直接获得任务报酬奖励。\n·若三星通关高难度关卡，则较低难度的关卡挑战进度会自动标记为三星通关。,"\n<Title:Intentos de Recompensa>\nLos intentos de recompensa se reinician todos los lunes a las 9:00 (GMT+8). Completar cualquier fase de «Dominio Arcano» consumirá 1 intento de recompensa para obtener la recompensa de la misión.\n\n<Title:Reescenificar>\nReescenificar se desbloqueará tras completar por primera vez el desafío de una fase de «Dominio Arcano». Reescenificar consumirá 1 intento de recompensa y otorgará directamente la recompensa de la misión.\nSi completas una fase de alta dificultad con tres estrellas, el progreso de las fases de dificultad inferior se marcará automáticamente como completado con tres estrellas.\n\nLos intentos de recompensa no utilizados no se transferirán a la semana siguiente."
+LanguageConfig_WeeklyBoss_LvLimit_CN,aHpf,d多语言_LanguageConfig_C.csv,1353,LanguageConfig,CN,,调查等级达到{s1}解锁,Se desbloquea en el Nivel de Investigación {s1}
+PanelText_UI_Research_Panel_Dispatch_Item_Text_C_Unclickable_Content,aIWx,j界面文字表_PanelText_C.csv,901,PanelText,Content,,未解锁,Bloqueado
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Special_Content,aIWu,j界面文字表_PanelText_C.csv,902,PanelText,Content,,达成条件,Condiciones
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Extra_Content,aIWr,j界面文字表_PanelText_C.csv,903,PanelText,Content,,【额外】,[EXTRA]
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_NoTask_Content,aIWs,j界面文字表_PanelText_C.csv,904,PanelText,Content,,暂时没有新的派遣任务,No hay nuevas misiones por ahora
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Special2_Content,aIWt,j界面文字表_PanelText_C.csv,905,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,"Cada 20 niveles sobrantes, +1 Recompensa"
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Award_Content,aIWp,j界面文字表_PanelText_C.csv,907,PanelText,Content,,任务报酬,Recompensas
+PanelText_UI_Research_Popup_Recall_Text_C_Special2_Content,aIWM,j界面文字表_PanelText_C.csv,908,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,"Cada 20 niveles sobrantes, +1 Recompensa"
+Stage_7727_Name,aUUg,g关卡_Stage_A.csv,547,Stage,Name,,玩偶之泪Ⅰ,Lágrimas de la Muñeca I
+Stage_7727_Desc,aUUf,g关卡_Stage_A.csv,547,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+Stage_7949_Name,aViO,g关卡_Stage_A.csv,548,Stage,Name,,玩偶之泪Ⅱ,Lágrimas de la Muñeca II
+Stage_7949_Desc,aViN,g关卡_Stage_A.csv,548,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+Stage_7852_Name,aVdd,g关卡_Stage_A.csv,549,Stage,Name,,玩偶之泪Ⅲ,Lágrimas de la Muñeca III
+Stage_7852_Desc,aVdc,g关卡_Stage_A.csv,549,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+Stage_7798_Name,aUYx,g关卡_Stage_A.csv,550,Stage,Name,,玩偶之泪Ⅳ,Lágrimas de la Muñeca IV
+Stage_7798_Desc,aUYw,g关卡_Stage_A.csv,550,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+Stage_7656_Name,aUBF,g关卡_Stage_A.csv,551,Stage,Name,,玩偶之泪Ⅴ,Lágrimas de la Muñeca V
+Stage_7656_Desc,aUBE,g关卡_Stage_A.csv,551,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+Stage_7726_Name,aUUd,g关卡_Stage_A.csv,552,Stage,Name,,蜡像之秘Ⅰ,Secretos Esculpidos I
+Stage_7726_Desc,aUUc,g关卡_Stage_A.csv,552,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+Stage_7877_Name,aVeG,g关卡_Stage_A.csv,553,Stage,Name,,蜡像之秘Ⅱ,Secretos Esculpidos II
+Stage_7877_Desc,aVeF,g关卡_Stage_A.csv,553,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+Stage_8071_Name,aVpQ,g关卡_Stage_A.csv,554,Stage,Name,,蜡像之秘Ⅲ,Secretos Esculpidos III
+Stage_8071_Desc,aVpP,g关卡_Stage_A.csv,554,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+Stage_8199_Name,aVxh,g关卡_Stage_A.csv,555,Stage,Name,,蜡像之秘Ⅳ,Secretos Esculpidos IV
+Stage_8199_Desc,aVxg,g关卡_Stage_A.csv,555,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+Stage_7657_Name,aUBI,g关卡_Stage_A.csv,556,Stage,Name,,蜡像之秘Ⅴ,Secretos Esculpidos V
+Stage_7657_Desc,aUBH,g关卡_Stage_A.csv,556,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+Stage_8074_Name,aVpZ,g关卡_Stage_A.csv,557,Stage,Name,,漆黑之链Ⅰ,Cadena de Oscuridad I
+Stage_8074_Desc,aVpY,g关卡_Stage_A.csv,557,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+Stage_7796_Name,aUYf,g关卡_Stage_A.csv,558,Stage,Name,,漆黑之链Ⅱ,Cadena de Oscuridad II
+Stage_7796_Desc,aUYe,g关卡_Stage_A.csv,558,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+Stage_7652_Name,aUBt,g关卡_Stage_A.csv,559,Stage,Name,,漆黑之链Ⅲ,Cadena de Oscuridad III
+Stage_7652_Desc,aUBs,g关卡_Stage_A.csv,559,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+Stage_8139_Name,aVtJ,g关卡_Stage_A.csv,560,Stage,Name,,漆黑之链Ⅳ,Cadena de Oscuridad IV
+Stage_8139_Desc,aVtI,g关卡_Stage_A.csv,560,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+Stage_7978_Name,aVkD,g关卡_Stage_A.csv,561,Stage,Name,,漆黑之链Ⅴ,Cadena de Oscuridad V
+Stage_7978_Desc,aVkC,g关卡_Stage_A.csv,561,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+Stage_8072_Name,aVpT,g关卡_Stage_A.csv,562,Stage,Name,,界外之影Ⅰ,Sombra del Más Allá I
+Stage_8072_Desc,aVpS,g关卡_Stage_A.csv,562,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+Stage_7968_Name,aVjT,g关卡_Stage_A.csv,563,Stage,Name,,界外之影Ⅰ,Sombra del Más Allá II
+Stage_7968_Desc,aVjS,g关卡_Stage_A.csv,563,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+Stage_7752_Name,aUVD,g关卡_Stage_A.csv,564,Stage,Name,,界外之影Ⅱ,Sombra del Más Allá III
+Stage_7752_Desc,aUVC,g关卡_Stage_A.csv,564,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+Stage_7648_Name,aUBh,g关卡_Stage_A.csv,565,Stage,Name,,界外之影Ⅲ,Sombra del Más Allá IV
+Stage_7648_Desc,aUBg,g关卡_Stage_A.csv,565,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+Stage_7861_Name,aVdy,g关卡_Stage_A.csv,566,Stage,Name,,界外之影Ⅳ,Sombra del Más Allá V
+Stage_7861_Desc,aVdx,g关卡_Stage_A.csv,566,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+Stage_7745_Name,aUVi,g关卡_Stage_A.csv,567,Stage,Name,,虔诚之握Ⅰ,Garra Piadosa I
+Stage_7745_Desc,aUVh,g关卡_Stage_A.csv,567,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+Stage_7969_Name,aVjW,g关卡_Stage_A.csv,568,Stage,Name,,虔诚之握Ⅰ,Garra Piadosa I
+Stage_7969_Desc,aVjV,g关卡_Stage_A.csv,568,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+Stage_7870_Name,aVdZ,g关卡_Stage_A.csv,569,Stage,Name,,虔诚之握Ⅱ,Garra Piadosa II
+Stage_7870_Desc,aVdY,g关卡_Stage_A.csv,569,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+Stage_7636_Name,aUzE,g关卡_Stage_A.csv,570,Stage,Name,,虔诚之握Ⅲ,Garra Piadosa III
+Stage_7636_Desc,aUzD,g关卡_Stage_A.csv,570,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+Stage_8098_Name,aVrt,g关卡_Stage_A.csv,571,Stage,Name,,虔诚之握Ⅳ,Garra Piadosa IV
+Stage_8098_Desc,aVrs,g关卡_Stage_A.csv,571,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+Stage_36132_Name,aSft,g关卡_Stage_A.csv,572,Stage,Name,,圣胎之咏Ⅰ,Himno del Feto Sagrado I
+Stage_36132_Desc,aSfs,g关卡_Stage_A.csv,572,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+Stage_36130_Name,aSfn,g关卡_Stage_A.csv,573,Stage,Name,,圣胎之咏Ⅰ,Himno del Feto Sagrado I
+Stage_36130_Desc,aSfm,g关卡_Stage_A.csv,573,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+Stage_36131_Name,aSfq,g关卡_Stage_A.csv,574,Stage,Name,,圣胎之咏Ⅰ,Himno del Feto Sagrado I
+Stage_36131_Desc,aSfp,g关卡_Stage_A.csv,574,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+Stage_36126_Name,aSfb,g关卡_Stage_A.csv,575,Stage,Name,,圣胎之咏Ⅱ,Himno del Feto Sagrado II
+Stage_36126_Desc,aSfa,g关卡_Stage_A.csv,575,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+Stage_36125_Name,aSeY,g关卡_Stage_A.csv,576,Stage,Name,,圣胎之咏Ⅲ,Himno del Feto Sagrado III
+Stage_36125_Desc,aSeX,g关卡_Stage_A.csv,576,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+Stage_49159_Name,aSzY,g关卡_Stage_A.csv,577,Stage,Name,,沙海遗存Ⅰ,Reliquias de la Arena I
+Stage_49159_Desc,aSzX,g关卡_Stage_A.csv,577,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+Stage_49161_Name,aSAe,g关卡_Stage_A.csv,578,Stage,Name,,沙海遗存Ⅰ,Reliquias de la Arena I
+Stage_49161_Desc,aSAd,g关卡_Stage_A.csv,578,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+Stage_49160_Name,aSAb,g关卡_Stage_A.csv,579,Stage,Name,,沙海遗存Ⅰ,Reliquias de la Arena I
+Stage_49160_Desc,aSAa,g关卡_Stage_A.csv,579,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+Stage_49165_Name,aSAq,g关卡_Stage_A.csv,580,Stage,Name,,沙海遗存Ⅱ,Reliquias de la Arena II
+Stage_49165_Desc,aSAp,g关卡_Stage_A.csv,580,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+Stage_49165_StageInitStateText,aSAr,g关卡_Stage_A.csv,580,Stage,StageInitStateText,,繁育,Proliferación
+Stage_49167_Name,aSAw,g关卡_Stage_A.csv,581,Stage,Name,,沙海遗存Ⅲ,Reliquias de la Arena III
+Stage_49167_Desc,aSAv,g关卡_Stage_A.csv,581,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+Stage_49167_StageInitStateText,aSAx,g关卡_Stage_A.csv,581,Stage,StageInitStateText,,繁育,Proliferación
+Stage_59076_Name,aTLF,g关卡_Stage_A.csv,582,Stage,Name,,黑池之潮Ⅰ,Marea del Pozo Negro I
+Stage_59076_Desc,aTLE,g关卡_Stage_A.csv,582,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+Stage_59070_Name,aTLn,g关卡_Stage_A.csv,583,Stage,Name,,黑池之潮Ⅰ,Marea del Pozo Negro I
+Stage_59070_Desc,aTLm,g关卡_Stage_A.csv,583,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+Stage_59074_Name,aTLz,g关卡_Stage_A.csv,584,Stage,Name,,黑池之潮Ⅰ,Marea del Pozo Negro I
+Stage_59074_Desc,aTLy,g关卡_Stage_A.csv,584,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+Stage_59058_Name,aTKD,g关卡_Stage_A.csv,585,Stage,Name,,黑池之潮Ⅰ,Marea del Pozo Negro I
+Stage_59058_Desc,aTKC,g关卡_Stage_A.csv,585,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+Stage_59073_Name,aTLw,g关卡_Stage_A.csv,586,Stage,Name,,黑池之潮Ⅱ,Marea del Pozo Negro II
+Stage_59073_Desc,aTLv,g关卡_Stage_A.csv,586,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+StageGroup_15945_Name,aRdu,g关卡组_StageGroup_A.csv,54,StageGroup,Name,,玩偶之泪,Lágrimas de la Muñeca
+StageGroup_15945_Desc,aRdt,g关卡组_StageGroup_A.csv,54,StageGroup,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,"Se apoya junto a la cama con una postura sumisa; sus apagados ojos de botón miran fijamente al vacío. \nSu pequeño cuerpo carga con todas las lágrimas de su dueña, pero es incapaz de ofrecer consuelo alguno."
+StageGroup_15945_TypeText,aRdw,g关卡组_StageGroup_A.csv,54,StageGroup,TypeText,,玩偶之泪,Lágrimas de la Muñeca
+StageGroup_15945_StageGroupRewardDescription,aRdv,g关卡组_StageGroup_A.csv,54,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_15892_Name,aQZq,g关卡组_StageGroup_A.csv,55,StageGroup,Name,,蜡像之秘,Secretos Esculpidos
+StageGroup_15892_Desc,aQZp,g关卡组_StageGroup_A.csv,55,StageGroup,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,"Originalmente eran una mezcla inconsciente de tristeza, distorsión e ingenuidad, \npero fueron disfrazados como niños alegres, adultos y mascotas. \nAl no haber probado jamás la felicidad, se convirtieron en los peores actores."
+StageGroup_15892_TypeText,aQZs,g关卡组_StageGroup_A.csv,55,StageGroup,TypeText,,蜡像之秘,Secretos Esculpidos
+StageGroup_15892_StageGroupRewardDescription,aQZr,g关卡组_StageGroup_A.csv,55,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_15878_Name,aQYm,g关卡组_StageGroup_A.csv,56,StageGroup,Name,,漆黑之链,Cadena de Oscuridad
+StageGroup_15878_Desc,aQYl,g关卡组_StageGroup_A.csv,56,StageGroup,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,\nRetorciéndose y fluyendo… El abultamiento primigenio se escurre por las grietas de los grilletes.\nEste es el precio que ella paga por la “libertad”.
+StageGroup_15878_TypeText,aQYo,g关卡组_StageGroup_A.csv,56,StageGroup,TypeText,,漆黑之链,Cadena de Oscuridad
+StageGroup_15878_StageGroupRewardDescription,aQYn,g关卡组_StageGroup_A.csv,56,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_15909_Name,aRaG,g关卡组_StageGroup_A.csv,57,StageGroup,Name,,界外之影,Sombra del Más Allá
+StageGroup_15909_Desc,aRaF,g关卡组_StageGroup_A.csv,57,StageGroup,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"Persigue incansablemente a aquellos que rompen las reglas.\n¿Y qué son ""reglas"", qué significa ""romper""? \nEl perro de caza nunca piensa: hacerlo solo ralentizaría su asalto."
+StageGroup_15909_TypeText,aRaI,g关卡组_StageGroup_A.csv,57,StageGroup,TypeText,,界外之影,Sombra del Más Allá
+StageGroup_15909_StageGroupRewardDescription,aRaH,g关卡组_StageGroup_A.csv,57,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_15897_Name,aQZK,g关卡组_StageGroup_A.csv,58,StageGroup,Name,,虔诚之握,Garra Piadosa
+StageGroup_15897_Desc,aQZJ,g关卡组_StageGroup_A.csv,58,StageGroup,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。\n她的祈祷永无止息，她的呼告永不停歇。,"Porta la reliquia sagrada, guía a los fieles con doctrina y propaga la fe con colmillos venenosos.\nSus plegarias nunca cesan; sus llamados jamás terminan."
+StageGroup_15897_TypeText,aQZM,g关卡组_StageGroup_A.csv,58,StageGroup,TypeText,,虔诚之握,Garra Piadosa
+StageGroup_15897_StageGroupRewardDescription,aQZL,g关卡组_StageGroup_A.csv,58,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_15928_Name,aRce,g关卡组_StageGroup_A.csv,59,StageGroup,Name,,圣胎之咏,Himno del Feto Sagrado
+StageGroup_15928_Desc,aRcd,g关卡组_StageGroup_A.csv,59,StageGroup,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,El niño no bendecido canta himnos en el mar.\nShh… guarda silencio. No perturbes su sueño.
+StageGroup_15928_TypeText,aRcg,g关卡组_StageGroup_A.csv,59,StageGroup,TypeText,,圣胎之咏,Himno del Feto Sagrado
+StageGroup_15928_StageGroupRewardDescription,aRcf,g关卡组_StageGroup_A.csv,59,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_49169_Name,aRmK,g关卡组_StageGroup_A.csv,60,StageGroup,Name,,沙海遗存,Reliquias de la Arena
+StageGroup_49169_Desc,aRmJ,g关卡组_StageGroup_A.csv,60,StageGroup,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,"El fantasma del Árbol Madre colapsa entre llamas plateadas, pero su linaje resurgirá en las raíces."
+StageGroup_49169_TypeText,aRmM,g关卡组_StageGroup_A.csv,60,StageGroup,TypeText,,沙海遗存,Reliquias de la Arena
+StageGroup_49169_StageGroupRewardDescription,aRmL,g关卡组_StageGroup_A.csv,60,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+StageGroup_58901_Name,aRBC,g关卡组_StageGroup_A.csv,61,StageGroup,Name,,黑池之潮,Marea del Pozo Negro
+StageGroup_58901_Desc,aRBB,g关卡组_StageGroup_A.csv,61,StageGroup,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,"El agua negra danza frenéticamente, dando la bienvenida a su amo original y único."
+StageGroup_58901_TypeText,aRBE,g关卡组_StageGroup_A.csv,61,StageGroup,TypeText,,黑池之潮,Marea del Pozo Negro
+StageGroup_58901_StageGroupRewardDescription,aRBD,g关卡组_StageGroup_A.csv,61,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:Materiales de Habilidad Avanzada>
+Task_10320_Name,baZf,r任务_Task_A.csv,330,Task,Name,,研究任务：炼金札记,Investigacion: Notas de Alquimia
+Task_10320_Desc,baZd,r任务_Task_A.csv,330,Task,Desc,,闪闪发光的东西不一定是黄金，但一定价格不菲。\n相传，弥萨格由一帮离群的炼金术士创立，他们的野心可远不止点石成金。,"Las cosas brillantes no son necesariamente oro, pero definitivamente tienen un alto precio.\nSe dice que Mythag fue fundada por un grupo de alquimistas apartados, cuya ambición va mucho más allá de convertir piedras en oro"
+Task_10320_CompleteCondDesc,baZc,r任务_Task_A.csv,330,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10323_Name,baZx,r任务_Task_A.csv,331,Task,Name,,研究任务：制剂制作,Investigación: Preparación de Pociones
+Task_10323_Desc,baZv,r任务_Task_A.csv,331,Task,Desc,,严格意义上来说，唤醒体也是银芯科技的一种。\n你必须竭尽全力才能让它们不至于落伍。,"Estrictamente hablando, los Despertadores también son una forma de Tecnología de Chips de Plata.\nDebes hacer todo lo posible para asegurarte de que no se queden rezagados."
+Task_10323_CompleteCondDesc,baZu,r任务_Task_A.csv,331,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10277_Name,baUn,r任务_Task_A.csv,333,Task,Name,,调查任务：密银寻踪,Misión: Rastro de Mithril
+Task_10277_Desc,baUl,r任务_Task_A.csv,333,Task,Desc,,在图书馆静坐并不会让你获得更多的唤醒体。\n出发吧，迈出你的双腿，在自然中寻找那万分之一的可能性。,"Quedarte sentado en la biblioteca no te dará más Despertadores.\nSal, muévete y busca esa oportunidad única entre diez mil en la naturaleza."
+Task_10277_CompleteCondDesc,baUk,r任务_Task_A.csv,333,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10787_Name,bbZh,r任务_Task_A.csv,334,Task,Name,,研究任务：炼金札记,Investigación: Códice de Fórmulas
+Task_10787_Desc,bbZf,r任务_Task_A.csv,334,Task,Desc,,闪闪发光的东西不一定是黄金，但一定价格不菲。\n相传，弥萨格由一帮离群的炼金术士创立，他们的野心可远不止点石成金。,"No todo lo que brilla es oro, pero sin duda tiene valor.\nCuenta la leyenda que Mythag fue fundada por un grupo de alquimistas aislados, cuyas ambiciones iban mucho más allá de la simple transmutación."
+Task_10787_CompleteCondDesc,bbZe,r任务_Task_A.csv,334,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10736_Name,bbTn,r任务_Task_A.csv,335,Task,Name,,研究任务：制剂制作,Investigación: Escritura Alquímica
+Task_10736_Desc,bbTl,r任务_Task_A.csv,335,Task,Desc,,严格意义上来说，唤醒体也是银芯科技的一种。\n你必须竭尽全力才能让它们不至于落伍。,"Estrictamente hablando, los Despertadores también son una forma de Tecnología de Chips de Plata.\nDebes hacer todo lo posible para asegurarte de que no se queden rezagados."
+Task_10736_CompleteCondDesc,bbTk,r任务_Task_A.csv,335,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10565_Name,bbAx,r任务_Task_A.csv,336,Task,Name,,调查任务：活性解离,Misión: Disociación
+Task_10565_Desc,bbAv,r任务_Task_A.csv,336,Task,Desc,,他的本能、理智和心都被封装在小小的玻璃瓶里。\n世界从此与他无关。,"Sus instintos, su razón y su corazón están encerrados en un pequeño frasco de vidrio.\nEl mundo ya no es su preocupación."
+Task_10565_UnlockCondDesc,bbAz,r任务_Task_A.csv,336,Task,UnlockCondDesc,,完成调查事件 1-13 开放,Se desbloquea al completar la Historia Principal 1-13
+Task_10565_CompleteCondDesc,bbAu,r任务_Task_A.csv,336,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10975_Name,bcsZ,r任务_Task_A.csv,337,Task,Name,,调查任务：影像疗法,Misión: Terapia de Imagen
+Task_10975_Desc,bcsX,r任务_Task_A.csv,337,Task,Desc,,「它将转写你的心。」\n「是吗？那它一定千疮百孔吧。」,"""Reescribirá tu corazón.""\n""¿Ah, sí? Entonces debe estar lleno de agujeros."""
+Task_10975_UnlockCondDesc,bctb,r任务_Task_A.csv,337,Task,UnlockCondDesc,,完成调查事件 1-13 开放,Se desbloquea al completar la Historia Principal 1-13
+Task_10975_CompleteCondDesc,bcsW,r任务_Task_A.csv,337,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10538_Name,bbxD,r任务_Task_A.csv,338,Task,Name,,调查任务：达达主义,Misión: Dadaísmo
+Task_10538_Desc,bbxB,r任务_Task_A.csv,338,Task,Desc,,有时候，破坏的冲动即为创造的冲动。\n拾起你的画笔吧，艺术无需任何准备。,"A veces, el impulso de destruir es, en realidad, el impulso de crear.\nToma tu pincel; el arte no necesita preparación."
+Task_10538_UnlockCondDesc,bbxF,r任务_Task_A.csv,338,Task,UnlockCondDesc,,完成调查事件 1-13 开放,Se desbloquea al completar la Historia Principal 1-13
+Task_10538_CompleteCondDesc,bbxA,r任务_Task_A.csv,338,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10733_Name,bbSV,r任务_Task_A.csv,339,Task,Name,,调查任务：旧日残卷,Misión: Época Extinguida
+Task_10733_Desc,bbST,r任务_Task_A.csv,339,Task,Desc,,那是上帝书写宇宙的语言。\n当你倾听它时，你在倾听无穷。,"Ese es el lenguaje en el que Dios escribe el universo.\nCuando lo escuchas, estás escuchando la infinitud."
+Task_10733_UnlockCondDesc,bbSX,r任务_Task_A.csv,339,Task,UnlockCondDesc,,完成调查事件 1-13 开放,Se desbloquea al completar la Historia Principal 1-13
+Task_10733_CompleteCondDesc,bbSS,r任务_Task_A.csv,339,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10302_Name,baXb,r任务_Task_A.csv,340,Task,Name,,研究任务：纯白诗篇,Investigación: Himno Pálido
+Task_10302_Desc,baWZ,r任务_Task_A.csv,340,Task,Desc,,混沌是自然法则，秩序是人类妄想。,El caos es la ley de la naturaleza; el orden es una ilusión humana.
+Task_10302_UnlockCondDesc,baXd,r任务_Task_A.csv,340,Task,UnlockCondDesc,,守密人 25 级开放,Se desbloquea al alcanzar el Nivel 25 del Guardián
+Task_10302_CompleteCondDesc,baWY,r任务_Task_A.csv,340,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10934_Name,bcoX,r任务_Task_A.csv,341,Task,Name,,研究任务：碧蓝诗篇,Investigación: Lamento Azul
+Task_10934_Desc,bcoV,r任务_Task_A.csv,341,Task,Desc,,所有生命最终都会回归大海。\n就像永不停歇的时间之流，它是终结的开始。,"Toda vida finalmente regresa al mar.\nComo el flujo incesante del tiempo, marca el comienzo del fin."
+Task_10934_UnlockCondDesc,bcoZ,r任务_Task_A.csv,341,Task,UnlockCondDesc,,守密人 25 级开放,Se desbloquea al alcanzar el Nivel 25 del Guardián
+Task_10934_CompleteCondDesc,bcoU,r任务_Task_A.csv,341,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10473_Name,bbqv,r任务_Task_A.csv,342,Task,Name,,研究任务：绯红诗篇,Investigación: Rima Escarlata
+Task_10473_Desc,bbqt,r任务_Task_A.csv,342,Task,Desc,,它们在自己不曾察觉的恐惧中滚动。\n无所知，无光亮，无名字。,"Se retuercen en un miedo desapercibido. \nIgnorantes, sin luz, sin nombre."
+Task_10473_UnlockCondDesc,bbqx,r任务_Task_A.csv,342,Task,UnlockCondDesc,,守密人 25 级开放,Se desbloquea al alcanzar el Nivel 25 del Guardián
+Task_10473_CompleteCondDesc,bbqs,r任务_Task_A.csv,342,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_10680_Name,bbNb,r任务_Task_A.csv,343,Task,Name,,研究任务：绛紫诗篇,Investigación: Cántico Violeta
+Task_10680_Desc,bbMZ,r任务_Task_A.csv,343,Task,Desc,,维度、空间、量子……或许你将永远无法理解这些词汇背后的深刻涵义。\n就像你无法理解这世上发生的大部分事情。,"Dimensiones, espacio, cuántica… Quizá nunca seas capaz de comprender los profundos significados que se esconden tras estas palabras.\nAl igual que ocurre con la mayoría de las cosas que suceden en este mundo."
+Task_10680_UnlockCondDesc,bbNd,r任务_Task_A.csv,343,Task,UnlockCondDesc,,守密人 25 级开放,Se desbloquea al alcanzar el Nivel 25 del Guardián
+Task_10680_CompleteCondDesc,bbMY,r任务_Task_A.csv,343,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_48735_Name,beFZ,r任务_Task_A.csv,344,Task,Name,,调查任务：勘察测绘,Misión: Planes de Reconocimiento
+Task_48735_Desc,beFX,r任务_Task_A.csv,344,Task,Desc,,地理是高位者的谎言。\n小心那些等高线。,La geografía es una mentira contada por los que detentan el poder.\nCuidado con esas curvas de nivel.
+Task_48735_UnlockCondDesc,beGb,r任务_Task_A.csv,344,Task,UnlockCondDesc,,守密人 20 级开放,Se desbloquea al alcanzar el Nivel 20 del Guardián
+Task_48735_CompleteCondDesc,beFW,r任务_Task_A.csv,344,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_48734_Name,beFT,r任务_Task_A.csv,345,Task,Name,,调查任务：先验理论,Misión: A Priori
+Task_48734_Desc,beFR,r任务_Task_A.csv,345,Task,Desc,,忘掉你的认知，忘掉你的目的。\n真相是什么，它们会告诉你。,"Olvida tus percepciones, olvida tu propósito.\n¿Cuál es la verdad? Ellos te la dirán."
+Task_48734_UnlockCondDesc,beFV,r任务_Task_A.csv,345,Task,UnlockCondDesc,,守密人 30 级开放,Se desbloquea al alcanzar el Nivel 30 del Guardián
+Task_48734_CompleteCondDesc,beFQ,r任务_Task_A.csv,345,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_48733_Name,beFN,r任务_Task_A.csv,346,Task,Name,,调查任务：泛神信仰,Misión: Panteísmo
+Task_48733_Desc,beFL,r任务_Task_A.csv,346,Task,Desc,,从倒塌的教堂和破碎的文物中，博物馆获得它们的珍藏，你获得你的珍藏。\n你们各取所需。,"De las ruinas de la iglesia derrumbada y las reliquias hechas añicos, el museo reclama sus tesoros, y tú reclamas los tuyos.\nCada cual toma lo que necesita."
+Task_48733_UnlockCondDesc,beFP,r任务_Task_A.csv,346,Task,UnlockCondDesc,,守密人 40 级开放,Se desbloquea al alcanzar el Nivel 40 del Guardián
+Task_48733_CompleteCondDesc,beFK,r任务_Task_A.csv,346,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_48736_Name,beGf,r任务_Task_A.csv,347,Task,Name,,调查任务：秘境幻影,Misión: Reino Fantasma
+Task_48736_Desc,beGd,r任务_Task_A.csv,347,Task,Desc,,收获两段不可信任的承诺，和一场难以忘怀的梦。,Recibe dos promesas poco fiables y un sueño inolvidable.
+Task_48736_UnlockCondDesc,beGh,r任务_Task_A.csv,347,Task,UnlockCondDesc,,守密人 50 级开放,Se desbloquea al alcanzar el Nivel 50 del Guardián
+Task_48736_CompleteCondDesc,beGc,r任务_Task_A.csv,347,Task,CompleteCondDesc,,派遣总等级>={s1},Nivel Total>={s1}
+Task_118860_Desc,bJGY,r任务_Task_A.csv,6271,Task,Desc,,玩偶之泪,Lágrimas de la Muñeca
+Task_121319_Desc,bKGH,r任务_Task_A.csv,6272,Task,Desc,,在「玩偶之泪Ⅰ」中获得三星评分,Consigue tres estrellas en «Lágrimas de la Muñeca I»
+Task_121259_Desc,bKFz,r任务_Task_A.csv,6273,Task,Desc,,在「玩偶之泪Ⅱ」中获得三星评分,Consigue tres estrellas en «Lágrimas de la Muñeca II»
+Task_121279_Desc,bKFT,r任务_Task_A.csv,6274,Task,Desc,,在「玩偶之泪Ⅲ」中获得三星评分,Consigue tres estrellas en «Lágrimas de la Muñeca III»
+Task_121323_Desc,bKGL,r任务_Task_A.csv,6275,Task,Desc,,在「玩偶之泪Ⅳ」中获得三星评分,Consigue tres estrellas en «Lágrimas de la Muñeca IV»
+Task_121236_Desc,bKFc,r任务_Task_A.csv,6276,Task,Desc,,在「玩偶之泪Ⅴ」中获得三星评分,Consigue tres estrellas en «Lágrimas de la Muñeca V»
+Task_118821_Desc,bJGq,r任务_Task_A.csv,6277,Task,Desc,,蜡像之秘,Secretos Esculpidos
+Task_121286_Desc,bKGa,r任务_Task_A.csv,6278,Task,Desc,,在「蜡像之秘Ⅰ」中获得三星评分,Consigue tres estrellas en «Secretos Esculpidos I»
+Task_121234_Desc,bKFa,r任务_Task_A.csv,6279,Task,Desc,,在「蜡像之秘Ⅱ」中获得三星评分,Consigue tres estrellas en «Secretos Esculpidos II»
+Task_121237_Desc,bKFd,r任务_Task_A.csv,6280,Task,Desc,,在「蜡像之秘Ⅲ」中获得三星评分,Consigue tres estrellas en «Secretos Esculpidos III»
+Task_121256_Desc,bKFw,r任务_Task_A.csv,6281,Task,Desc,,在「蜡像之秘Ⅳ」中获得三星评分,Consigue tres estrellas en «Secretos Esculpidos IV»
+Task_121274_Desc,bKFO,r任务_Task_A.csv,6282,Task,Desc,,在「蜡像之秘Ⅴ」中获得三星评分,Consigue tres estrellas en «Secretos Esculpidos V»
+Task_118791_Desc,bJFW,r任务_Task_A.csv,6283,Task,Desc,,漆黑之链,Cadena de Oscuridad
+Task_121317_Desc,bKGF,r任务_Task_A.csv,6284,Task,Desc,,在「漆黑之链Ⅰ」中获得三星评分,Consigue tres estrellas en «Cadena de Oscuridad I»
+Task_121313_Desc,bKGB,r任务_Task_A.csv,6285,Task,Desc,,在「漆黑之链Ⅱ」中获得三星评分,Consigue tres estrellas en «Cadena de Oscuridad II»
+Task_121243_Desc,bKFj,r任务_Task_A.csv,6286,Task,Desc,,在「漆黑之链Ⅲ」中获得三星评分,Consigue tres estrellas en «Cadena de Oscuridad III»
+Task_121316_Desc,bKGE,r任务_Task_A.csv,6287,Task,Desc,,在「漆黑之链Ⅳ」中获得三星评分,Consigue tres estrellas en «Cadena de Oscuridad IV»
+Task_121322_Desc,bKGK,r任务_Task_A.csv,6288,Task,Desc,,在「漆黑之链Ⅴ」中获得三星评分,Consigue tres estrellas en «Cadena de Oscuridad V»
+Task_118913_Desc,bJHJ,r任务_Task_A.csv,6289,Task,Desc,,界外之影,Sombra del Más Allá
+Task_121294_Desc,bKGi,r任务_Task_A.csv,6290,Task,Desc,,在「界外之影Ⅰ」中获得三星评分,Consigue tres estrellas en «Sombra del Más Allá I»
+Task_121291_Desc,bKGf,r任务_Task_A.csv,6291,Task,Desc,,在「界外之影Ⅱ」中获得三星评分,Consigue tres estrellas en «Sombra del Más Allá II»
+Task_121261_Desc,bKFB,r任务_Task_A.csv,6292,Task,Desc,,在「界外之影Ⅲ」中获得三星评分,Consigue tres estrellas en «Sombra del Más Allá III»
+Task_121239_Desc,bKFf,r任务_Task_A.csv,6293,Task,Desc,,在「界外之影Ⅳ」中获得三星评分,Consigue tres estrellas en «Sombra del Más Allá IV»
+Task_118892_Desc,bJHt,r任务_Task_A.csv,6294,Task,Desc,,虔诚之握,Garra Piadosa
+Task_121254_Desc,bKFu,r任务_Task_A.csv,6295,Task,Desc,,在「虔诚之握Ⅰ」中获得三星评分,Consigue tres estrellas en «Garra Piadosa I»
+Task_121284_Desc,bKFY,r任务_Task_A.csv,6296,Task,Desc,,在「虔诚之握Ⅱ」中获得三星评分,Consigue tres estrellas en «Garra Piadosa II»
+Task_121260_Desc,bKFA,r任务_Task_A.csv,6297,Task,Desc,,在「虔诚之握Ⅲ」中获得三星评分,Consigue tres estrellas en «Garra Piadosa III»
+Task_121233_Desc,bKEZ,r任务_Task_A.csv,6298,Task,Desc,,在「虔诚之握Ⅳ」中获得三星评分,Consigue tres estrellas en «Garra Piadosa IV»
+Task_118787_Desc,bJFT,r任务_Task_A.csv,6299,Task,Desc,,圣胎之咏,Himno del Feto Sagrado
+Task_121292_Desc,bKGg,r任务_Task_A.csv,6300,Task,Desc,,在「圣胎之咏Ⅰ」中获得三星评分,Consigue tres estrellas en «Himno del Feto Sagrado I»
+Task_121241_Desc,bKFh,r任务_Task_A.csv,6301,Task,Desc,,在「圣胎之咏Ⅱ」中获得三星评分,Consigue tres estrellas en «Himno del Feto Sagrado II»
+Task_121288_Desc,bKGc,r任务_Task_A.csv,6302,Task,Desc,,在「圣胎之咏Ⅲ」中获得三星评分,Consigue tres estrellas en «Himno del Feto Sagrado III»
+Task_118796_Desc,bJFY,r任务_Task_A.csv,6303,Task,Desc,,沙海遗存,Reliquias de la Arena
+Task_121266_Desc,bKFG,r任务_Task_A.csv,6304,Task,Desc,,在「沙海遗存Ⅰ」中获得三星评分,Consigue tres estrellas en «Reliquias de la Arena I»
+Task_121275_Desc,bKFP,r任务_Task_A.csv,6305,Task,Desc,,在「沙海遗存Ⅱ」中获得三星评分,Consigue tres estrellas en «Reliquias de la Arena II»
+Task_121262_Desc,bKFC,r任务_Task_A.csv,6306,Task,Desc,,在「沙海遗存Ⅲ」中获得三星评分,Consigue tres estrellas en «Reliquias de la Arena III»
+Task_118915_Desc,bJHL,r任务_Task_A.csv,6307,Task,Desc,,黑池之潮,Marea del Pozo Negro
+Task_121324_Desc,bKGM,r任务_Task_A.csv,6308,Task,Desc,,在「黑池之潮Ⅰ」中获得三星评分,Consigue tres estrellas en «Marea del Pozo Negro I»
+Task_121282_Desc,bKFW,r任务_Task_A.csv,6309,Task,Desc,,在「黑池之潮Ⅱ」中获得三星评分,Consigue tres estrellas en «Marea del Pozo Negro II»
