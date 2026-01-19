@@ -1,0 +1,67 @@
+﻿RelicConfig_13859_Desc,aJnS,z造物_RelicConfig_A.csv,73,RelicConfig,Desc,,回合开始时抽 1 张牌。战斗开始时，将 1 张<DerivativeCardKeywords_4:「灵感」>洗入你的牌库。每通过 1 场战斗都会使洗入的<DerivativeCardKeywords_4:「灵感」>提高 1，最多 3 次。,"턴 시작 시 카드를 1장 뽑습니다. 전투 시작 시, <DerivativeCardKeywords_4:「영감」> 1장을 덱에 추가합니다. 매 전투마다 추가하는 <DerivativeCardKeywords_4:「영감」> 매수가 1장씩 증가하며, 최대 3번까지 증가합니다."
+RelicConfig_13859_BattleDesc,aJnR,z造物_RelicConfig_A.csv,73,RelicConfig,BattleDesc,,回合开始时抽 1 张牌。战斗开始时，将 1 张<DerivativeCardKeywords_4:「灵感」>洗入你的牌库。每通过 1 场战斗都会使洗入的<DerivativeCardKeywords_4:「灵感」>提高 1，最多 3 次。,"턴 시작 시 카드를 1장 뽑습니다. 전투 시작 시, <DerivativeCardKeywords_4:「영감」> 1장을 덱에 추가합니다. 매 전투마다 추가하는 <DerivativeCardKeywords_4:「영감」> 매수가 1장씩 증가하며, 최대 3번까지 증가합니다."
+RelicConfig_13840_Desc,aJmC,z造物_RelicConfig_A.csv,112,RelicConfig,Desc,,每 3 回合对所有敌人添加 1 层<WeaknessIconKeywords:虚弱>。对<WeaknessIconKeywords:虚弱>敌人造成伤害后获得  [Arg1] 点临时<PowerIconKeywords:力量>，每回合最多触发 3 次。,"3턴마다 모든 적에게 1턴 동안 <WeaknessIconKeywords:허약>을 부여합니다. <WeaknessIconKeywords:허약> 상태의 적에게 피해를 입힐 경우, 임시 <PowerIconKeywords:힘>을 [Arg1] 획득합니다. 턴마다 3번까지 발동합니다."
+RelicConfig_13840_BattleDesc,aJmB,z造物_RelicConfig_A.csv,112,RelicConfig,BattleDesc,,每 3 回合对所有敌人添加 1 层<WeaknessIconKeywords:虚弱>。对<WeaknessIconKeywords:虚弱>敌人造成伤害后获得  [Arg1] 点临时<PowerIconKeywords:力量>，每回合最多触发 3 次。,"3턴마다 모든 적에게 1턴 동안 <WeaknessIconKeywords:허약>을 부여합니다. <WeaknessIconKeywords:허약> 상태의 적에게 피해를 입힐 경우, 임시 <PowerIconKeywords:힘>을 [Arg1] 획득합니다. 턴마다 3번까지 발동합니다."
+Task_55100_Desc,bfqd,r任务_Task_A.csv,187,Task,Desc,,将1名混沌角色提升至60级,혼돈 영역 각성체 1명 레벨 60 달성
+Task_55101_Desc,bfqj,r任务_Task_A.csv,188,Task,Desc,,将1名深海角色提升至60级,심해 영역 각성체 1명 레벨 60 달성
+Task_55102_Desc,bfqp,r任务_Task_A.csv,189,Task,Desc,,将1名血肉角色提升至60级,혈육 영역 각성체 1명 레벨 60 달성
+Task_55099_Desc,bfpX,r任务_Task_A.csv,190,Task,Desc,,将1名超维角色提升至60级,초차원 영역 각성체 1명 레벨 60 달성
+Task_55096_Desc,bfpF,r任务_Task_A.csv,191,Task,Desc,,将3名混沌角色提升至60级,혼돈 영역 각성체 3명 레벨 60 달성
+Task_55095_Desc,bfpz,r任务_Task_A.csv,192,Task,Desc,,将3名深海角色提升至60级,심해 영역 각성체 3명 레벨 60 달성
+Task_55094_Desc,bfpt,r任务_Task_A.csv,193,Task,Desc,,将3名血肉角色提升至60级,혈육 영역 각성체 3명 레벨 60 달성
+Task_55098_Desc,bfpR,r任务_Task_A.csv,194,Task,Desc,,将3名超维角色提升至60级,초차원 영역 각성체 3명 레벨 60 달성
+Task_55106_Desc,bfqN,r任务_Task_A.csv,195,Task,Desc,,将6名混沌角色提升至60级,혼돈 영역 각성체 6명 레벨 60 달성
+Task_55104_Desc,bfqB,r任务_Task_A.csv,196,Task,Desc,,将6名深海角色提升至60级,심해 영역 각성체 6명 레벨 60 달성
+Task_55105_Desc,bfqH,r任务_Task_A.csv,197,Task,Desc,,将6名血肉角色提升至60级,혈육 영역 각성체 6명 레벨 60 달성
+Task_55103_Desc,bfqv,r任务_Task_A.csv,198,Task,Desc,,将6名超维角色提升至60级,초차원 영역 각성체 6명 레벨 60 달성
+Task_94495_Desc,bzhL,r任务_Task_A.csv,199,Task,Desc,,将6名混沌角色提升至70级,혼돈 영역 각성체 6명 레벨 70 달성
+Task_94490_Desc,bzhB,r任务_Task_A.csv,200,Task,Desc,,将6名深海角色提升至70级,심해 영역 각성체 6명 레벨 70 달성
+Task_94494_Desc,bzhJ,r任务_Task_A.csv,201,Task,Desc,,将6名血肉角色提升至70级,혈육 영역 각성체 6명 레벨 70 달성
+Task_94491_Desc,bzhD,r任务_Task_A.csv,202,Task,Desc,,将6名超维角色提升至70级,초차원 영역 각성체 6명 레벨 70 달성
+Task_94489_Desc,bzhz,r任务_Task_A.csv,203,Task,Desc,,将6名混沌角色提升至80级,혼돈 영역 각성체 6명 레벨 80 달성
+Task_94493_Desc,bzhH,r任务_Task_A.csv,204,Task,Desc,,将6名深海角色提升至80级,심해 영역 각성체 6명 레벨 80 달성
+Task_94492_Desc,bzhF,r任务_Task_A.csv,205,Task,Desc,,将6名血肉角色提升至80级,혈육 영역 각성체 6명 레벨 80 달성
+Task_94496_Desc,bzhN,r任务_Task_A.csv,206,Task,Desc,,将6名超维角色提升至80级,초차원 영역 각성체 6명 레벨 80 달성
+Summon_14121_ShortDesc,banG,c抽卡_Summon_A.csv,35,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_14125_ShortDesc,baou,c抽卡_Summon_A.csv,39,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_14128_ShortDesc,baoY,c抽卡_Summon_A.csv,43,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_14129_ShortDesc,bapi,c抽卡_Summon_A.csv,44,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_54156_ShortDesc,baxc,c抽卡_Summon_A.csv,46,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_54153_ShortDesc,bawy,c抽卡_Summon_A.csv,47,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_77959_ShortDesc,bazW,c抽卡_Summon_A.csv,52,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_94433_ShortDesc,byDC,c抽卡_Summon_A.csv,56,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_94430_ShortDesc,byCZ,c抽卡_Summon_A.csv,61,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_77967_ShortDesc,baBy,c抽卡_Summon_A.csv,67,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_35609_ShortDesc,batu,c抽卡_Summon_A.csv,70,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_54148_ShortDesc,bavA,c抽卡_Summon_A.csv,75,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_54149_ShortDesc,bavK,c抽卡_Summon_A.csv,76,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_71225_ShortDesc,bryG,c抽卡_Summon_A.csv,80,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_78022_ShortDesc,brzE,c抽卡_Summon_A.csv,85,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_78822_ShortDesc,brDm,c抽卡_Summon_A.csv,87,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_98328_ShortDesc,bBWL,c抽卡_Summon_A.csv,92,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_100428_ShortDesc,bCAI,c抽卡_Summon_A.csv,94,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_117763_ShortDesc,bIEC,c抽卡_Summon_A.csv,98,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119659_ShortDesc,bJZG,c抽卡_Summon_A.csv,102,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_78817_ShortDesc,brCo,c抽卡_Summon_A.csv,104,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_94427_ShortDesc,byCx,c抽卡_Summon_A.csv,106,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_94435_ShortDesc,byDV,c抽卡_Summon_A.csv,109,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_78836_ShortDesc,brFW,c抽卡_Summon_A.csv,114,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_14117_ShortDesc,bamS,c抽卡_Summon_A.csv,200,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_55885_ShortDesc,brls,c抽卡_Summon_A.csv,208,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_55883_ShortDesc,brkY,c抽卡_Summon_A.csv,212,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66944_ShortDesc,brtc,c抽卡_Summon_A.csv,216,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66946_ShortDesc,brtw,c抽卡_Summon_A.csv,220,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66925_ShortDesc,brpu,c抽卡_Summon_A.csv,224,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66926_ShortDesc,brpE,c抽卡_Summon_A.csv,225,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66927_ShortDesc,brpO,c抽卡_Summon_A.csv,230,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66956_ShortDesc,brvs,c抽卡_Summon_A.csv,234,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66952_ShortDesc,bruE,c抽卡_Summon_A.csv,238,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_66951_ShortDesc,bruu,c抽卡_Summon_A.csv,239,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119648_ShortDesc,bJXP,c抽卡_Summon_A.csv,277,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119636_ShortDesc,bJVG,c抽卡_Summon_A.csv,283,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119647_ShortDesc,bJXF,c抽卡_Summon_A.csv,285,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119604_ShortDesc,bJPP,c抽卡_Summon_A.csv,291,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119593_ShortDesc,bJNM,c抽卡_Summon_A.csv,293,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119613_ShortDesc,bJRv,c抽卡_Summon_A.csv,299,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119629_ShortDesc,bJUr,c抽卡_Summon_A.csv,301,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
+Summon_119619_ShortDesc,bJSA,c抽卡_Summon_A.csv,307,Summon,ShortDesc,,获得唤醒体必为<SummonOrange:混沌>界域,<SummonOrange:혼돈> 영역 각성체만 출현합니다.
