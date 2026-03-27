@@ -1,0 +1,190 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,TH
+LanguageConfig_MainInterface_Btn_BOSS_CN,aGPZ,d多语言_LanguageConfig_C.csv,322,LanguageConfig,CN,,超验存在,สิ่งดำรงอยู่เหนือการรับรู้
+LanguageConfig_WeeklyBossInstructions_CN,aHpd,d多语言_LanguageConfig_C.csv,1351,LanguageConfig,CN,,\n<Title:奖励次数>\n·每周一9点(GMT+8)奖励次数重置，通关任意「超验存在」的关卡后将消耗1次奖励次数获得任务报酬奖励。\n·未使用的奖励次数将不会继承到下一周。\n\n<Title:重现>\n·首次完成「超验存在」关卡挑战后将解锁重现，重现将消耗1次奖励次数并直接获得任务报酬奖励。\n·若三星通关高难度关卡，则较低难度的关卡挑战进度会自动标记为三星通关。,"\n<Title:จำนวนครั้งในการรับรางวัล>\n·จำนวนครั้งในการรับรางวัลจะรีเซ็ตทุกวันจันทร์ เวลา 9:00 น. (GMT+8) หลังจากผ่านด่าน ""สิ่งดำรงอยู่เหนือการรับรู้"" ใดๆ ได้สำเร็จ จะใช้จำนวนครั้งในการรับรางวัล 1 ครั้ง เพื่อรับรางวัลค่าตอบแทนภารกิจ\nจำนวนครั้งในการรับรางวัลที่ไม่ได้ใช้ จะไม่ถูกยกยอดไปยังสัปดาห์ถัดไป\n\n<Title:การลงด่วน>\n·การลงด่วนจะปลดล็อกหลังจากผ่านด่าน ""สิ่งดำรงอยู่เหนือการรับรู้"" เป็นครั้งแรก การลงด่วนจะใช้สิทธิ์ในการรับรางวัล 1 ครั้ง และจะมอบรางวัลภารกิจให้ทันที \nหากผ่านด่านที่มีความยากระดับสูงด้วยคะแนนสามดาว ด่านที่มีระดับความยากต่ำกว่าจะถูกบันทึกผลคะแนนให้เป็นสามดาวให้โดยอัตโนมัติ"
+LanguageConfig_WeeklyBossTitle_CN,aHpe,d多语言_LanguageConfig_C.csv,1352,LanguageConfig,CN,,规则说明,กฎกติกา
+LanguageConfig_WeeklyBoss_LvLimit_CN,aHpf,d多语言_LanguageConfig_C.csv,1353,LanguageConfig,CN,,调查等级达到{s1}解锁,ปลดล็อคเมื่อเลเวลการสืบสวนถึง {s1}
+FeatureUnlock_21452_FeatureName,aCtC,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,FeatureName,,超验存在,สิ่งดำรงอยู่เหนือการรับรู้
+FeatureUnlock_21452_UnlockDesc,aCtE,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,UnlockDesc,,<FeatureUnlockTitle:超验存在已开启>\n\n<FeatureUnlockDesc:祂们是无视一切规则与因果的禁忌存在。\n消耗灵啡肽进行挑战，可以获得更珍稀的唤醒体技能升级材料。>,<FeatureUnlockTitle:สิ่งที่ดำรงอยู่เหนือการรับรู้ได้เปิดแล้ว>\n\n<FeatureUnlockDesc:พวกมันคือสิ่งมีชีวิตต้องห้ามที่เพิกเฉยต่อกฎเกณฑ์และเหตุผลทั้งมวล\nใช้เมโนฟินเพื่อท้าทายพวกมันเพื่อรับวัสดุอัปเกรดสกิลที่หายากของผู้ปลุกตื่น>
+FeatureUnlock_21452_LockTip,aCtD,g功能解锁_FeatureUnlock_A.csv,96,FeatureUnlock,LockTip,,完成 「调查行动」3-10·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 3-10: ปกติ"
+,,,—,,,,,
+FeatureUnlock_17072_FeatureName,aCsu,g功能解锁_FeatureUnlock_A.csv,97,FeatureUnlock,FeatureName,,玩偶之泪,น้ำตาของตุ๊กตา
+FeatureUnlock_17072_LockTip,aCsv,g功能解锁_FeatureUnlock_A.csv,97,FeatureUnlock,LockTip,,完成 「调查行动」3-10·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 3-10: ปกติ"
+StageGroup_15945_Name,aRdu,g关卡组_StageGroup_A.csv,54,StageGroup,Name,,玩偶之泪,น้ำตาของตุ๊กตา
+StageGroup_15945_Desc,aRdt,g关卡组_StageGroup_A.csv,54,StageGroup,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+StageGroup_15945_TypeText,aRdw,g关卡组_StageGroup_A.csv,54,StageGroup,TypeText,,玩偶之泪,น้ำตาของตุ๊กตา
+StageGroup_15945_StageGroupRewardDescription,aRdv,g关卡组_StageGroup_A.csv,54,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_7727_Name,aUUg,g关卡_Stage_A.csv,547,Stage,Name,,玩偶之泪Ⅰ,น้ำตาของตุ๊กตา I
+Stage_7727_Desc,aUUf,g关卡_Stage_A.csv,547,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+Stage_7949_Name,aViO,g关卡_Stage_A.csv,548,Stage,Name,,玩偶之泪Ⅱ,น้ำตาของตุ๊กตา II
+Stage_7949_Desc,aViN,g关卡_Stage_A.csv,548,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+Stage_7852_Name,aVdd,g关卡_Stage_A.csv,549,Stage,Name,,玩偶之泪Ⅲ,น้ำตาของตุ๊กตา III
+Stage_7852_Desc,aVdc,g关卡_Stage_A.csv,549,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+Stage_7798_Name,aUYx,g关卡_Stage_A.csv,550,Stage,Name,,玩偶之泪Ⅳ,น้ำตาของตุ๊กตา IV
+Stage_7798_Desc,aUYw,g关卡_Stage_A.csv,550,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+Stage_7656_Name,aUBF,g关卡_Stage_A.csv,551,Stage,Name,,玩偶之泪Ⅴ,น้ำตาของตุ๊กตา V
+Stage_7656_Desc,aUBE,g关卡_Stage_A.csv,551,Stage,Desc,,它以乖巧的姿态靠在床沿，暗淡的纽扣眼睛望着虚空。\n小小的身躯承受了主人的全部眼泪，却无法出言安慰。,มันเอนตัวพิงขอบเตียงด้วยท่าทางอ่อนโยน ดวงตากระดุมหมองมัวจ้องมองความว่างเปล่า\nร่างเล็กๆ ของมันรองรับน้ำตาทั้งหมดของเจ้าของไว้ แต่กลับไม่สามารถเอ่ยคำปลอบโยนออกมาได้เลย
+,,,—,,,,,
+FeatureUnlock_16982_FeatureName,aCnk,g功能解锁_FeatureUnlock_A.csv,98,FeatureUnlock,FeatureName,,蜡像之秘,ความลับของหุ่นขี้ผึ้ง
+FeatureUnlock_16982_LockTip,aCnl,g功能解锁_FeatureUnlock_A.csv,98,FeatureUnlock,LockTip,,完成 「调查行动」3-10·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 3-10: ปกติ"
+StageGroup_15892_Name,aQZq,g关卡组_StageGroup_A.csv,55,StageGroup,Name,,蜡像之秘,ความลับของหุ่นขี้ผึ้ง
+StageGroup_15892_Desc,aQZp,g关卡组_StageGroup_A.csv,55,StageGroup,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+StageGroup_15892_TypeText,aQZs,g关卡组_StageGroup_A.csv,55,StageGroup,TypeText,,蜡像之秘,ความลับของหุ่นขี้ผึ้ง
+StageGroup_15892_StageGroupRewardDescription,aQZr,g关卡组_StageGroup_A.csv,55,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_7726_Name,aUUd,g关卡_Stage_A.csv,552,Stage,Name,,蜡像之秘Ⅰ,ความลับของหุ่นขี้ผึ้ง I
+Stage_7726_Desc,aUUc,g关卡_Stage_A.csv,552,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+Stage_7877_Name,aVeG,g关卡_Stage_A.csv,553,Stage,Name,,蜡像之秘Ⅱ,ความลับของหุ่นขี้ผึ้ง II
+Stage_7877_Desc,aVeF,g关卡_Stage_A.csv,553,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+Stage_8071_Name,aVpQ,g关卡_Stage_A.csv,554,Stage,Name,,蜡像之秘Ⅲ,ความลับของหุ่นขี้ผึ้ง III
+Stage_8071_Desc,aVpP,g关卡_Stage_A.csv,554,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+Stage_8199_Name,aVxh,g关卡_Stage_A.csv,555,Stage,Name,,蜡像之秘Ⅳ,ความลับของหุ่นขี้ผึ้ง IV
+Stage_8199_Desc,aVxg,g关卡_Stage_A.csv,555,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+Stage_7657_Name,aUBI,g关卡_Stage_A.csv,556,Stage,Name,,蜡像之秘Ⅴ,ความลับของหุ่นขี้ผึ้ง V
+Stage_7657_Desc,aUBH,g关卡_Stage_A.csv,556,Stage,Desc,,它们原本是悲伤、扭曲和懵懂组成的无意识集合，\n却被打扮成幸福的小孩、大人和宠物。\n因着从未品尝过幸福的滋味，它们成了最糟糕的演员。,เดิมทีพวกมันคือศูนย์รวมของจิตไร้สำนึกที่ประกอบด้วยความเศร้า ความบิดเบี้ยว และความเขลา\nแต่กลับถูกจับแต่งให้เป็นเด็ก ผู้ใหญ่ หรือสัตว์เลี้ยงที่มีความสุขและสดใส\nด้วยเหตุที่พวกมันไม่เคยลิ้มรสความสุขที่แท้จริง พวกมันจึงกลายเป็นนักแสดงที่แย่ที่สุด
+,,,—,,,,,
+FeatureUnlock_16964_FeatureName,aCmi,g功能解锁_FeatureUnlock_A.csv,99,FeatureUnlock,FeatureName,,漆黑之链,พันธนาอนธการ
+FeatureUnlock_16964_LockTip,aCmj,g功能解锁_FeatureUnlock_A.csv,99,FeatureUnlock,LockTip,,完成 「调查行动」第3章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 3: ปกติ"
+StageGroup_15878_Name,aQYm,g关卡组_StageGroup_A.csv,56,StageGroup,Name,,漆黑之链,พันธนาอนธการ
+StageGroup_15878_Desc,aQYl,g关卡组_StageGroup_A.csv,56,StageGroup,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+StageGroup_15878_TypeText,aQYo,g关卡组_StageGroup_A.csv,56,StageGroup,TypeText,,漆黑之链,พันธนาอนธการ
+StageGroup_15878_StageGroupRewardDescription,aQYn,g关卡组_StageGroup_A.csv,56,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_8074_Name,aVpZ,g关卡_Stage_A.csv,557,Stage,Name,,漆黑之链Ⅰ,พันธนาอนธการ I
+Stage_8074_Desc,aVpY,g关卡_Stage_A.csv,557,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+Stage_7796_Name,aUYf,g关卡_Stage_A.csv,558,Stage,Name,,漆黑之链Ⅱ,พันธนาอนธการ II
+Stage_7796_Desc,aUYe,g关卡_Stage_A.csv,558,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+Stage_7652_Name,aUBt,g关卡_Stage_A.csv,559,Stage,Name,,漆黑之链Ⅲ,พันธนาอนธการ III
+Stage_7652_Desc,aUBs,g关卡_Stage_A.csv,559,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+Stage_8139_Name,aVtJ,g关卡_Stage_A.csv,560,Stage,Name,,漆黑之链Ⅳ,พันธนาอนธการ IV
+Stage_8139_Desc,aVtI,g关卡_Stage_A.csv,560,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+Stage_7978_Name,aVkD,g关卡_Stage_A.csv,561,Stage,Name,,漆黑之链Ⅴ,พันธนาอนธการ V
+Stage_7978_Desc,aVkC,g关卡_Stage_A.csv,561,Stage,Desc,,蠕动着、流淌着……原生质的肿泡正从枷锁的缝隙中溜走。\n这是她为「自由」付出的代价。,"เลื้อยคลาน ไหลซึม... เนื้อเยื่อบวมพองกำลังหลุดรอดออกจากรอยร้าวของเครื่องพันธนาการ\nนี่คือราคาที่เธอต้องจ่ายเพื่อแลกกับ ""อิสรภาพ"""
+,,,—,,,,,
+FeatureUnlock_17011_FeatureName,aCoT,g功能解锁_FeatureUnlock_A.csv,100,FeatureUnlock,FeatureName,,界外之影,เงาทมิฬจากแดนไกล
+FeatureUnlock_17011_LockTip,aCoU,g功能解锁_FeatureUnlock_A.csv,100,FeatureUnlock,LockTip,,完成 「调查行动」第4章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 4: ปกติ"
+StageGroup_15909_Name,aRaG,g关卡组_StageGroup_A.csv,57,StageGroup,Name,,界外之影,เงาทมิฬจากแดนไกล
+StageGroup_15909_Desc,aRaF,g关卡组_StageGroup_A.csv,57,StageGroup,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+StageGroup_15909_TypeText,aRaI,g关卡组_StageGroup_A.csv,57,StageGroup,TypeText,,界外之影,เงาทมิฬจากแดนไกล
+StageGroup_15909_StageGroupRewardDescription,aRaH,g关卡组_StageGroup_A.csv,57,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_8072_Name,aVpT,g关卡_Stage_A.csv,562,Stage,Name,,界外之影Ⅰ,เงาทมิฬจากแดนไกล I
+Stage_8072_Desc,aVpS,g关卡_Stage_A.csv,562,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+Stage_7968_Name,aVjT,g关卡_Stage_A.csv,563,Stage,Name,,界外之影Ⅰ,เงาทมิฬจากแดนไกล I
+Stage_7968_Desc,aVjS,g关卡_Stage_A.csv,563,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+Stage_7752_Name,aUVD,g关卡_Stage_A.csv,564,Stage,Name,,界外之影Ⅱ,เงาทมิฬจากแดนไกล II
+Stage_7752_Desc,aUVC,g关卡_Stage_A.csv,564,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+Stage_7648_Name,aUBh,g关卡_Stage_A.csv,565,Stage,Name,,界外之影Ⅲ,เงาทมิฬจากแดนไกล III
+Stage_7648_Desc,aUBg,g关卡_Stage_A.csv,565,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+Stage_7861_Name,aVdy,g关卡_Stage_A.csv,566,Stage,Name,,界外之影Ⅳ,เงาทมิฬจากแดนไกล IV
+Stage_7861_Desc,aVdx,g关卡_Stage_A.csv,566,Stage,Desc,,它一刻不停地追逐那些打破规则的僭越者。\n至于何为「规则」，何为「打破」？\n猎犬从不思考——那只会阻碍它奔袭的速度。,"มันไล่ล่าผู้ละเมิดที่ฝ่าฝืนกฎอย่างไม่หยุดหย่อน\nแต่อะไรคือ ""กฎ"" อะไรคือ ""ฝ่าฝืน"" ?\nสุนัขล่าเนื้อไม่เคยคิด—การครุ่นคิดรังแต่จะขัดขวางความเร็วในการไล่ล่าของมันเท่านั้น"
+,,,—,,,,,
+FeatureUnlock_16996_FeatureName,aCoa,g功能解锁_FeatureUnlock_A.csv,101,FeatureUnlock,FeatureName,,虔诚之握,อ้อมกอดแห่งศรัทธา
+FeatureUnlock_16996_LockTip,aCob,g功能解锁_FeatureUnlock_A.csv,101,FeatureUnlock,LockTip,,完成 「调查行动」第5章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 5: ปกติ"
+StageGroup_15897_Name,aQZK,g关卡组_StageGroup_A.csv,58,StageGroup,Name,,虔诚之握,อ้อมกอดแห่งศรัทธา
+StageGroup_15897_Desc,aQZJ,g关卡组_StageGroup_A.csv,58,StageGroup,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。\n她的祈祷永无止息，她的呼告永不停歇。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ\nคำสวดภาวนาของนางจะไม่มีวันสิ้นสุด คำวิงวอนของนางจะไม่มีวันหยุดยั้ง
+StageGroup_15897_TypeText,aQZM,g关卡组_StageGroup_A.csv,58,StageGroup,TypeText,,虔诚之握,อ้อมกอดแห่งศรัทธา
+StageGroup_15897_StageGroupRewardDescription,aQZL,g关卡组_StageGroup_A.csv,58,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_7745_Name,aUVi,g关卡_Stage_A.csv,567,Stage,Name,,虔诚之握Ⅰ,อ้อมกอดแห่งศรัทธา I
+Stage_7745_Desc,aUVh,g关卡_Stage_A.csv,567,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ
+Stage_7969_Name,aVjW,g关卡_Stage_A.csv,568,Stage,Name,,虔诚之握Ⅰ,อ้อมกอดแห่งศรัทธา I
+Stage_7969_Desc,aVjV,g关卡_Stage_A.csv,568,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ
+Stage_7870_Name,aVdZ,g关卡_Stage_A.csv,569,Stage,Name,,虔诚之握Ⅱ,อ้อมกอดแห่งศรัทธา I
+Stage_7870_Desc,aVdY,g关卡_Stage_A.csv,569,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ
+Stage_7636_Name,aUzE,g关卡_Stage_A.csv,570,Stage,Name,,虔诚之握Ⅲ,อ้อมกอดแห่งศรัทธา II
+Stage_7636_Desc,aUzD,g关卡_Stage_A.csv,570,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ
+Stage_8098_Name,aVrt,g关卡_Stage_A.csv,571,Stage,Name,,虔诚之握Ⅳ,อ้อมกอดแห่งศรัทธา III
+Stage_8098_Desc,aVrs,g关卡_Stage_A.csv,571,Stage,Desc,,她以己身承纳圣骸，以教义训导眷众，以毒牙布散信仰。,นางโอบรับสิ่งศักดิ์สิทธิ์ไว้ในร่างของตน ชี้นำผู้ศรัทธาด้วยคำสอน แพร่กระจายความเชื่อด้วยเขี้ยวพิษ
+,,,—,,,,,
+FeatureUnlock_17039_FeatureName,aCqz,g功能解锁_FeatureUnlock_A.csv,102,FeatureUnlock,FeatureName,,圣胎之咏,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์
+FeatureUnlock_17039_LockTip,aCqA,g功能解锁_FeatureUnlock_A.csv,102,FeatureUnlock,LockTip,,完成 「调查行动」第6章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 6: ปกติ"
+StageGroup_15928_Name,aRce,g关卡组_StageGroup_A.csv,59,StageGroup,Name,,圣胎之咏,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์
+StageGroup_15928_Desc,aRcd,g关卡组_StageGroup_A.csv,59,StageGroup,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+StageGroup_15928_TypeText,aRcg,g关卡组_StageGroup_A.csv,59,StageGroup,TypeText,,圣胎之咏,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์
+StageGroup_15928_StageGroupRewardDescription,aRcf,g关卡组_StageGroup_A.csv,59,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_36132_Name,aSft,g关卡_Stage_A.csv,572,Stage,Name,,圣胎之咏Ⅰ,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ I
+Stage_36132_Desc,aSfs,g关卡_Stage_A.csv,572,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+Stage_36130_Name,aSfn,g关卡_Stage_A.csv,573,Stage,Name,,圣胎之咏Ⅰ,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ I
+Stage_36130_Desc,aSfm,g关卡_Stage_A.csv,573,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+Stage_36131_Name,aSfq,g关卡_Stage_A.csv,574,Stage,Name,,圣胎之咏Ⅰ,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ I
+Stage_36131_Desc,aSfp,g关卡_Stage_A.csv,574,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+Stage_36126_Name,aSfb,g关卡_Stage_A.csv,575,Stage,Name,,圣胎之咏Ⅱ,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ I
+Stage_36126_Desc,aSfa,g关卡_Stage_A.csv,575,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+Stage_36126_StageInitStateText,aSfc,g关卡_Stage_A.csv,575,Stage,StageInitStateText,,海魇,อสุรกายแห่งท้องทะเล
+Stage_36125_Name,aSeY,g关卡_Stage_A.csv,576,Stage,Name,,圣胎之咏Ⅲ,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ II
+Stage_36125_Desc,aSeX,g关卡_Stage_A.csv,576,Stage,Desc,,不被祝福的孩子在海中吟咏圣歌。\n嘘……请保持安静，切勿惊扰祂的长眠。,เด็กน้อยผู้ไร้บุญกำลังขับขานเพลงสรรเสริญอยู่ในทะเล\nชู่...เงียบหน่อยสิ อย่ารบกวนการหลับใหลอันยาวนานของมันเด็ดขาด
+Stage_36125_StageInitStateText,aSeZ,g关卡_Stage_A.csv,576,Stage,StageInitStateText,,海魇,อสุรกายแห่งท้องทะเล
+,,,—,,,,,
+FeatureUnlock_49170_FeatureName,aCwq,g功能解锁_FeatureUnlock_A.csv,103,FeatureUnlock,FeatureName,,沙海遗存,มรดกในทะเลทราย
+FeatureUnlock_49170_LockTip,aCwr,g功能解锁_FeatureUnlock_A.csv,103,FeatureUnlock,LockTip,,完成 「调查行动」第7章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 7: ปกติ"
+StageGroup_49169_Name,aRmK,g关卡组_StageGroup_A.csv,60,StageGroup,Name,,沙海遗存,มรดกในทะเลทราย
+StageGroup_49169_Desc,aRmJ,g关卡组_StageGroup_A.csv,60,StageGroup,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+StageGroup_49169_TypeText,aRmM,g关卡组_StageGroup_A.csv,60,StageGroup,TypeText,,沙海遗存,มรดกในทะเลทราย
+StageGroup_49169_StageGroupRewardDescription,aRmL,g关卡组_StageGroup_A.csv,60,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_49159_Name,aSzY,g关卡_Stage_A.csv,577,Stage,Name,,沙海遗存Ⅰ,มรดกในทะเลทราย I
+Stage_49159_Desc,aSzX,g关卡_Stage_A.csv,577,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+Stage_49161_Name,aSAe,g关卡_Stage_A.csv,578,Stage,Name,,沙海遗存Ⅰ,มรดกในทะเลทราย I
+Stage_49161_Desc,aSAd,g关卡_Stage_A.csv,578,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+Stage_49160_Name,aSAb,g关卡_Stage_A.csv,579,Stage,Name,,沙海遗存Ⅰ,มรดกในทะเลทราย I
+Stage_49160_Desc,aSAa,g关卡_Stage_A.csv,579,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+Stage_49165_Name,aSAq,g关卡_Stage_A.csv,580,Stage,Name,,沙海遗存Ⅱ,มรดกในทะเลทราย II
+Stage_49165_Desc,aSAp,g关卡_Stage_A.csv,580,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+Stage_49165_StageInitStateText,aSAr,g关卡_Stage_A.csv,580,Stage,StageInitStateText,,繁育,แพร่พันธุ์
+Stage_49167_Name,aSAw,g关卡_Stage_A.csv,581,Stage,Name,,沙海遗存Ⅲ,มรดกในทะเลทราย III
+Stage_49167_Desc,aSAv,g关卡_Stage_A.csv,581,Stage,Desc,,母树的幻影于银色火焰中轰然倒塌，但祂的血脉终将在根系中复苏。,ภาพมายาของพฤกษามารดาได้พังทลายลงท่ามกลางเปลวเพลิงสีเงิน แต่สายเลือดของมันจะฟื้นคืนสู่รากในที่สุด
+Stage_49167_StageInitStateText,aSAx,g关卡_Stage_A.csv,581,Stage,StageInitStateText,,繁育,แพร่พันธุ์
+,,,—,,,,,
+FeatureUnlock_58914_FeatureName,aCzO,g功能解锁_FeatureUnlock_A.csv,104,FeatureUnlock,FeatureName,,黑池之潮,กระแสน้ำในสระดำ
+FeatureUnlock_58914_LockTip,aCzP,g功能解锁_FeatureUnlock_A.csv,104,FeatureUnlock,LockTip,,完成 「调查行动」第8章·普通 后解锁,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" บทที่ 8: ปกติ"
+StageGroup_58901_Name,aRBC,g关卡组_StageGroup_A.csv,61,StageGroup,Name,,黑池之潮,กระแสน้ำในสระดำ
+StageGroup_58901_Desc,aRBB,g关卡组_StageGroup_A.csv,61,StageGroup,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+StageGroup_58901_TypeText,aRBE,g关卡组_StageGroup_A.csv,61,StageGroup,TypeText,,黑池之潮,กระแสน้ำในสระดำ
+StageGroup_58901_StageGroupRewardDescription,aRBD,g关卡组_StageGroup_A.csv,61,StageGroup,StageGroupRewardDescription,,<Black:高阶技能素材>,<Black:วัสดุอัปเกรดสกิลขั้นสูง>
+Stage_59076_Name,aTLF,g关卡_Stage_A.csv,582,Stage,Name,,黑池之潮Ⅰ,กระแสน้ำในสระดำ I
+Stage_59076_Desc,aTLE,g关卡_Stage_A.csv,582,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+Stage_59070_Name,aTLn,g关卡_Stage_A.csv,583,Stage,Name,,黑池之潮Ⅰ,กระแสน้ำในสระดำ I
+Stage_59070_Desc,aTLm,g关卡_Stage_A.csv,583,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+Stage_59074_Name,aTLz,g关卡_Stage_A.csv,584,Stage,Name,,黑池之潮Ⅰ,กระแสน้ำในสระดำ I
+Stage_59074_Desc,aTLy,g关卡_Stage_A.csv,584,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+Stage_59058_Name,aTKD,g关卡_Stage_A.csv,585,Stage,Name,,黑池之潮Ⅰ,กระแสน้ำในสระดำ I
+Stage_59058_Desc,aTKC,g关卡_Stage_A.csv,585,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+Stage_59058_StageInitStateText,aTKE,g关卡_Stage_A.csv,585,Stage,StageInitStateText,,终末,ปลายทางสุดท้าย
+Stage_59073_Name,aTLw,g关卡_Stage_A.csv,586,Stage,Name,,黑池之潮Ⅱ,กระแสน้ำในสระดำ II
+Stage_59073_Desc,aTLv,g关卡_Stage_A.csv,586,Stage,Desc,,黑色的池水狂躁地舞动，迎接它们最初的、唯一的主人。,ผิวน้ำสีดำเต้นระบำอย่างบ้าคลั่ง เพื่อต้อนรับนายเหนือหัวคนแรกและคนเดียวของพวกมัน
+Stage_59073_StageInitStateText,aTLx,g关卡_Stage_A.csv,586,Stage,StageInitStateText,,终末,ปลายทางสุดท้าย
+,,,—,,,,,
+Task_118860_Desc,bJGY,r任务_Task_A.csv,6271,Task,Desc,,玩偶之泪,น้ำตาของตุ๊กตา
+Task_121319_Desc,bKGH,r任务_Task_A.csv,6272,Task,Desc,,在「玩偶之泪Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""น้ำตาของตุ๊กตา I"""
+Task_121259_Desc,bKFz,r任务_Task_A.csv,6273,Task,Desc,,在「玩偶之泪Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""น้ำตาของตุ๊กตา II"""
+Task_121279_Desc,bKFT,r任务_Task_A.csv,6274,Task,Desc,,在「玩偶之泪Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""น้ำตาของตุ๊กตา III"""
+Task_121323_Desc,bKGL,r任务_Task_A.csv,6275,Task,Desc,,在「玩偶之泪Ⅳ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""น้ำตาของตุ๊กตา IV"""
+Task_121236_Desc,bKFc,r任务_Task_A.csv,6276,Task,Desc,,在「玩偶之泪Ⅴ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""น้ำตาของตุ๊กตา V"""
+Task_118821_Desc,bJGq,r任务_Task_A.csv,6277,Task,Desc,,蜡像之秘,ความลับของหุ่นขี้ผึ้ง
+Task_121286_Desc,bKGa,r任务_Task_A.csv,6278,Task,Desc,,在「蜡像之秘Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""ความลับของหุ่นขี้ผึ้ง I"""
+Task_121234_Desc,bKFa,r任务_Task_A.csv,6279,Task,Desc,,在「蜡像之秘Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""ความลับของหุ่นขี้ผึ้ง II"""
+Task_121237_Desc,bKFd,r任务_Task_A.csv,6280,Task,Desc,,在「蜡像之秘Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""ความลับของหุ่นขี้ผึ้ง III"""
+Task_121256_Desc,bKFw,r任务_Task_A.csv,6281,Task,Desc,,在「蜡像之秘Ⅳ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""ความลับของหุ่นขี้ผึ้ง IV"""
+Task_121274_Desc,bKFO,r任务_Task_A.csv,6282,Task,Desc,,在「蜡像之秘Ⅴ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""ความลับของหุ่นขี้ผึ้ง V"""
+Task_118791_Desc,bJFW,r任务_Task_A.csv,6283,Task,Desc,,漆黑之链,พันธนาอนธการ
+Task_121317_Desc,bKGF,r任务_Task_A.csv,6284,Task,Desc,,在「漆黑之链Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""พันธนาอนธการ I"""
+Task_121313_Desc,bKGB,r任务_Task_A.csv,6285,Task,Desc,,在「漆黑之链Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""พันธนาอนธการ II"""
+Task_121243_Desc,bKFj,r任务_Task_A.csv,6286,Task,Desc,,在「漆黑之链Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""พันธนาอนธการ III"""
+Task_121316_Desc,bKGE,r任务_Task_A.csv,6287,Task,Desc,,在「漆黑之链Ⅳ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""พันธนาอนธการ IV"""
+Task_121322_Desc,bKGK,r任务_Task_A.csv,6288,Task,Desc,,在「漆黑之链Ⅴ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""พันธนาอนธการ V"""
+Task_118913_Desc,bJHJ,r任务_Task_A.csv,6289,Task,Desc,,界外之影,เงาทมิฬจากแดนไกล
+Task_121294_Desc,bKGi,r任务_Task_A.csv,6290,Task,Desc,,在「界外之影Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""เงาทมิฬจากแดนไกล I"""
+Task_121291_Desc,bKGf,r任务_Task_A.csv,6291,Task,Desc,,在「界外之影Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""เงาทมิฬจากแดนไกล II"""
+Task_121261_Desc,bKFB,r任务_Task_A.csv,6292,Task,Desc,,在「界外之影Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""เงาทมิฬจากแดนไกล III"""
+Task_121239_Desc,bKFf,r任务_Task_A.csv,6293,Task,Desc,,在「界外之影Ⅳ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""เงาทมิฬจากแดนไกล IV"""
+Task_118892_Desc,bJHt,r任务_Task_A.csv,6294,Task,Desc,,虔诚之握,อ้อมกอดแห่งศรัทธา
+Task_121254_Desc,bKFu,r任务_Task_A.csv,6295,Task,Desc,,在「虔诚之握Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""อ้อมกอดแห่งศรัทธา I"""
+Task_121284_Desc,bKFY,r任务_Task_A.csv,6296,Task,Desc,,在「虔诚之握Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""อ้อมกอดแห่งศรัทธา II"""
+Task_121260_Desc,bKFA,r任务_Task_A.csv,6297,Task,Desc,,在「虔诚之握Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""อ้อมกอดแห่งศรัทธา III"""
+Task_121233_Desc,bKEZ,r任务_Task_A.csv,6298,Task,Desc,,在「虔诚之握Ⅳ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""อ้อมกอดแห่งศรัทธา IV"""
+Task_118787_Desc,bJFT,r任务_Task_A.csv,6299,Task,Desc,,圣胎之咏,บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์
+Task_121292_Desc,bKGg,r任务_Task_A.csv,6300,Task,Desc,,在「圣胎之咏Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ I"""
+Task_121241_Desc,bKFh,r任务_Task_A.csv,6301,Task,Desc,,在「圣胎之咏Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ II"""
+Task_121288_Desc,bKGc,r任务_Task_A.csv,6302,Task,Desc,,在「圣胎之咏Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""บทสรรเสริญแห่งครรภ์ศักดิ์สิทธิ์ III"""
+Task_118796_Desc,bJFY,r任务_Task_A.csv,6303,Task,Desc,,沙海遗存,มรดกในทะเลทราย
+Task_121266_Desc,bKFG,r任务_Task_A.csv,6304,Task,Desc,,在「沙海遗存Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""มรดกในทะเลทราย I"""
+Task_121275_Desc,bKFP,r任务_Task_A.csv,6305,Task,Desc,,在「沙海遗存Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""มรดกในทะเลทราย II"""
+Task_121262_Desc,bKFC,r任务_Task_A.csv,6306,Task,Desc,,在「沙海遗存Ⅲ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""มรดกในทะเลทราย III"""
+Task_118915_Desc,bJHL,r任务_Task_A.csv,6307,Task,Desc,,黑池之潮,กระแสน้ำในสระดำ
+Task_121324_Desc,bKGM,r任务_Task_A.csv,6308,Task,Desc,,在「黑池之潮Ⅰ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""กระแสน้ำในสระดำ I"""
+Task_121282_Desc,bKFW,r任务_Task_A.csv,6309,Task,Desc,,在「黑池之潮Ⅱ」中获得三星评分,"ได้รับคะแนน 3 ดาวใน ""กระแสน้ำในสระดำ II"""
