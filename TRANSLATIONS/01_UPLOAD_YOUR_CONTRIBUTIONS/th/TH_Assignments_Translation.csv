@@ -1,0 +1,89 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,TH
+Task_10320_Name,baZf,r任务_Task_A.csv,330,Task,Name,,研究任务：炼金札记,งานวิจัย: บันทึกการแปรธาตุ
+Task_10320_Desc,baZd,r任务_Task_A.csv,330,Task,Desc,,闪闪发光的东西不一定是黄金，但一定价格不菲。\n相传，弥萨格由一帮离群的炼金术士创立，他们的野心可远不止点石成金。,สิ่งที่ส่องประกายอาจไม่ใช่ทองคำเสมอไป แต่ที่แน่ๆ มันมีราคามหาศาล\nเล่ากันว่ามิธธากก่อตั้งโดยกลุ่มนักเล่นแร่แปรธาตุปลีกวิเวกที่ความทะเยอทะยานนั้นก้าวไกลเกินกว่าแค่การเปลี่ยนหินให้เป็นทอง
+Task_10320_CompleteCondDesc,baZc,r任务_Task_A.csv,330,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10323_Name,baZx,r任务_Task_A.csv,331,Task,Name,,研究任务：制剂制作,งานวิจัย: การผลิตยา
+Task_10323_Desc,baZv,r任务_Task_A.csv,331,Task,Desc,,严格意义上来说，唤醒体也是银芯科技的一种。\n你必须竭尽全力才能让它们不至于落伍。,หากพูดกันตามหลักการแล้วผู้ปลุกตื่นก็ถือเป็นเทคโนโลยีซิลเวอร์คอร์ประเภทหนึ่งเช่นกัน\nจึงจำเป็นต้องทุ่มเทอย่างสุดกำลัง เพื่อไม่ให้พวกเขาล้าหลังจนเกินไป
+Task_10323_CompleteCondDesc,baZu,r任务_Task_A.csv,331,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10277_Name,baUn,r任务_Task_A.csv,333,Task,Name,,调查任务：密银寻踪,ภารกิจ: แกะรอยมิธริล
+Task_10277_Desc,baUl,r任务_Task_A.csv,333,Task,Desc,,在图书馆静坐并不会让你获得更多的唤醒体。\n出发吧，迈出你的双腿，在自然中寻找那万分之一的可能性。,การนั่งนิ่งๆ อยู่ในห้องสมุด ไม่ได้ช่วยให้คุณได้รับผู้ปลุกตื่นเพิ่มขึ้นหรอก\nออกเดินทางเถอะ ก้าวเท้าของคุณออกไป ตามหาความเป็นไปได้เพียงหนึ่งในหมื่นภายใต้ธรรมชาติ
+Task_10277_CompleteCondDesc,baUk,r任务_Task_A.csv,333,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10787_Name,bbZh,r任务_Task_A.csv,334,Task,Name,,研究任务：炼金札记,งานวิจัย: บันทึกการแปรธาตุ
+Task_10787_Desc,bbZf,r任务_Task_A.csv,334,Task,Desc,,闪闪发光的东西不一定是黄金，但一定价格不菲。\n相传，弥萨格由一帮离群的炼金术士创立，他们的野心可远不止点石成金。,สิ่งที่ส่องประกายอาจไม่ใช่ทองคำเสมอไป แต่ที่แน่ๆ มันมีราคามหาศาล\nเล่ากันว่ามิธธากก่อตั้งโดยกลุ่มนักเล่นแร่แปรธาตุปลีกวิเวกที่ความทะเยอทะยานนั้นก้าวไกลเกินกว่าแค่การเปลี่ยนหินให้เป็นทอง
+Task_10787_CompleteCondDesc,bbZe,r任务_Task_A.csv,334,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10736_Name,bbTn,r任务_Task_A.csv,335,Task,Name,,研究任务：制剂制作,งานวิจัย: การผลิตยา
+Task_10736_Desc,bbTl,r任务_Task_A.csv,335,Task,Desc,,严格意义上来说，唤醒体也是银芯科技的一种。\n你必须竭尽全力才能让它们不至于落伍。,หากพูดกันตามหลักการแล้วผู้ปลุกตื่นก็ถือเป็นเทคโนโลยีซิลเวอร์คอร์ประเภทหนึ่งเช่นกัน\nจึงจำเป็นต้องทุ่มเทอย่างสุดกำลัง เพื่อไม่ให้พวกเขาล้าหลังจนเกินไป
+Task_10736_CompleteCondDesc,bbTk,r任务_Task_A.csv,335,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10565_Name,bbAx,r任务_Task_A.csv,336,Task,Name,,调查任务：活性解离,ภารกิจ: แยกตัวกัมมันต์
+Task_10565_Desc,bbAv,r任务_Task_A.csv,336,Task,Desc,,他的本能、理智和心都被封装在小小的玻璃瓶里。\n世界从此与他无关。,ทั้งสัญชาตญาณ สติสัมปชัญญะ และหัวใจของเขา ทั้งหมดถูกผนึกไว้ในขวดแก้วใบเล็กๆ\nตั้งแต่นั้นเป็นต้นมา โลกใบนี้ก็ไม่มีอะไรเกี่ยวข้องกับเขาอีกต่อไป
+Task_10565_UnlockCondDesc,bbAz,r任务_Task_A.csv,336,Task,UnlockCondDesc,,完成调查事件 1-13 开放,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 1-13 "
+Task_10565_CompleteCondDesc,bbAu,r任务_Task_A.csv,336,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10975_Name,bcsZ,r任务_Task_A.csv,337,Task,Name,,调查任务：影像疗法,ภารกิจ: ทัศนบำบัด
+Task_10975_Desc,bcsX,r任务_Task_A.csv,337,Task,Desc,,「它将转写你的心。」\n「是吗？那它一定千疮百孔吧。」,"""มันจะถ่ายโอนหัวใจของคุณออกมา""\n""อย่างนั้นหรือ? ถ้าอย่างนั้น... หัวใจดวงนี้ก็คงจะเต็มไปด้วยบาดแผลเกินเยียวยาสินะ"""
+Task_10975_UnlockCondDesc,bctb,r任务_Task_A.csv,337,Task,UnlockCondDesc,,完成调查事件 1-13 开放,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 1-13 "
+Task_10975_CompleteCondDesc,bcsW,r任务_Task_A.csv,337,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10538_Name,bbxD,r任务_Task_A.csv,338,Task,Name,,调查任务：达达主义,ภารกิจ: ลัทธิดาดา
+Task_10538_Desc,bbxB,r任务_Task_A.csv,338,Task,Desc,,有时候，破坏的冲动即为创造的冲动。\n拾起你的画笔吧，艺术无需任何准备。,บางครั้ง แรงกระตุ้นที่จะทำลายก็คือแรงกระตุ้นในการสร้างสรรค์\nหยิบพู่กันของคุณขึ้นมาเถอะ ศิลปะไม่จำเป็นต้องมีการเตรียมตัวใดๆ
+Task_10538_UnlockCondDesc,bbxF,r任务_Task_A.csv,338,Task,UnlockCondDesc,,完成调查事件 1-13 开放,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 1-13 "
+Task_10538_CompleteCondDesc,bbxA,r任务_Task_A.csv,338,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10733_Name,bbSV,r任务_Task_A.csv,339,Task,Name,,调查任务：旧日残卷,ภารกิจ: ม้วนคัมภีร์บรรพกาล
+Task_10733_Desc,bbST,r任务_Task_A.csv,339,Task,Desc,,那是上帝书写宇宙的语言。\n当你倾听它时，你在倾听无穷。,นั่นคือภาษาที่พระเจ้าใช้เขียนจักรวาลขึ้นมา\nยามที่เงี่ยหูฟังมัน ก็เท่ากับว่ากำลังรับฟังความไร้สิ้นสุด
+Task_10733_UnlockCondDesc,bbSX,r任务_Task_A.csv,339,Task,UnlockCondDesc,,完成调查事件 1-13 开放,"ปลดล็อกเมื่อเสร็จสิ้นเควส ""ภารกิจสืบสวน"" 1-13 "
+Task_10733_CompleteCondDesc,bbSS,r任务_Task_A.csv,339,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10302_Name,baXb,r任务_Task_A.csv,340,Task,Name,,研究任务：纯白诗篇,งานวิจัย:  บทกวีสีขาวบริสุทธิ์
+Task_10302_Desc,baWZ,r任务_Task_A.csv,340,Task,Desc,,混沌是自然法则，秩序是人类妄想。,ความโกลาหลคือกฎเกณฑ์ของธรรมชาติ ส่วนระเบียบวินัยคือความเพ้อฝันของมนุษย์
+Task_10302_UnlockCondDesc,baXd,r任务_Task_A.csv,340,Task,UnlockCondDesc,,守密人 25 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_10302_CompleteCondDesc,baWY,r任务_Task_A.csv,340,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10934_Name,bcoX,r任务_Task_A.csv,341,Task,Name,,研究任务：碧蓝诗篇,งานวิจัย:  บทกวีสีคราม
+Task_10934_Desc,bcoV,r任务_Task_A.csv,341,Task,Desc,,所有生命最终都会回归大海。\n就像永不停歇的时间之流，它是终结的开始。,ท้ายที่สุดแล้วทุกชีวิตล้วนต้องกลับคืนสู่ท้องทะเล\nดั่งกระแสธารแห่งกาลเวลาที่ไม่เคยหยุดนิ่ง มันคือจุดเริ่มต้นของจุดจบ
+Task_10934_UnlockCondDesc,bcoZ,r任务_Task_A.csv,341,Task,UnlockCondDesc,,守密人 25 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_10934_CompleteCondDesc,bcoU,r任务_Task_A.csv,341,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10473_Name,bbqv,r任务_Task_A.csv,342,Task,Name,,研究任务：绯红诗篇,งานวิจัย:  บทกวีสีชาด
+Task_10473_Desc,bbqt,r任务_Task_A.csv,342,Task,Desc,,它们在自己不曾察觉的恐惧中滚动。\n无所知，无光亮，无名字。,พวกมันหมุนคว้างน่าพรั่นพรึงทว่าไร้คนสนใจ\nไร้ปรีชาญาณ ไร้ประกายแสง ไร้นามกร
+Task_10473_UnlockCondDesc,bbqx,r任务_Task_A.csv,342,Task,UnlockCondDesc,,守密人 25 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_10473_CompleteCondDesc,bbqs,r任务_Task_A.csv,342,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_10680_Name,bbNb,r任务_Task_A.csv,343,Task,Name,,研究任务：绛紫诗篇,งานวิจัย: บทกวีสีอินทนิล
+Task_10680_Desc,bbMZ,r任务_Task_A.csv,343,Task,Desc,,维度、空间、量子……或许你将永远无法理解这些词汇背后的深刻涵义。\n就像你无法理解这世上发生的大部分事情。,"มิติ, อวกาศ, ควอนตัม... บางทีคุณอาจไม่มีวันเข้าใจความหมายอันลึกซึ้งที่ซ่อนอยู่หลังถ้อยคำเหล่านี้ได้เลย\nเหมือนกับที่คุณไม่เคยเข้าใจเรื่องราวส่วนใหญ่ที่เกิดขึ้นบนโลกใบนี้"
+Task_10680_UnlockCondDesc,bbNd,r任务_Task_A.csv,343,Task,UnlockCondDesc,,守密人 25 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_10680_CompleteCondDesc,bbMY,r任务_Task_A.csv,343,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_48735_Name,beFZ,r任务_Task_A.csv,344,Task,Name,,调查任务：勘察测绘,ภารกิจ: แผนการลาดตระเวน
+Task_48735_Desc,beFX,r任务_Task_A.csv,344,Task,Desc,,地理是高位者的谎言。\n小心那些等高线。,ภูมิศาสตร์คือคำลวงของผู้ที่อยู่เหนือกว่า\nจงระวังเส้นความสูงเหล่านั้นให้ดี
+Task_48735_UnlockCondDesc,beGb,r任务_Task_A.csv,344,Task,UnlockCondDesc,,守密人 20 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48735_CompleteCondDesc,beFW,r任务_Task_A.csv,344,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_48734_Name,beFT,r任务_Task_A.csv,345,Task,Name,,调查任务：先验理论,ภารกิจ: ทฤษฎีเชิงประจักษ์
+Task_48734_Desc,beFR,r任务_Task_A.csv,345,Task,Desc,,忘掉你的认知，忘掉你的目的。\n真相是什么，它们会告诉你。,จงลืมเลือนการรับรู้ของเจ้าเสีย จงลืมเลือนจุดประสงค์ของเจ้าไป\nความจริงคือสิ่งใด พวกมันจะเป็นผู้บอกเจ้าเอง
+Task_48734_UnlockCondDesc,beFV,r任务_Task_A.csv,345,Task,UnlockCondDesc,,守密人 30 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48734_CompleteCondDesc,beFQ,r任务_Task_A.csv,345,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_48733_Name,beFN,r任务_Task_A.csv,346,Task,Name,,调查任务：泛神信仰,ภารกิจ: สรรพเทวนิยม
+Task_48733_Desc,beFL,r任务_Task_A.csv,346,Task,Desc,,从倒塌的教堂和破碎的文物中，博物馆获得它们的珍藏，你获得你的珍藏。\n你们各取所需。,จากโบสถ์ที่พังทลายและโบราณวัตถุที่แตกสลาย พิพิธภัณฑ์ได้สิ่งล้ำค่าของพวกเขาไป ส่วนคุณก็ได้สิ่งล้ำค่าของคุณมา\nต่างฝ่ายต่างก็ได้ในสิ่งที่ตนต้องการ
+Task_48733_UnlockCondDesc,beFP,r任务_Task_A.csv,346,Task,UnlockCondDesc,,守密人 40 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48733_CompleteCondDesc,beFK,r任务_Task_A.csv,346,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+Task_48736_Name,beGf,r任务_Task_A.csv,347,Task,Name,,调查任务：秘境幻影,ภารกิจ: ดินแดนลวงตา
+Task_48736_Desc,beGd,r任务_Task_A.csv,347,Task,Desc,,收获两段不可信任的承诺，和一场难以忘怀的梦。,ได้รับมาซึ่งคำสัญญาที่ไม่อาจเชื่อถือได้สองครา และความฝันที่ยากจะลืมเลือนอีกหนึ่งตื่น
+Task_48736_UnlockCondDesc,beGh,r任务_Task_A.csv,347,Task,UnlockCondDesc,,守密人 50 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48736_CompleteCondDesc,beGc,r任务_Task_A.csv,347,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
+,,,—,,,,,
+PanelText_UI_Research_Panel_Dispatch_Item_Text_C_Unclickable_Content,aIWx,j界面文字表_PanelText_C.csv,901,PanelText,Content,,未解锁,ล็อก
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Special_Content,aIWu,j界面文字表_PanelText_C.csv,902,PanelText,Content,,达成条件,บรรลุเงื่อนไข
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Extra_Content,aIWr,j界面文字表_PanelText_C.csv,903,PanelText,Content,,【额外】,[เพิ่มเติม]
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_NoTask_Content,aIWs,j界面文字表_PanelText_C.csv,904,PanelText,Content,,暂时没有新的派遣任务,ยังไม่มีภารกิจมอบหมายใหม่ในขณะนี้
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Special2_Content,aIWt,j界面文字表_PanelText_C.csv,905,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,เลเวลรวมการมอบหมายภารกิจที่เกิน 20 จะได้รับรางวัลเพิ่มเติม 1 ชิ้น
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Count_Content,aIWq,j界面文字表_PanelText_C.csv,906,PanelText,Content,,规则说明,กฎกติกา
+PanelText_UI_Research_Panel_Dispatch_Content_Text_C_Award_Content,aIWp,j界面文字表_PanelText_C.csv,907,PanelText,Content,,任务报酬,ค่าตอบแทน
+PanelText_UI_Research_Popup_Recall_Text_C_Special2_Content,aIWM,j界面文字表_PanelText_C.csv,908,PanelText,Content,,派遣总等级每超出20级，可获得1份额外奖励,เลเวลรวมการมอบหมายภารกิจที่เกิน 20 จะได้รับรางวัลเพิ่มเติม 1 ชิ้น
