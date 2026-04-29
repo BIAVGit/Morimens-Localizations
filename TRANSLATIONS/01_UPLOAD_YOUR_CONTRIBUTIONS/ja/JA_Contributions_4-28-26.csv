@@ -20,9 +20,9 @@ SeasonRankReward_132567_Name_3,相位精英,エリート
 SeasonRankReward_132567_Name_4,对弈大师,マスター
 SeasonRankReward_132567_Name_5,相位支配者,支配者
 SeasonRankReward_132567_Name_6,相位传奇,伝説
-Task_129525_Desc,完成普通难度第一阶段,普通・第1段階クリア
-Task_129520_Desc,完成普通难度第二阶段,普通・第2段階クリア
-Task_129529_Desc,完成普通难度第三阶段,普通・第3段階クリア
+Task_129525_Desc,完成普通难度第一阶段,通常・第1段階クリア
+Task_129520_Desc,完成普通难度第二阶段,通常・第2段階クリア
+Task_129529_Desc,完成普通难度第三阶段,通常・第3段階クリア
 Task_129550_Desc,完成困难难度第一阶段,高難度・第1段階クリア
 Task_129532_Desc,完成困难难度第二阶段,高難度・第2段階クリア
 Task_129542_Desc,完成困难难度第三阶段,高難度・第3段階クリア
@@ -102,30 +102,23 @@ PanelText_UI_Team_Panel_Main_Text_Madness_Content,癫狂难度仅可获得首通
 PanelText_UI_Chapter_Special_Spur_View_Text_C_Nightmare_Content,癫狂,狂気
 PanelText_UI_Dungeous_Panel_RailWay_Text_C_Madness_Content,癫狂,狂気
 Resonance_47869_Desc_1,在完成「记忆编码」挑战或重现时获得 20 点灵啡肽（癫狂难度除外）。,「記憶の収集」の挑戦またはリプレイを完了すると、20エンフェリンを獲得。（狂気を除く）
-PanelText_UI_Chapter_Panel_Main2_Text_C_Simple_Content,普通,普通
-PanelText_UI_Chapter_Panel_Spur_Text_C_Simple_Now_Content,普通,普通
-PanelText_UI_Chapter_Panel_Spur_Text_C_Simple_01_Content,普通,普通
-PanelText_UI_Chapter_Spur_View_Text_C_Simple_Content,普通,普通
-PanelText_UI_Chapter_Dream_View_Text_C_Simple_Content,普通,普通
-PanelText_UI_Chapter_Special_Spur_View_Text_C_Simple_Content,普通,普通
-PanelText_UI_Social_Item_Data_Overview_Left_Text_C_Normal_Content,普通,普通
 PanelText_UI_Events_Item_Summer2_Text_C_NormalTip_Content,普通难度待通关,普通難易度未クリア
 RelicConfig_13801_Desc,常规战斗中所有敌人的生命提升 30%，战斗胜利时额外获得 25 个黑印。,普通戦闘のすべての敵のライフが30%増加し、戦闘勝利時に追加で25黒章を獲得する。
 RelicConfig_13801_BattleDesc,常规战斗中所有敌人的生命提升 30%，战斗胜利时额外获得 25 个黑印。,普通戦闘のすべての敵のライフが30%増加し、戦闘勝利時に追加で25黒章を獲得する。
-Stage_129163_Name,疾驰的欢愉专列·普通,疾走する歓楽特急・普通
+Stage_129163_Name,疾驰的欢愉专列·普通,疾走する歓楽特急・通常
 Stage_129164_Name,疾驰的欢愉专列·困难,疾走する歓楽特急・高難度
 Stage_129165_Name,疾驰的欢愉专列·癫狂,疾走する歓楽特急・狂気
-Task_55860_Desc,完成调查行动·普通模式第6章,調査・普通第6章を完了する
-Task_55853_Desc,完成调查行动·普通模式第7章,調査・普通第7章を完了する
-Task_23895_Desc,完成特遣纪录「雨镇幽影」普通模式,特務記録「雨の町に潜む影」普通を完了
-Task_23893_Desc,完成意识潜游「苍白后裔」普通模式,意識潜行「蒼白の末裔」普通モードを完了する
-Task_36842_Desc,完成意识潜游「诸事如常」普通模式,意識潜行「日常」普通モードを完了する
-Task_45665_Desc,完成意识潜游「巨人的陨落」普通模式,意識潜行「巨人の墜落」普通モードを完了する
-Task_25013_Desc,完成特遣纪录「蔷薇礼赞」普通模式,特務記録「薔薇の讃歌」普通を完了
-Task_25024_Desc,完成意识潜游「一步之遥」普通模式,意識潜行「一歩の距離」普通モードを完了する
+Task_55860_Desc,完成调查行动·普通模式第6章,調査・通常第6章を完了する
+Task_55853_Desc,完成调查行动·普通模式第7章,調査・通常第7章を完了する
+Task_23895_Desc,完成特遣纪录「雨镇幽影」普通模式,特務記録「雨の町に潜む影」通常を完了
+Task_23893_Desc,完成意识潜游「苍白后裔」普通模式,意識潜行「蒼白の末裔」通常モードを完了する
+Task_36842_Desc,完成意识潜游「诸事如常」普通模式,意識潜行「日常」通常モードを完了する
+Task_45665_Desc,完成意识潜游「巨人的陨落」普通模式,意識潜行「巨人の墜落」通常モードを完了する
+Task_25013_Desc,完成特遣纪录「蔷薇礼赞」普通模式,特務記録「薔薇の讃歌」通常を完了
+Task_25024_Desc,完成意识潜游「一步之遥」普通模式,意識潜行「一歩の距離」通常モードを完了する
 FeatureUnlock_126363_FeatureName,「调查行动」星辰篇第5章,「調査」星辰篇第5章
 FeatureUnlock_126363_UnlockDesc,<FeatureUnlockTitle:调查行动「星辰正位之刻·织命剧场」已开启>\n\n<FeatureUnlockDesc:跨越黑日的门扉，你回到了那座熟悉的城市，而这一切，只是一座量身定制的舞台……>,<FeatureUnlockTitle:調査行動「星々の正位置の刻·運命劇場」が開放されました>\n\n<FeatureUnlockDesc:黒い日のドアを越えて、あなたはその馴染みのある都市に戻りました、そしてこれらはすべて、あなたのためにカスタマイズされた舞台に過ぎません……>
-FeatureUnlock_126363_LockTip,完成 「调查行动」星辰篇第4章·普通 后解锁,「調査」星辰篇第4章・普通をクリアで解放
+FeatureUnlock_126363_LockTip,完成 「调查行动」星辰篇第4章·普通 后解锁,「調査」星辰篇第4章・通常をクリアで解放
 State_123507_Desc,队伍唯一：探索开始后，将 1 张「倒数时刻：5」加入牌库：打出后抽 1 张牌，并将下一张「倒数时刻」洗入弃牌堆。「<DestructionKeywords:销毁>」。「倒数时刻：0」：抽 3 张牌，获得 3 点算力，并有 <WeaponEffect_Num:[StateArg1]%> 概率将「倒数时刻：5」洗入弃牌堆。保留。「<DestructionKeywords:销毁>」。,唯一装備：探索開始後、「カウントダウン：5」をデッキに1枚加える。使用後、1枚のカードを引き、次の「カウントダウン」を捨て札にシャッフルする。「<DestructionKeywords:破壊>」。「カウントダウン：0」：3枚のカードを引き、3点の行動力を獲得し、<WeaponEffect_Num:[StateArg1]%>の確率で「カウントダウン：5」を捨て札に置く。保持。「<DestructionKeywords:破壊>」。
 State_123507_WeaponDesc,探索开始后，将 1 张「倒数时刻：5」加入牌库：打出后抽 1 张牌，并将下一张「倒数时刻」洗入弃牌堆。「<DestructionKeywords:销毁>」。「倒数时刻：0」：抽 3 张牌，获得 3 点算力，并有 <WeaponEffect_Num:[StateArg1]%> 概率将「倒数时刻：5」洗入弃牌堆。保留。「<DestructionKeywords:销毁>」。,探索開始後、「カウントダウン：5」をデッキに1枚加える。使用後、1枚のカードを引き、次の「カウントダウン」を捨て札にシャッフルする。「<DestructionKeywords:破壊>」。「カウントダウン：0」：3枚のカードを引き、3点の行動力を獲得し、<WeaponEffect_Num:[StateArg1]%>の確率で「カウントダウン：5」を捨て札に置く。保持。「<DestructionKeywords:破壊>」。
 State_120462_Name,<DestructionKeywords:销毁>,<DestructionKeywords:壊滅>
@@ -202,3 +195,19 @@ PanelText_UI_GuideNote_Item_Trinket_Text_C_Source_Content,获取来源,入手元
 PanelText_UI_GuideNote_Item_Material_Text_C_Source_Content,获取来源,入手元
 PanelText_UI_GuideNote_Panel_AwakerStrength_Text_C_ExcludeTalent_Content,天赋,才能
 PanelText_UI_GuideNote_Panel_AwakerStrength_Text_C_Talent_Content,天赋,才能
+ItemGets_126368_Desc,星辰篇普通5-1,星辰篇通常5-1
+ItemGets_126371_Desc,星辰篇普通5-2,星辰篇通常5-2
+ItemGets_126377_Desc,星辰篇普通5-3,星辰篇通常5-3
+ItemGets_126384_Desc,星辰篇普通5-4,星辰篇通常5-4
+ItemGets_126378_Desc,星辰篇普通5-5,星辰篇通常5-5
+ItemGets_126367_Desc,星辰篇普通5-6,星辰篇通常5-6
+ItemGets_126383_Desc,星辰篇普通5-7,星辰篇通常5-7
+ItemGets_126374_Desc,星辰篇普通5-8,星辰篇通常5-8
+ItemGets_126369_Desc,星辰篇普通5-9,星辰篇通常5-9
+ItemGets_126381_Desc,星辰篇普通5-10,星辰篇通常5-10
+ItemGets_126379_Desc,星辰篇普通5-11,星辰篇通常5-11
+ItemGets_126372_Desc,星辰篇普通5-12,星辰篇通常5-12
+ItemGets_126380_Desc,星辰篇普通5-13,星辰篇通常5-13
+ItemGets_126373_Desc,星辰篇普通5-14,星辰篇通常5-14
+ItemGets_126375_Desc,星辰篇普通5-15,星辰篇通常5-15
+ItemGets_126376_Desc,星辰篇普通5-16,星辰篇通常5-16
