@@ -100,7 +100,6 @@ PanelText_UI_Chapter_Spur_View_Text_C_Nightmare_Content,癫狂,狂気
 PanelText_UI_Chapter_Dream_View_Text_C_Nightmare_Content,癫狂,狂気
 PanelText_UI_Team_Panel_Main_Text_Madness_Content,癫狂难度仅可获得首通奖励,狂気の難易度は初回クリア報酬のみ
 PanelText_UI_Chapter_Special_Spur_View_Text_C_Nightmare_Content,癫狂,狂気
-PanelText_UI_Dungeous_Panel_RailWay_Text_C_Madness_Content,癫狂,狂気
 Resonance_47869_Desc_1,在完成「记忆编码」挑战或重现时获得 20 点灵啡肽（癫狂难度除外）。,「記憶の収集」の挑戦またはリプレイを完了すると、20エンフェリンを獲得。（狂気を除く）
 PanelText_UI_Events_Item_Summer2_Text_C_NormalTip_Content,普通难度待通关,普通難易度未クリア
 RelicConfig_13801_Desc,常规战斗中所有敌人的生命提升 30%，战斗胜利时额外获得 25 个黑印。,普通戦闘のすべての敵のライフが30%増加し、戦闘勝利時に追加で25黒章を獲得する。
@@ -211,3 +210,37 @@ ItemGets_126380_Desc,星辰篇普通5-13,星辰篇通常5-13
 ItemGets_126373_Desc,星辰篇普通5-14,星辰篇通常5-14
 ItemGets_126375_Desc,星辰篇普通5-15,星辰篇通常5-15
 ItemGets_126376_Desc,星辰篇普通5-16,星辰篇通常5-16
+PermResSummary_133964_Desc,"忘却篇 普通&{s1}#忘却篇 困难 &{s2}#
+星辰篇 普通 &{s3} #星辰篇 困难 &{s4} #
+特遣记录 普通 &{s5} #特遣记录 困难 &{s6} #
+意识潜游 普通 &{s7} #意识潜游 困难 &{s8} #
+异梦视界 普通 &{s9} #异梦视界 困难 &{s10} #
+多维连接 普通 &{s11} #多维连接 困难 &{s12} #
+繁衍狂热 通关奖励 &{s13} #",忘却編 通常&{s1}#忘却編 高難度 &{s2}#\n星辰編 通常 &{s3} #星辰編 高難度 &{s4} #\n特務記録 通常 &{s5} #特務記録 高難度 &{s6} #\n意識潜行 通常 &{s7} #意識潜行 高難度 &{s8} #\n異夢視界 通常 &{s9} #異夢視界 高難度 &{s10} #\n多次元接続 通常 &{s11} #多次元接続 高難度 &{s12} #\n繁殖狂熱 クリア報酬 &{s13} #
+PermResSummary_133965_Desc,"融蚀之墟&{s1}#禁忌纂录&{s2}#
+无光之境-混沌之域&{s3}#无光之境-深海之遗&{s4}#
+无光之境-血肉之沼&{s5}#无光之境-超维之旅&{s6}#
+超验存在&{s7}#",融蝕の廃墟&{s1}#禁忌編纂&{s2}#\n闇の境界・混沌の領域&{s3}#闇の境界・海底の遺産&{s4}#\n闇の境界・血肉の沼&{s5}#闇の境界・超次元の旅&{s6}#\n超越存在&{s7}#
+PermResSummary_133963_Desc,"对弈纪录&{s1}#预组等级&{s2}#
+轮选等级&{s3}#",対人記録&{s1}#プリセットレベル&{s2}#\nドラフトレベル&{s3}#
+PermResSummary_133967_Desc,深潜纪录&{s1}#深潜等级&{s2}#,深潜記録&{s1}#深潜レベル&{s2}#
+PermResSummary_133966_Desc,沿途留影&{s1}#雅室规格&{s2}#,沿途の記憶&{s1}#優雅室の仕様&{s2}#
+PanelText_UI_GuideNote_Popup_ResSummary_Text_C_ItemsPreview_Content,剩余资源预览,残り資源予告
+PanelText_UI_GuideNote_Popup_ResSummary_Text_C_Null_Content,无剩余资源,残り資源なし
+LanguageConfig_RailWayMaxProgress_CN,生涯最高进度,最高進捗
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Challenge_Content,挑战,挑戦
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Normal_Content,普通,通常
+PanelText_UI_Events_Panel_OriMurphy_Text_C_Not_unlocked_Content,未解锁,未解放
+PanelText_UI_Awaker_Item_Potency_Detail_Text_MaxMad_Unsolved_Content,未解锁,未解放
+PanelText_UI_Awaker_Item_Potency_Detail_Text_MaxMad_Solved_Content,已解锁,解放済み
+PanelText_UI_Awaker_Item_Potency_Detail_Text_C_MaxMad_Solved_Content,已解锁,解放済み
+PanelText_UI_Awaker_Popup_Topped_Tip3_Text_C_MaxMad_Activation_Content,已激活,起動完了
+PanelText_UI_Awaker_Popup_Topped_Tip3_Text_C_Not_MaxMad_Activation_Content,未激活,未起動
+PanelText_UI_Setting_Popup_PlatformBinding_Text_C_Receive_1_Content,领取,受け取る
+PanelText_UI_Events_Panel_Mouchette_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_Xu_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_Mosk_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_Arachne_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_Pollux_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_KathiguRa_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+PanelText_UI_Events_Panel_Summer2_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
