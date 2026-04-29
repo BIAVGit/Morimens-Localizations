@@ -1,0 +1,204 @@
+Key,CN,JP_Manual
+State_134231_Desc,队伍唯一：装备者造成的护盾提高 <WeaponEffect_Num:[StateArg1]%>，装备者造成「追击」时 + <WeaponEffect_Num:[StateArg2]%> 临时强效，每回合最多生效 5 次。每当触发「维度穿梭」时，装备者获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,唯一装備：装備者が与えるシールドが<WeaponEffect_Num:[StateArg1]%>増加する。装備者が「追撃」を発動時、+<WeaponEffect_Num:[StateArg2]%>の一時強化、毎ターン最大5回まで累積可能。「次元転移」の発動時、装備者は<WeaponEffect_Num:[StateArg3]>狂気を獲得。
+State_134231_WeaponDesc,装备者造成的护盾提高 <WeaponEffect_Num:[StateArg1]%>，装备者造成「追击」时 + <WeaponEffect_Num:[StateArg2]%> 临时强效，每回合最多生效 5 次。每当触发「维度穿梭」时，装备者获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,装備者が与えるシールドが<WeaponEffect_Num:[StateArg1]%>増加する。装備者が「追撃」を発動時、+<WeaponEffect_Num:[StateArg2]%>の一時強化、毎ターン最大5回まで累積可能。「次元転移」の発動時、装備者は<WeaponEffect_Num:[StateArg3]>狂気を獲得。
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Hard_Content,困难,高難度
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Madness_Content,癫狂,狂気
+SeasonRankReward_132569_Name_4,深潜学者,深潜の学者
+SeasonRankReward_132569_Name_5,深潜大师,深潜の達人
+SeasonRankReward_132568_Name_1,相位新手,初心者
+SeasonRankReward_132568_Name_2,对弈学徒,見習い
+SeasonRankReward_132568_Name_3,相位精英,エリート
+SeasonRankReward_132568_Name_4,对弈大师,マスター
+SeasonRankReward_132568_Name_5,相位支配者,支配者
+SeasonRankReward_132568_Name_6,相位传奇,伝説
+SeasonRankReward_132566_Name_2,卧铺贵族,レールの旅人
+SeasonRankReward_132566_Name_5,安保大元帅,ベテランの車掌
+SeasonRankReward_132566_Name_6,传奇老车长,伝説の車掌
+SeasonRankReward_132567_Name_1,相位新手,初心者
+SeasonRankReward_132567_Name_2,对弈学徒,見習い
+SeasonRankReward_132567_Name_3,相位精英,エリート
+SeasonRankReward_132567_Name_4,对弈大师,マスター
+SeasonRankReward_132567_Name_5,相位支配者,支配者
+SeasonRankReward_132567_Name_6,相位传奇,伝説
+Task_129525_Desc,完成普通难度第一阶段,普通・第1段階クリア
+Task_129520_Desc,完成普通难度第二阶段,普通・第2段階クリア
+Task_129529_Desc,完成普通难度第三阶段,普通・第3段階クリア
+Task_129550_Desc,完成困难难度第一阶段,高難度・第1段階クリア
+Task_129532_Desc,完成困难难度第二阶段,高難度・第2段階クリア
+Task_129542_Desc,完成困难难度第三阶段,高難度・第3段階クリア
+Task_129533_Desc,完成癫狂难度第一阶段,狂気・第1段階クリア
+Task_129545_Desc,完成癫狂难度第二阶段,狂気・第2段階クリア
+Task_129514_Desc,完成癫狂难度第三阶段,狂気・第3段階クリア
+Task_129528_Desc,完成「沿途留影·欢愉回廊」所有任务,「沿途の記憶・歓喜の回廊」全任務完了
+Task_129536_Name,沿途留影·欢愉回廊,沿途の記憶・歓喜の回廊
+Task_129536_Desc,沿途留影·欢愉回廊,沿途の記憶・歓喜の回廊
+Task_129534_Name,沿途留影·往昔回忆,沿途の記憶・昔のの回想
+Task_129534_Desc,沿途留影·往昔回忆,沿途の記憶・昔の回想
+LanguageConfig_RailWayTaskViewTitle_CN,沿途留影,沿途の記憶
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Record_Content,沿途留影,沿途の記憶
+Task_129531_Desc,击败任意难度下的第一阶段首领「▼阿▼▼亚」,任意難易度・第1段階のボス「▼あ▼▼や」を撃破
+Task_129540_Desc,击败任意难度下的第一阶段首领「爱哭鬼乔▼」,任意難易度・第1段階のボス「泣き虫ジョー▼」を撃破
+Task_129543_Desc,击败任意难度下的第一阶段首领「修▼▼」,任意難易度・第1段階のボス「修▼▼」を撃破
+Task_129546_Desc,击败任意难度下的第一阶段首领「梭行维度之犬」,任意難易度・第1段階のボス「次元を巡る犬」を撃破
+Task_129521_Desc,击败任意难度下的第二阶段首领「海德拉」,任意難易度・第2段階のボス「ハイドラ」を撃破
+Task_129561_Desc,击败任意难度下的第二阶段首领「圣婴」,任意難易度・第2段階のボス「聖嬰」を撃破
+Task_129539_Desc,击败任意难度下的第二阶段首领「丰穰母树」,任意難易度・第2段階のボス「豊穣の母樹」を撃破
+Task_129547_Desc,击败任意难度下的第二阶段首领「双生矛盾」,任意難易度・第2段階のボス「双子の矛盾」を撃破
+Task_129516_Desc,击败任意难度下的第三阶段首领「熔毁·朵尔」,任意難易度・第3段階のボス「メルトダウン・ドル」を撃破
+Task_129537_Desc,击败任意难度下的第三阶段首领「超维@2之蛹」,任意難易度・第3段階のボス「超次元@2のさなぎ」を撃破
+Task_129535_Desc,击败任意难度下的第三阶段首领「腐潮之傀」,任意難易度・第3段階のボス「腐潮の傀儡」を撃破
+Task_129517_Desc,击败任意难度下的第三阶段首领「乐园帷幕」,任意難易度・第3段階のボス「楽園の帳」を撃破
+Task_129560_Desc,完成「沿途留影·往昔回忆」所有任务,「沿途の記憶・昔の回想」全任務完了
+PanelText_UI_Pvp_Panel_Main_1_Text_C_Record_Content,对弈纪录,対戦記録
+Task_118981_Desc,在战斗中点击头像给 3 名对手发送表情「你好」或「Hi」,戦闘中に3人へ「こんにちは」/「Hi」送信
+Task_119006_Desc,在「守密人档案」的「战斗记录」观看相位对弈的「回放」,「守秘者のプロフィル」の『戦闘記録』で対人戦の記録を再生
+Task_118990_Desc,相位对弈战斗结束后复制对手阵容,対人戦の終了後に敵の編成をコピー
+Task_118998_Desc,在「收藏」内的卡牌评论点赞,「コレクション」のカードコメントにいいね
+Task_118999_Desc,在「收藏」内的「唤醒体试训」试玩唤醒体，并击败 1 只「熟悉的黑猫」,「コレクション」の中で「覚醒体試練」で覚醒体を使い「馴染みの黒猫」を1匹撃破
+Task_119007_Desc,参与 1 次「密码对战」,「パスワード対戦」に1回参加
+Task_119001_Desc,参与 1 次「预组模式」,「プリセットモード」に1回参加
+Task_118991_Desc,参与 1 次「轮选模式」,「ドラフトモード」1回に参加
+Task_118989_Desc,在「对战表情」一次性携带 16 个表情参与相位对弈战斗,「対戦表情」で一度に16個の表情を携帯して対人戦に参加
+Task_118995_Desc,在相位对弈战斗结束后与对手「再来一局」,対人戦の終了後、相手に「もう一戦」を送信する
+Task_118986_Desc,完成「相位启蒙」所有成就,「対人戦」全任務完了
+Task_120885_Desc,初入梦海,夢へ踏み込む
+Task_120868_Desc,噩梦之下,悪夢の底で
+Task_120876_Desc,界海巡游,界域の巡航
+Task_120890_Desc,通关 1 次「幻梦深潜」,「幻夢の深潜」1回をクリア
+Task_120880_Desc,在「幻梦深潜」的「排行榜」处观看 1 次回放,「幻夢の深潜」のランキングで再生を一回視聴
+Task_120891_Desc,在「幻梦深潜」的「排行榜」处复制 1 次阵容,「幻夢の深潜」のランキングで編成を一回コピー
+Task_120852_Desc,只使用混沌界域唤醒体通关 1 次「幻梦深潜」,混沌の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120872_Desc,只使用深海界域唤醒体通关 1 次「幻梦深潜」,深海の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120850_Desc,只使用血肉界域唤醒体通关 1 次「幻梦深潜」,血肉の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120882_Desc,只使用超维界域唤醒体通关 1 次「幻梦深潜」,超次元の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120883_Desc,使用混沌界域与深海界域唤醒体通关 1 次「幻梦深潜」,混沌と深海の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120856_Desc,使用混沌界域与血肉界域唤醒体通关 1 次「幻梦深潜」,混沌と血肉の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120851_Desc,使用混沌界域与超维界域唤醒体通关 1 次「幻梦深潜」,混沌と超次元の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_120865_Desc,使用深海界域与超维界域唤醒体通关 1 次「幻梦深潜」,深海と超次元の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_121332_Desc,使用深海界域与血肉界域唤醒体通关 1 次「幻梦深潜」,深海と血肉の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_121333_Desc,使用血肉界域与超维界域唤醒体通关 1 次「幻梦深潜」,血肉と超次元の覚醒体のみで、「幻夢の深潜」を1回クリア
+Task_121331_Desc,完成「初入梦海」全部任务,「夢へ踏み込む」全任務完了
+Task_120855_Desc,「幻梦深潜」最高积分达到 1000,「幻夢の深潜」ポイント1000突破
+Task_120892_Desc,「幻梦深潜」最高积分达到 2000,「幻夢の深潜」ポイント2000突破
+Task_120895_Desc,「幻梦深潜」最高积分达到 3000,「幻夢の深潜」ポイント3000突破
+Task_120894_Desc,「幻梦深潜」最高积分达到 4000,「幻夢の深潜」ポイント4000突破
+Task_120889_Desc,「幻梦深潜」最高积分达到 5000,「幻夢の深潜」ポイント5000突破
+Task_120878_Desc,「幻梦深潜」最高积分达到 6000,「幻夢の深潜」ポイント6000突破
+Task_120871_Desc,「幻梦深潜」最高积分达到 7000,「幻夢の深潜」ポイント7000突破
+Task_120857_Desc,只使用混沌唤醒体完成 5 次难度VI及以上的「幻梦深潜」,混沌の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120873_Desc,只使用深海唤醒体完成 5 次难度VI及以上的「幻梦深潜」,深海の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120862_Desc,只使用血肉唤醒体完成 5 次难度VI及以上的「幻梦深潜」,血肉の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120869_Desc,只使用超维唤醒体完成 5 次难度VI及以上的「幻梦深潜」,超次元の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120863_Desc,使用混沌与深海唤醒体完成 5 次难度VI及以上的「幻梦深潜」,混沌と深海の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120870_Desc,使用混沌与血肉唤醒体完成 5 次难度VI及以上的「幻梦深潜」,混沌と血肉の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120864_Desc,使用混沌与超维唤醒体完成 5 次难度VI及以上的「幻梦深潜」,混沌と超次元の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120879_Desc,使用深海与超维唤醒体完成 5 次难度VI及以上的「幻梦深潜」,深海と超次元の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120867_Desc,使用深海与血肉唤醒体完成 5 次难度VI及以上的「幻梦深潜」,深海と血肉の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+Task_120884_Desc,使用血肉与超维唤醒体完成 5 次难度VI及以上的「幻梦深潜」,血肉と超次元の覚醒体のみで、「幻夢の深潜」を難易度VI以上で5回クリア
+PanelText_UI_Chapter_Panel_Main2_Text_C_Nightmare_Content,癫狂,狂気
+PanelText_UI_Chapter_Spur_View_Text_C_Nightmare_Content,癫狂,狂気
+PanelText_UI_Chapter_Dream_View_Text_C_Nightmare_Content,癫狂,狂気
+PanelText_UI_Team_Panel_Main_Text_Madness_Content,癫狂难度仅可获得首通奖励,狂気の難易度は初回クリア報酬のみ
+PanelText_UI_Chapter_Special_Spur_View_Text_C_Nightmare_Content,癫狂,狂気
+PanelText_UI_Dungeous_Panel_RailWay_Text_C_Madness_Content,癫狂,狂気
+Resonance_47869_Desc_1,在完成「记忆编码」挑战或重现时获得 20 点灵啡肽（癫狂难度除外）。,「記憶の収集」の挑戦またはリプレイを完了すると、20エンフェリンを獲得。（狂気を除く）
+PanelText_UI_Chapter_Panel_Main2_Text_C_Simple_Content,普通,普通
+PanelText_UI_Chapter_Panel_Spur_Text_C_Simple_Now_Content,普通,普通
+PanelText_UI_Chapter_Panel_Spur_Text_C_Simple_01_Content,普通,普通
+PanelText_UI_Chapter_Spur_View_Text_C_Simple_Content,普通,普通
+PanelText_UI_Chapter_Dream_View_Text_C_Simple_Content,普通,普通
+PanelText_UI_Chapter_Special_Spur_View_Text_C_Simple_Content,普通,普通
+PanelText_UI_Social_Item_Data_Overview_Left_Text_C_Normal_Content,普通,普通
+PanelText_UI_Events_Item_Summer2_Text_C_NormalTip_Content,普通难度待通关,普通難易度未クリア
+RelicConfig_13801_Desc,常规战斗中所有敌人的生命提升 30%，战斗胜利时额外获得 25 个黑印。,普通戦闘のすべての敵のライフが30%増加し、戦闘勝利時に追加で25黒章を獲得する。
+RelicConfig_13801_BattleDesc,常规战斗中所有敌人的生命提升 30%，战斗胜利时额外获得 25 个黑印。,普通戦闘のすべての敵のライフが30%増加し、戦闘勝利時に追加で25黒章を獲得する。
+Stage_129163_Name,疾驰的欢愉专列·普通,疾走する歓楽特急・普通
+Stage_129164_Name,疾驰的欢愉专列·困难,疾走する歓楽特急・高難度
+Stage_129165_Name,疾驰的欢愉专列·癫狂,疾走する歓楽特急・狂気
+Task_55860_Desc,完成调查行动·普通模式第6章,調査・普通第6章を完了する
+Task_55853_Desc,完成调查行动·普通模式第7章,調査・普通第7章を完了する
+Task_23895_Desc,完成特遣纪录「雨镇幽影」普通模式,特務記録「雨の町に潜む影」普通を完了
+Task_23893_Desc,完成意识潜游「苍白后裔」普通模式,意識潜行「蒼白の末裔」普通モードを完了する
+Task_36842_Desc,完成意识潜游「诸事如常」普通模式,意識潜行「日常」普通モードを完了する
+Task_45665_Desc,完成意识潜游「巨人的陨落」普通模式,意識潜行「巨人の墜落」普通モードを完了する
+Task_25013_Desc,完成特遣纪录「蔷薇礼赞」普通模式,特務記録「薔薇の讃歌」普通を完了
+Task_25024_Desc,完成意识潜游「一步之遥」普通模式,意識潜行「一歩の距離」普通モードを完了する
+FeatureUnlock_126363_FeatureName,「调查行动」星辰篇第5章,「調査」星辰篇第5章
+FeatureUnlock_126363_UnlockDesc,<FeatureUnlockTitle:调查行动「星辰正位之刻·织命剧场」已开启>\n\n<FeatureUnlockDesc:跨越黑日的门扉，你回到了那座熟悉的城市，而这一切，只是一座量身定制的舞台……>,<FeatureUnlockTitle:調査行動「星々の正位置の刻·運命劇場」が開放されました>\n\n<FeatureUnlockDesc:黒い日のドアを越えて、あなたはその馴染みのある都市に戻りました、そしてこれらはすべて、あなたのためにカスタマイズされた舞台に過ぎません……>
+FeatureUnlock_126363_LockTip,完成 「调查行动」星辰篇第4章·普通 后解锁,「調査」星辰篇第4章・普通をクリアで解放
+State_123507_Desc,队伍唯一：探索开始后，将 1 张「倒数时刻：5」加入牌库：打出后抽 1 张牌，并将下一张「倒数时刻」洗入弃牌堆。「<DestructionKeywords:销毁>」。「倒数时刻：0」：抽 3 张牌，获得 3 点算力，并有 <WeaponEffect_Num:[StateArg1]%> 概率将「倒数时刻：5」洗入弃牌堆。保留。「<DestructionKeywords:销毁>」。,唯一装備：探索開始後、「カウントダウン：5」をデッキに1枚加える。使用後、1枚のカードを引き、次の「カウントダウン」を捨て札にシャッフルする。「<DestructionKeywords:破壊>」。「カウントダウン：0」：3枚のカードを引き、3点の行動力を獲得し、<WeaponEffect_Num:[StateArg1]%>の確率で「カウントダウン：5」を捨て札に置く。保持。「<DestructionKeywords:破壊>」。
+State_123507_WeaponDesc,探索开始后，将 1 张「倒数时刻：5」加入牌库：打出后抽 1 张牌，并将下一张「倒数时刻」洗入弃牌堆。「<DestructionKeywords:销毁>」。「倒数时刻：0」：抽 3 张牌，获得 3 点算力，并有 <WeaponEffect_Num:[StateArg1]%> 概率将「倒数时刻：5」洗入弃牌堆。保留。「<DestructionKeywords:销毁>」。,探索開始後、「カウントダウン：5」をデッキに1枚加える。使用後、1枚のカードを引き、次の「カウントダウン」を捨て札にシャッフルする。「<DestructionKeywords:破壊>」。「カウントダウン：0」：3枚のカードを引き、3点の行動力を獲得し、<WeaponEffect_Num:[StateArg1]%>の確率で「カウントダウン：5」を捨て札に置く。保持。「<DestructionKeywords:破壊>」。
+State_120462_Name,<DestructionKeywords:销毁>,<DestructionKeywords:壊滅>
+State_120462_Desc,打出后此卡牌本次探索从卡组中永久移除。,使用後、このカードはこの探索でデッキから永久に除外される。
+State_131749_Desc,队伍唯一：探索开始后，将 1 张「豪赌的智慧」洗入抽牌堆。「豪赌的智慧」：消耗 1 算力。将手中所有指令卡随机洗入抽牌堆，洗入的指令卡在下次打出时有 <WeaponEffect_Num:[StateArg1]%> 概率额外生效 1 次，并且每洗入 1 张指令卡就使所有唤醒体获得 2 点狂气。<RetainIconKeywords:保留>。<DepleteIconKeywords:消耗>。<GuyouKeywords:固有>。,唯一装備：探索開始後、「豪賭の知恵」を1枚山札に追加する。「豪賭の知恵」：1行動力を消費する。手札のすべての指令カードをランダムに山札に置き、その指令カードは次に出す時に<WeaponEffect_Num:[StateArg1]%>の確率で1回追加で発動し、置いたカードの1枚ごとにすべての覚醒体は2狂気を獲得。<RetainIconKeywords:保持>。<DepleteIconKeywords:除外>。<GuyouKeywords:固有>。
+State_131749_WeaponDesc,探索开始后，将 1 张「豪赌的智慧」洗入抽牌堆。「豪赌的智慧」：消耗 1 算力。将手中所有指令卡随机洗入抽牌堆，洗入的指令卡在下次打出时有 <WeaponEffect_Num:[StateArg1]%> 概率额外生效 1 次，并且每洗入 1 张指令卡就使所有唤醒体获得 2 点狂气。<RetainIconKeywords:保留>。<DepleteIconKeywords:消耗>。<GuyouKeywords:固有>。,探索開始後、「豪賭の知恵」を1枚山札に追加する。「豪賭の知恵」：1行動力を消費する。手札のすべての指令カードをランダムに山札に置き、その指令カードは次に出す時に<WeaponEffect_Num:[StateArg1]%>の確率で1回追加で発動し、置いたカードの1枚ごとにすべての覚醒体は2狂気を獲得。<RetainIconKeywords:保持>。<DepleteIconKeywords:除外>。<GuyouKeywords:固有>。
+State_117357_Desc,队伍唯一:「融痕」和「灰烬遗迹」刷新后使装备者获得 <WeaponEffect_Num:[StateArg1]> 点狂气。,唯一装備：「交換所」と「灰燼遺跡」で変更した後、装備者が <WeaponEffect_Num:[StateArg1]>狂気を獲得。
+State_117357_WeaponDesc,「融痕」和「灰烬遗迹」刷新后使装备者获得 <WeaponEffect_Num:[StateArg1]> 点狂气。,「交換所」と「灰燼遺跡」で変更した後、装備者が <WeaponEffect_Num:[StateArg1]>狂気を獲得。
+State_123109_Desc,队伍唯一：在「融痕」中首次购买「刻印」，或在「灰烬遗迹」中首次购买打折商品需要的黑印有 <WeaponEffect_Num:[StateArg1]%> 的机会变为 0，每场探索最多生效 1 次。,唯一装備：「交換所」で初めて「刻印」を購入するか、「灰燼遺跡」で初めて割引商品を購入する時、<WeaponEffect_Num:[StateArg1]%>の確率で必要な黒章のコストが0になる。各探索で最大1回有効。
+State_123109_WeaponDesc,在「融痕」中首次购买「刻印」，或在「灰烬遗迹」中首次购买打折商品需要的黑印有 <WeaponEffect_Num:[StateArg1]%> 的机会变为 0，每场探索最多生效 1 次。,「交換所」で初めて「刻印」を購入するか、「灰燼遺跡」で初めて割引商品を購入する時、<WeaponEffect_Num:[StateArg1]%>の確率で必要な黒章のコストが0になる。各探索で最大1回有効。
+State_134191_Desc,队伍唯一：探索开始后，将 1 张「私密午歇时间」洗入抽牌堆。「私密午歇时间」：消耗 1 算力。临时暴击伤害 +<WeaponEffect_Num:[StateArg1]%>。<RetainIconKeywords:保留>。<DepleteIconKeywords:消耗>。,唯一装備：探索開始後、「私用の昼休み」を1枚山札に追加する。「私用の昼休み」：1行動力を消費する。一時的なクリティカルダメージ+<WeaponEffect_Num:[StateArg1]%>。<RetainIconKeywords:保持>。<DepleteIconKeywords:除外>。
+State_134191_WeaponDesc,探索开始后，将 1 张「私密午歇时间」洗入抽牌堆。「私密午歇时间」：消耗 1 算力。临时暴击伤害 +<WeaponEffect_Num:[StateArg1]%>。<RetainIconKeywords:保留>。<DepleteIconKeywords:消耗>。,探索開始後、「私用の昼休み」を1枚山札に追加する。「私用の昼休み」：1行動力を消費する。一時的なクリティカルダメージ+<WeaponEffect_Num:[StateArg1]%>。<RetainIconKeywords:保持>。<DepleteIconKeywords:除外>。
+Skill_134206_Name,私密午歇时间,私用の昼休み
+Skill_134206_Desc,临时暴击伤害 +50%。,一時的なクリティカルダメージ+50%。
+Skill_134204_Name,私密午歇时间,私用の昼休み
+Skill_134204_Desc,临时暴击伤害 +60%。,一時的なクリティカルダメージ+60%。
+Skill_134203_Name,私密午歇时间,私用の昼休み
+Skill_134203_Desc,临时暴击伤害 +70%。,一時的なクリティカルダメージ+70%。
+Skill_134205_Name,私密午歇时间,私用の昼休み
+Skill_134205_Desc,临时暴击伤害 +80%。,一時的なクリティカルダメージ+80%。
+State_134262_Name,私密午歇时间,私用の昼休み
+State_134261_Name,私密午歇时间,私用の昼休み
+CollectionHall_133709_Title,私密午歇时间,私用の昼休み
+Item_133338_Name,私密午歇时间,私用の昼休み
+Skill_134252_Name_1,私密午歇时间,私用の昼休み
+State_99056_Desc,队伍唯一：释放钥令后，装备者的暴击率临时提高 <WeaponEffect_Num:[StateArg1]%> 。,唯一装備：「キーオーダー」を発動した後、装備者のクリティカル率が一時的に <WeaponEffect_Num:[StateArg1]%>増加する。
+State_99056_WeaponDesc,释放钥令后，装备者的暴击率临时提高 <WeaponEffect_Num:[StateArg1]%> 。,「キーオーダー」を発動した後、装備者のクリティカル率が一時的に <WeaponEffect_Num:[StateArg1]%>増加する。
+RelicConfig_84121_Name,<OrangeQuality:维度影像·阿拉克涅>,<OrangeQuality:次元影像・アラクネ>
+RelicConfig_84121_Desc,回合开始时阿拉克涅获得 [Arg1] 狂气。「打击」和「防御」立即释放 1 次「无尽线缕」追击，每回合最多各生效 1 次。,ターン開始時、アラクネは[Arg1]狂気を獲得する。「打撃」と「防御」を使用した後、即座に「無限の糸」追撃を1回発動する。この効果はそれぞれ各ターンで最大1回まで有効。
+RelicConfig_84121_BattleDesc,回合开始时阿拉克涅获得 [Arg1] 狂气。「打击」和「防御」立即释放 1 次「无尽线缕」追击，每回合最多各生效 1 次。,ターン開始時、アラクネは[Arg1]狂気を獲得する。「打撃」と「防御」を使用した後、即座に「無限の糸」追撃を1回発動する。この効果はそれぞれ各ターンで最大1回まで有効。
+State_119590_Desc,队伍唯一：主动切换触腕姿态、使用猩红熔炉、释放「湮灭」后，抽 1 张装备者的指令卡，每个效果各 3 回合冷却。完成探索后，所有唤醒体获得的同调率提高 <WeaponEffect_Num:[StateArg1]%>。,唯一装備：触腕の姿勢をアクティブに切り替え、猩紅炉を使用、または「湮滅」を発動した後、装備者の指令カードを1枚引く。各効果のクールダウン：3ターン。探索完了時、すべての覚醒体が獲得する同調率が<WeaponEffect_Num:[StateArg1]%>増加。
+State_119590_WeaponDesc,主动切换触腕姿态(当前剩余 [DescArg1] 回合冷却)、使用猩红熔炉(当前剩余 [DescArg2] 回合冷却)、释放「湮灭」后(当前剩余 [DescArg3] 回合冷却)，抽 1 张装备者的指令卡，每个效果各 3 回合冷却。完成探索后，所有唤醒体获得的同调率提高 <WeaponEffect_Num:[StateArg1]%>。,触腕の姿勢をアクティブに切り替え、猩紅炉を使用、または「湮滅」を発動した後、装備者の指令カードを1枚引く。各効果のクールダウン：3ターン。探索完了時、すべての覚醒体が獲得する同調率が<WeaponEffect_Num:[StateArg1]%>増加。
+State_123521_Desc,队伍唯一：装备者狂气爆发和追击基础伤害提高 <WeaponEffect_Num:[StateArg1]%>。 本回合打出任意唤醒体的「打击」后，装备者「打击」伤害临时提高装备者攻击力的 <WeaponEffect_Num:[StateArg2]%>，每回合最多生效 8 次。,唯一装備：装備者の「狂気解放」と「追撃」が与える基本ダメージが<WeaponEffect_Num:[StateArg1]%>増加する。このターン中に任意の覚醒体の「攻撃」を使用後、装備者の「攻撃」ダメージが装備者の攻撃力の<WeaponEffect_Num:[StateArg2]%>分一時的に増加する。この効果は1ターンにつき最大8回まで有効。
+State_123521_WeaponDesc,装备者狂气爆发和追击基础伤害提高 <WeaponEffect_Num:[StateArg1]%>。 本回合打出任意唤醒体的「打击」后，装备者「打击」伤害临时提高 <WeaponEffect_Num:[DescArg2]>，每回合最多生效 8 次。,装備者の「狂気解放」と「追撃」が与える基本ダメージが<WeaponEffect_Num:[StateArg1]%>増加する。このターン中に任意の覚醒体の「攻撃」を使用後、装備者の「攻撃」ダメージが装備者の攻撃力の<WeaponEffect_Num:[StateArg2]%>分一時的に増加する。この効果は1ターンにつき最大8回まで有効。
+CollectionHall_127111_Title,狂戮至世界尽头,終末まで蹂躙
+Item_94448_Name,狂戮至世界尽头,終末まで蹂躙
+Skill_119042_Name_1,狂戮至世界尽头,終末まで蹂躙
+State_131876_Desc,队伍唯一：装备者造成的固定中毒和触发中毒效果提高 <WeaponEffect_Num:[StateArg1]%>，血肉界域自动回复的<EmbryoFusionIconKeywords:胚胎融合>提高 <WeaponEffect_Num:[StateArg2]%>。装备者每回合首次触发「共振」时其他唤醒体获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,唯一装備：装備者が与える固定の毒と毒効果の発動が<WeaponEffect_Num:[StateArg1]%>増加。血肉界域で<EmbryoFusionIconKeywords:胚胎融合>が<WeaponEffect_Num:[StateArg2]%>増加。装備者が毎ターン初めて「共鳴」を発動した時、他の覚醒体に<WeaponEffect_Num:[StateArg3]>狂気を与える。
+State_131876_WeaponDesc,装备者造成的固定中毒和触发中毒效果提高 <WeaponEffect_Num:[StateArg1]%>，血肉界域自动回复的<EmbryoFusionIconKeywords:胚胎融合>提高 <WeaponEffect_Num:[StateArg2]%>。装备者每回合首次触发「共振」时其他唤醒体获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,装備者が与える固定の毒と毒効果の発動が<WeaponEffect_Num:[StateArg1]%>増加。血肉界域で<EmbryoFusionIconKeywords:胚胎融合>が<WeaponEffect_Num:[StateArg2]%>増加。装備者が毎ターン初めて「共鳴」を発動した時、他の覚醒体に<WeaponEffect_Num:[StateArg3]>狂気を与える。
+State_131073_Desc,队伍唯一：战斗开始时获得等同于 <WeaponEffect_Num:[StateArg1]%> 基础狂气的狂气。装备者狂气爆发最终伤害提高，其百分比为基础狂气的 <WeaponEffect_Num:[StateArg2]%>。切换至「怒涛」姿态时，获得等同于当前界域精通 <WeaponEffect_Num:[StateArg3]%> 的临时界域精通，3 回合冷却。,唯一装備：戦闘開始時、基本狂気の<WeaponEffect_Num:[StateArg1]%>分の狂気を獲得。装備者の狂気解放の最終ダメージが基本狂気の<WeaponEffect_Num:[StateArg2]%>分増加。「怒涛」姿勢に切り替えると、現在の界域知識の<WeaponEffect_Num:[StateArg3]%>分の一時的な界域知識を獲得。クールダウン3ターン。
+State_131073_WeaponDesc,战斗开始时获得 [DescArg1] 点狂气。装备者狂气爆发最终伤害提高 [DescArg2]％。切换至「怒涛」姿态时，获得 [DescArg3] 点临时界域精通，3 回合冷却(当前剩余 [DescArg4] 回合)。,戦闘開始時、基本狂気の<WeaponEffect_Num:[StateArg1]%>分の狂気を獲得。装備者の狂気解放の最終ダメージが基本狂気の<WeaponEffect_Num:[StateArg2]%>分増加。「怒涛」姿勢に切り替えると、現在の界域知識の<WeaponEffect_Num:[StateArg3]%>分の一時的な界域知識を獲得。クールダウン3ターン。
+State_117777_Desc,队伍唯一：装备者卡牌造成的基础伤害与暴击伤害提高 <WeaponEffect_Num:[StateArg1]%>。回合开始时和装备者释放狂气爆发后获得 1 层心火，装备者本回合打出指令卡时消耗 1 层「心火」，使其最终伤害和护盾提高 <WeaponEffect_Num:[StateArg2]%>。超维回合中改为获得「神焰」，效果翻倍。,唯一装備：装備者のカードが与える基本ダメージとクリティカルダメージが<WeaponEffect_Num:[StateArg1]%>増加。ターン開始時と装備者が狂気解放を発動後、1層の「心の火」を獲得し、装備者がこのターンに指令カードを使用する時に1層の「心の火」を消費し、最終ダメージとシールドを<WeaponEffect_Num:[StateArg2]%>増加する。超次元ターン中は「神の炎」を獲得し、効果が2倍になる。
+State_117777_WeaponDesc,装备者卡牌造成的基础伤害与暴击伤害提高 <WeaponEffect_Num:[StateArg1]%>。回合开始时和装备者释放狂气爆发后获得 1 层心火，装备者本回合打出指令卡时消耗 1 层「心火」，使其最终伤害和护盾提高 <WeaponEffect_Num:[StateArg2]%>。超维回合中改为获得「神焰」，效果翻倍。,備者のカードが与える基本ダメージとクリティカルダメージが<WeaponEffect_Num:[StateArg1]%>増加。ターン開始時と装備者が狂気解放を発動後、1層の「心の火」を獲得し、装備者がこのターンに指令カードを使用する時に1層の「心の火」を消費し、最終ダメージとシールドを<WeaponEffect_Num:[StateArg2]%>増加する。超次元ターン中は「神の炎」を獲得し、効果が2倍になる。
+State_99723_Desc,队伍唯一：装备者造成的狂气和力量获取效果提高 <WeaponEffect_Num:[StateArg1]%>。释放狂气爆发后本回合下次其他唤醒体狂气爆发最终伤害、护盾、生命回复提高 <WeaponEffect_Num:[StateArg2]%>，若本次狂气爆发触发了「吞噬」，装备者获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,唯一装備：装備者が与える狂気と力の獲得量が <WeaponEffect_Num:[StateArg1]%>増加する。狂気解放を発動した後、このターン中、他の覚醒体の狂気解放の最終ダメージ、シールド、ライフ回復効果が<WeaponEffect_Num:[StateArg2]%>増加する。今回の狂気解放で「捕食」効果を発動した時、装備者は <WeaponEffect_Num:[StateArg3]>狂気を獲得。
+State_99723_WeaponDesc,装备者造成的狂气和力量提高 <WeaponEffect_Num:[StateArg1]%>。释放狂气爆发后本回合下次其他唤醒体狂气爆发最终伤害、护盾、生命回复提高 <WeaponEffect_Num:[StateArg2]%>，若本次狂气爆发触发了「吞噬」，装备者获得 <WeaponEffect_Num:[StateArg3]> 点狂气。,装備者が与える狂気と力の獲得量が <WeaponEffect_Num:[StateArg1]%>増加する。狂気解放を発動した後、このターン中、他の覚醒体の狂気解放の最終ダメージ、シールド、ライフ回復効果が<WeaponEffect_Num:[StateArg2]%>増加する。今回の狂気解放で「捕食」効果を発動した時、装備者は <WeaponEffect_Num:[StateArg3]>狂気を獲得。
+State_120322_Desc,队伍唯一：手牌上限+2，无法和其他命轮提供的手牌上限叠加。装备者银钥充能、狂气爆发造成的最终伤害、护盾提高 <WeaponEffect_Num:[StateArg1]%>。切换「静海」姿态时，装备者获得 <WeaponEffect_Num:[StateArg2]> 点狂气，3 回合冷却。切换「怒涛」姿态时，对所有敌人施加 <WeaponEffect_Num:[StateArg3]> 层<DwmofeiKeywords:降生仪式>，3 回合冷却。,唯一装備：手札上限+2、同じ効果は重複しない。装備者のキーチャージ、狂気解放による最終ダメージとシールドが<WeaponEffect_Num:[StateArg1]%>増加。『静海』の姿勢に切り替えると、装備者は<WeaponEffect_Num:[StateArg2]>狂気を獲得。クールダウン3ターン。『怒涛』の姿勢に切り替えると、すべての敵に<WeaponEffect_Num:[StateArg3]>層の<DwmofeiKeywords:誕生の儀>を付与する。クールダウン3ターン。
+State_120322_WeaponDesc,手牌上限+2，无法和其他命轮提供的手牌上限叠加。装备者银钥充能、狂气爆发造成的最终伤害、护盾提高 <WeaponEffect_Num:[StateArg1]%>。切换「静海」姿态时，装备者获得 <WeaponEffect_Num:[StateArg2]> 点狂气，3 回合冷却。切换「怒涛」姿态时，对所有敌人施加 <WeaponEffect_Num:[StateArg3]> 层<DwmofeiKeywords:降生仪式>，3 回合冷却。,手札上限+2、同じ効果は重複しない。装備者のキーチャージ、狂気解放による最終ダメージとシールドが<WeaponEffect_Num:[StateArg1]%>増加。『静海』の姿勢に切り替えると、装備者は<WeaponEffect_Num:[StateArg2]>狂気を獲得。クールダウン3ターン。『怒涛』の姿勢に切り替えると、すべての敵に<WeaponEffect_Num:[StateArg3]>層の<DwmofeiKeywords:誕生の儀>を付与する。クールダウン3ターン。
+Task_133941_Desc,消耗 180 灵啡肽,180工ンフェリンを消費する
+Task_133947_Desc,进行 30 次唤醒仪式,30回召喚儀式を行う
+Task_133948_Desc,消耗 1500 灵啡肽,1500工ンフェリンを消費する
+Task_133940_Desc,给校友点赞 1 次,フレンドに「いいね」を1回する
+Task_133946_Desc,完成超验存在 1 次,超越存在を1回完了する
+Task_133945_Desc,完成密契转录 50 次,密契転写を50回完了する
+Task_135038_Desc,登录游戏,ゲームにログインする
+Task_133943_Desc,打出 50 张卡牌,50枚のカードを使用する
+Task_132877_Desc,本赛季通关 3 次「幻梦深潜」,「幻夢深潜」を3回クリア
+Task_132874_Desc,本赛季击败第三阶段首领 1 次,第三段階のボスを1回撃破
+Task_137650_Desc,本赛季打出 150 张牌,150枚のカードを使用
+Task_137649_Desc,本赛季打出 150 张牌,150枚のカードを使用
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Title_RotationMode_Content,相位对弈 - 轮选模式,対人戦・ドラフトモード
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Title_Pvp_Content,相位对弈 - 预组模式,対人戦・プリセットモード
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Title_Abyss_Content,融灾禁区,融災禁区
+PanelText_UI_GuideNote_Item_Material_Text_C_Goto_Content,前往,移動
+PanelText_UI_GuideNote_PermTrainBase_Text_C_Goto_Content,前往,移動
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Goto_Pvp_Content,前往,移動
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Goto_RotationMode_Content,前往,移動
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Goto_Abyss_Content,前往,移動
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Goto_DailyChallenge_Content,前往,移動
+PanelText_UI_GuideNote_Panel_PermTrain_Text_C_Goto_RailyWay_Content,前往,移動
+PanelText_UI_GuideNote_Item_Trinket_Text_C_Goto_Content,前往,移動
+PanelText_UI_GuideNote_Popup_ResSummary_Text_C_Goto_Content,前往,移動
+PanelText_UI_GuideNote_Popup_ResSummary_Text_C_Title_Content,调查行动,調査
+PanelText_UI_GuideNote_Item_Trinket_Text_C_Source_Content,获取来源,入手元
+PanelText_UI_GuideNote_Item_Material_Text_C_Source_Content,获取来源,入手元
+PanelText_UI_GuideNote_Panel_AwakerStrength_Text_C_ExcludeTalent_Content,天赋,才能
+PanelText_UI_GuideNote_Panel_AwakerStrength_Text_C_Talent_Content,天赋,才能
