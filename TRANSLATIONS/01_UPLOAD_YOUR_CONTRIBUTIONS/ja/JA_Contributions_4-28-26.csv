@@ -244,3 +244,22 @@ PanelText_UI_Events_Panel_Arachne_Text_C_ChallengeTip_Content,玩法限时开放
 PanelText_UI_Events_Panel_Pollux_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
 PanelText_UI_Events_Panel_KathiguRa_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
 PanelText_UI_Events_Panel_Summer2_Text_C_ChallengeTip_Content,玩法限时开放,プレイ期間限定開催
+FeatureUnlock_126364_FeatureName,「调查行动」星辰篇第5章 ·困难,「調査」星辰篇第5章 ・高難度
+FeatureUnlock_126364_UnlockDesc,<FeatureUnlockTitle:调查行动「织命剧场」·困难难度已开启>,<FeatureUnlockTitle:調査行動「運命劇場」·難しい難易度が開放されました>
+FeatureUnlock_126364_LockTip,完成 「调查行动」星辰篇第4章 · 困难 及第5章·普通 后解锁,「調査」星辰篇第4章・高難度、及び第5章・通常をクリアで解放
+FeatureUnlock_17056_FeatureName,「调查行动」·癫狂,「調査」・狂気
+FeatureUnlock_17056_UnlockDesc,<FeatureUnlockTitle: 「调查行动」·癫狂难度已开启>,<FeatureUnlockTitle: 「調査」・狂気が解放されました>
+FeatureUnlock_126363_FeatureName,「调查行动」星辰篇第5章,「調査」星辰篇第5章
+FeatureUnlock_126363_UnlockDesc,<FeatureUnlockTitle:调查行动「星辰正位之刻·织命剧场」已开启>\n\n<FeatureUnlockDesc:跨越黑日的门扉，你回到了那座熟悉的城市，而这一切，只是一座量身定制的舞台……>,<FeatureUnlockTitle:調査「星々の正位置の刻・運命劇場」が開放されました>\n\n<FeatureUnlockDesc:暗黒の扉を越え、あなたは懐かしい都市に戻りました。そしてこれらはすべて、あなたのために誂えられた舞台に過ぎません…>
+FeatureUnlock_126363_LockTip,完成 「调查行动」星辰篇第4章·普通 后解锁,「調査」星辰篇第4章・通常をクリアで解放
+Item_94441_Name,残片·茉夏,欠片・ムシェット
+Activity_122804_ActivityPlot,购买后，「茉夏」可激活<BlueQuality:启灵 3>,購入後、「ムシェット」は<BlueQuality:霊知啓発 3>を解放可能
+Activity_122803_ActivityPlot,购买后，「茉夏」可激活\n<BlueQuality:人格深化 +4，解锁超限爆发>,購入後、「ムシェット」は\n<BlueQuality:人格深化 +4、極限解放を解除>
+Activity_78513_ActivityPlot,购买后，「阿拉克涅」可激活<BlueQuality:启灵 3>,購入後、「アラクネ」は<BlueQuality:霊知啓発 3>を解放可能
+Activity_78502_ActivityPlot,购买后，「阿拉克涅」可激活\n<BlueQuality:人格深化 +4，解锁超限爆发>,購入後、「アラクネ」は\n<BlueQuality:人格深化 +4、極限解放を解除>
+Activity_125368_ActivityPlot,购买后，「徐」可激活<BlueQuality:启灵 3>,購入後、「徐」は<BlueQuality:霊知啓発 3>を解放可能
+Activity_125366_ActivityPlot,购买后，「徐」可激活\n<BlueQuality:人格深化 +4，解锁超限爆发>,購入後、「徐」は\n<BlueQuality:人格深化 +4、極限解放を解除>
+Item_125187_Name,残片·徐,欠片・徐
+Item_77933_Desc,获得唤醒体「阿拉克涅」后解锁,覚醒体「アラクネ」獲得で解放
+Item_94440_Desc,获得唤醒体「茉夏」后解锁,覚醒体「ムシェット」獲得で解除
+Item_125171_Desc,获得唤醒体「徐」后解锁,覚醒体「徐」獲得で解除
